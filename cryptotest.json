@@ -1,0 +1,760 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Kriptografik protokol ta'rifi no'g'ri ko'rsatilgan javobni toping?",
+      "options": [
+        "A) Tomonlar bajaradigan, biror-bir masalani yechish uchun loyihalashtirilgan harakatlar ketma-ketligi",
+        "B) Ikki yoki undan ortiq tomonlar bajaradigan, biror-bir masalani yechish uchun loyihalashtirilgan harakatlar ketma-ketligi",
+        "C) Bir biri uchun tushunarli tilda yozilgan bayonnoma",
+        "D) Biror-bir natijaga olib bormaydigan harakatlar ketma-ketligi"
+      ],
+      "correct_answer": "B) Ikki yoki undan ortiq tomonlar bajaradigan, biror-bir masalani yechish uchun loyihalashtirilgan harakatlar ketma-ketligi"
+    },
+    {
+      "id": 2,
+      "question": "Kriptografik protokollarda vositachi kim?",
+      "options": [
+        "A) Ikki tomon o'rtasidagi aloqalarni muvofiqlashtiruvchi shaxs",
+        "B) Protokolni bajarilishini yakuniga yetkazishga ishonch bildirilgan manfaatdor boʻlmagan uchinchi tomon",
+        "C) Vositachi deb iki tomon manfaatlarini himoya qiluvchi uchunchi tomonga aytiladi",
+        "D) Bir-biriga ishonchi boʻlgan 2 tomonga, nizolarni yechishga yordam beradigan uchunchi tomon"
+      ],
+      "correct_answer": "B) Protokolni bajarilishini yakuniga yetkazishga ishonch bildirilgan manfaatdor boʻlmagan uchinchi tomon"
+    },
+    {
+      "id": 3,
+      "question": "Kriptografik protokollarda arbitr qaysi kasb vakiliga qiyoslanadi?",
+      "options": ["A) vositachi", "B) Natatius", "C) Sudya", "D) advakat"],
+      "correct_answer": "C) Sudya"
+    },
+    {
+      "id": 4,
+      "question": "Arbitrli protokollarda arbitr qanday vaziyatda ishga tushadi?",
+      "options": [
+        "A) vositachi mavjud bo'lmaganda",
+        "B) kelishmovchilik kelib chiqqanda",
+        "C) shartnomani imzolash paytida",
+        "D) Har doim bajariladi"
+      ],
+      "correct_answer": "B) kelishmovchilik kelib chiqqanda"
+    },
+    {
+      "id": 5,
+      "question": "Oʻziga yetarli protokollarga to'g'ri ta'rif berilgan javobni toping",
+      "options": [
+        "A) O'zini o'zi boshqara oladigan protokolga aytiladi",
+        "B) Tomonlar toʻgʻriligi protokollarning oʻzi bilan kafolatlanadi",
+        "C) Tomonlar bir-biriga ishonib doʻst boʻladi",
+        "D) Tomonlar bir-birini tanishi shart bo'lmaydi"
+      ],
+      "correct_answer": "B) Tomonlar toʻgʻriligi protokollarning oʻzi bilan kafolatlanadi"
+    },
+    {
+      "id": 1,
+      "question": "Ishtirokchilar soniga koʻra protokollar qanday sinflarga bo'linadi?",
+      "options": [
+        "A) bir tomonlama, ikki tomonlama, ko'p tomonlama",
+        "B) ikki tomonlama, uch tomonlama",
+        "C) bir tomonlama, uch tomonlama",
+        "D) ikki tomonlama, uch tomonlama, koʻp tomonlama"
+      ],
+      "correct_answer": "D) ikki tomonlama, uch tomonlama, koʻp tomonlama"
+    },
+    {
+      "id": 2,
+      "question": "Yuboriladigan xabarlar soniga koʻra protokollar qanday sinflarga ajratiladi?",
+      "options": [
+        "A) ikki tomonlama, uch tomonlama",
+        "B) interaktiv, nointeraktiv",
+        "C) inkluziv, noinkluziv",
+        "D) bir tomonlama, uch tomonlama"
+      ],
+      "correct_answer": "B) interaktiv, nointeraktiv"
+    },
+    {
+      "id": 3,
+      "question": "Kriptografik trotokollarni  bajaradigan asosiy vazifalariga qarab qanday sinflarga ajratish mumkin",
+      "options": [
+        "A) Kalit tarqatish, ma'lumot almashish, taqmoq protokollari",
+        "B) simli, sizmsiz tarmoq, xavfsiz xabar almashish, elektron pochta protokollari",
+        "C) shifrlash/deshifrlash, elektronraqamli imzo, identifikatsiya/autentifikat-siya, kalitlarni taqsimlash protokollari",
+        "D) Xavfli ochiq kompyuter tarmoqlarida va taqsimlangan kompyuter tarmoqlarida oʻzaro xavfsiz maʼlumot almashinuv protokollari"
+      ],
+      "correct_answer": "C) shifrlash/deshifrlash, elektronraqamli imzo, identifikatsiya/autentifikat-siya, kalitlarni taqsimlash protokollari"
+    },
+    {
+      "id": 4,
+      "question": "Kriptografik protokollarda sessiya kaliti nima vazifani bajaradi?",
+      "options": [
+        "A) Joriy sessiya uchun ishlatiladigan maxfiy kalit",
+        "B) Ko'p martalik parol",
+        "C) Bir martalik parol",
+        "D) Joriy sessiya uchun ishlatiladigan ochiq kalit"
+      ],
+      "correct_answer": "A) Joriy sessiya uchun ishlatiladigan maxfiy kalit"
+    },
+    {
+      "id": 5,
+      "question": "\"Nonce\" qiymati nima uchun ishlatiladi",
+      "options": [
+        "A) bir martalik parol uchun",
+        "B) Maxfiy kattalik sifatida",
+        "C) takrorlash hujumining oldini olishi uchun",
+        "D) tasodifiylik uchun"
+      ],
+      "correct_answer": "C) takrorlash hujumining oldini olishi uchun"
+    },
+    {
+      "id": 6,
+      "question": "Simmetrik kalitlar yordamida autentifikatsiyada \"nonce\" qiymati nima uchun shifrlab uzatiladi",
+      "options": [
+        "A) maxfiylikni ta'minlash uchun",
+        "B) nonce qiymati uzatilmaydi",
+        "C) Ikkinchi tomonni autentifikatsiyalash uchun",
+        "D) boshqa foydalanilmasligi uchun"
+      ],
+      "correct_answer": "C) Ikkinchi tomonni autentifikatsiyalash uchun"
+    },
+    {
+      "id": 7,
+      "question": "Simmetrik kalitlar yordamida autentifikatsiyalashda yana qanday asosiy vazifa bajariladi",
+      "options": [
+        "A) xabarlar shifrlab uzatiladi",
+        "B) nonce qiymati almashiladi",
+        "C) bir tomonlama autentifikatsiya qilinadi",
+        "D) Sessiya kaliti almashiladi"
+      ],
+      "correct_answer": "D) Sessiya kaliti almashiladi"
+    },
+    {
+      "id": 8,
+      "question": "Simmetrik kalitlar yordamida to'laqonli necha tomonlama autentifikatsiyalash amalga oshiriladi?",
+      "options": [
+        "A) ikki tomonlama",
+        "B) ko'p tomonlama",
+        "C) uch tomonlama",
+        "D) bir tomonlama"
+      ],
+      "correct_answer": "A) ikki tomonlama"
+    },
+    {
+      "id": 9,
+      "question": "[{M}Alisa]Alisa = ?",
+      "options": ["A) [M]", "B) M", "C) Alisa", "D) {M}"],
+      "correct_answer": "B) M"
+    },
+    {
+      "id": 10,
+      "question": "{[M]Alisa}Alisa= ?",
+      "options": ["A) M", "B) [M]", "C) {M}", "D) Alisa"],
+      "correct_answer": "A) M"
+    },
+    {
+      "id": 11,
+      "question": "Kriptografik protokollarda vaqt belgisi nima uchun uzatiladi",
+      "options": [
+        "A) tasodifiylik uchun",
+        "B) Maxfiy kattalik sifatida",
+        "C) takrorlash hujumining oldini olishi uchun",
+        "D) bir martalik parol uchun"
+      ],
+      "correct_answer": "C) takrorlash hujumining oldini olishi uchun"
+    },
+    {
+      "id": 12,
+      "question": "Nidxem-Shryoder protokoli qaysi turdagi protokol oilasiga kiradi",
+      "options": [
+        "A) vositachi",
+        "B) mustaqil protokol",
+        "C) Arbitrli",
+        "D) o'ziga yetarli"
+      ],
+      "correct_answer": "C) Arbitrli"
+    },
+    {
+      "id": 13,
+      "question": "Elektron raqamli imzodan foydalanib kalitni xavfsiz almashish mumkinmi?",
+      "options": [
+        "A) Mumkin emas",
+        "B) Xususiy hollar uchun o'rinli",
+        "C) Mumkin",
+        "D) Ayrim shartlar qanoatlantirilganda"
+      ],
+      "correct_answer": "C) Mumkin"
+    },
+    {
+      "id": 14,
+      "question": "SKEY dasturi nima maqsadda ishlatiladi?",
+      "options": [
+        "A) Maʼlumotning xavfsizligini taʼminlash uchun",
+        "B) Maxfiy kattalikni tanlash uchun",
+        "C) tasodifiy kalitni generatsiyalash uchun",
+        "D) bir martalik parol uchun"
+      ],
+      "correct_answer": "A) Maʼlumotning xavfsizligini taʼminlash uchun"
+    },
+    {
+      "id": 15,
+      "question": "MTI protokoli qaysi protokolning takomillashtirilgan varianti hisoblanadi",
+      "options": [
+        "A) Dass",
+        "B) Nidxem-Shryoder",
+        "C) Diffi-Helman",
+        "D) Denning-Sacco"
+      ],
+      "correct_answer": "C) Diffi-Helman"
+    },
+    {
+      "id": 16,
+      "question": "Dass protokoli qaysi turdagi protokol oilasiga kiradi",
+      "options": [
+        "A) Arbitrli",
+        "B) mustaqil protokol",
+        "C) vositachi",
+        "D) o'ziga yetarli"
+      ],
+      "correct_answer": "C) vositachi"
+    },
+    {
+      "id": 17,
+      "question": "PKI(public key infrastructr)tizimining asosiy vazifasi nima?",
+      "options": [
+        "A) Ochiq kalitning kimga tegishligini aniqlash",
+        "B) Kalitlarni saqlash",
+        "C) Kalitlarni generatsiyalash",
+        "D) Yopiq kalitning kimga tegishligini aniqlash"
+      ],
+      "correct_answer": "A) Ochiq kalitning kimga tegishligini aniqlash"
+    },
+    {
+      "id": 18,
+      "question": "Ma'lumotlani shifrlashda nima uchun simmetrik shifrlash algoritmlaridan ko'proq foydalaniladi",
+      "options": [
+        "A) Shirfrlash tezligi yuqori",
+        "B) Ishonchliligi yuqori",
+        "C) Kriptobardoshliligi yuqori",
+        "D) Maxfiyligi yuqori"
+      ],
+      "correct_answer": "A) Shirfrlash tezligi yuqori"
+    },
+    {
+      "id": 19,
+      "question": "Amaliyotda gibrid tizimlar qanday tartibda qo'llaniladi?",
+      "options": [
+        "A) kalitlarni almashishda simmetrik algoritmlardan foydalanadi",
+        "B) Malumotlarni shifrlashda asimmetrik, kalitlarni almashishda simmetrik algoritmlardan foydalaniladi",
+        "C) Amaliyotda gibrid tizimlardan foydalanilmaydi",
+        "D) Malumotlarni shifrlashda simmetrik, kalitlarni almashishda asimmetrik algoritmlardan foydalaniladi"
+      ],
+      "correct_answer": "D) Malumotlarni shifrlashda simmetrik, kalitlarni almashishda asimmetrik algoritmlardan foydalaniladi"
+    },
+    {
+      "id": 20,
+      "question": "raqamli sertifikat kim tomonidan imzolanadi",
+      "options": [
+        "A) foydalanuvchining ochiq kaliti bilan",
+        "B) certificate authority tomonidan",
+        "C) Maxfiy tashkilot tomonidan",
+        "D) foydalanuvchining maxfiy kaliti bilan"
+      ],
+      "correct_answer": "B) certificate authority tomonidan"
+    },
+    {
+      "id": 21,
+      "question": "Sertifikatni tekshirish kim tomonidan amalga oshiriladi",
+      "options": [
+        "A) Qabul qiluvchi tomonidan",
+        "B) certificate authority tomonidan",
+        "C) Yuboruvchi tomonidan",
+        "D) Uchinchi ishonchli tomondan"
+      ],
+      "correct_answer": "A) Qabul qiluvchi tomonidan"
+    },
+    {
+      "id": 22,
+      "question": "SSL/TLS protokolida qaysi sertifikat standartidan foydalanilgan?",
+      "options": ["A) PKCS#3", "B) PKCS#2", "C) PKCS#1", "D) X.509"],
+      "correct_answer": "D) X.509"
+    },
+    {
+      "id": 23,
+      "question": "Ochiq kalitli kriptografiyada qanday turdagi PKI arxitekturalardan foydalaniladi?",
+      "options": [
+        "A) Bir qancha CA ga asoslangan arxitektura; Tashkilot PKI ga asoslangan arxitektura; Gibrid PKI arxitektura.",
+        "B) Tashkilot PKI ga asoslangan arxitektura; Gibrid PKI arxitektura.",
+        "C) Yagona CA ga asoslangan arxitektura; Tashkilot PKI ga asoslangan arxitektura; Gibrid PKI arxitektura.",
+        "D) Yagona CA ga asoslangan arxitektura; Gibrid PKI arxitektura."
+      ],
+      "correct_answer": "C) Yagona CA ga asoslangan arxitektura; Tashkilot PKI ga asoslangan arxitektura; Gibrid PKI arxitektura."
+    },
+    {
+      "id": 24,
+      "question": "S/MIME protokoli qanday porokol hisoblanadi",
+      "options": [
+        "A) autentfikatsiya protokoli",
+        "B) Xavfsiz pochta protokoli",
+        "C) Kalit almashish protokoli",
+        "D) Xavfsiz tranzaksiya protokoli"
+      ],
+      "correct_answer": "B) Xavfsiz pochta protokoli"
+    },
+    {
+      "id": 25,
+      "question": "S/MIME protokolida ma'lumotlarni shifrlash uchun qaysi algoritmlardan foydalaniladi",
+      "options": [
+        "A) DES; Triple−DES; RC4",
+        "B) DES; Triple−DES; RC2",
+        "C) DES; RSA; RC2",
+        "D) AES; A5/1; RC2"
+      ],
+      "correct_answer": "B) DES; Triple−DES; RC2"
+    },
+    {
+      "id": 26,
+      "question": "S/MIME protokolida ma'lumotlarni ma'lumot butunligini ta'minlash uchun qaysi algoritmlardan foydalaniladi",
+      "options": ["A) MD5", "B) SHA1", "C) RSA", "D) DSA"],
+      "correct_answer": "B) SHA1"
+    },
+    {
+      "id": 27,
+      "question": "Xavfsiz login bilan bogʻlanishni amalga oshirish imkonini beruvchi protokolni ko'rsating",
+      "options": ["A) Radius", "B) Telnet", "C) Tacacs", "D) SSH"],
+      "correct_answer": "D) SSH"
+    },
+    {
+      "id": 28,
+      "question": "SSH protoklidagi Port forwarding xizmatining vazifasi nima?",
+      "options": [
+        "A) Portlarni almashtirish",
+        "B) Xavfsiz kanal hosil qilish",
+        "C) Portlarni tekshirish",
+        "D) Portlarni boshqarish"
+      ],
+      "correct_answer": "B) Xavfsiz kanal hosil qilish"
+    },
+    {
+      "id": 29,
+      "question": "SSH protokoli nechinchi portdan foydalanib ishlaydi",
+      "options": ["A) 23", "B) 22", "C) 8080", "D) 80"],
+      "correct_answer": "B) 22"
+    },
+    {
+      "id": 30,
+      "question": "MAC kodlari nima vazifani bajaradi",
+      "options": [
+        "A) Ma'lumotlarni shifrlaydi",
+        "B) Takrorlanmas identifikator hisoblanadi",
+        "C) Ma'lumot butunligini ta'minlaydi",
+        "D) Autentifikatsiya vazifasini bajarasi"
+      ],
+      "correct_answer": "C) Ma'lumot butunligini ta'minlaydi"
+    },
+    {
+      "id": 31,
+      "question": "CRC (Cyclic Redundancy Check) tiziming vazifasini ko'rsating",
+      "options": [
+        "A) Ma'lumot butunligini ta'minlaydi",
+        "B) Takrorlanmas identifikator hisoblanadi",
+        "C) Ma'lumotlarni shifrlaydi",
+        "D) Autentifikatsiya vazifasini bajarasi"
+      ],
+      "correct_answer": "A) Ma'lumot butunligini ta'minlaydi"
+    },
+    {
+      "id": 32,
+      "question": "FTP protokoli nechinchi portdan foydalanib ishlaydi",
+      "options": ["A) 23", "B) 21", "C) 80", "D) 22"],
+      "correct_answer": "B) 21"
+    },
+    {
+      "id": 33,
+      "question": "FTP protokoli zaifliklarini bartaraf qiluvchi xavfsiz protokolni belgilang",
+      "options": ["A) TCP/IP", "B) SFTP", "C) IPSec", "D) FTP"],
+      "correct_answer": "B) SFTP"
+    },
+    {
+      "id": 34,
+      "question": "HTTPS protokoli nechinchi portdan foydalanib ishlaydi",
+      "options": ["A) 23", "B) 443", "C) 80", "D) 22"],
+      "correct_answer": "B) 443"
+    },
+    {
+      "id": 35,
+      "question": "SSH protokoli qanday vazifani bajaradi?",
+      "options": [
+        "A) Fayllarni tahlil qilish va filtrlash",
+        "B) Xavfsiz tarmoq orqali masofadan boshqarishni ta’minlash",
+        "C) Maxfiy kalitlarni avtomatik yaratish",
+        "D) Ma'lumotlarning autentifikatsiyasini amalga oshirish"
+      ],
+      "correct_answer": "B) Xavfsiz tarmoq orqali masofadan boshqarishni ta’minlash"
+    },
+    {
+      "id": 36,
+      "question": "SFTP protokoli nima uchun ishlatiladi?",
+      "options": [
+        "A) Xavfsiz fayl almashish",
+        "B) Fayllarni tezkor zaxiralash",
+        "C) Barcha tarmoq muammolarini hal qilish",
+        "D) Fayllarni siqish va uzatish"
+      ],
+      "correct_answer": "A) Xavfsiz fayl almashish"
+    },
+    {
+      "id": 37,
+      "question": "FTPS protokolida ma'lumot xavfsizligini qaysi protokol asosida ta'minlanadi?",
+      "options": ["A) RSA", "B) DES", "C) TLS/SSL", "D) AES"],
+      "correct_answer": "C) TLS/SSL"
+    },
+    {
+      "id": 38,
+      "question": "SSH protokolida ma’lumotni shifrlashda qaysi algoritmlardan foydalaniladi?",
+      "options": [
+        "A) MD5, CRC, RSA",
+        "B) RSA, DSA, SHA",
+        "C) AES, RC4, HMAC",
+        "D) DES, AES, Blowfish"
+      ],
+      "correct_answer": "D) DES, AES, Blowfish"
+    },
+    {
+      "id": 39,
+      "question": "IPSec protokoli qaysi sathda ishlaydi?",
+      "options": [
+        "A) Transport sathida",
+        "B) Tarmoq sathida",
+        "C) Sessiya sathida",
+        "D) Ilova sathida"
+      ],
+      "correct_answer": "B) Tarmoq sathida"
+    },
+    {
+      "id": 40,
+      "question": "SSH-2 protokolining SSH-1 ga nisbatan asosiy afzalligi nimada?",
+      "options": [
+        "A) Tezkor ishlash",
+        "B) Ko‘p darajali xavfsizlikni ta'minlashi",
+        "C) NAT mosligini oshirishi",
+        "D) Qo‘shimcha fayl formatlarini qo‘llab-quvvatlashi"
+      ],
+      "correct_answer": "B) Ko‘p darajali xavfsizlikni ta'minlashi"
+    },
+    {
+      "id": 41,
+      "question": "SSH-ning \"Command Shell\" funksiyasi nima uchun ishlatiladi?",
+      "options": [
+        "A) Ma'lumotni kriptografik tahlil qilish",
+        "B) TCP/IP portlarini boshqarish",
+        "C) Fayllarni kompressiya qilish",
+        "D) Buyruqlarni xavfsiz bajarish"
+      ],
+      "correct_answer": "D) Buyruqlarni xavfsiz bajarish"
+    },
+    {
+      "id": 42,
+      "question": "TLS protokolida X.509 sertifikatining vazifasi nima?",
+      "options": [
+        "A) Ochiq kalitni shifrlash",
+        "B) Sertifikatni autentifikatsiya qilish",
+        "C) Sertifikatni foydalanuvchi uchun moslashtirish",
+        "D) Buyruqlarni avtomatik boshqarish"
+      ],
+      "correct_answer": "B) Sertifikatni autentifikatsiya qilish"
+    },
+    {
+      "id": 43,
+      "question": "IPSec protokolida foydalaniladigan \"ESP\" funksiyasi nima uchun kerak?",
+      "options": [
+        "A) Tarmoq paketlarini identifikatsiya qilish uchun",
+        "B) Ma’lumotni konfidensialligini ta’minlash uchun",
+        "C) Ma’lumotlarni autentifikatsiyalash uchun",
+        "D) Ma'lumot butunligini ta'minlash uchun"
+      ],
+      "correct_answer": "B) Ma’lumotni konfidensialligini ta’minlash uchun"
+    },
+    {
+      "id": 44,
+      "question": "PGP protokolida autentifikatsiyani ta'minlash uchun qaysi algoritmdan foydalaniladi?",
+      "options": ["A) Triple-DES", "B) RSA", "C) SHA256", "D) DES"],
+      "correct_answer": "B) RSA"
+    },
+    {
+      "id": 45,
+      "question": "MIME formatining asosiy kamchiligi nima?",
+      "options": [
+        "A) Matnni shifrlash imkoniyatining yo‘qligi",
+        "B) Xabarlarni grafik shaklga aylantirish imkoniyati",
+        "C) Xabar uzunligining cheklanganligi",
+        "D) Audio ma’lumotlarni uzata olmasligi"
+      ],
+      "correct_answer": "A) Matnni shifrlash imkoniyatining yo‘qligi"
+    },
+    {
+      "id": 46,
+      "question": "S/MIME xabarlarni shifrlashda qanday kalit sertifikatiga asoslanadi?",
+      "options": ["A) SSL", "B) AES", "C) X.509", "D) RSA"],
+      "correct_answer": "C) X.509"
+    },
+    {
+      "id": 47,
+      "question": "PGP sessiya kalitlari qanday hosil qilinadi?",
+      "options": [
+        "A) Statik shifrlash algoritmi yordamida",
+        "B) Foydalanuvchi tomonidan qo‘lda kiritiladi",
+        "C) Xabar uzunligiga qarab avtomatik tanlanadi",
+        "D) Tasodifiy sonlar generatori orqali"
+      ],
+      "correct_answer": "D) Tasodifiy sonlar generatori orqali"
+    },
+    {
+      "id": 48,
+      "question": "PGP protokolida RSA algoritmi qaysi maqsadda ishlatiladi?",
+      "options": [
+        "A) Xabarlarni autentifikatsiyalashda",
+        "B) Xabar uzunligini o‘lchashda",
+        "C) Sessiya kalitini shifrlashda",
+        "D) Foydalanuvchini autentifikatsiyalashda"
+      ],
+      "correct_answer": "C) Sessiya kalitini shifrlashda"
+    },
+    {
+      "id": 49,
+      "question": "PGP xabarlarni qanday formatda uzatadi?",
+      "options": [
+        "A) Binarlashgan ma’lumot shaklida",
+        "B) ASCII belgilari shaklida",
+        "C) Shifrlangan grafiklar shaklida",
+        "D) OpenMail formatida"
+      ],
+      "correct_answer": "B) ASCII belgilari shaklida"
+    },
+    {
+      "id": 50,
+      "question": "S/MIME protokolining qaysi xususiyati uni keng ishlatilishiga olib kelgan?",
+      "options": [
+        "A) Tezkor aloqa imkoniyatlarini ta’minlashi",
+        "B) Kriptografik algoritmlardan foydalanishi",
+        "C) Turli e-mail ilovalari bilan moslashuvchanligi",
+        "D) Elektron pochta uzilishlarini oldini olishi"
+      ],
+      "correct_answer": "C) Turli e-mail ilovalari bilan moslashuvchanligi"
+    },
+    {
+      "id": 51,
+      "question": "PGP protokolida foydalaniladigan shifrlash algoritmlarining turlari qanday?",
+      "options": [
+        "A) Base64, ASCII, UTF8",
+        "B) RSA, SHA, MD5",
+        "C) AES, RSA, DSA",
+        "D) DES, Triple-DES, CAST, IDEA"
+      ],
+      "correct_answer": "D) DES, Triple-DES, CAST, IDEA"
+    },
+    {
+      "id": 52,
+      "question": "SET protokoli qaysi sathda ishlaydi?",
+      "options": ["A) Sessiya", "B) Transport", "C) Ilova", "D) Tarmoq"],
+      "correct_answer": "C) Ilova"
+    },
+    {
+      "id": 53,
+      "question": "SET protokolida roʻyxatdan oʻtkazish muolajasi nimaga asoslanadi?",
+      "options": [
+        "A) Simmetrik shifrlashga",
+        "B) PKI xizmati",
+        "C) Dasturiy vositalarga",
+        "D) Heshlash funksiyasiga"
+      ],
+      "correct_answer": "B) PKI xizmati"
+    },
+    {
+      "id": 54,
+      "question": "SET protokolida ishlatilgan kriptografik algoritm qaysi?",
+      "options": ["A) SHA-256", "B) DES", "C) AES", "D) RSA"],
+      "correct_answer": "D) RSA"
+    },
+    {
+      "id": 55,
+      "question": "SET protokolida toʻlov avtorizatsiyasining birinchi bosqichi nima deb ataladi?",
+      "options": [
+        "A) Payment Gateway Processing",
+        "B) Merchant Authorization Request",
+        "C) Purchase Response",
+        "D) Payment Capture Request"
+      ],
+      "correct_answer": "B) Merchant Authorization Request"
+    },
+    {
+      "id": 56,
+      "question": "SET protokolida tranzaksiyaning oxirgi bosqichi nima?",
+      "options": [
+        "A) Toʻlov avtorizatsiyasi",
+        "B) Buyurtma soʻrovi",
+        "C) Roʻyxatdan oʻtkazish",
+        "D) Toʻlovni olish"
+      ],
+      "correct_answer": "D) Toʻlovni olish"
+    },
+    {
+      "id": 57,
+      "question": "SET protokolida iyerarxiya tizimining eng yuqori darajasida nima joylashgan?",
+      "options": [
+        "A) Sertifikat tarqatuvchi bank",
+        "B) Payment Gateway",
+        "C) Root Certificate Authority",
+        "D) Mijozning sertifikati"
+      ],
+      "correct_answer": "C) Root Certificate Authority"
+    },
+    {
+      "id": 58,
+      "question": "SET protokolida tranzaksiya ID si nima uchun kerak?",
+      "options": [
+        "A) Sertifikatlarni tekshirish uchun",
+        "B) Bank xizmatlarini ko‘rsatish uchun",
+        "C) Xabarlarni bir-biriga bog‘lash uchun",
+        "D) Maʼlumotlarni shifrlash uchun"
+      ],
+      "correct_answer": "C) Xabarlarni bir-biriga bog‘lash uchun"
+    },
+    {
+      "id": 59,
+      "question": "SET protokolida shifrlash uchun qaysi kalit ishlatiladi?",
+      "options": [
+        "A) Bank kaliti",
+        "B) Sertifikat kaliti",
+        "C) Tranzaksiya kaliti",
+        "D) Sessiya kaliti"
+      ],
+      "correct_answer": "D) Sessiya kaliti"
+    },
+    {
+      "id": 60,
+      "question": "SET protokolida sertifikatlarni tarqatish qanday amalga oshiriladi?",
+      "options": [
+        "A) Markazsizlashtirilgan tizim orqali",
+        "B) P2P tizimi orqali",
+        "C) Foydalanuvchilarning oʻzi tomonidan",
+        "D) Iyerarxik tizim orqali"
+      ],
+      "correct_answer": "D) Iyerarxik tizim orqali"
+    },
+    {
+      "id": 61,
+      "question": "Fiat-Shamir protokolida qanday kriptografik muammoga asoslangan ?",
+      "options": [
+        "A) Faktorlash muammosi",
+        "B) Simmetrik shifrlash muammosi",
+        "C) Heshlash muammosi",
+        "D) Sertifikat yaratish muammosi"
+      ],
+      "correct_answer": "A) Faktorlash muammosi"
+    },
+    {
+      "id": 62,
+      "question": "Fiat-Shamir protokolining zaifligi nimaga bogʻliq?",
+      "options": [
+        "A) Sertifikatlarning haqiqiyligiga",
+        "B) Sertifikatlarni tekshirishga",
+        "C) Tasodifiy \"e\" ning tanlanishiga",
+        "D) Xabarlarni shifrlash algoritmiga"
+      ],
+      "correct_answer": "C) Tasodifiy \"e\" ning tanlanishiga"
+    },
+    {
+      "id": 63,
+      "question": "Fiat-Shamir protokolida N qanday hisoblanadi?",
+      "options": ["A) N=p+q", "B) N=p×q", "C) N=p2×q", "D) N=p2+q2"],
+      "correct_answer": "B) N=p×q"
+    },
+    {
+      "id": 64,
+      "question": "Shamir protokolida qaysi amaldan foydalaniladi?",
+      "options": [
+        "A) Heshlash funksiyasi",
+        "B) Modul bo‘yicha darajaga ko‘tarish",
+        "C) Modul bo‘yicha ko‘paytirish",
+        "D) Sertifikat yaratish"
+      ],
+      "correct_answer": "B) Modul bo‘yicha darajaga ko‘tarish"
+    },
+    {
+      "id": 65,
+      "question": "Shamir protokolining zaif tomoni nimada?",
+      "options": [
+        "A) Maxfiy xabarni oshkor qilish",
+        "B) Sertifikatlarni noto‘g‘ri generatsiya qilish",
+        "C) Avtorizatsiya masalasining hal qilinmagani",
+        "D) Xabarni shifrlashda xatolik"
+      ],
+      "correct_answer": "C) Avtorizatsiya masalasining hal qilinmagani"
+    },
+    {
+      "id": 66,
+      "question": "Fiat-Shamir protokolida tasodifiy qiymat \"e\" qanday bo‘lishi kerak?",
+      "options": [
+        "A) Har doim 1",
+        "B) Tasodifiy ravishda 0 yoki 1",
+        "C) Har doim 0",
+        "D) Foydalanuvchi tanlaydi"
+      ],
+      "correct_answer": "B) Tasodifiy ravishda 0 yoki 1"
+    },
+    {
+      "id": 67,
+      "question": "ZKP asoslangan protokollar qaysi jihatni ta’minlaydi?",
+      "options": [
+        "A) Sertifikatlarning autentifikatsiyasini",
+        "B) Ma’lumotlar oshkoraligini",
+        "C) Tomonlarning anonimligini",
+        "D) Xabarlarni ochiqligini"
+      ],
+      "correct_answer": "C) Tomonlarning anonimligini"
+    },
+    {
+      "id": 68,
+      "question": "Shamir protokolining kriptobardoshligi nimaga asoslangan?",
+      "options": [
+        "A) Diskret logorifmlash muammosiga",
+        "B) Darajaga ko'tarish qiymatiga",
+        "C) Qoldiqli bo'lish masalasiga",
+        "D) Tasodifiy son generatsiyasiga"
+      ],
+      "correct_answer": "A) Diskret logorifmlash muammosiga"
+    },
+    {
+      "id": 69,
+      "question": "Nollik bilimga asoslangan protokollar qanday vazifani bajaradi?",
+      "options": [
+        "A) Sertifikat yaratishni avtomatlashtiradi",
+        "B) Maxfiy ma’lumotlarni oshkor etmasdan tasdiqlashni ta’minlaydi",
+        "C) Xabarlarni shifrlashni amalga oshiradi",
+        "D) Tomonlar o‘rtasida kalitlarni almashadi"
+      ],
+      "correct_answer": "B) Maxfiy ma’lumotlarni oshkor etmasdan tasdiqlashni ta’minlaydi"
+    },
+    {
+      "id": 70,
+      "question": "ZKP da iteratsiya sonini oshirish nimaga olib keladi?",
+      "options": [
+        "A) Tasdiqlash tezligini pasaytiradi",
+        "B) Ma’lumotlarni oshkor qiladi",
+        "C) Xavfsizlikni oshiradi",
+        "D) Ehtimollikni oshiradi"
+      ],
+      "correct_answer": "C) Xavfsizlikni oshiradi"
+    },
+    {
+      "id": 71,
+      "question": "Fiat-Shamir protokolida N=pq bo'lganda p va q qanday sonlar bo‘lishi kerak?",
+      "options": [
+        "A) Tub sonlar",
+        "B) Juft sonlar",
+        "C) Kvadrat sonlar",
+        "D) Fibonachchi sonlari"
+      ],
+      "correct_answer": "A) Tub sonlar"
+    }
+  ]
+}

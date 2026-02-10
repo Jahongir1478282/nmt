@@ -1,65 +1,330 @@
-import Image from "next/image";
+/** @format */
 
-export default function Home() {
+"use client";
+
+import React, { useState, useEffect, useRef } from "react";
+import data from "../questions2.json";
+import cryptoData from "../cryptotest.json";
+import { Clock, ChevronRight, ChevronLeft } from "lucide-react";
+
+interface Question {
+  id: number;
+  question: string;
+  options: string[];
+  correct_answer?: string;
+}
+
+interface SelectedAnswers {
+  [questionIndex: number]: number;
+}
+
+const shuffleAndTake = <T,>(arr: T[], take: number): T[] =>
+  [...arr]
+    .map((item) => ({ item, sort: Math.random() }))
+    .sort((a, b) => a.sort - b.sort)
+    .slice(0, Math.min(take, arr.length))
+    .map(({ item }) => item);
+
+const TESTS: Record<
+  string,
+  { title: string; description: string; questions: Question[] }
+> = {
+  general: {
+    title: "Umumiy testlar",
+    description: "Asosiy savollar to‘plami (100 ta random)",
+    questions: shuffleAndTake(data as Question[], 100),
+  },
+  crypto: {
+    title: "Kriptografiya",
+    description: "Mutaxassislik bo‘yicha savollar",
+    questions: cryptoData.questions as Question[],
+  },
+};
+
+export default function QuizPage() {
+  const [activeTestId, setActiveTestId] = useState<keyof typeof TESTS | null>(
+    null,
+  );
+  const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
+  const [selectedAnswers, setSelectedAnswers] = useState<SelectedAnswers>({});
+  const [timeLeft, setTimeLeft] = useState(3000);
+
+  const nextQuestionTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(
+    null,
+  );
+
+  const activeTest = activeTestId ? TESTS[activeTestId] : null;
+  const questions = activeTest?.questions || [];
+  const totalSlots = questions.length || 0;
+
+  const answeredCount = Object.keys(selectedAnswers).length;
+  const isFinished = totalSlots > 0 && answeredCount === totalSlots;
+
+  useEffect(() => {
+    const timer = setInterval(() => {
+      setTimeLeft((prev) => (prev > 0 ? prev - 1 : 0));
+    }, 1000);
+    return () => clearInterval(timer);
+  }, []);
+
+  useEffect(() => {
+    return () => {
+      if (nextQuestionTimeoutRef.current) {
+        clearTimeout(nextQuestionTimeoutRef.current);
+      }
+    };
+  }, []);
+
+  const formatTime = (seconds: number): string => {
+    const m = Math.floor(seconds / 60);
+    const s = seconds % 60;
+    return `${m < 10 ? "0" : ""}${m}:${s < 10 ? "0" : ""}${s}`;
+  };
+
+  const getCorrectIndex = (q: Question): number | null => {
+    if (!q.correct_answer) return null;
+    const idx = q.options.findIndex((opt) => opt === q.correct_answer);
+    return idx >= 0 ? idx : null;
+  };
+
+  const handleOptionSelect = (optionIndex: number): void => {
+    if (!activeTest) return;
+    setSelectedAnswers((prev: SelectedAnswers) => ({
+      ...prev,
+      [currentQuestionIndex]: optionIndex,
+    }));
+
+    if (nextQuestionTimeoutRef.current) {
+      clearTimeout(nextQuestionTimeoutRef.current);
+    }
+
+    nextQuestionTimeoutRef.current = setTimeout(() => {
+      setCurrentQuestionIndex((prev) => Math.min(totalSlots - 1, prev + 1));
+    }, 1000);
+  };
+
+  const startTest = (id: keyof typeof TESTS) => {
+    setActiveTestId(id);
+    setCurrentQuestionIndex(0);
+    setSelectedAnswers({});
+    setTimeLeft(3000);
+  };
+
+  const goMenu = () => {
+    setActiveTestId(null);
+    setSelectedAnswers({});
+    setCurrentQuestionIndex(0);
+  };
+
+  const correctCount = questions.reduce((acc, q, idx) => {
+    const correctIdx = getCorrectIndex(q);
+    const selected = selectedAnswers[idx];
+    if (correctIdx !== null && selected === correctIdx) return acc + 1;
+    return acc;
+  }, 0);
+
+  const currentQuestion =
+    activeTest && questions[currentQuestionIndex]
+      ? questions[currentQuestionIndex]
+      : null;
+
+  if (!activeTest) {
+    return (
+      <div className="min-h-screen bg-white p-6 font-sans text-gray-800">
+        <div className="max-w-4xl mx-auto">
+          <h1 className="text-2xl font-bold mb-6">Asosiy menu</h1>
+          <div className="grid gap-4 sm:grid-cols-2">
+            {Object.entries(TESTS).map(([id, test]) => (
+              <button
+                key={id}
+                onClick={() => startTest(id as keyof typeof TESTS)}
+                className="w-full text-left p-4 rounded-lg border border-gray-200 hover:border-blue-400 hover:shadow-sm transition"
+              >
+                <div className="text-lg font-semibold text-gray-900">
+                  {test.title}
+                </div>
+                <div className="text-sm text-gray-600">{test.description}</div>
+                <div className="mt-2 text-xs text-gray-500">
+                  {test.questions.length} ta savol
+                </div>
+              </button>
+            ))}
+          </div>
+        </div>
+      </div>
+    );
+  }
+
   return (
-    <div className="flex min-h-screen items-center justify-center bg-zinc-50 font-sans dark:bg-black">
-      <main className="flex min-h-screen w-full max-w-3xl flex-col items-center justify-between py-32 px-16 bg-white dark:bg-black sm:items-start">
-        <Image
-          className="dark:invert"
-          src="/next.svg"
-          alt="Next.js logo"
-          width={100}
-          height={20}
-          priority
-        />
-        <div className="flex flex-col items-center gap-6 text-center sm:items-start sm:text-left">
-          <h1 className="max-w-xs text-3xl font-semibold leading-10 tracking-tight text-black dark:text-zinc-50">
-            To get started, edit the page.tsx file.
-          </h1>
-          <p className="max-w-md text-lg leading-8 text-zinc-600 dark:text-zinc-400">
-            Looking for a starting point or more instructions? Head over to{" "}
-            <a
-              href="https://vercel.com/templates?framework=next.js&utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Templates
-            </a>{" "}
-            or the{" "}
-            <a
-              href="https://nextjs.org/learn?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-              className="font-medium text-zinc-950 dark:text-zinc-50"
-            >
-              Learning
-            </a>{" "}
-            center.
-          </p>
+    <div className="min-h-screen bg-white p-4 font-sans text-gray-800">
+      <div className="max-w-5xl mx-auto mb-4 flex items-center justify-between">
+        <div>
+          <h1 className="text-xl font-bold">{activeTest.title}</h1>
+          <p className="text-sm text-gray-500">{activeTest.description}</p>
         </div>
-        <div className="flex flex-col gap-4 text-base font-medium sm:flex-row">
-          <a
-            className="flex h-12 w-full items-center justify-center gap-2 rounded-full bg-foreground px-5 text-background transition-colors hover:bg-[#383838] dark:hover:bg-[#ccc] md:w-[158px]"
-            href="https://vercel.com/new?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <Image
-              className="dark:invert"
-              src="/vercel.svg"
-              alt="Vercel logomark"
-              width={16}
-              height={16}
-            />
-            Deploy Now
-          </a>
-          <a
-            className="flex h-12 w-full items-center justify-center rounded-full border border-solid border-black/[.08] px-5 transition-colors hover:border-transparent hover:bg-black/[.04] dark:border-white/[.145] dark:hover:bg-[#1a1a1a] md:w-[158px]"
-            href="https://nextjs.org/docs?utm_source=create-next-app&utm_medium=appdir-template-tw&utm_campaign=create-next-app"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Documentation
-          </a>
+        <button
+          onClick={goMenu}
+          className="text-sm text-blue-600 hover:underline"
+        >
+          ← Asosiy menu
+        </button>
+      </div>
+
+      <div className="max-w-5xl mx-auto mb-6">
+        <div className="flex flex-wrap gap-1 justify-center sm:justify-start">
+          {Array.from({ length: totalSlots }, (_, i) => i).map((index) => {
+            const isCurrent = index === currentQuestionIndex;
+            const isAnswered = selectedAnswers.hasOwnProperty(index);
+            const baseStyle =
+              "w-8 h-8 flex items-center justify-center text-xs border rounded cursor-pointer transition-colors";
+
+            if (isCurrent) {
+              return (
+                <button
+                  key={index}
+                  onClick={() => setCurrentQuestionIndex(index)}
+                  className={`${baseStyle} bg-orange-50 border-orange-400 border-2 text-gray-700 font-bold shadow-sm`}
+                >
+                  {index + 1}
+                </button>
+              );
+            } else if (isAnswered) {
+              return (
+                <button
+                  key={index}
+                  onClick={() => setCurrentQuestionIndex(index)}
+                  className={`${baseStyle} bg-blue-100 border-blue-200 text-blue-800`}
+                >
+                  {index + 1}
+                </button>
+              );
+            } else {
+              return (
+                <button
+                  key={index}
+                  onClick={() => setCurrentQuestionIndex(index)}
+                  className={`${baseStyle} bg-white border-gray-200 text-gray-500 hover:bg-gray-50`}
+                >
+                  {index + 1}
+                </button>
+              );
+            }
+          })}
         </div>
-      </main>
+      </div>
+
+      <div className="max-w-5xl mx-auto flex flex-wrap items-center justify-between border-b border-gray-200 pb-4 mb-6 text-sm sm:text-base">
+        <div className="flex gap-6">
+          <span className="font-semibold text-gray-600">
+            Savollar:{" "}
+            <span className="text-black font-bold">
+              {answeredCount}/{totalSlots}
+            </span>
+          </span>
+          <span className="text-gray-500">1 - urinish</span>
+        </div>
+
+        <div className="flex items-center text-red-500 font-bold gap-2">
+          <Clock size={18} />
+          <span>{formatTime(timeLeft)}</span>
+        </div>
+      </div>
+
+      {currentQuestion && (
+        <div className="max-w-5xl mx-auto">
+          <h2 className="text-xl sm:text-2xl font-bold text-gray-900 mb-6">
+            {currentQuestionIndex + 1}. {currentQuestion.question}
+          </h2>
+
+          <div className="space-y-3">
+            {currentQuestion.options.map((option, idx) => {
+              const isSelected = selectedAnswers[currentQuestionIndex] === idx;
+              const correctIdx = getCorrectIndex(currentQuestion);
+              const isCorrectSelection = isSelected && correctIdx === idx;
+              const isWrongSelection = isSelected && correctIdx !== idx;
+              const isRightAnswerRevealed =
+                correctIdx !== null &&
+                correctIdx === idx &&
+                selectedAnswers[currentQuestionIndex] !== undefined;
+
+              let style =
+                "relative p-4 rounded-lg border cursor-pointer transition-all flex items-start bg-white border-gray-200 hover:border-gray-300";
+              if (isCorrectSelection) {
+                style =
+                  "relative p-4 rounded-lg border cursor-pointer transition-all flex items-start bg-green-50 border-green-500 shadow-sm";
+              } else if (isWrongSelection) {
+                style =
+                  "relative p-4 rounded-lg border cursor-pointer transition-all flex items-start bg-red-50 border-red-400 shadow-sm";
+              } else if (isRightAnswerRevealed) {
+                style =
+                  "relative p-4 rounded-lg border cursor-pointer transition-all flex items-start bg-green-50/40 border-green-400";
+              }
+
+              return (
+                <div
+                  key={idx}
+                  onClick={() => handleOptionSelect(idx)}
+                  className={style}
+                >
+                  <span
+                    className={`text-base ${
+                      isCorrectSelection
+                        ? "text-green-900 font-semibold"
+                        : isWrongSelection
+                          ? "text-red-900 font-semibold"
+                          : "text-gray-700"
+                    }`}
+                  >
+                    {option}
+                  </span>
+                </div>
+              );
+            })}
+          </div>
+
+          <div className="flex justify-between mt-8">
+            <button
+              onClick={() =>
+                setCurrentQuestionIndex((prev) => Math.max(0, prev - 1))
+              }
+              disabled={currentQuestionIndex === 0}
+              className="px-4 py-2 rounded border border-gray-300 text-gray-600 disabled:opacity-50 hover:bg-gray-50 flex items-center gap-2"
+            >
+              <ChevronLeft size={20} /> Oldingi
+            </button>
+
+            <button
+              onClick={() =>
+                setCurrentQuestionIndex((prev) =>
+                  Math.min(totalSlots - 1, prev + 1),
+                )
+              }
+              disabled={currentQuestionIndex === totalSlots - 1}
+              className="px-6 py-2 rounded bg-blue-600 text-white hover:bg-blue-700 flex items-center gap-2 shadow-md disabled:opacity-50"
+            >
+              Keyingi <ChevronRight size={20} />
+            </button>
+          </div>
+
+          {isFinished && (
+            <div className="mt-10 p-4 border border-gray-200 rounded-lg bg-gray-50">
+              <h3 className="text-lg font-bold mb-2">Natija</h3>
+              <p className="text-gray-700">
+                To‘g‘ri javoblar:{" "}
+                <span className="font-semibold text-green-700">
+                  {correctCount}
+                </span>{" "}
+                / {totalSlots} ({Math.round((correctCount / totalSlots) * 100)}
+                %)
+              </p>
+            </div>
+          )}
+        </div>
+      )}
+
+      <button className="fixed bottom-6 right-6 p-3 bg-white rounded-full shadow-lg border border-gray-200 text-blue-600 hover:bg-blue-50">
+        <ChevronRight className="-rotate-90" size={24} />
+      </button>
     </div>
   );
 }
