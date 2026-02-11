@@ -2,23 +2,19 @@
   "yechilgan_savollar": [
     {
       "savol": "Bakalavriat ta’lim yo‘nalishlari va uning negizidagi magistratura mutaxassisliklarining ro‘yxati qaysi organ tomonidan belgilanadi?",
-      "togri_javob": "O‘zbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi"
+      "togri_javob": "Ta’lim sohasidagi vakolatli davlat boshqaruvi organi tomonidan belgilanadi"
     },
     {
       "savol": "Masofaviy ta’lim qaysi tamoyillar asosida tashkil etiladi?",
-      "togri_javob": "Talabalarning identifikatsiya qilinishi; yangi axborot-kommunikatsiya texnologiyalarini qo‘llashning pedagogik maqsadga muvofiqligi; ta’lim berishning ochiqligi va moslashuvchanligi"
+      "togri_javob": "Ishtirokchilarning interfaolligi; talabalarning identifikatsiya qilinishi; yangi axborot-kommunikatsiya texnologiyalarini qo‘llashning pedagogik maqsadga muvofiqligi; ta’lim berishning ochiqligi va moslashuvchanligi"
     },
     {
       "savol": "Masofaviy ta’lim shakli asosida kadrlar tayyorlashda bir magistratura mutaxassisligiga qabul parametrlari necha talabadan ortiq bo‘lmasligi lozim?",
-      "togri_javob": "Bir magistratura mutaxassisligiga 20 nafar"
-    },
-    {
-      "savol": "Masofaviy ta’lim shakli asosida kadrlar tayyorlashda bir magistratura mutaxassisligiga qabul parametrlari necha talabadan ortiq bo‘lmasligi lozim?",
-      "togri_javob": "Bir magistratura mutaxassisligiga 20 nafar"
+      "togri_javob": "Bir magistratura mutaxassisligiga 30 nafar"
     },
     {
       "savol": "Professor-o‘qituvchilarning egallab turgan lavozimlari bo‘yicha o‘quv yuklamasi hajmi qanday tasdiqlanadi?",
-      "togri_javob": "Kafedra mudirining taklifiga muvofiq oliy ta’lim muassasasining Kengashi tomonidan tasdiqlanadi"
+      "togri_javob": "Fakultet dekani (kafedra mudiri)ning taklifiga muvofiq oliy ta’lim muassasasining Kengashi tomonidan tasdiqlanadi"
     },
     {
       "savol": "Davlat standarti quyidagilarga muvofiq ishlab chiqilgan?",
@@ -30,15 +26,15 @@
     },
     {
       "savol": "Kadrlar tayyorlash bo‘yicha qaysi loyiha bilan “100 ming” yoshlar o‘qitilishi belgilandi?",
-      "togri_javob": "“Bir million dasturchi” loyihasi"
+      "togri_javob": "“Bir million sun’iy intellekt yetakchisi” loyihasi"
     },
     {
       "savol": "2026/2027 o‘quv yilida Oliygohlarda sun’iy intellekt, fintex, kiberxavfsizlik, IT muhandislik, aerokosmik va bulutli texnologiyalar kabi yo‘nalishlar uchun davlat granti kvotalari necha foizga oshiriladi?",
-      "togri_javob": "30 foizga"
+      "togri_javob": "35 foizga"
     },
     {
       "savol": "“Yangi O‘zbekiston” universitetida sun’iy intellekt bo‘yicha 2026-yilda qancha nafar trener-o‘qituvchi tayyorlanishi belgilandi?",
-      "togri_javob": "1 ming nafar"
+      "togri_javob": "1 ming 300 nafar"
     },
     {
       "savol": "Patent qancha muddat amal qiladi?",
@@ -47,10 +43,6 @@
     {
       "savol": "Ilmiy maqola yozishda IMRD tuzilmasi nimani anglatadi?",
       "togri_javob": "Kirish, metodlar, natijalar, muhokama (Introduction, Methods, Results, Discussion)"
-    },
-    {
-      "savol": "Ilmiy maqola yozishda IMRD tuzilmasi nimani anglatadi?",
-      "togri_javob": "Kirish, metodlar, natijalar, muhokama"
     },
     {
       "savol": "SWOT-tahlil qaysi komponentlarni o'z ichiga oladi?",
@@ -62,19 +54,15 @@
     },
     {
       "savol": "Oliy ta'limning global trendlaridan biri - bu:",
-      "togri_javob": "Ta'lim xizmatlarining bozorlashuvi va raqobatning ortishi"
-    },
-    {
-      "savol": "Pedagogik takt (dahldorlik) nima?",
-      "togri_javob": "Axloqiy xulq-atvor, xatti-harakat (Me’yorni his qilish)"
-    },
-    {
-      "savol": "Muloqotda axborot almashish vazifasi qanday vositalar orqali amalga oshadi?",
-      "togri_javob": "Nutq, paralingvistik tizim, ko'z qarashlar"
+      "togri_javob": "Ta'limning demokratlashuvi"
     },
     {
       "savol": "Pedagogik takt (dahldorlik) nima?",
       "togri_javob": "Axloqiy xulq-atvor, xatti-harakat"
+    },
+    {
+      "savol": "Muloqotda axborot almashish vazifasi qanday vositalar orqali amalga oshadi?",
+      "togri_javob": "Nutq, paralingvistik tizim, ko'z qarashlar"
     },
     {
       "savol": "Xorijiy tajribalarda kasbiy kompetentlikni rivojlantirish qaysi g'oyalarga asoslanadi?",
@@ -91,10 +79,6 @@
     {
       "savol": "Auditoriyadan tashqari ishlarning samaradorligini oshirish uchun nima zarur?",
       "togri_javob": "Metodik ta'minot va aniq ko'rsatmalar"
-    },
-    {
-      "savol": "Kredit-modul tizimida baholash usullari o'z ichiga nimalarni qamrab oladi?",
-      "togri_javob": "Baholash usullari fan yoki modul doirasidagi talabaning yutuqlarini aks ettiruvchi va tasdiqlovchi yozma, og'zaki, amaliy ish, loyiha, portfolio kabi turlarni o'z ichiga qamrab oladi"
     },
     {
       "savol": "2026/2027 o‘quv yilida Oliygohlarda sun’iy intellekt, fintex, kiberxavfsizlik... davlat granti kvotalari necha foizga oshiriladi?",
@@ -187,10 +171,6 @@
     {
       "savol": "Ananaviy tarmoqdagi HTTPS protokoli vazifasini IoT protokol stekida qaysi protokol amalga oshiradi?",
       "togri_javob": "CoAPs"
-    },
-    {
-      "savol": "Kriptografik protokollarda vositachi kim?",
-      "togri_javob": "Bir-biriga ishonchi boʻlgan 2 tomonga, nizolarni yechishga yordam beradigan uchunchi tomon (Arbitrator - Hakam)"
     },
     {
       "savol": "IoT qaysi sohalarda foydalanilmoqda?",
@@ -345,24 +325,12 @@
       "togri_javob": "300 nafardan ortiq bo‘lmasligi kerak"
     },
     {
-      "savol": "Davlat standarti quyidagilarga muvofiq ishlab chiqilgan?",
-      "togri_javob": "“Ta’lim to‘g‘risida” Qonuni va boshqa qonunchilik hujjatlari, YUNESKO (UNESCO) tomonidan joriy qilingan “Ta’limning xalqaro standart klassifikatsiyasi” (TXSK 2011) va “TXSK: Ta’lim va kasbiy tayyorlash sohalari” (TXSK-S 2013)ga"
-    },
-    {
       "savol": "Davlat ta’lim standartlari nimalarni belgilaydi?",
       "togri_javob": "Davlat tomonidan ta’limning mazmuni va sifatiga nisbatan belgilanadigan talablar majmui"
     },
     {
       "savol": "Davlat hokimiyatining birdan-bir manbai qaysi javobda to‘g‘ri berilgan?",
       "togri_javob": "Xalq"
-    },
-    {
-      "savol": "Masofaviy ta’lim qaysi tamoyillar asosida tashkil etiladi?",
-      "togri_javob": "Talabalarning identifikatsiya qilinishi; yangi axborot-kommunikatsiya texnologiyalarini qo‘llashning pedagogik maqsadga muvofiqligi; ta’lim berishning ochiqligi va moslashuvchanligi"
-    },
-    {
-      "savol": "Masofaviy ta’lim shakli asosida kadrlar tayyorlashda bir magistratura mutaxassisligiga qabul parametrlari necha talabadan ortiq bo‘lmasligi lozim?",
-      "togri_javob": "Bir magistratura mutaxassisligiga 20 nafar"
     },
     {
       "savol": "Oliy ta’lim tashkilotlarining ichki baxolash natijalarini ishonchliligi uchun kim javobgar xisoblanadi?",
@@ -393,32 +361,12 @@
       "togri_javob": "Internet tarmog‘i orqali masofadan foydalanish imkonini beruvchi ma’lumotlarni xavfsiz saqlanishi"
     },
     {
-      "savol": "Kadrlar tayyorlash bo‘yicha qaysi loyiha bilan “100 ming” yoshlar o‘qitilishi belgilandi?",
-      "togri_javob": "“Bir million dasturchi” loyihasi"
-    },
-    {
       "savol": "Adaptiv o‘qitish yo‘nalishi nima?",
       "togri_javob": "Talaba natijalariga qarab o‘zgaruvchi trayektoriya"
     },
     {
-      "savol": "2026/2027 o‘quv yilida Oliygohlarda sun’iy intellekt, fintex, kiberxavfsizlik... davlat granti kvotalari necha foizga oshiriladi?",
-      "togri_javob": "30 foizga"
-    },
-    {
       "savol": "“Bir million o‘zbek dasturchisi” loyihasining mantiqiy davomi sifatida qanday loyiha boshlangan?",
       "togri_javob": "“Bir million sun’iy intellekt yetakchisi”"
-    },
-    {
-      "savol": "Strategik rejalashtirish doirasida ichki muhitni tahlil etishning mashhur usullaridan biri –?",
-      "togri_javob": "SWOT"
-    },
-    {
-      "savol": "THE (Times Higher Education) reytingi aniqlashda quyidagi universitetlar qatnasha olmaydi?",
-      "togri_javob": "yuqori kurs talabalarini o‘qitmaydiganlar, tor mutaxassisliklar tayyorlaydigan, besh yil ichida 1000 ta ilmiy ishlar, shu jumladan bir yilda 150 tadan kam nashr ettirganlar"
-    },
-    {
-      "savol": "DOI (Digital object identifier) – bu…?",
-      "togri_javob": "bugungi kunda zamonning ilmiy muloqot tizimining majburiy tarkibiy qismi hisoblanadi"
     },
     {
       "savol": "Tadqiqot universiteti g‘oyasi qanday jarayonga mo‘ljal olishni ko‘zlagan edi?",
@@ -433,16 +381,8 @@
       "togri_javob": "eski va yangi dunyoqarashlarning qarama-qarshiliklar, katta yoshdagilar va yoshlar dunyoqarashlari orasidagi tafovutlar, innovatsiyalarni qabul qilishdagi demografik (yoshdagi) farqlar"
     },
     {
-      "savol": "Oliy ta'limning global trendlaridan biri - bu:",
-      "togri_javob": "Ta’lim xizmatlarining bozorlashuvi va raqobatning ortishi"
-    },
-    {
       "savol": "\"Kvartil\" tushunchasi ilmiy jurnallarni baholashda nimani anglatadi?",
       "togri_javob": "Jurnalning muayyan fanda egallagan pozitsiyasini"
-    },
-    {
-      "savol": "Universiteti 4.0 modelining asosiy xususiyati nima?",
-      "togri_javob": "Ta'lim, ilmiy tadqiqot, tijoratlashtirish va sotsium bilan integratsiyalashuv"
     },
     {
       "savol": "O'qitish va ta'lim tushunchalari o'rtasidagi asosiy farq qanday?",
@@ -473,28 +413,8 @@
       "togri_javob": "-о‘qituvchining o‘zini boshqara olishi;-shaxs va jamoaga ta’sir eta olishi;-pedagogik muloqotni o‘rnatish;diqqatni jalb etish usullari"
     },
     {
-      "savol": "O‘qituvchi axloqiy-ma’naviy qiyofasini namoyon etuvchi meyor tuyg‘usi yoki xulq va odob qoidalariga rioya qilishi qanday ataladi?",
-      "togri_javob": "Pedagogik nazokat (Takt)"
-    },
-    {
-      "savol": "Xorijiy tajribalarda kasbiy kompetentlikni rivojlantirish qaysi g'oyalarga asoslanadi?",
-      "togri_javob": "\"Lifelong Learning\" (hayot davomida o'rganish)"
-    },
-    {
-      "savol": "Texnologik yondashuv qanday ma'noga ega?",
-      "togri_javob": "Jarayonlarni yuksak mahorat darajasida tashkil etish"
-    },
-    {
-      "savol": "\"Soft skills\" nima?",
-      "togri_javob": "Moslashuvchan, egiluvchan malakalar (yumshoq ko'nikmalar: muloqot, jamoada ishlash)"
-    },
-    {
       "savol": "Tayanch kompetensiyalarni belgilashda muhim asos nima?",
       "togri_javob": "Jamiyat ehtiyojlari"
-    },
-    {
-      "savol": "Modul – bu?",
-      "togri_javob": "Talabaning alohida ta’lim yo‘nalishini o‘zlashtirishi uchun sarflangan o‘quv yuklamasining (vaqtning) o‘lchov birligidir"
     },
     {
       "savol": "Baholash tamoyillarini ko'rsating",
@@ -569,14 +489,6 @@
       "togri_javob": "Oliy va kasbiy taʼlim tashkiloti"
     },
     {
-      "savol": "Quyida keltirilgan qaysi tamoyil Yangi O‘zbekiston konsepsiyasining asosiy mazmunini o‘zida aks ettiradi?",
-      "togri_javob": "1), 2), 5)"
-    },
-    {
-      "savol": "1996-yilda Hoffstein, Pipher va Silverman tomonidan ishlab chiqilgan panjaraga asoslangan tizim bu?",
-      "togri_javob": "NTRU"
-    },
-    {
       "savol": "PGP protokolida autentifikatsiyani ta'minlash uchun qaysi algoritmdan foydalaniladi?",
       "togri_javob": "RSA"
     },
@@ -587,14 +499,6 @@
     {
       "savol": "Chiziqli kriptotahlil natijasi qanday olinadi?",
       "togri_javob": "Chiziqli tenglamalar orqali kalitni topish"
-    },
-    {
-      "savol": "Uzoq masofali aloqa standarti keltirilgan javobni toping?",
-      "togri_javob": "LoRA"
-    },
-    {
-      "savol": "FTP protokoli zaifliklarini bartaraf qiluvchi xavfsiz protokolni belgilang",
-      "togri_javob": "SFTP"
     },
     {
       "savol": "“Shrödingerning mushugi” fikrlash tajribasi qaysi tamoyilni tushuntirish uchun foydalaniladi?",
@@ -625,14 +529,6 @@
       "togri_javob": "Sudya"
     },
     {
-      "savol": "Simmetrik kriptotizimlardagi qanday muammoni ochiq kalitli kriptotizimlar bartaraf etdi?",
-      "togri_javob": "maxfiy kalitni uzatish muammosini"
-    },
-    {
-      "savol": "Faktorlash muammosini hal qilish uchun qaysi algoritmlar qo'llaniladi?",
-      "togri_javob": "Kvadrat elak algoritmi va generalizatsiyalangan elak usuli"
-    },
-    {
       "savol": "Diskret logarifmlash muammosining murakkabligini pasaytiruvchi omillar qaysilar?",
       "togri_javob": "Kichik eksponent va modul qiymatlarining ishlatilishi"
     },
@@ -653,10 +549,6 @@
       "togri_javob": "Xatoliklardan foydalanib shifrlash kalitini topish"
     },
     {
-      "savol": "Ananaviy tarmoqdagi HTTPS protokoli vazifasini IoT protokoli stekida qaysi protokol amalga oshiradi?",
-      "togri_javob": "CoAPs"
-    },
-    {
       "savol": "Grover algoritmi simmetrik kriptografiyadagi 2^256 hisoblashni qanchaga qisqartiradi?",
       "togri_javob": "2^128"
     },
@@ -669,24 +561,8 @@
       "togri_javob": "aR (mod N)"
     },
     {
-      "savol": "Fiat-Shamir protokolida N=pq bo'lganda p va q qanday sonlar bo‘lishi kerak?",
-      "togri_javob": "Tub sonlar"
-    },
-    {
-      "savol": "Simmetrik blokli shifrlarni qurishning ARX usuliga asoslangan oqimli shifrlarni ko'rsating?",
-      "togri_javob": "Salsa20, ChaCha20"
-    },
-    {
       "savol": "Fiat-Shamir protokolida qanday kriptografik muammoga asoslangan?",
       "togri_javob": "Faktorlash muammosi"
-    },
-    {
-      "savol": "Raqamli sertifikat kim tomonidan imzolanadi?",
-      "togri_javob": "Certificate Authority (CA) tomonidan"
-    },
-    {
-      "savol": "Soxtalashtirish qoidabuzarligi qanday amalga oshiriladi?",
-      "togri_javob": "Foydalanuvchi (B)ning o‘zi ma’lumot tayyorlab, bu sohta ma’lumotni foydalanuvchi (A) yubordi deb da’vo qiladi"
     },
     {
       "savol": "Blokli simmetrik shifrlash algoritmlari raund funksiyalarida qanday amallar bajariladi?",
@@ -699,10 +575,6 @@
     {
       "savol": "Ma'lumotlani shifrlashda nima uchun simmetrik shifrlash algoritmlaridan ko'proq foydalaniladi?",
       "togri_javob": "Shirfrlash tezligi yuqori"
-    },
-    {
-      "savol": "Ananaviy tarmoqdagi IP protokoli vazifasini IoT protokoli stekida qaysi protokol amalga oshiradi?",
-      "togri_javob": "IPv6/6LowPAN"
     },
     {
       "savol": "O‘zbekiston Respublikasining umumiy xususiyatga ega normativ-huquqiy hujjatlari kimlarga daxldor?",
@@ -729,16 +601,8 @@
       "togri_javob": "Korrupsiyaga oid huquqbuzarliklarni o‘z vaqtida aniqlash, ularga chek qo‘yish, ularning oqibatlarini, ularga imkon beruvchi sabablar va shart-sharoitlarni bartaraf etish, korrupsiyaga oid huquqbuzarliklarni sodir etganlik uchun javobgarlikning muqarrarligi prinsipini ta’minlash"
     },
     {
-      "savol": "Masofaviy ta’lim shakli asosida kadrlar tayyorlashda bir magistratura mutaxassisligiga qabul parametrlari necha talabadan ortiq bo‘lmasligi lozim?",
-      "togri_javob": "Bir magistratura mutaxassisligiga 20 nafar"
-    },
-    {
       "savol": "Xorijiy oliy ta’lim muassasalarining magistratura bosqichida tahsil olayotgan talabalar o‘qishini ko‘chirishga ruxsat beriladimi?",
       "togri_javob": "Xorijiy oliy ta’lim muassasalarining magistratura bosqichida tahsil olayotgan talabalar o‘qishini O‘zbekiston Respublikasi oliy ta’lim muassasalariga ko‘chirilishiga ruxsat etilmaydi"
-    },
-    {
-      "savol": "Oliy ta’lim tashkilotlarining ichki baxolash natijalarini ishonchliligi uchun kim javobgar xisoblanadi?",
-      "togri_javob": "Ta’lim tashkiloti rahbari"
     },
     {
       "savol": "Oliy ta’lim muassasasida yuridik shaxs bilan tuzilgan to‘lov-kontrakt asosida ta’lim olayotgan talabalar o‘qishini ko‘chirishi mumkinmi?",
@@ -773,16 +637,8 @@
       "togri_javob": "Animatsiya va tovushli kuzatuvli o‘quv kurslari"
     },
     {
-      "savol": "O‘zbekiston Respublikasi 2030-yilga borib, sun’iy intellekt bo‘yicha TOP nechta davlatlar qatoriga kirishni maqsad qilgan.",
-      "togri_javob": "“TOP-50” ta davlat qatoriga kirish"
-    },
-    {
       "savol": "Oliy ta’lim muassasalarida Google Workspace dan foydalanishning qanday afzalligi bor?",
       "togri_javob": "Hujjatlarni masofadan turib real vaqtda tahrirlash imkoni"
-    },
-    {
-      "savol": "“Bir million o‘zbek dasturchisi” loyihasining mantiqiy davomi sifatida qanday loyiha boshlangan?",
-      "togri_javob": "“Bir million sun’iy intellekt yetakchisi”"
     },
     {
       "savol": "“Yangi O‘zbekiston” universitetida sun’iy intellekt bo‘yicha 2026 yilda qancha nafar trener-o‘qituvchi tayyorlanishi belgilandi?",
@@ -821,20 +677,12 @@
       "togri_javob": "Innovatsion loyihalarning iqtisodiyotga integratsiyasini kengaytirishga"
     },
     {
-      "savol": "Patent qancha muddat amal qiladi?",
-      "togri_javob": "Yigirma yil"
-    },
-    {
       "savol": "Innovatsiya bilan ixtiro o'rtasidagi asosiy farq nimada?",
       "togri_javob": "Innovatsiya - bu ixtironing amaliyotga joriy etilishi"
     },
     {
       "savol": "Universitetning raqobatbardoshligini oshirishda qaysi omil eng muhim?",
       "togri_javob": "Ilmiy-tadqiqot va innovatsiyalar"
-    },
-    {
-      "savol": "Innovatsion jarayonning asosiy bosqichlari qaysilar?",
-      "togri_javob": "G'oya, tadqiqot, rivojlantirish, tijoratlashtirish"
     },
     {
       "savol": "Har bir ta’lim oluvchi va jamoaga ta’sir o‘tkazishda samarali qo‘llash uchun zarur bo‘lgan malaka va ko‘nikmalar, usullar majmuasi bu-?",
@@ -879,10 +727,6 @@
     {
       "savol": "\"Hard skills\" nima?",
       "togri_javob": "Aniq o'lchanadigan bilimlar majmui"
-    },
-    {
-      "savol": "Muloqotda axborot almashish vazifasi qanday vositalar orqali amalga oshadi?",
-      "togri_javob": "Nutq, paralingvistik tizim, ko'z qarashlar"
     },
     {
       "savol": "Xalqaro hamjamiyat ta’lim tizimida mavjud bir nechta turdagi kredit tizimlarini ko'rsating ?",
@@ -957,10 +801,6 @@
       "togri_javob": "Respublika komissiyasiga"
     },
     {
-      "savol": "Quyida keltirilgan qaysi tamoyil Yangi O‘zbekiston konsepsiyasining asosiy mazmunini o‘zida aks ettiradi?",
-      "togri_javob": "1), 2), 5)"
-    },
-    {
       "savol": "Har yili avgust oyida platformaga “Elektron hukumat” tizimi orqali o‘zini-o‘zi band qilgan bitiruvchilar haqidagi ma’lumotlarni kiritish kimning zimmasiga yuklangan?",
       "togri_javob": "Oliy va kasbiy ta’lim tashkiloti"
     },
@@ -997,16 +837,8 @@
       "togri_javob": "Matnni tahlil qilish va farqlarni aniqlash"
     },
     {
-      "savol": "Uzoq masofali aloqa standarti keltirilgan javobni toping?",
-      "togri_javob": "LoRA"
-    },
-    {
       "savol": "Dass protokoli qaysi turdagi protokol oilasiga kiradi",
       "togri_javob": "vositachi"
-    },
-    {
-      "savol": "Klassik shifrlarda matnning harf chastotasini qanday tahlil qilish mumkin?",
-      "togri_javob": "Eng ko'p uchraydigan harflarni aniqlash"
     },
     {
       "savol": "Klassik shifrlarni buzish uchun qanday sodda tahlil usullari mavjud?",
@@ -1023,10 +855,6 @@
     {
       "savol": "eSTREAM loyihasida qurilmaga amalga oshirishga qulay va cheklangan imkoniyatli qurilmalarda ishlovchi oqimli shifrlar uchun qanday talablar qo'yilgan?",
       "togri_javob": "80-bitli kalit, 32 va 64 bitli IVni qo'llab quvvatlashi kerak"
-    },
-    {
-      "savol": "Dasturiy ta’minot o‘z vazifasini bajarishi kerak bo‘lgan vaqtinchalik ma’lumotlar uchun ishlatiladigan xotira bu?",
-      "togri_javob": "RAM"
     },
     {
       "savol": "Ushbu sinf qurilmalari kamroq cheklangan va asosan noutbuklar yoki serverlarda ishlatiladigan protokollar steklarining ko‘pini qo‘llab-quvvatlashga qodir. Gap RFC7228ning qaysi sinfi haqida bormoqda?",
@@ -1047,10 +875,6 @@
     {
       "savol": "Klassik shifrlarni tahlil qilishda qanday sodda usullar ishlatiladi?",
       "togri_javob": "Harf chastotasini tahlil qilish va brute-force usuli"
-    },
-    {
-      "savol": "Ananaviy tarmoqdagi IP protokoli vazifasini IoT protokoli stekida qaysi protokol amalga oshiradi?",
-      "togri_javob": "IPv6/6LowPAN"
     },
     {
       "savol": "bazis vektorlar $b_1=(2,1)$, $b_2=(1,3)$ ga teng, $z_1=1$, $z_2=1$ ga teng bo'lsa, $\\Lambda = z_1 b_1 + z_2 b_2$ panjara nuqtasini hisoblang?",
@@ -1329,10 +1153,6 @@
       "togri_javob": "2,3 million gektar o‘rmonzorlarni barpo etish va ekologik innovatsiyalarni joriy qilish"
     },
     {
-      "savol": "“Ma’naviy qashshoqlik” tushunchasi nimani anglatadi?",
-      "togri_javob": "Insonning milliy va umuminsoniy qadriyatlardan uzoqlashishi va o'zligini yo'qotishi"
-    },
-    {
       "savol": "“Yashil iqtisodiyot” tamoyillarini hayotga tatbiq etishdan kutilayotgan asosiy natijalar nimalardan iborat?",
       "togri_javob": "Atrof-muhitni muhofaza qilish va barqaror iqtisodiy o‘sishga erishish"
     },
@@ -1395,10 +1215,6 @@
     {
       "savol": "Kriptografik bardoshlilik qaysi omillarga bog'liq?",
       "togri_javob": "Algoritmga nisbatan ma'lum hujum usullarining mavjudligi va tizimning ularga chidamliligi"
-    },
-    {
-      "savol": "Raqamli sertifikat kim tomonidan imzolanadi?",
-      "togri_javob": "Certificate authority (Sertifikatlashtirish markazi) tomonidan"
     },
     {
       "savol": "Kyber (Kaber) sxemasi qaysi LWR (Learning with Rounding) variantidan foydalangan?",
@@ -1473,10 +1289,6 @@
       "togri_javob": "Eng qisqa vektor muammosi (SVP)"
     },
     {
-      "savol": "PKI (Public Key Infrastructure) tizimining asosiy vazifasi nima?",
-      "togri_javob": "Ochiq kalitning haqiqatdan ham kimga tegishli ekanligini tasdiqlash va boshqarish"
-    },
-    {
       "savol": "Kriptografik tahlilda qo‘shimcha kanallardan (side-channel) foydalanishdan maqsad nima?",
       "togri_javob": "Qurilmaning ishlash vaqti, quvvat iste'moli yoki elektromagnit nurlanishidan foydalanib maxfiy ma'lumotlarni olish"
     },
@@ -1525,24 +1337,16 @@
       "togri_javob": "Qonun hujjatlariga rioya etishi, oʻz mansab yoki xizmat majburiyatlarini begʻarazlik bilan, xolisona, vijdonan, odob-axloq qoidalariga rioya etgan holda bajarishi hamda korrupsiyaga oid biror-bir huquqbuzarlikni sodir etishdan yoki bunday huquqbuzarliklarni sodir etish uchun shart-sharoitlar yaratadigan boshqa har qanday harakatlardan oʻzini tiyishi"
     },
     {
-      "savol": "Professor-o‘qituvchilarning egallab turgan lavozimlari bo‘yicha o‘quv yuklamasi hajmi qanday tasdiqlanadi?",
-      "togri_javob": "Fakultet dekani (kafedra mudiri)ning taklifiga muvofiq oliy ta’lim muassasasining Kengashi tomonidan tasdiqlanadi"
-    },
-    {
       "savol": "Oliy ta’lim tashkilotlarida bitiruv malakaviy ishining mavzulari qaysi kengashda va qachon tasdiqlanadi?",
       "togri_javob": "Bitiruv malakaviy ishining mavzulari bitiruv semestri boshlanguniga qadar oliy ta’lim tashkiloti Kengashining qarori bilan tasdiqlanadi"
     },
     {
       "savol": "Yakuniy davlat attestatsiyasi belgilangan maxsus (majburiy) fanlardan umumlashgan ma’ruzalar va maslahatlar o‘tkazish uchun necha soat ajratiladi?",
-      "togri_javob": "12 soat ajratiladi"
+      "togri_javob": "6 soat ajratiladi"
     },
     {
       "savol": "Yakuniy davlat attestatsiyasi Komissiya raisligiga nomzodlar ro‘yxati kim tomonidan shakllantiriladi?",
       "togri_javob": "OTM tomonidan shakllantiriladi"
-    },
-    {
-      "savol": "Interfaol testlar va prezentatsiyalar platformasi?",
-      "togri_javob": "Kahoot"
     },
     {
       "savol": "Raqamli ta’lim jarayonining Hamkorlikda o‘rganish tamoyili – ?",
@@ -1577,14 +1381,6 @@
       "togri_javob": "Ma’lumotlarga asoslangan tahlil, o‘qitish va o‘zaro aloqa uchun texnologiya"
     },
     {
-      "savol": "2026/2027 o‘quv yilida Oliygohlarda sun’iy intellekt, fintex, kiberxavfsizlik, IT muhandislik, aerokosmik va bulutli texnologiyalar kabi yo‘nalishlar uchun davlat granti kvotalari necha foizga oshiriladi?",
-      "togri_javob": "30 foizga"
-    },
-    {
-      "savol": "“Yangi O‘zbekiston” universitetida sun’iy intellekt bo‘yicha 2026 yilda qancha nafar trener-o‘qituvchi tayyorlanishi belgilandi?",
-      "togri_javob": "1 ming nafar"
-    },
-    {
       "savol": "Universitet 1,0 modeli bu.......?",
       "togri_javob": "Parij modeli faqat ta’lim berish makoni bo‘lib, uning maqsadi bilim yetkazib berishdan iborat"
     },
@@ -1605,10 +1401,6 @@
       "togri_javob": "bosqichma-bosqich kengayib borayotgan va bugungi kunda “raqamli inqilob”ga aylanib borayotgan ta’lim texnologiyasi, ta’lim rivojlanishining yetakchi trendi"
     },
     {
-      "savol": "Yashil texnologiyalarning rivojlanishiga asosiy to‘siq nima?",
-      "togri_javob": "Moliya resurslarining yetishmasligi"
-    },
-    {
       "savol": "Tadbirkorlik universiteti faoliyatining muhim yo‘nalishi bo‘lib quyidagi konsalting turlari hisoblandi?",
       "togri_javob": "Amaliy tadqiqotlar; tarmoq va ichki tahlil; tadbirkorlarni ular rivojlanishining turli bosqichlarda maslahat berish, uzviy aloqada bo‘lish"
     },
@@ -1623,14 +1415,6 @@
     {
       "savol": "OTMlarda innovatsion faoliyatni rivojlantirishda qaysi xususiyat eng muhim?",
       "togri_javob": "Tadbirkorlik ekotizimining shakllanganligi"
-    },
-    {
-      "savol": "O'qitish va ta'lim tushunchalari o'rtasidagi asosiy farq qanday?",
-      "togri_javob": "O'qitish - jarayon, ta'lim - natija"
-    },
-    {
-      "savol": "\"Kvartil\" tushunchasi ilmiy jurnallarni baholashda nimani anglatadi?",
-      "togri_javob": "Jurnalning muayyan fanda egallagan pozitsiyasini"
     },
     {
       "savol": "Avtoritar uslub bu-?",
@@ -1653,10 +1437,6 @@
       "togri_javob": "Mutaxassis tomonidan kasbiy faoliyatni amalga oshirish uchun zarur bo‘lgan bilim, ko‘nikma va malakalarning egallanishi va ularni amalda yuqori darajada qo‘llay olinishi"
     },
     {
-      "savol": "Pantomimika bu–?",
-      "togri_javob": "gavda, qo‘l va oyoqlarning harakati bo‘lib, u pedagog tomonidan bayon etilayotgan muayyan fikrni alohida ajratib ko‘rsatishga, ma’lum qiyofa orqali gavlantirishga imkon beradi"
-    },
-    {
       "savol": "Shaxsiy kompetentlik?",
       "togri_javob": "Izchil ravishda kasbiy o‘sishga erishish, malaka darajasini oshirib borish, kasbiy faoliyatda o‘z ichki imkoniyatlarini namoyon qilish bilan bog‘liq kompetentlik"
     },
@@ -1665,20 +1445,8 @@
       "togri_javob": "ijtimoiy munosabatlarda faollik ko‘rsatish ko‘nikma, malakalariga egalik, kasbiy faoliyatda sub’ektlar bilan muloqotga kirisha olish"
     },
     {
-      "savol": "\"Hard skills\" nima?",
-      "togri_javob": "Aniq o'lchanadigan bilimlar majmui"
-    },
-    {
-      "savol": "Pedagogik takt (dahldorlik) nima?",
-      "togri_javob": "Axloqiy xulq-atvor, xatti-harakat"
-    },
-    {
       "savol": "21-asr pedagogikasida kasbiy rivojlanishda qaysi qobiliyatlar muhim hisoblanadi?",
       "togri_javob": "Uzluksiz ta'lim olish qobiliyati"
-    },
-    {
-      "savol": "Ta'lim texnologiyasi qanday ta'riflanadi?",
-      "togri_javob": "Ta'lim jarayonini yuqori darajada tashkil etish"
     },
     {
       "savol": "Ta’lim sifatiga ta’sir qiluvchi tashqi omillar:",
@@ -1693,16 +1461,8 @@
       "togri_javob": "Amaliy tadqiqotlar"
     },
     {
-      "savol": "Individual nazorat, nazorat shakllarining qaysi turiga kiradi?",
-      "togri_javob": "Og‘zaki nazorat"
-    },
-    {
       "savol": "Umumiy nazariya doirasidagi ilmiy bashoratni nima tavsiflaydi?",
       "togri_javob": "Gipoteza"
-    },
-    {
-      "savol": "Baholash tamoyillarini  ko'rsating",
-      "togri_javob": "Beg‘arazlik, keng qamrovlilik, muntazamlilik, maqsadga yo‘naltirilganlik,  ishonchlilik"
     },
     {
       "savol": "Kredit-modul tizimida talabaning fanni o‘zlashtirishini ta’minlash uchun qanday shart qo’yiladi?",
@@ -1711,10 +1471,6 @@
     {
       "savol": "Reproduktiv darajali topshiriqlar nimani talab qiladi?",
       "togri_javob": "O‘quv materialini qayta ishlamasdan javob berish"
-    },
-    {
-      "savol": "Quyidagilardan qaysi biri talabaning mustaqil ish faoliyatini aniqlash usuli hisoblanadi?",
-      "togri_javob": "Ishni og‘zaki yoki yozma tarzda himoya qilish"
     },
     {
       "savol": "Baholash mezonining asosiy vazifasi nima?",
@@ -1737,24 +1493,8 @@
       "togri_javob": "Diversifikatsiya"
     },
     {
-      "savol": "2025-yilda yetakchi xalqaro reyting agentliklari mamlakatimizning suveren reytingini qaysi pog‘onaga ko‘tardi?",
-      "togri_javob": "BBB-"
-    },
-    {
-      "savol": "“Ma’naviy qashshoqlik” tushunchasi nimani anglatadi?",
-      "togri_javob": "Hayotda maqsad va ma'no yo'qligi"
-    },
-    {
       "savol": "Yangi O‘zbekiston, Uchinchi Renessans poydevorini barpo etish uchun avvalo-?",
       "togri_javob": "uning mustahkam iqtisodiy, moddiy-texnik asoslarini yaratish kerak"
-    },
-    {
-      "savol": "Har yili avgust oyida platformaga “Elektron hukumat” tizimi orqali o‘zini-o‘zi band qilgan bitiruvchilar haqidagi maʼlumotlarni kiritish kimning zimmasiga yuklangan?",
-      "togri_javob": "Oliy va kasbiy taʼlim tashkiloti"
-    },
-    {
-      "savol": "“O‘zbekiston — 2030” strategiyasini to‘liq, o‘z vaqtida va sifatli bajarilishini tashkil etish, shuningdek, uni amalga oshirish bo‘yicha tegishli yillik dasturlarni tayyorlash va ijrosini muvofiqlashtirishni amalga oshirish qaysi tashkilot zimmasiga yuklangan?",
-      "togri_javob": "Respublika komissiyasiga"
     },
     {
       "savol": "Quyida keltirilgan qaysi tamoyil Yangi O‘zbekiston konsepsiyasining asosiy mazmunini o‘zida aks ettiradi? 1) Inson qadri ustuvorligi 2) Aholi bandligini ta`minlash 3) Mintaqaviy hamkorlik 4) Iqtisodiy islohotlar va rivojlanish 5) Yoshlarga sifatli ta`lim berish",
@@ -1763,10 +1503,6 @@
     {
       "savol": "[{M}Alisa]Alisa = ?",
       "togri_javob": "{M}"
-    },
-    {
-      "savol": "Simmetrik va asimmetrik kriptografik tizimlar o'rtasidagi asosiy farq nima?",
-      "togri_javob": "Simmetrik tizimda bitta kalit, asimmetrik tizimda ikkita kalit ishlatiladi"
     },
     {
       "savol": "a va b sonlarning EKUB qaysi algoritm yordamida topiladi",
@@ -1791,10 +1527,6 @@
     {
       "savol": "NIST testlari to‘plamidan qaysi tahlil maqsadida foydalaniladi?",
       "togri_javob": "Generatorning tasodifiy sonlar hosil qilish qobiliyatini baholash"
-    },
-    {
-      "savol": "\"IoT texnologiyalari shahar holati to‘g‘risidagi ma’lumotlarni to‘plash va ularni fuqarolarga tarqatish uchun muhim hisoblanadi\". Bu qaysi IoT ilovasiga misol bo‘la oladi?",
-      "togri_javob": "aqlli shaharlar"
     },
     {
       "savol": "Grover algoritmi qaysi turdagi kriptografik algoritmlarga jiddiy ta'sir o'tkazadi?",
@@ -1834,7 +1566,7 @@
     },
     {
       "savol": "Kriptografik protokollarda vositachi kim?",
-      "togri_javob": "Bir-biriga ishonchi boʻlgan 2 tomonga, nizolarni yechishga yordam beradigan uchunchi tomon"
+      "togri_javob": "Protokolni bajarilishini yakuniga yetkazishga ishonch bildirilgan manfaatdor boʻlmagan uchinchi tomon"
     },
     {
       "savol": "2012-yilda Adeline Langlois va Damien Stehlé tomonidan taklif qilingan LWE varianti?",
@@ -1877,10 +1609,6 @@
       "togri_javob": "868–870 MGts"
     },
     {
-      "savol": "MD5 algoritmini zamonaviy tizimlarda ishlatish xavfsizmi?",
-      "togri_javob": "Yo'q, kolliziya zaifligi mavjud"
-    },
-    {
       "savol": "SET protokolida sertifikatlarni tarqatish qanday amalga oshiriladi?",
       "togri_javob": "Iyerarxik tizim orqali"
     },
@@ -1905,112 +1633,20 @@
       "togri_javob": "Ma’ruza, seminar, amaliy mashg‘ulot, laboratoriya, mustaqil ta’lim va boshqa ta’lim elementlaridan iborat bo‘lishi mumkin"
     },
     {
-      "savol": "Bakalavriat ta’lim yo‘nalishlari va uning negizidagi magistratura mutaxassisliklarining ro‘yxati qaysi organ tomonidan belgilanadi?",
-      "togri_javob": "O‘zbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi"
-    },
-    {
-      "savol": "Masofaviy ta’lim qaysi tamoyillar asosida tashkil etiladi?",
-      "togri_javob": "Talabalarning identifikatsiya qilinishi; yangi axborot-kommunikatsiya texnologiyalarini qo‘llashning pedagogik maqsadga muvofiqligi; ta’lim berishning ochiqligi va moslashuvchanligi"
-    },
-    {
-      "savol": "Professor-o‘qituvchilarning egallab turgan lavozimlari bo‘yicha o‘quv yuklamasi hajmi qanday tasdiqlanadi?",
-      "togri_javob": "Fakultet dekani (kafedra mudiri)ning taklifiga muvofiq oliy ta’lim muassasasining Kengashi tomonidan tasdiqlanadi"
-    },
-    {
-      "savol": "O‘zbekiston Respublikasi 2030-yilga borib, sun’iy intellekt bo‘yicha TOP nechta davlatlar qatoriga kirishni maqsad qilgan.",
-      "togri_javob": "“TOP-50” ta davlat qatoriga kirish"
-    },
-    {
-      "savol": "“Yangi O‘zbekiston” universitetida sun’iy intellekt bo‘yicha 2026 yilda qancha nafar trener-o‘qituvchi tayyorlanishi belgilandi?",
-      "togri_javob": "1 ming nafar"
-    },
-    {
-      "savol": "Kadrlar tayyorlash bo‘yicha qaysi loyiha bilan “100 ming” yoshlar o‘qitilishi belgilandi?",
-      "togri_javob": "“Bir million dasturchi” loyihasi"
-    },
-    {
-      "savol": "“Bir million o‘zbek dasturchisi” loyihasining mantiqiy davomi sifatida qanday loyiha boshlangan?",
-      "togri_javob": "“Bir million sun’iy intellekt yetakchisi”"
-    },
-    {
-      "savol": "Innovatsion jarayonning asosiy bosqichlari qaysilar?",
-      "togri_javob": "G'oya, tadqiqot, rivojlantirish, tijoratlashtirish"
-    },
-    {
-      "savol": "Ilmiy maqola yozishda IMRD tuzilmasi nimani anglatadi?",
-      "togri_javob": "Kirish, metodlar, natijalar, muhokama"
-    },
-    {
-      "savol": "SWOT-tahlil qaysi komponentlarni o'z ichiga oladi?",
-      "togri_javob": "Kuchli, zaif, imkoniyat va tahdid tomonlar"
-    },
-    {
-      "savol": "Oliy ta'limning global trendlaridan biri - bu:",
-      "togri_javob": "Ta’lim xizmatlarining bozorlashuvi va raqobatning ortishi"
-    },
-    {
-      "savol": "Pedagogik takt (dahldorlik) nima?",
-      "togri_javob": "Axloqiy xulq-atvor, xatti-harakat"
-    },
-    {
-      "savol": "Refleksiv innovatsion amaliyot nimaga qaratilgan?",
-      "togri_javob": "O'qituvchi ijodiy imkoniyatlarini rivojlantirish"
-    },
-    {
-      "savol": "Pedagogik mahoratning tarkibiy elementlari nimalar?",
-      "togri_javob": "Pedagogik texnika, nutq madaniyati, kommunikativ qobiliyat"
-    },
-    {
-      "savol": "Muloqotda axborot almashish vazifasi qanday vositalar orqali amalga oshadi?",
-      "togri_javob": "Nutq, paralingvistik tizim, ko'z qarashlar"
-    },
-    {
       "savol": "Kredit-modul tizimida talabalar tanlagan fanlarini o‘zgartirishi mumkinmi?",
-      "togri_javob": "Talabalar tanlagan fanlarini har semestrning ikkinchi haftasiga qadar o‘zgartirishi mumkin"
-    },
-    {
-      "savol": "Kredit-modul tizimida baholash usullari o‘z ichiga nimalarni qamrab oladi?",
-      "togri_javob": "Baholash usullari fan yoki modul doirasidagi talabaning yutuqlarini aks ettiruvchi va tasdiqlovchi yozma, og‘zaki, amaliy ish, loyiha, portfolio kabi turlarni o‘z ichiga qamrab oladi"
+      "togri_javob": "Talabalar tanlagan fanlarini har semestrning dastlabki birinchi haftasi ichida o‘zgartirishi mumkin"
     },
     {
       "savol": "Mustaqil ta’limda talabalarning o‘z-o‘zini nazorat qilishi qanday ta’minlanadi?",
       "togri_javob": "Baholash mezonlarini oldindan berish orqali"
     },
     {
-      "savol": "Mustaqil ta’limda plagiatning oldini olish uchun nima qilish kerak?",
-      "togri_javob": "Akademik va etik talablarga rioya qilishni ta’minlash"
-    },
-    {
-      "savol": "Global innovatsion indeksda O‘zbekiston Respublikasining o‘rnini yaxshilash va 2030-yilga qadar qanday reyting qatoriga kirish rejalashtirilgan?",
-      "togri_javob": "TOP-50"
-    },
-    {
-      "savol": "Inson kapitali nima?",
-      "togri_javob": "Odamning mehnatni iqtisodiy qiymatini oshiradigan tarzda bajarishi uchun yordam beradigan bilim, ko‘nikma, tajriba va ijtimoiy fazilatlar yig‘indisi"
-    },
-    {
       "savol": "Jamoatchilik nazorati subektlari bu?",
       "togri_javob": "O‘zbekiston Respublikasi fuqarolari, fuqarolarning o‘zini o‘zi boshqarish organlari, shuningdek? qonunchilikda belgilangan tartibda ro‘yxatga olingan nodavlat notijorat tashkilotlari, ommaviy axborot vositalari"
     },
     {
-      "savol": "Milliy ma'naviyatning inqirozi qaysi oqibatga olib kelishi mumkin?",
-      "togri_javob": "Xalqning o‘zligidan uzoqlashishiga sabab bo‘ladi"
-    },
-    {
-      "savol": "Integral kriptotahlil qachon samarali hisoblanadi?",
-      "togri_javob": "Ma'lum shifrlash bloklarida bitlarning umumiy yig'indisi kuzatilganda"
-    },
-    {
-      "savol": "Monoalfavitli shifrni buzishda qanday sodda usul ishlatiladi?",
-      "togri_javob": "Harf chastotasi tahlili"
-    },
-    {
       "savol": "RFC7228da 1-sinf (Class 1) qurilmalari imkoniyati keltirilgan javobni toping?",
       "togri_javob": "RAM (~10 KiB), ROM (~100 KiB)"
-    },
-    {
-      "savol": "Simmetrik blokli shifrlarni qurishning ARX usuliga asoslangan oqimli shifrlarni ko'rsating?",
-      "togri_javob": "Salsa20, ChaCha20"
     },
     {
       "savol": "Quyida keltirilgan xususiyatlarning qaysilari xesh funksiyaga mos",
@@ -2021,44 +1657,12 @@
       "togri_javob": "Katta ma’lumotlarni qayta ishlash va mashinaviy o‘qitishda"
     },
     {
-      "savol": "Klassik shifrlarni buzish uchun qanday sodda tahlil usullari mavjud?",
-      "togri_javob": "Brute-force va harf chastotasini tahlil qilish"
-    },
-    {
-      "savol": "Ko‘p o‘zgaruvchili kriptografiyaga oid muammoni ko'rsating?",
-      "togri_javob": "(Isomorphism of Polynomials, IP) muammosi"
-    },
-    {
-      "savol": "Tasodifiy sonlar generatorlarini tahlil qilish uchun qaysi testlar qo‘llaniladi?",
-      "togri_javob": "DIEHARD va NIST testlari"
-    },
-    {
       "savol": "\"Dushmanlar kvant kompyuterlari mavjud bo‘lganda shifrlangan ma’lumotlarni ochish niyatida hozir saqlashlari mumkin\". Bu qaysi hujumni ko'rsatadi?",
       "togri_javob": "Harvest Now, Decrypt Later"
     },
     {
-      "savol": "Kvant kompyuterlarining ilovalari keltirilgan qatorni ko'rsating?",
-      "togri_javob": "Barcha javoblar to'g'ri"
-    },
-    {
-      "savol": "Kriptografik protokollarda vositachi kim?",
-      "togri_javob": "Bir-biriga ishonchi boʻlgan 2 tomonga, nizolarni yechishga yordam beradigan uchunchi tomon"
-    },
-    {
       "savol": "Algebraik tahlilning oqimli shifrlash algoritmlariga ta’siri qanday?",
       "togri_javob": "Matematik tenglamalar orqali algoritmlarning zaif tomonlarini aniqlash"
-    },
-    {
-      "savol": "Zarralar bir-biridan qanchalik uzoqda bo‘lishidan qat’i nazar, bir zarraning holati boshqasining holati bilan darhol bog‘langan holda bo‘lish hodisasi bu?",
-      "togri_javob": "Chalkashlik tamoyili"
-    },
-    {
-      "savol": "SET protokolida ishlatilgan kriptografik algoritm qaysi?",
-      "togri_javob": "RSA va DES"
-    },
-    {
-      "savol": "Xavfsiz, n-bitli chiqishga ega xesh funksiya uchun kolliziya hujumiga bardoshlik nechta amalni talab etishi kerak?",
-      "togri_javob": "2^(n/2)"
     },
     {
       "savol": "Chiziqli kriptotahlilda statistik tahlil qanday amalga oshiriladi?",
@@ -2073,356 +1677,28 @@
       "togri_javob": "Xesh funksiyalarida ikkita bir xil xesh qiymatni topish ehtimoli"
     },
     {
-      "savol": "1996-yilda Hoffstein, Pipher va Silverman tomonidan ishlab chiqilgan panjaraga asoslangan tizim bu?",
-      "togri_javob": "NTRU"
-    },
-    {
       "savol": "DIEHARD testlari qaysi sohada qo'llaniladi?",
       "togri_javob": "Tasodifiy sonlar generatorlarining tasodifiyligini baholashda"
-    },
-    {
-      "savol": "SFTP protokoli nima uchun ishlatiladi?",
-      "togri_javob": "Xavfsiz fayl almashish"
     },
     {
       "savol": "Algebraik kriptotahlilda qanday vositalar qo'llaniladi?",
       "togri_javob": "Matematik tenglamalar tizimlarini yechish usullari"
     },
     {
-      "savol": "Fiat-Shamir protokolida N=pq bo'lganda p va q qanday sonlar bo‘lishi kerak?",
-      "togri_javob": "Katta tub sonlar"
-    },
-    {
       "savol": "RFC7228da 0-sinf (Class 0) qurilmalari imkoniyati keltirilgan javobni toping?",
       "togri_javob": "RAM (<<10 KiB), ROM (<<100 KiB)"
-    },
-    {
-      "savol": "Qisqa masofali aloqa standartlariga qaysilar kiradi?",
-      "togri_javob": "IEEE 802.11, IEEE 802.15.1, IEEE 802.15.4"
-    },
-    {
-      "savol": "Davlat xaridlarini amalga oshirish sohasida korrupsiyaning oldini olishga doir chora-tadbir toʻgʻri koʻrsatilgan javobni belgilang. (KQK toʻgʻrisidagi Qonunning 23-moddasi)",
-      "togri_javob": "Oʻz ixtiyoricha harakat qilish vakolatlarini cheklagan holda maʼmuriy tartib-taomillarni batafsil tartibga solish, byurokratik rasmiyatchilikka yoʻl qoʻymaslik"
-    },
-    {
-      "savol": "Mutaxassislik?",
-      "togri_javob": "Malaka berish bilan yakunlanadigan muayyan kasbiy tayyorgarlik turining nomi"
-    },
-    {
-      "savol": "Pedagogik faoliyat bilan bogʻliq lavozimlar roʻyxati kim tomonidan belgilanadi?",
-      "togri_javob": "Oʻzbekiston Respublikasi Vazirlar Mahkamasi tomonidan"
-    },
-    {
-      "savol": "Masofaviy ta’lim shakldagi bir ta’lim yo‘nalishiga talabalar qabulining soni?",
-      "togri_javob": "300 nafardan ortiq bo‘lmasligi kerak"
-    },
-    {
-      "savol": "Davlat standarti quyidagilarga muvofiq ishlab chiqilgan?",
-      "togri_javob": "“Ta’lim to‘g‘risida” Qonuni va boshqa qonunchilik hujjatlari, YUNESKO (UNESCO) tomonidan joriy qilingan “Ta’limning xalqaro standart klassifikatsiyasi” (TXSK 2011) va “TXSK: Ta’lim va kasbiy tayyorlash sohalari” (TXSK-S 2013)ga"
-    },
-    {
-      "savol": "Davlat ta’lim standartlari nimalarni belgilaydi?",
-      "togri_javob": "Davlat tomonidan ta’limning mazmuni va sifatiga nisbatan belgilanadigan talablar majmui"
-    },
-    {
-      "savol": "Davlat hokimiyatining birdan-bir manbai qaysi javobda to‘g‘ri berilgan?",
-      "togri_javob": "Xalq"
-    },
-    {
-      "savol": "Masofaviy ta’lim qaysi tamoyillar asosida tashkil etiladi?",
-      "togri_javob": "Talabalarning identifikatsiya qilinishi; yangi axborot-kommunikatsiya texnologiyalarini qo‘llashning pedagogik maqsadga muvofiqligi; ta’lim berishning ochiqligi va moslashuvchanligi"
-    },
-    {
-      "savol": "Masofaviy ta’lim shakli asosida kadrlar tayyorlashda bir magistratura mutaxassisligiga qabul parametrlari necha talabadan ortiq bo‘lmasligi lozim?",
-      "togri_javob": "Bir magistratura mutaxassisligiga 20 nafar"
-    },
-    {
-      "savol": "Masofaviy ta’lim shakli asosida kadrlar tayyorlashda bir magistratura mutaxassisligiga qabul parametrlari necha talabadan ortiq bo‘lmasligi lozim?",
-      "togri_javob": "Bir magistratura mutaxassisligiga 20 nafar"
-    },
-    {
-      "savol": "Oliy ta’lim tashkilotlarining ichki baxolash natijalarini ishonchliligi uchun kim javobgar xisoblanadi?",
-      "togri_javob": "Ta’lim tashkiloti rahbari"
-    },
-    {
-      "savol": "Pedagogning raqamli izi deganda nimani tushunasiz?",
-      "togri_javob": "Pedagogning kasbiy faoliyatida raqamli texnologiyalardan foydalanish jarayonida qoldiradigan ma’lumotlar to‘plami"
-    },
-    {
-      "savol": "Google xizmatidagi papkalarga joylashtirilgan fayllar bilan quyidagi standart amallarni bajarish mumkin?",
-      "togri_javob": "Yaratish, o‘chirish, ko‘chirish, almashish"
-    },
-    {
-      "savol": "Mualliflik huquqi qanday huquqlarga ajraladi?",
-      "togri_javob": "Shaxsiy-nomulkiy mualliflik huquqi va mutlaq mualliflik huquqi"
     },
     {
       "savol": "\"Flipped classroom\" usuli raqamli texnologiyalar kontekstida nimani anglatadi?",
       "togri_javob": "Talabalarning uyda raqamli resurslar orqali materiallarni o‘rganishi hamda auditoriyada  amaliy topshiriqlarni bajarishi"
     },
     {
-      "savol": "Raqamli kompetentlik – bu...?",
-      "togri_javob": "zamonaviy raqamli texnologiyalar bilan bog‘liq kompetensiyalarni tavsiflovchi yangi tushunchalardan biri hisoblanadi"
-    },
-    {
-      "savol": "Onlayn xotira?",
-      "togri_javob": "Internet tarmog‘i orqali masofadan foydalanish imkonini beruvchi ma’lumotlarni xavfsiz saqlanishi"
-    },
-    {
-      "savol": "Kadrlar tayyorlash bo‘yicha qaysi loyiha bilan “100 ming” yoshlar o‘qitilishi belgilandi?",
-      "togri_javob": "“Bir million dasturchi” loyihasi"
-    },
-    {
-      "savol": "Adaptiv o‘qitish yo‘nalishi nima?",
-      "togri_javob": "Talaba natijalariga qarab o‘zgaruvchi trayektoriya"
-    },
-    {
-      "savol": "2026/2027 o‘quv yilida Oliygohlarda sun’iy intellekt, fintex, kiberxavfsizlik, IT muhandislik, aerokosmik va bulutli texnologiyalar kabi yo‘nalishlar uchun davlat granti kvotalari necha foizga oshiriladi?",
-      "togri_javob": "30 foizga"
-    },
-    {
-      "savol": "“Bir million o‘zbek dasturchisi” loyihasining mantiqiy davomi sifatida qanday loyiha boshlangan?",
-      "togri_javob": "“Bir million sun’iy intellekt yetakchisi”"
-    },
-    {
-      "savol": "Strategik rejalashtirish doirasida ichki muhitni tahlil etishning mashhur usullaridan biri –?",
-      "togri_javob": "SWOT"
-    },
-    {
-      "savol": "THE reytingi aniqlashda quyidagi universitetlar qatnasha olmaydi?",
-      "togri_javob": "yuqori kurs talabalarini o‘qitmaydiganlar, tor mutaxassisliklar tayyorlaydigan, besh yil ichida 1000 ta ilmiy ishlar, shu jumladan bir yilda 200 tadan kam nashr ettirganlar"
-    },
-    {
-      "savol": "THE reytingi aniqlashda quyidagi universitetlar qatnasha olmaydi?",
-      "togri_javob": "yuqori kurs talabalarini o‘qitmaydiganlar, tor mutaxassisliklar tayyorlaydigan, besh yil ichida 1000 ta ilmiy ishlar, shu jumladan bir yilda 200 tadan kam nashr ettirganlar"
-    },
-    {
-      "savol": "THE reytingi aniqlashda quyidagi universitetlar qatnasha olmaydi?",
-      "togri_javob": "yuqori kurs talabalarini o‘qitmaydiganlar, tor mutaxassisliklar tayyorlaydigan, besh yil ichida 1000 ta ilmiy ishlar, shu jumladan bir yilda 200 tadan kam nashr ettirganlar"
-    },
-    {
-      "savol": "DOI( Digital object identifier) – bu…?",
-      "togri_javob": "bugungi kunda zamonning ilmiy muloqot tizimining majburiy tarkibiy qismi hisoblanadi"
-    },
-    {
-      "savol": "Tadqiqot universiteti g‘oyasi qanday jarayonga mo‘ljal olishni ko‘zlagan edi?",
-      "togri_javob": "Universitetda olimlar tomonidan olib boriladigan intensiv ilmiy ishlarni tashkil etish jarayonini mo‘ljalga olish"
-    },
-    {
-      "savol": "Kvartil (chorak) Q-bu?",
-      "togri_javob": "ilmiy jurnallarning sitatalanganlik darajasini, ya’ni jurnalga ilmiy hamjamiyat tomonidan bo‘lgan talabni aks ettiruvchi bibliometrik ko‘rsatkichlarni aniqlovchi kategoriya"
-    },
-    {
-      "savol": "Innovatsion jarayonga salbiy ta’sir etuvchi ijtimoiy omillarni belgilang?",
-      "togri_javob": "eski va yangi dunyoqarashlarning qarama-qarshiliklar, katta yoshdagilar va yoshlar dunyoqarashlari orasidagi tafovutlar, innovatsiyalarni qabul qilishdagi demografik(yoshdagi) farqlar, - innovatsiya bilan ishlaydigan xodimlarni qayta tayyorlash va malakasini oshirishning zarurligi"
-    },
-    {
-      "savol": "Oliy ta'limning global trendlaridan biri - bu:",
-      "togri_javob": "Ta’lim xizmatlarining bozorlashuvi va raqobatning ortishi"
-    },
-    {
-      "savol": "\"Kvartil\" tushunchasi ilmiy jurnallarni baholashda nimani anglatadi?",
-      "togri_javob": "Jurnalning muayyan fanda egallagan pozitsiyasini"
-    },
-    {
       "savol": "Universiteti 4 0 modelining asosiy xususiyati nima?",
       "togri_javob": "Ta'lim, ilmiy tadqiqot, tijoratlashtirish va sotsium bilan integratsiyalashuv"
     },
     {
-      "savol": "O'qitish va ta'lim tushunchalari o'rtasidagi asosiy farq qanday?",
-      "togri_javob": "O'qitish - jarayon, ta'lim - natija"
-    },
-    {
-      "savol": "Refleksiv yondashuv nima ma‘noni anglatadi?",
-      "togri_javob": "lotincha - ortga qaytish) faqat sub’ektning o‘z-o‘zini bilishi va tushunishi emas, balki boshqalar uning shaxsiy xislatlari, his qilish tuyg‘usi va bilish (kognitiv) tasavvurlarini bilish hamda tushunishini aniqlab olishini ham anglatadi"
-    },
-    {
-      "savol": "Ta’lim texnologiyasi bu-?",
-      "togri_javob": "ta’lim (o‘qitish) jarayonining yuksak mahorat, san’at darajasida tashkil etilishi"
-    },
-    {
-      "savol": "Pantomimika bu–?",
-      "togri_javob": "gavda, qo‘l va oyoqlarning harakati bo‘lib, u pedagog tomonidan bayon etilayotgan muayyan fikrni alohida ajratib ko‘rsatishga, ma’lum qiyofa orqali gavlantirishga imkon beradi"
-    },
-    {
-      "savol": "Kasbiy kompetensiyalarni shakllanish bosqichlarini aniqlang?",
-      "togri_javob": "Xususiy tajriba, tajriba-sinov ishi, faoliyatga innovatsion yondashuv"
-    },
-    {
-      "savol": "“Relaksatsiya” qanday holat?",
-      "togri_javob": "Jismonan va ruhan bo‘shashish, butunlay osoyishtalik"
-    },
-    {
-      "savol": "Pedagogik texnikaning asosiy komponentlari?",
-      "togri_javob": "-о‘qituvchining o‘zini boshqara olishi;-shaxs va jamoaga ta’sir eta olishi;-pedagogik muloqotni o‘rnatish;diqqatni jalb etish usullari"
-    },
-    {
-      "savol": "O‘qituvchi axloqiy-ma’naviy qiyofasini namoyon etuvchi meyor tuyg‘usi yoki xulq va odob qoidalariga rioya qilishi qanday ataladi?",
-      "togri_javob": "Pedagogik nazokat"
-    },
-    {
-      "savol": "O‘qituvchi axloqiy-ma’naviy qiyofasini namoyon etuvchi meyor tuyg‘usi yoki xulq va odob qoidalariga rioya qilishi qanday ataladi?",
-      "togri_javob": "Pedagogik nazokat"
-    },
-    {
-      "savol": "Xorijiy tajribalarda kasbiy kompetentlikni rivojlantirish qaysi g'oyalarga asoslanadi?",
-      "togri_javob": "\"Lifelong Learning\" (hayot davomida o'rganish)"
-    },
-    {
-      "savol": "Texnologik yondashuv qanday ma'noga ega?",
-      "togri_javob": "Jarayonlarni yuksak mahorat darajasida tashkil etish"
-    },
-    {
-      "savol": "\"Soft skills\" nima?",
-      "togri_javob": "Moslashuvchan, egiluvchan malakalar"
-    },
-    {
-      "savol": "Tayanch kompetensiyalarni belgilashda muhim asos nima?",
-      "togri_javob": "Jamiyat ehtiyojlari"
-    },
-    {
-      "savol": "Modul – bu?",
-      "togri_javob": "Talabaning alohida ta’lim yo‘nalishinio‘zlashtirishi uchun sarflangan o‘quv yuklamasining (vaqtning) o‘lchov birligidir"
-    },
-    {
-      "savol": "Baholash tamoyillarini  ko'rsating",
-      "togri_javob": "Beg‘arazlik, keng qamrovlilik, muntazamlilik, maqsadga yo‘naltirilganlik,  ishonchlilik"
-    },
-    {
-      "savol": "Individual nazorat, nazorat shakllarining qaysi turiga kiradi?",
-      "togri_javob": "Og‘zaki nazorat"
-    },
-    {
-      "savol": "Test topshiriqlarining didaktik funksiyalari to‘liq berilgan javobni toping?",
-      "togri_javob": "Ta’limiy, tarbiyaviy, rivojlantiruvchi, nazorat"
-    },
-    {
-      "savol": "Start-ap loyiha tushunchasi dastlab nechanchi yilda kim tomonidan olib kirilgan?",
-      "togri_javob": "1976 yili Forbes"
-    },
-    {
-      "savol": "Berilgan savolga “ha” yoki “yo‘q” javobini berishni talab etadigan testlar bu-?",
-      "togri_javob": "alternativ javobli test topshirig‘i"
-    },
-    {
-      "savol": "“Oliy ta’lim muassasalarida o‘quv jarayoniga kredit-modul tizimini joriy etish tartibi to‘g‘risida”gi Nizom qachon tasdiqlangan?",
-      "togri_javob": "O‘zbekiston Respublikasi Vazirlar Mahkamasining 2020-yil 31-dekabrdagi 824-son Qarori bilan"
-    },
-    {
-      "savol": "Auditoriyadan tashqari mashg‘ulotlarda \"ko‘nikma va malaka\"lar asosan qayerda shakllanadi?",
-      "togri_javob": "Laboratoriya ishlari, amaliyot, loyiha va mustaqil topshiriqlarda"
-    },
-    {
-      "savol": "Quyidagilardan qaysi biri auditoriyadan tashqari mashg‘ulotni baholash usuli hisoblanadi?",
-      "togri_javob": "Mustaqil ishni yozma va og‘zaki himoya qilish"
-    },
-    {
-      "savol": "Baholashda \"ko‘p manbali yondashuv\" nimani bildiradi?",
-      "togri_javob": "Turli manbalar orqali bilim va tahlil darajasini baholashni"
-    },
-    {
-      "savol": "Quyidagilardan qaysi biri talabaning mustaqil ish faoliyatini aniqlash usuli hisoblanadi?",
-      "togri_javob": "Ishni og‘zaki yoki yozma tarzda himoya qilish"
-    },
-    {
-      "savol": "Yoshlarning ta'lim-tarbiyasida asosiy e'tibor qaratilishi lozim bo‘lgan jihat nima?",
-      "togri_javob": "Ularni axloqiy va ma'naviy tarbiyaga yo‘naltirish"
-    },
-    {
-      "savol": "Sud-huquq tizimidagi rejalashtirilgan islohotlardan birini belgilang.",
-      "togri_javob": "Ozodlikdan mahrum qilish jazosini tayinlash amaliyotini 30 foizdan 20 foizga kamaytirish"
-    },
-    {
-      "savol": "Global axborotlashuv jarayonining eng xavfli jihati qaysi?",
-      "togri_javob": "Milliy o‘zlikni yo‘qotishga olib kelishi"
-    },
-    {
-      "savol": "2025-yilda yetakchi xalqaro reyting agentliklari mamlakatimizning suveren reytingini qaysi pog‘onaga ko‘tardi?",
-      "togri_javob": "BBB-"
-    },
-    {
-      "savol": "Taraqqiyot strategiyasining maqsadlarini amalga oshirishda qanday asosiy indikatorlar qo‘llaniladi?",
-      "togri_javob": "Maqsadlarga erishganlik darajasi asosida baholash"
-    },
-    {
-      "savol": "Markaziy Osiyo mintaqasida amaliy hamkorlikni yangi bosqichga olib chiqish bo‘yicha rejalashtirilgan islohotlar?",
-      "togri_javob": "Umumiy sayyohlik makonini tashkil qilish"
-    },
-    {
-      "savol": "“O‘zbekiston — 2030” strategiyasini to‘liq, o‘z vaqtida va sifatli bajarilishini tashkil etish, shuningdek, uni amalga oshirish bo‘yicha tegishli yillik dasturlarni tayyorlash va ijrosini muvofiqlashtirishni amalga oshirish qaysi tashkilot zimmasiga yuklangan?",
-      "togri_javob": "Respublika komissiyasiga"
-    },
-    {
-      "savol": "Har yili avgust oyida platformaga “Elektron hukumat” tizimi orqali o‘zini-o‘zi band qilgan bitiruvchilar haqidagi maʼlumotlarni kiritish kimning zimmasiga yuklangan?",
-      "togri_javob": "Oliy va kasbiy taʼlim tashkiloti"
-    },
-    {
-      "savol": "Quyida keltirilgan qaysi tamoyil Yangi O‘zbekiston konsepsiyasining asosiy mazmunini o‘zida aks ettiradi? 1) Inson qadri ustuvorligi 2) Aholi bandligini ta`minlash 3) Mintaqaviy hamkorlik 4) Iqtisodiy islohotlar va rivojlanish 5) Yoshlarga sifatli ta`lim berish",
-      "togri_javob": "1), 2), 5)"
-    },
-    {
-      "savol": "1996-yilda Hoffstein, Pipher va Silverman tomonidan ishlab chiqilgan panjaraga asoslangan tizim bu?",
-      "togri_javob": "NTRU"
-    },
-    {
-      "savol": "PGP protokolida autentifikatsiyani ta'minlash uchun qaysi algoritmdan foydalaniladi?",
-      "togri_javob": "RSA"
-    },
-    {
-      "savol": "Post kvant kriptogafiyasiga oid algoritmlar amalga oshirilgan kutubxonani ko'rsating?",
-      "togri_javob": "Liboqs"
-    },
-    {
-      "savol": "Chiziqli kriptotahlil natijasi qanday olinadi?",
-      "togri_javob": "Chiziqli tenglamalar orqali kalitni topish"
-    },
-    {
-      "savol": "Uzoq masofali aloqa standarti keltirilgan javobni toping?",
-      "togri_javob": "LoRA"
-    },
-    {
-      "savol": "FTP protokoli zaifliklarini bartaraf qiluvchi xavfsiz protokolni belgilang",
-      "togri_javob": "SFTP"
-    },
-    {
-      "savol": "“Shrödingerning mushugi” fikrlash tajribasi qaysi tamoyilni tushuntirish uchun foydalaniladi?",
-      "togri_javob": "Superpozitsiya tamoyili"
-    },
-    {
-      "savol": "Panjara kriptografiyasida qisqa va deyarli ortogonal vektorlardan tashkil topgan bazis bu?",
-      "togri_javob": "yaxshi bazis"
-    },
-    {
-      "savol": "eSTREAM loyihasida dasturiy amalga oshirishga qulay va yuqori o‘tkazuvchan oqimli shifrlar uchun qanday talablar qo'yilgan?",
-      "togri_javob": "128-bitli kalit, 64 va 128 bitli boshlang‘ich vektorni (IV) qo‘llab quvvatlashi kerak"
-    },
-    {
-      "savol": "MD4 algoritmining kriptotahliliga qaysi usul ta'sir qiladi?",
-      "togri_javob": "Kolliziya hujumlari"
-    },
-    {
-      "savol": "El-Gamal algoritmi qaysi amalga nisbatan qisman gomomorflik xususiyatiga ega?",
-      "togri_javob": "Ko'paytiruv"
-    },
-    {
       "savol": "Qanday funksiyalarga xesh funksiya deyiladi",
       "togri_javob": "ixtiyoriy uzunlikdagi ma’lumotni biror fiksirlangan uzunlikga o‘tkazuvchi funksiyaga aytiladi"
-    },
-    {
-      "savol": "Kriptografik protokollarda arbitr qaysi kasb vakiliga qiyoslanadi?",
-      "togri_javob": "Sudya"
-    },
-    {
-      "savol": "Simmetrik kriptotizimlardagi qanday muammoni ochiq kalitli kriptotizimlar bartaraf etdi?",
-      "togri_javob": "maxfiy kalitni uzatish muammosini"
-    },
-    {
-      "savol": "Faktorlash muammosini hal qilish uchun qaysi algoritmlar qo'llaniladi?",
-      "togri_javob": "Kvadrat elak algoritmi va generalizatsiyalangan elak usuli"
-    },
-    {
-      "savol": "Diskret logarifmlash muammosining murakkabligini pasaytiruvchi omillar qaysilar?",
-      "togri_javob": "Kichik eksponent va modul qiymatlarining ishlatilishi"
     },
     {
       "savol": "\"Slaydli hujum\" qanday amalga oshiriladi?",
@@ -2433,40 +1709,8 @@
       "togri_javob": "agar p≡1,7 (mod 8) bo'lsa"
     },
     {
-      "savol": "Dasturiy ta’minot o‘z vazifasini bajarishi kerak bo‘lgan vaqtinchalik ma’lumotlar uchun ishlatiladigan xotira bu?",
-      "togri_javob": "RAM"
-    },
-    {
-      "savol": "Apparat xatoliklarini generatsiyalash jarayonida qanday natijalar olinadi?",
-      "togri_javob": "Xatoliklardan foydalanib shifrlash kalitini topish"
-    },
-    {
-      "savol": "Ananaviy tarmoqdagi HTTPS protokoli vazifasini IoT protokoli stekida qaysi protokol amalga oshiradi?",
-      "togri_javob": "CoAPs"
-    },
-    {
-      "savol": "Grover algoritmi simmetrik kriptografiyadagi 2^256 hisoblashni qanchaga qisqartiradi?",
-      "togri_javob": "2^128"
-    },
-    {
-      "savol": "PRESENT shifrlash algoritmida foydalanilgan S jadval o'lchamini ko'rsating?",
-      "togri_javob": "4x4"
-    },
-    {
       "savol": "a sonning R parametr bo'yicha kavadrati qanday hisoblanadi",
       "togri_javob": "a^(\\2)≡R*a+R*a^2 (mod n)."
-    },
-    {
-      "savol": "Fiat-Shamir protokolida N=pq bo'lganda p va q qanday sonlar bo‘lishi kerak?",
-      "togri_javob": "Tub sonlar"
-    },
-    {
-      "savol": "Simmetrik blokli shifrlarni qurishning ARX usuliga asoslangan oqimli shifrlarni ko'rsating?",
-      "togri_javob": "Salsa20, ChaCha20"
-    },
-    {
-      "savol": "Simmetrik blokli shifrlarni qurishning ARX usuliga asoslangan oqimli shifrlarni ko'rsating?",
-      "togri_javob": "Salsa20, ChaCha20"
     },
     {
       "savol": "Fiat-Shamir protokolida qanday kriptografik muammoga asoslangan ?",
@@ -2485,36 +1729,12 @@
       "togri_javob": "ARX"
     },
     {
-      "savol": "DTLS protokolidagi oldindan taqsimlangan simmetrik kalitdan foydalanishga asoslangan o'zaro autentifikatsiya usuli bu?",
-      "togri_javob": "Oldindan taqsimlangan kalit (Pre-shared Key, PSK)ga asoslangan"
-    },
-    {
       "savol": "Ma'lumotlani shifrlashda nima uchun simmetrik shifrlash algoritmlaridan ko'proq foydalaniladi",
       "togri_javob": "Shirfrlash tezligi yuqori"
     },
     {
-      "savol": "Ananaviy tarmoqdagi IP protokoli vazifasini IoT protokoli stekida qaysi protokol amalga oshiradi?",
-      "togri_javob": "IPv6/6LowPAN"
-    },
-    {
       "savol": "Atrof-muhitni muhofaza qilishda qanday amaliyot eng samarali hisoblanadi?",
       "togri_javob": "Chiqindilarni kamaytirish va qayta ishlash tizimini joriy etish"
-    },
-    {
-      "savol": "Ta’lim texnologiyasi -?",
-      "togri_javob": "bosqichma-bosqich kengayib borayotgan va bugungi kunda “raqamli inqilob”ga aylanib borayotgan ta’lim texnologiyasi, ta’lim rivojlanishining yetakchi trendi"
-    },
-    {
-      "savol": "OTMlarda innovatsion faoliyatni rivojlantirishda qaysi xususiyat eng muhim?",
-      "togri_javob": "Tadbirkorlik ekotizimining shakllanganligi"
-    },
-    {
-      "savol": "Patent qancha muddat amal qiladi?",
-      "togri_javob": "Yigirma yil"
-    },
-    {
-      "savol": "Innovatsiya bilan ixtiro o'rtasidagi asosiy farq nimada?",
-      "togri_javob": "Innovatsiya - bu ixtironing amaliyotga joriy etilishi"
     },
     {
       "savol": "\"Yashil madaniyat\" tushunchasi nimani anglatadi?",
@@ -2545,24 +1765,12 @@
       "togri_javob": "deontologiya - oʻqituvchining kasbiy burchiga muvofiq xulq-atvori haqidagi fan"
     },
     {
-      "savol": "Kasbiy kompetensiyalarni shakllanish bosqichlarini aniqlang?",
-      "togri_javob": "Xususiy tajriba, tajriba-sinov ishi, faoliyatga innovatsion yondashuv"
-    },
-    {
       "savol": "… -o‘qitishning maqsadi va natijalariga erishish (amalga oshirish) yo‘llari tizimi?",
       "togri_javob": "Metod"
     },
     {
-      "savol": "Ta'lim texnologiyasi qanday ta'riflanadi?",
-      "togri_javob": "Ta'lim jarayonini yuqori darajada tashkil etish"
-    },
-    {
       "savol": "Pedagogik mahoratni oshirishda muhim omil nima?",
       "togri_javob": "O'qituvchi shaxsining insonparvarlik yo'nalishi"
-    },
-    {
-      "savol": "Refleksiv innovatsion amaliyot nimaga qaratilgan?",
-      "togri_javob": "O'qituvchi ijodiy imkoniyatlarini rivojlantirish"
     },
     {
       "savol": "Pedagogik texnika tushunchasiga to'g'ri ta'rifni toping",
@@ -2581,18 +1789,6 @@
       "togri_javob": "O‘quv kontentlarining oldindan mustaqil o‘rganilishi va  darsda muhokama qilinishi"
     },
     {
-      "savol": "Individual nazorat, nazorat shakllarining qaysi turiga kiradi?",
-      "togri_javob": "Og‘zaki nazorat"
-    },
-    {
-      "savol": "Umumiy nazariya doirasidagi ilmiy bashoratni nima tavsiflaydi?",
-      "togri_javob": "Gipoteza"
-    },
-    {
-      "savol": "Start-ap loyiha tushunchasi dastlab nechanchi yilda kim tomonidan olib kirilgan?",
-      "togri_javob": "1976 yili Forbes"
-    },
-    {
       "savol": "Xirsha (h)-indeksi mezoni nimaga asolangan?",
       "togri_javob": "Mezon tadqiqotchini nashrlari sonini va ushbu nashrlarni havola qilish, ya’ni sitatalash sonini hisobga olishga aoslangan"
     },
@@ -2601,24 +1797,8 @@
       "togri_javob": "Talabalarning bilimlarini tizimlashtirish va mukammallashtirish"
     },
     {
-      "savol": "Baholash mezonining asosiy vazifasi nima?",
-      "togri_javob": "Baholashni adolatli va shaffof qilish"
-    },
-    {
-      "savol": "Kredit-modul tizimida \"individual o‘quv rejasi\" deganda nima tushuniladi?",
-      "togri_javob": "Talabaning mustaqil tanlagan fanlar va kreditlar asosida tuzilgan rejasi"
-    },
-    {
       "savol": "Auditoriyadan tashqari baholash jarayonida \"o‘z-o‘zini baholash\" nima beradi?",
       "togri_javob": "Talabaning o‘z faoliyatiga tanqidiy va tahliliy yondashishini"
-    },
-    {
-      "savol": "2025-yilda yetakchi xalqaro reyting agentliklari mamlakatimizning suveren reytingini qaysi pog‘onaga ko‘tardi?",
-      "togri_javob": "BBB-"
-    },
-    {
-      "savol": "Markaziy Osiyo mintaqasida amaliy hamkorlikni yangi bosqichga olib chiqish bo‘yicha rejalashtirilgan islohotlar?",
-      "togri_javob": "Umumiy sayyohlik makonini tashkil qilish"
     },
     {
       "savol": "Jahon banki e’lon qilib boradigan davlatlarning texnologik yetuklik indeksiga ko‘ra 2025-yilda O‘zbekiston qanday natijaga erishdi?",
@@ -2637,18 +1817,6 @@
       "togri_javob": "Bir-birini takrorlovchi funktsiyalarni qisqartirish"
     },
     {
-      "savol": "Quyida keltirilgan qaysi tamoyil Yangi O‘zbekiston konsepsiyasining asosiy mazmunini o‘zida aks ettiradi? 1) Inson qadri ustuvorligi 2) Aholi bandligini ta`minlash 3) Mintaqaviy hamkorlik 4) Iqtisodiy islohotlar va rivojlanish 5) Yoshlarga sifatli ta`lim berish",
-      "togri_javob": "1), 2), 5)"
-    },
-    {
-      "savol": "“O‘zbekiston — 2030” strategiyasini to‘liq, o‘z vaqtida va sifatli bajarilishini tashkil etish, shuningdek, uni amalga oshirish bo‘yicha tegishli yillik dasturlarni tayyorlash va ijrosini muvofiqlashtirishni amalga oshirish qaysi tashkilot zimmasiga yuklangan?",
-      "togri_javob": "Respublika komissiyasiga"
-    },
-    {
-      "savol": "Har yili avgust oyida platformaga “Elektron hukumat” tizimi orqali o‘zini-o‘zi band qilgan bitiruvchilar haqidagi maʼlumotlarni kiritish kimning zimmasiga yuklangan?",
-      "togri_javob": "Oliy va kasbiy taʼlim tashkiloti"
-    },
-    {
       "savol": "Panjarali kriptotizimning ochiq kaliti sifatida qanday bazis tanlanadi?",
       "togri_javob": "yomon bazis"
     },
@@ -2657,44 +1825,20 @@
       "togri_javob": "Toʻlovni olish"
     },
     {
-      "savol": "PRESENT shifrlash algoritmida foydalanilgan S jadval o'lchamini ko'rsating?",
-      "togri_javob": "4x4"
-    },
-    {
       "savol": "Xesh funksiyalarining kriptotahlilida kolliziya tushunchasi nimani anglatadi?",
       "togri_javob": "Ikki xil ma'lumot uchun bir xil xesh qiymatni topish"
-    },
-    {
-      "savol": "RFC7228da 1-sinf (Class 1) qurilmalari imkoniyati keltirilgan javobni toping?",
-      "togri_javob": "RAM (~10 KiB), ROM (~100 KiB)"
     },
     {
       "savol": "Kvant tizimlari kuzatilmaguncha yoki o‘lchanmaguncha bir vaqtning o‘zida bir nechta holatda mavjud bo‘lishi mumkinligi bu?",
       "togri_javob": "Superpozitsiya tamoyili"
     },
     {
-      "savol": "DTLS protokolidagi oldindan taqsimlangan simmetrik kalitdan foydalanishga asoslangan o'zaro autentifikatsiya usuli bu?",
-      "togri_javob": "Oldindan taqsimlangan kalit (Pre-shared Key, PSK)ga asoslangan"
-    },
-    {
       "savol": "Qo‘shimcha kanallarga asoslangan kriptotahlil nima?",
       "togri_javob": "Kriptotizimning energiya iste'moli, vaqt yoki elektromagnit nurlanish kabi tashqi ko‘rsatkichlarini tahlil qilish"
     },
     {
-      "savol": "Simmetrik blokli shifrlarni qurishning ARX usuliga asoslangan oqimli shifrlarni ko'rsating?",
-      "togri_javob": "Salsa20, ChaCha20"
-    },
-    {
-      "savol": "Yorug‘lik va xonani boshqarish sohasidagi innovatsiyalar qaysi IoT ilovasiga misol bo‘ladi?",
-      "togri_javob": "uy va binolarni avtomatlashtirish"
-    },
-    {
       "savol": "SSH-ning \"Command Shell\" funksiyasi nima uchun ishlatiladi?",
       "togri_javob": "Buyruqlarni xavfsiz bajarish"
-    },
-    {
-      "savol": "Grover algoritmi qaysi turdagi kriptografik algoritmlarga jiddiy ta'sir o'tkazadi?",
-      "togri_javob": "Simmetrik kalitli"
     },
     {
       "savol": "Ananaviy tarmoqdagi HTTP protokoli vazifasini IoT protokoli stekida qaysi protokol amalga oshiradi?",
@@ -2711,10 +1855,6 @@
     {
       "savol": "ERI algoritmlari qanday turdagi masalalarni yechishga imkon beradi?",
       "togri_javob": "yaxlitligini tekshirish, manbani haqiyqiyligini aniqlash, rad etishdan himoyalash"
-    },
-    {
-      "savol": "Dasturiy ta’minot o‘z vazifasini bajarishi kerak bo‘lgan vaqtinchalik ma’lumotlar uchun ishlatiladigan xotira bu?",
-      "togri_javob": "RAM"
     },
     {
       "savol": "Differensial kriptotahlil uchun qaysi ma'lumotlar zarur?",
@@ -2741,16 +1881,8 @@
       "togri_javob": "SSH"
     },
     {
-      "savol": "136, 176 va 256 bit xesh o‘lchamlariga ega xesh funksiya oilasi bu?",
-      "togri_javob": "QUARK"
-    },
-    {
       "savol": "Kriptografik protokollarda sessiya kaliti nima vazifani bajaradi?",
       "togri_javob": "Joriy sessiya uchun ishlatiladigan maxfiy kalit"
-    },
-    {
-      "savol": "Integral kriptotahlil qachon samarali hisoblanadi?",
-      "togri_javob": "Ma'lum shifrlash bloklarida bitlarning umumiy yig'indisi kuzatilganda"
     },
     {
       "savol": "bazis vektorlar b_1=(2,1), b_2=(1,3) ga teng, z_1=1, z_2=0 ga teng bo'lsa, Λ=z_1 b_1+z_2 b_2 panjara nuqtasini hisoblang?",
@@ -2777,24 +1909,12 @@
       "togri_javob": "Elliktik egri chiziqqa asoslangan"
     },
     {
-      "savol": "Kriptotahlilda yangi texnologiyalardan foydalanish qaysi sohalarda qo‘llaniladi?",
-      "togri_javob": "Katta ma’lumotlarni qayta ishlash va mashinaviy o‘qitishda"
-    },
-    {
       "savol": "Ascon algoritmining tuzilish arxitekturasini ko'rsating?",
       "togri_javob": "Sponge"
     },
     {
-      "savol": "eSTREAM loyihasida qurilmaga amalga oshirishga qulay va cheklangan imkoniyatli qurilmalarda ishlovchi oqimli shifrlar uchun qanday talablar qo'yilgan?",
-      "togri_javob": "80-bitli kalit, 32 va 64 bitli IVni qo‘llab quvvatlashi kerak"
-    },
-    {
       "savol": "Insonning huquq va erkinliklarining bevosita amal qilishi nimani anglatadi?",
       "togri_javob": "Qonunlarning mazmun-mohiyati hamda davlat organlari, mansabdor shaxslar faoliyatining asosiy maqsadi inson qadrini taʼminlashdan iboratdir"
-    },
-    {
-      "savol": "\"Korxona-oliygoh-ilmiy tashkilot\" klaster tizimini joriy etish-?",
-      "togri_javob": "“O‘zbekiston–2030” strategiyasiga muvofiq belgilangan"
     },
     {
       "savol": "Maʼmuriy tartib-taomillar sohasida korrupsiyaning oldini olishga doir chora-tadbir toʻgʻri koʻrsatilgan javobni belgilang. (KQK toʻgʻrisidagi Qonunning 22-moddasi)",
@@ -2813,20 +1933,8 @@
       "togri_javob": "Korrupsiyaga qarshi kurashish agentligi"
     },
     {
-      "savol": "Oliy ta’lim tashkilotlarining ichki baxolash natijalarini ishonchliligi uchun kim javobgar xisoblanadi?",
-      "togri_javob": "Ta’lim tashkiloti rahbari"
-    },
-    {
       "savol": "Akademik mobillikni ta’minlash va talabaning kreditlari oliy ta’lim muassasasi tomonidan tan olinishida qaysi hujjatlardan foydalaniladi?",
       "togri_javob": "Fanlar katalogi, ta’lim to‘g‘risidagi kelishuv, transkript"
-    },
-    {
-      "savol": "Xorijiy oliy ta’lim muassasalarining magistratura bosqichida tahsil olayotgan talabalar o‘qishini ko‘chirishga ruxsat beriladimi?",
-      "togri_javob": "Xorijiy oliy ta’lim muassasalarining magistratura bosqichida tahsil olayotgan talabalar o‘qishini O‘zbekiston Respublikasi oliy ta’lim muassasalariga ko‘chirilishiga ruxsat etilmaydi"
-    },
-    {
-      "savol": "Oliy ta’lim tashkilotlarida bitiruv malakaviy ishining mavzulari qaysi kengashda va qachon tasdiqlanadi?",
-      "togri_javob": "Bitiruv malakaviy ishining mavzulari bitiruv semestri boshlanguniga qadar oliy ta’lim tashkiloti Kengashining qarori bilan tasdiqlanadi"
     },
     {
       "savol": "Matn muharrirlari – ...?",
@@ -2857,22 +1965,6 @@
       "togri_javob": "Javoblarni avtomatik tekshirish va natijalarni tezkor taqdim etish"
     },
     {
-      "savol": "Ta’limda sun’iy intellekt nima?",
-      "togri_javob": "Ma’lumotlarga asoslangan tahlil, o‘qitish va o‘zaro aloqa uchun texnologiya"
-    },
-    {
-      "savol": "“Yangi O‘zbekiston” universitetida sun’iy intellekt bo‘yicha 2026 yilda qancha nafar trener-o‘qituvchi tayyorlanishi belgilandi?",
-      "togri_javob": "1 ming nafar"
-    },
-    {
-      "savol": "Oliy ta’lim muassasalarida Google Workspace dan foydalanishning qanday afzalligi bor?",
-      "togri_javob": "Hujjatlarni masofadan turib real vaqtda tahrirlash imkoni"
-    },
-    {
-      "savol": "2026/2027 o‘quv yilida Oliygohlarda sun’iy intellekt, fintex, kiberxavfsizlik, IT muhandislik, aerokosmik va bulutli texnologiyalar kabi yo‘nalishlar uchun davlat granti kvotalari necha foizga oshiriladi?",
-      "togri_javob": "30 foizga"
-    },
-    {
       "savol": "Jamiyat rivojlanishining turli xil fazalariga mos keladigan “Universitet 3.0”ning tavsifi?",
       "togri_javob": "postindustrial"
     },
@@ -2895,6 +1987,294 @@
     {
       "savol": "Ilmiy muammoni hal etish uchun maqsad va vazifalarni, ijrochilar va bajarish muddatlarini, manbalar va vositalarni koʻrsatgan holda shakllantirilgan chora-tadbirlar majmui bu...",
       "togri_javob": "Ilmiy loyiha"
+    },
+    {
+      "savol": "Habeas corpus nima?",
+      "togri_javob": "Jinoiy ta’qibga uchragan fuqaroning adolatli sud muhokamasiga bo‘lgan huquqi"
+    },
+    {
+      "savol": "LWElarning qaysi varianti uchun ko'phadlar ustida ko'paytirish amali qo'llaniladi?",
+      "togri_javob": "Ring-LWE"
+    },
+    {
+      "savol": "IoT qurilmalariga nisbatan \"imkoniyati cheklangan\" iborasini ishlatilishi qanday ma'noda tushuniladi?",
+      "togri_javob": "Barcha javoblar to‘g‘ri"
+    },
+    {
+      "savol": "\"A\" va \"B\" foydalanuvchilar ma'lumot almashmoqchi, \"B\" foydalanuvchi qabul qilgan ma'lumotni imzosini tekshirishda qaysi kalitdan foydalanadi?",
+      "togri_javob": "\"A\" foydalanuvchining ochiq kalitidan"
+    },
+    {
+      "savol": "Yuboriladigan xabarlar soniga koʻra protokollar qanday sinflarga ajratiladi?",
+      "togri_javob": "interaktiv, nointeraktiv"
+    },
+    {
+      "savol": "\"Slaydli hujum\" usuli qanday shifrlash algoritmlariga nisbatan qo'llaniladi?",
+      "togri_javob": "Iterativ shifrlash algoritmlariga"
+    },
+    {
+      "savol": "Kriptotahlil nima bilan shug‘ullanadi",
+      "togri_javob": "shifrlash uslublarini bilmagan holda shifrlangan ma’lumotni asl holatini topish bilan"
+    },
+    {
+      "savol": "SSH protoklidagi Port forwarding xizmatining vazifasi nima?",
+      "togri_javob": "Xavfsiz kanal hosil qilish"
+    },
+    {
+      "savol": "WTS va ARX usullari kombinatsiyasiga asoslangan simmetrik blokli shifrlarni qurish usuli bu?",
+      "togri_javob": "LTS"
+    },
+    {
+      "savol": "Qaysi algorimtlar feystel tarmog'iga asoslangan holda ishlaydi?",
+      "togri_javob": "DES, ГОСТ 28147-89"
+    },
+    {
+      "savol": "Faraz qilinsin λ(Λ) qiymat Λ dagi nolga teng bo‘lmagan eng qisqa vektorning uzunligi. ‖l‖=λ(Λ) shartni qanoatlantiruvchi l∈L ni topish vazifasi bu?",
+      "togri_javob": "Eng qisqa vektor muammosi"
+    },
+    {
+      "savol": "Kriptografik trotokollarni bajaradigan asosiy vazifalariga qarab qanday sinflarga ajratish mumkin",
+      "togri_javob": "shifrlash/deshifrlash, elektronraqamli imzo, identifikatsiya/autentifikat-siya, kalitlarni taqsimlash protokollari"
+    },
+    {
+      "savol": "Faktorlash muammosi qanday hisoblanadi?",
+      "togri_javob": "Ikkita katta sonni ko'paytuvchilarga ajratish murakkabligi"
+    },
+    {
+      "savol": "Kvant hisoblashdagi dolzarb muammolar keltirilgan javobni ko'rsating?",
+      "togri_javob": "Barcha javoblar to'g'ri"
+    },
+    {
+      "savol": "Ular cheklangan tugunlar uchun maxsus mo‘ljallangan protokollar stekidan foydalanishlari mumkin (masalan, UDP orqali CoAP). Gap RFC7228ning qaysi sinfi haqida bormoqda?",
+      "togri_javob": "1-sinf"
+    },
+    {
+      "savol": "PGP sessiya kalitlari qanday hosil qilinadi?",
+      "togri_javob": "Tasodifiy sonlar generatori orqali"
+    },
+    {
+      "savol": "RSA algoritmining xavfsizligi qaysi muammoga bog‘liq?",
+      "togri_javob": "Faktorlash muammosi murakkabligiga"
+    },
+    {
+      "savol": "a sonning R parametr bo'yicha teskari elementi qanday hisoblanadi",
+      "togri_javob": "a ^(-1)= a(1- aR)^(-1) (mod n)"
+    },
+    {
+      "savol": "NIST tomonidan e'lon qilingan Post-kvant kriptografiyasi tanlovi qanday kriptografik mexanizmlarni qamrab oladi?",
+      "togri_javob": "Elektron raqamli imzo va kalit inkapsulyatsiyasi"
+    },
+    {
+      "savol": "Avtorizatsiya",
+      "togri_javob": "Bir narsani qilish uchun subyektga ruxsatni yetkazish"
+    },
+    {
+      "savol": "Biznes-inkubatorning asosiy maqsadi nima?",
+      "togri_javob": "Xo'jalik sub'ektini rivojlantirish"
+    },
+    {
+      "savol": "Qo‘shimcha kanallar asosida kriptotahlilni qanday amalga oshirish mumkin?",
+      "togri_javob": "Shifrlash algoritmining elektromagnit nurlanishini tahlil qilish orqali"
+    },
+    {
+      "savol": "Shaxsiylik yoki konfidensiallik",
+      "togri_javob": "Axborotni ko‘rish huquqiga ega bo‘lganlardan tashqari barchadan sir tutish"
+    },
+    {
+      "savol": "RSA algoritmi qaysi amalga nisbatan qisman gomomorflik xususiyatiga ega?",
+      "togri_javob": "Ko'paytiruv"
+    },
+    {
+      "savol": "Shor kvant algoritmi qaysi muammolarni samarali yechishga mo'ljallangan?",
+      "togri_javob": "Butun sonni faktorlash, diskret logarifmlash muammolarini"
+    },
+    {
+      "savol": "Kodlarga asoslangan shifrlash sxemasini ko'rsating?",
+      "togri_javob": "Classic McEliece"
+    },
+    {
+      "savol": "ISO/IEC 29192 seriyali standartida oqimli shifrlar sifatida qaysilar tanlab olingan?",
+      "togri_javob": "Enocoro, Trivium"
+    },
+    {
+      "savol": "Kriptografik protokollarda vaqt belgisi nima uchun uzatiladi",
+      "togri_javob": "takrorlash hujumining oldini olishi uchun"
+    },
+    {
+      "savol": "Shamir protokolining kriptobardoshligi nimaga asoslangan?",
+      "togri_javob": "Diskret logorifmlash muammosiga"
+    },
+    {
+      "savol": "SSH-2 protokolining SSH-1 ga nisbatan asosiy afzalligi nimada?",
+      "togri_javob": "Ko‘p darajali xavfsizlikni ta'minlashi"
+    },
+    {
+      "savol": "NIST LWC konkursida AEAD turidagi shifrlash algoritmi uchun nonce uzunligiga qo'yilgan minimal talab?",
+      "togri_javob": "96 bit"
+    },
+    {
+      "savol": "Ochiq kalitli kriptotizimlarga asoslangan ERI algoritmlarida kalitlar juftini qaysi tomon hosil qiladi?",
+      "togri_javob": "kalitlar juftini har bir foydalanuvchining o'zi hosil qiladi"
+    },
+    {
+      "savol": "ZKP da iteratsiya sonini oshirish nimaga olib keladi?",
+      "togri_javob": "Xavfsizlikni oshiradi"
+    },
+    {
+      "savol": "MD4 va MD5 algoritmlarining kolliziya xavfi qaysi operatsiyaga bog‘liq?",
+      "togri_javob": "XOR va ADD operatsiyalari"
+    },
+    {
+      "savol": "Agar gcd(a,b)=1 shart o‘rinli bo‘lsa, u holda ikki a va b sonlar haqida nima deyish mumkin",
+      "togri_javob": "a va b sonlar o‘zaro tub sonlar"
+    },
+    {
+      "savol": "MAC kodlari nima vazifani bajaradi",
+      "togri_javob": "Ma'lumot butunligini ta'minlaydi"
+    },
+    {
+      "savol": "PRESENT shifrlash algoritmi qanday qurilish tuzilmasiga asoslangan?",
+      "togri_javob": "SP tarmoq"
+    },
+    {
+      "savol": "(q/p) ni qanday hollarda (p/q) orqali ifodalash mumkin",
+      "togri_javob": "agar p yoki q hech bo'lmaganda bittasi 1 (mod p) bo'lsa"
+    },
+    {
+      "savol": "Fiat-Shamir protokolida tasodifiy qiymat \"e\" qanday bo‘lishi kerak?",
+      "togri_javob": "Tasodifiy ravishda 0 yoki 1"
+    },
+    {
+      "savol": "y^2=x^3+ax^2+bx+c mod n elliptik egri chiziq tenglamasida a va b koefisentlar qanday shart asosida tanlanadi",
+      "togri_javob": "4a^3+27b^2≠0"
+    },
+    {
+      "savol": "Differensial kriptotahlil qaysi algoritmga nisbatan samaraliroq?",
+      "togri_javob": "DES kabi blokli algoritmlarga"
+    },
+    {
+      "savol": "S/MIME protokoli qanday porokol hisoblanadi",
+      "togri_javob": "Xavfsiz pochta protokoli"
+    },
+    {
+      "savol": "SKEY dasturi nima maqsadda ishlatiladi?",
+      "togri_javob": "bir martalik parol uchun"
+    },
+    {
+      "savol": "MIME formatining asosiy kamchiligi nima?",
+      "togri_javob": "Matnni shifrlash imkoniyatining yo‘qligi"
+    },
+    {
+      "savol": "Integral kriptotahlilda qanday ma'lumotlar asosiy rol o'ynaydi?",
+      "togri_javob": "Shifr bitlarining umumiy yig'indisi"
+    },
+    {
+      "savol": "Qurilmaning harakatini ifodalaydigan dastur kodini saqlash uchun ishlatiladigan xotira bu?",
+      "togri_javob": "ROM"
+    },
+    {
+      "savol": "RFC7228da 2-sinf (Class 2) qurilmalari imkoniyati keltirilgan javobni toping?",
+      "togri_javob": "RAM (~50 KiB), ROM (~250 KiB)"
+    },
+    {
+      "savol": "Chiziqli kriptotahlil usuli qanday ishlaydi?",
+      "togri_javob": "Shifrlash jarayonidagi chiziqli bog‘liqliklarni tahlil qiladi"
+    },
+    {
+      "savol": "Statistik tahlil qanday algoritmlarda samarali ishlaydi?",
+      "togri_javob": "Statistik o'zgaruvchanlikni saqlamaydigan algoritmlarda"
+    },
+    {
+      "savol": "Algebraik kriptotahlilda qanday matematik usul samarali hisoblanadi?",
+      "togri_javob": "Matematik tenglamalarni yechish usullari"
+    },
+    {
+      "savol": "Tasodifiy sonlar generatorlarining xavfsizligi nimaga bog‘liq?",
+      "togri_javob": "Deterministik bo'lmagan usullardan foydalanish"
+    },
+    {
+      "savol": "Integral kriptotahlilda asosiy natijalar qanday olinadi?",
+      "togri_javob": "Bitlar yig'indisi yoki blok o'zgarishlari orqali"
+    },
+    {
+      "savol": "Kriptografiya nima bilan shug‘ullanadi",
+      "togri_javob": "maxfiy kodlarni yaratish bilan"
+    },
+    {
+      "savol": "Chiziqli-differensial kriptotahlilda statistik usullar qanday ishlatiladi?",
+      "togri_javob": "Bloklar orasidagi bog'liqlikni aniqlash orqali"
+    },
+    {
+      "savol": "Eyler kriteriyaasi sharti qanday",
+      "togri_javob": "a^((p-1)/2)≡1 (mod p)"
+    },
+    {
+      "savol": "Evropa Ittifoqi standartlari va qonunlariga ko‘ra, elektr ta’minoti kompaniyalari PLCdan qaysi chastota diapazonidan foydalanishlari mumkin?",
+      "togri_javob": "3-148 kHz"
+    },
+    {
+      "savol": "S/MIME protokolining qaysi xususiyati uni keng ishlatilishiga olib kelgan?",
+      "togri_javob": "Turli e-mail ilovalari bilan moslashuvchanligi"
+    },
+    {
+      "savol": "Fiat-Shamir protokolining zaifligi nimaga bogʻliq?",
+      "togri_javob": "Tasodifiy \"e\" ning tanlanishiga"
+    },
+    {
+      "savol": "Kaber sxemasi qaysi LWR variantidan foydalangan?",
+      "togri_javob": "Module-LWE"
+    },
+    {
+      "savol": "Sertifikatlash",
+      "togri_javob": "Axborotni ishonchli tashkilot tomonidan tasdiqlash"
+    },
+    {
+      "savol": "MD5 algoritmi uchun qaysi usul ko'proq xavf tug‘diradi?",
+      "togri_javob": "Kolliziya hujumlari"
+    },
+    {
+      "savol": "Integral kriptotahlilda qanday tahlil qilinadi?",
+      "togri_javob": "Shifr bloklaridagi bitlarning o'zgarishi kuzatiladi"
+    },
+    {
+      "savol": "Faktorlash va diskret logarifmlash asosida qurilgan tizimlarning bardoshliligi qaysi holatda pasayadi?",
+      "togri_javob": "Kvant kompyuterlari bilan ishlaganda"
+    },
+    {
+      "savol": "Kvant kompyuterlarida Kvant Furye transformatsiyasi qancha amalni talab etadi?",
+      "togri_javob": "O(n^2)"
+    },
+    {
+      "savol": "Tug‘ilgan kun muammosi qaysi jarayonlarda xavf tug‘diradi?",
+      "togri_javob": "Raqamli imzo va sertifikatlar tizimida"
+    },
+    {
+      "savol": "Rad etish qoidabuzarligi qanday amalga oshiriladi",
+      "togri_javob": "Foydalanuvchi (A) foydalanuvchi (B) ga haqiqatan ham ma’lumot jo‘natgan bo‘lib, uzatilgan ma’lumotni rad etishi mumkin"
+    },
+    {
+      "savol": "Kriptografik algoritmlar bardoshliligini baholash uchun qaysi mezonlardan foydalaniladi?",
+      "togri_javob": "Algoritmga qarshi hujumlarning samaradorligi"
+    },
+    {
+      "savol": "Uzatish davomida shovqin tufayli yuzaga kelishi mumkin bo‘lgan aloqa xatolarini aniqlash va tuzatish uchun standart yondashuv bu?",
+      "togri_javob": "Xatolarni tuzatuvchi kodlar"
+    },
+    {
+      "savol": "Faktorlash muammosi asosida ishlaydigan tizimlar uchun qaysi usul eng xavfli?",
+      "togri_javob": "Kvant kompyuterlarga asoslangan hujumlar"
+    },
+    {
+      "savol": "PGP xabarlarni qanday formatda uzatadi?",
+      "togri_javob": "ASCII belgilari shaklida"
+    },
+    {
+      "savol": "Statistik usullar yordamida blokli shifrni qanday tahlil qilish mumkin?",
+      "togri_javob": "Shifrlangan matnning tarqalishini kuzatish"
+    },
+    {
+      "savol": "Ananaviy tarmoqdagi TCP protokoli vazifasini IoT protokoli stekida qaysi protokol amalga oshiradi?",
+      "togri_javob": "UDP"
     }
   ]
 }

@@ -8,7 +8,7 @@
       "Mahalliy davlat organi tomonidan belgilanadi",
       "Ta’lim sohasidagi vakolatli davlat boshqaruvi organi tomonidan belgilanadi"
     ],
-    "correct_answer": "O‘zbekiston Respublikasi Vazirlar Mahkamasi tomonidan belgilanadi"
+    "correct_answer": "Ta’lim sohasidagi vakolatli davlat boshqaruvi organi tomonidan belgilanadi"
   },
   {
     "id": 2,
@@ -19,7 +19,7 @@
       "Ishtirokchilarning interfaolligi; talabalarning identifikatsiya qilinishi; yangi axborot-kommunikatsiya texnologiyalarini qo‘llashning pedagogik maqsadga muvofiqligi; ta’lim berishning ochiqligi va moslashuvchanligi",
       "Talabalarning identifikatsiya qilinishi; yangi axborot-kommunikatsiya texnologiyalarini qo‘llashning pedagogik maqsadga muvofiqligi; ta’lim berishning ochiqligi va moslashuvchanligi"
     ],
-    "correct_answer": "Talabalarning identifikatsiya qilinishi; yangi axborot-kommunikatsiya texnologiyalarini qo‘llashning pedagogik maqsadga muvofiqligi; ta’lim berishning ochiqligi va moslashuvchanligi"
+    "correct_answer": "Ishtirokchilarning interfaolligi; talabalarning identifikatsiya qilinishi; yangi axborot-kommunikatsiya texnologiyalarini qo‘llashning pedagogik maqsadga muvofiqligi; ta’lim berishning ochiqligi va moslashuvchanligi"
   },
   {
     "id": 3,
@@ -30,7 +30,7 @@
       "Bir magistratura mutaxassisligiga 10 nafar",
       "Bir magistratura mutaxassisligiga qabul parametrlariga chegara belgilanmagan"
     ],
-    "correct_answer": "Bir magistratura mutaxassisligiga 20 nafar"
+    "correct_answer": "Bir magistratura mutaxassisligiga 30 nafar"
   },
   {
     "id": 4,
@@ -41,7 +41,7 @@
       "Fakultet dekanining taklifiga muvofiq oliy ta’lim muassasasining Kengashi tomonidan tasdiqlanadi",
       "Kafedra mudirining taklifiga muvofiq oliy ta’lim muassasasining Kengashi tomonidan tasdiqlanadi"
     ],
-    "correct_answer": "Kafedra mudirining taklifiga muvofiq oliy ta’lim muassasasining Kengashi tomonidan tasdiqlanadi"
+    "correct_answer": "Fakultet dekani (kafedra mudiri)ning taklifiga muvofiq oliy ta’lim muassasasining Kengashi tomonidan tasdiqlanadi"
   },
   {
     "id": 5,
@@ -73,7 +73,7 @@
       "“Bir million sun’iy intellekt yetakchisi” loyihasi",
       "“Startap milliy tanlovi” loyihasi"
     ],
-    "correct_answer": "“Bir million dasturchi” loyihasi"
+    "correct_answer": "“Bir million sun’iy intellekt yetakchisi” loyihasi"
   },
   {
     "id": 8,
@@ -84,7 +84,7 @@
       "35 foizga",
       "25 foizga"
     ],
-    "correct_answer": "30 foizga"
+    "correct_answer": "35 foizga"
   },
   {
     "id": 9,
@@ -95,7 +95,7 @@
       "1 ming nafar",
       "1 ming 300 nafar"
     ],
-    "correct_answer": "1 ming nafar"
+    "correct_answer": "1 ming 300 nafar"
   },
   {
     "id": 10,
@@ -150,7 +150,7 @@
       "Ta'limning demokratlashuvi",
       "Oliy ta’limda tanlov asosida qabulning kuchayishi"
     ],
-    "correct_answer": "Ta'lim xizmatlarining bozorlashuvi va raqobatning ortishi"
+    "correct_answer": "Ta'limning demokratlashuvi"
   },
   {
     "id": 15,
@@ -158,10 +158,10 @@
     "options": [
       "Ta'lim jarayonini tashkil etish",
       "Ta'lim metodlarini qo'llash",
-      "Axloqiy xulq-atvor, xatti-harakat (Me’yorni his qilish)",
+      "Axloqiy xulq-atvor, xatti-harakat",
       "Pedagogik nazariyalarni bilish"
     ],
-    "correct_answer": "Axloqiy xulq-atvor, xatti-harakat (Me’yorni his qilish)"
+    "correct_answer": "Axloqiy xulq-atvor, xatti-harakat"
   },
   {
     "id": 16,
@@ -217,17 +217,6 @@
       "Auditoriyadagi faollikka asoslangan holda uyga topshiriqlar yuklash"
     ],
     "correct_answer": "Metodik ta'minot va aniq ko'rsatmalar"
-  },
-  {
-    "id": 21,
-    "question": "Kredit-modul tizimida baholash usullari o'z ichiga nimalarni qamrab oladi?",
-    "options": [
-      "Baholash usullari fan yoki modul doirasidagi talabaning yutuqlarini aks ettiruvchi va tasdiqlovchi yozma, og'zaki, amaliy ish, loyiha, portfolio kabi turlarni o'z ichiga qamrab oladi",
-      "Baholash usullari fan yoki modul doirasidagi talabaning barcha yutuqlarini aks ettiruvchi nazorat turlarni o'z ichiga qamrab oladi",
-      "Baholash usullari fan dasturi (Sillabus) da belgilangan nazorat turlarni o'z ichiga qamrab oladi",
-      "Baholash usullari fan yoki modul doirasidagi talabaning yutuqlarini aks ettiruvchi va tasdiqlovchi yozma va og'zaki nazorat turlarni o'z ichiga qamrab oladi"
-    ],
-    "correct_answer": "Baholash usullari fan yoki modul doirasidagi talabaning yutuqlarini aks ettiruvchi va tasdiqlovchi yozma, og'zaki, amaliy ish, loyiha, portfolio kabi turlarni o'z ichiga qamrab oladi"
   },
   {
     "id": 22,
@@ -1740,17 +1729,6 @@
       "Animatsiya va tovushli kuzatuvli o‘quv kurslari"
     ],
     "correct_answer": "Animatsiya va tovushli kuzatuvli o‘quv kurslari"
-  },
-  {
-    "id": 161,
-    "question": "O‘zbekiston Respublikasi 2030-yilga borib, sun’iy intellekt bo‘yicha TOP nechta davlatlar qatoriga kirishni maqsad qilgan.",
-    "options": [
-      "“TOP-50” ta davlat qatoriga kirish",
-      "“TOP-55” ta davlat qatoriga kirish",
-      "“TOP-40” ta davlat qatoriga kirish",
-      "“TOP-30” ta davlat qatoriga kirish"
-    ],
-    "correct_answer": "“TOP-50” ta davlat qatoriga kirish"
   },
   {
     "id": 162,
@@ -3698,7 +3676,7 @@
       "8 soat ajratiladi",
       "10 soat ajratiladi"
     ],
-    "correct_answer": "12 soat ajratiladi"
+    "correct_answer": "6 soat ajratiladi"
   },
   {
     "id": 339,
@@ -4501,7 +4479,7 @@
       "Talabalar tanlagan fanlarini OTM rahbariyatini roziligi bilan o‘zgartirishi mumkin",
       "Talabalar tanlagan fanlarini har semestrning dastlabki birinchi haftasi ichida o‘zgartirishi mumkin"
     ],
-    "correct_answer": "Talabalar tanlagan fanlarini har semestrning ikkinchi haftasiga qadar o‘zgartirishi mumkin"
+    "correct_answer": "Talabalar tanlagan fanlarini har semestrning dastlabki birinchi haftasi ichida o‘zgartirishi mumkin"
   },
   {
     "id": 412,
