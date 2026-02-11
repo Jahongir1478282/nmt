@@ -2,7 +2,7 @@
 
 "use client";
 
-import React, { useEffect, useMemo, useRef, useState } from "react";
+import React, { useEffect, useRef, useState } from "react";
 import Link from "next/link";
 import { Clock, ChevronLeft, ChevronRight } from "lucide-react";
 import type { Question, TestConfig } from "../lib/tests";
@@ -15,12 +15,10 @@ const shuffleAndTake = <T,>(arr: T[], take: number): T[] =>
     .map(({ item }) => item);
 
 export default function Quiz({ test }: { test: TestConfig }) {
-  const questionPool = useMemo(
-    () =>
-      test.randomCount
-        ? shuffleAndTake(test.questions, test.randomCount)
-        : test.questions,
-    [test],
+  const [questionPool, setQuestionPool] = useState<Question[]>(() =>
+    test.randomCount
+      ? test.questions.slice(0, Math.min(test.randomCount, test.questions.length))
+      : test.questions,
   );
 
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
@@ -31,6 +29,16 @@ export default function Quiz({ test }: { test: TestConfig }) {
   const nextQuestionTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(
     null,
   );
+
+  useEffect(() => {
+    if (test.randomCount) {
+      setQuestionPool(shuffleAndTake(test.questions, test.randomCount));
+    } else {
+      setQuestionPool(test.questions);
+    }
+    setCurrentQuestionIndex(0);
+    setSelectedAnswers({});
+  }, [test]);
 
   const totalSlots = questionPool.length;
   const answeredCount = Object.keys(selectedAnswers).length;

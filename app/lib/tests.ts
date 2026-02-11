@@ -20,7 +20,7 @@ export interface TestConfig {
 export const tests = {
   general: {
     title: "Umumiy testlar",
-    description: "Asosiy savollar to'plami (100 ta tasodifiy)",
+    description: `Asosiy savollar to'plami (${100} ta tasodifiy)`,
     questions: generalQuestions as Question[],
     randomCount: 100,
   },
