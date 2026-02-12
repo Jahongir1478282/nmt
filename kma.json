@@ -2,7 +2,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "Ma’lumot yaxlitligi nima?",
+      "question": "Ma’lumot yaxlitligi",
       "options": [
         "Axborotni ruxsatsiz yoki noma’lum vositalar bilan o‘zgartirilmaganligini ta’minlash",
         "Ma’lumot manbasini tasdiqlash",
@@ -13,7 +13,7 @@
     },
     {
       "id": 2,
-      "question": "Shaxsiylik yoki konfidensiallik nima?",
+      "question": "Shaxsiylik yoki konfidensiallik",
       "options": [
         "Ma’lumot manbasini tasdiqlash",
         "Axborotni ruxsatsiz yoki noma’lum vositalar bilan o‘zgartirilmaganligini ta’minlash",
@@ -24,7 +24,7 @@
     },
     {
       "id": 3,
-      "question": "Subyekt autentifikatsiyasi yoki identifikatsiyasi nima?",
+      "question": "Subyekt autentifikatsiyasi yoki identifikatsiyasi",
       "options": [
         "Subyektning shaxsini tasdiqlash",
         "Axborotni ruxsatsiz yoki noma’lum vositalar bilan o‘zgartirilmaganligini ta’minlash",
@@ -35,7 +35,7 @@
     },
     {
       "id": 4,
-      "question": "Xabar autentifikatsiyasi nima?",
+      "question": "Xabar autentifikatsiyasi",
       "options": [
         "Ma’lumot manbasini tasdiqlash",
         "Subyektning shaxsini tasdiqlash",
@@ -46,7 +46,7 @@
     },
     {
       "id": 5,
-      "question": "Avtorizatsiya nima?",
+      "question": "Avtorizatsiya",
       "options": [
         "Bir narsani qilish uchun subyektga ruxsatni yetkazish",
         "Axborotni ishonchli tashkilot tomonidan tasdiqlash",
@@ -57,7 +57,7 @@
     },
     {
       "id": 6,
-      "question": "Sertifikatlash nima?",
+      "question": "Sertifikatlash",
       "options": [
         "Axborotni ishonchli tashkilot tomonidan tasdiqlash",
         "Axborot yoki resursdan foydalanish yoki boshqarishda avtorizatsiyani o‘z vaqtida taqdim etish",
@@ -146,12 +146,7 @@
     {
       "id": 14,
       "question": "Blokli simmetrik shifrlash algoritmlari raund funksiyalarida qanday amallar bajariladi?",
-      "options": [
-        "ARX",
-        "PRX",
-        "RPT",
-        "XOR"
-      ],
+      "options": ["ARX", "PRX", "RPT", "XOR"],
       "correct_answer": "ARX"
     },
     {
@@ -262,7 +257,7 @@
         "kalitlar juftini ma'lumot qabul qiluvchi tomon hosil qiladi",
         "uchinchi ishonchli tomon hosil qiladi"
       ],
-      "correct_answer": "kalitlar juftini har bir foydalanuvchining o'zi hosil qiladi"
+      "correct_answer": "kalitlar juftini ma'lumot yuboruvchi tomon hosil qiladi"
     },
     {
       "id": 25,
@@ -454,23 +449,13 @@
     {
       "id": 42,
       "question": "Ushbu ifodadagi d ning qiymati topilsin: 7*d=1 mod 90",
-      "options": [
-        "13",
-        "12",
-        "11",
-        "8"
-      ],
+      "options": ["13", "12", "11", "8"],
       "correct_answer": "13"
     },
     {
       "id": 43,
       "question": "Ushbu ifodadagi d ning qiymati topilsin: 11*d=1 mod 131",
-      "options": [
-        "12",
-        "10",
-        "11",
-        "8"
-      ],
+      "options": ["12", "10", "11", "8"],
       "correct_answer": "12"
     },
     {
@@ -542,23 +527,13 @@
     {
       "id": 50,
       "question": "φ(24) ni hisoblang?",
-      "options": [
-        "8",
-        "12",
-        "2",
-        "6"
-      ],
+      "options": ["8", "12", "2", "6"],
       "correct_answer": "8"
     },
     {
       "id": 51,
       "question": "φ(36) ni hisoblang?",
-      "options": [
-        "12",
-        "8",
-        "4",
-        "6"
-      ],
+      "options": ["12", "8", "4", "6"],
       "correct_answer": "12"
     },
     {
@@ -597,78 +572,43 @@
     {
       "id": 55,
       "question": "Berilgan modul n bo‘yicha birlamchi ildizlar soni qanday aniqlanadi?",
-      "options": [
-        "φ(φ(n))",
-        "φ(n)",
-        "φ(φ(n-1))",
-        "φ(n-1)"
-      ],
+      "options": ["φ(φ(n))", "φ(n)", "φ(φ(n-1))", "φ(n-1)"],
       "correct_answer": "φ(φ(n))"
     },
     {
       "id": 56,
       "question": "Berilgan 11 modul bo‘yicha birlamchi ildizlar soni nechta bo'ladi?",
-      "options": [
-        "4",
-        "10",
-        "2",
-        "1"
-      ],
+      "options": ["4", "10", "2", "1"],
       "correct_answer": "4"
     },
     {
       "id": 57,
       "question": "Berilgan 13 modul bo‘yicha birlamchi ildizlar soni nechta bo'ladi?",
-      "options": [
-        "4",
-        "12",
-        "10",
-        "6"
-      ],
+      "options": ["4", "12", "10", "6"],
       "correct_answer": "4"
     },
     {
       "id": 58,
       "question": "Berilgan 11 modul bo'yicha birlamchi ildiz bo'ladigan qiymatni toping",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "10"
-      ],
+      "options": ["2", "3", "4", "10"],
       "correct_answer": "2"
     },
     {
       "id": 59,
       "question": "Berilgan 13 modul bo'yicha birlamchi ildiz bo'ladigan qiymatni toping",
-      "options": [
-        "2",
-        "3",
-        "4",
-        "5"
-      ],
+      "options": ["2", "3", "4", "5"],
       "correct_answer": "2"
     },
     {
       "id": 60,
       "question": "2x≡3 mod 7 chiziqli moslikni yechimini toping",
-      "options": [
-        "5",
-        "4",
-        "3",
-        "yechimga ega emas"
-      ],
+      "options": ["5", "4", "3", "yechimga ega emas"],
       "correct_answer": "5"
     },
     {
       "id": 61,
       "question": "6x≡3 mod 4 chiziqli moslikni yechimini toping",
-      "options": [
-        "yechimga ega emas",
-        "2",
-        "3",
-        "4"
-      ],
+      "options": ["yechimga ega emas", "2", "3", "4"],
       "correct_answer": "yechimga ega emas"
     },
     {
@@ -707,23 +647,13 @@
     {
       "id": 65,
       "question": "2⋅x^2+3⋅x+1≡0(mod 7) kvadrat moslik yechimini toping",
-      "options": [
-        "3,6",
-        "3,5",
-        "4,6",
-        "2,3"
-      ],
+      "options": ["3,6", "3,5", "4,6", "2,3"],
       "correct_answer": "3,6"
     },
     {
       "id": 66,
       "question": "x^2 +x+1≡0(mod 7) kvadrat moslik yechimini toping",
-      "options": [
-        "2,4",
-        "2,3",
-        "3,4",
-        "2,5"
-      ],
+      "options": ["2,4", "2,3", "3,4", "2,5"],
       "correct_answer": "2,4"
     },
     {
@@ -828,67 +758,37 @@
     {
       "id": 76,
       "question": "a=2 va b=3 sonlarni R=3 parametr bo'yicha ko'paytiring, n=11",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
+      "options": ["1", "2", "3", "4"],
       "correct_answer": "1"
     },
     {
       "id": 77,
       "question": "a=3 va b=4 sonlarni R=3 parametr bo'yicha ko'paytiring, n=13",
-      "options": [
-        "4",
-        "3",
-        "8",
-        "11"
-      ],
+      "options": ["4", "3", "8", "11"],
       "correct_answer": "4"
     },
     {
       "id": 78,
       "question": "a=3 sonning R=2 parametr bo'yicha teskari elementi qiymatini toping, n=5",
-      "options": [
-        "1",
-        "2",
-        "3",
-        "4"
-      ],
+      "options": ["1", "2", "3", "4"],
       "correct_answer": "1"
     },
     {
       "id": 79,
       "question": "a=2 sonning R=3 parametr bo'yicha teskari elementi qiymatini toping, n=7",
-      "options": [
-        "0",
-        "1",
-        "4",
-        "5"
-      ],
+      "options": ["0", "1", "4", "5"],
       "correct_answer": "0"
     },
     {
       "id": 80,
       "question": "a=3 sonning R=3 parametr bo'yicha kavadratini hisoblang, n=7",
-      "options": [
-        "5",
-        "0",
-        "1",
-        "6"
-      ],
+      "options": ["5", "0", "1", "6"],
       "correct_answer": "5"
     },
     {
       "id": 81,
       "question": "a=4 sonning R=3 parametr bo'yicha kavadratini hisoblang, n=11",
-      "options": [
-        "1",
-        "0",
-        "4",
-        "9"
-      ],
+      "options": ["1", "0", "4", "9"],
       "correct_answer": "1"
     }
   ]

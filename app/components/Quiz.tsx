@@ -2,7 +2,7 @@
 
 "use client";
 
-import React, { useEffect, useMemo, useRef, useState } from "react";
+import { useEffect, useMemo, useRef, useState, useCallback } from "react";
 import Link from "next/link";
 import { Clock, ChevronLeft, ChevronRight, Flag } from "lucide-react";
 import type { Question, TestConfig } from "../lib/tests";
@@ -21,19 +21,26 @@ const shuffleOptions = (options: string[]): string[] =>
     .map(({ item }) => item);
 
 type FinishReason = "time" | "manual" | "all-answered" | null;
+type FinishStage = "quiz" | "modal" | "results";
+
+const buildQuizKey = (test: TestConfig) =>
+  `${test.title ?? "quiz"}-${test.randomCount ?? "all"}-${test.questions.length}`;
 
 export default function Quiz({ test }: { test: TestConfig }) {
-  // Start with deterministic data to keep SSR/CSR consistent; shuffle only on client.
-  const [questionPool, setQuestionPool] = useState<Question[]>(test.questions);
+  return <QuizContent key={buildQuizKey(test)} test={test} />;
+}
+
+function QuizContent({ test }: { test: TestConfig }) {
+  const [isReady, setIsReady] = useState(false);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
-  const [selectedAnswers, setSelectedAnswers] = useState<Record<number, number>>(
-    {},
-  );
+  const [selectedAnswers, setSelectedAnswers] = useState<
+    Record<number, number>
+  >({});
   const [timeLeft, setTimeLeft] = useState(test.durationSeconds ?? 4800);
   const [isFinished, setIsFinished] = useState(false);
   const [finishReason, setFinishReason] = useState<FinishReason>(null);
-  const [showResults, setShowResults] = useState(false);
-  const [isReady, setIsReady] = useState(false);
+  const [finishStage, setFinishStage] = useState<FinishStage>("quiz");
+  const [autoRedirectSeconds, setAutoRedirectSeconds] = useState(5);
 
   const nextQuestionTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(
     null,
@@ -41,53 +48,70 @@ export default function Quiz({ test }: { test: TestConfig }) {
   const resultRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
-    const base = test.randomCount
-      ? shuffleAndTake(test.questions, test.randomCount)
-      : test.questions;
-    const nextPool = base.map((q) => ({ ...q, options: shuffleOptions(q.options) }));
-    setQuestionPool(nextPool);
-    setCurrentQuestionIndex(0);
-    setSelectedAnswers({});
-    setTimeLeft(test.durationSeconds ?? 4800);
-    setIsFinished(false);
-    setFinishReason(null);
-    setShowResults(false);
-    setIsReady(true);
-  }, [test]);
-
-  const totalSlots = questionPool.length;
-  const answeredCount = Object.keys(selectedAnswers).length;
-  const allAnswered = totalSlots > 0 && answeredCount === totalSlots;
-
-  useEffect(() => {
-    if (isFinished) return;
-    const timer = setInterval(() => {
-      setTimeLeft((prev) => {
-        if (prev <= 1) return 0;
-        return prev - 1;
-      });
-    }, 1000);
-    return () => clearInterval(timer);
-  }, [isFinished]);
-
-  useEffect(() => {
-    if (timeLeft === 0 && !isFinished) {
-      handleFinish("time");
-    }
-  }, [timeLeft, isFinished]);
-
-  useEffect(() => {
+    const rafId = requestAnimationFrame(() => setIsReady(true));
     return () => {
+      cancelAnimationFrame(rafId);
       if (nextQuestionTimeoutRef.current)
         clearTimeout(nextQuestionTimeoutRef.current);
     };
   }, []);
 
+  const questionPool = useMemo<Question[]>(() => {
+    const base = test.randomCount
+      ? shuffleAndTake(test.questions, test.randomCount)
+      : test.questions;
+
+    if (!isReady) return base;
+
+    return base.map((q) => ({
+      ...q,
+      options: shuffleOptions(q.options),
+    }));
+  }, [test, isReady]);
+
+  const totalSlots = questionPool.length;
+  const answeredCount = Object.keys(selectedAnswers).length;
+
+  const handleFinish = useCallback((reason: FinishReason): void => {
+    setFinishReason((prev) => prev ?? reason);
+    setIsFinished((prev) => {
+      if (prev) return prev;
+      setAutoRedirectSeconds(5);
+      setFinishStage((stage) => (stage === "results" ? stage : "modal"));
+      if (nextQuestionTimeoutRef.current)
+        clearTimeout(nextQuestionTimeoutRef.current);
+      return true;
+    });
+  }, []);
   useEffect(() => {
-    if (allAnswered && !isFinished) {
-      handleFinish("all-answered");
-    }
-  }, [allAnswered, isFinished]);
+    if (isFinished) return;
+    const timer = setInterval(() => {
+      setTimeLeft((prev) => {
+        if (prev <= 1) {
+          clearInterval(timer);
+          queueMicrotask(() => handleFinish("time"));
+          return 0;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+    return () => clearInterval(timer);
+  }, [isFinished, handleFinish]);
+
+  useEffect(() => {
+    if (finishStage !== "modal") return;
+    const countdown = setInterval(() => {
+      setAutoRedirectSeconds((prev) => {
+        if (prev <= 1) {
+          clearInterval(countdown);
+          setFinishStage("results");
+          return 0;
+        }
+        return prev - 1;
+      });
+    }, 1000);
+    return () => clearInterval(countdown);
+  }, [finishStage]);
 
   const formatTime = (seconds: number): string => {
     const m = Math.floor(seconds / 60);
@@ -101,15 +125,6 @@ export default function Quiz({ test }: { test: TestConfig }) {
     return idx >= 0 ? idx : null;
   };
 
-  const handleFinish = (reason: FinishReason): void => {
-    if (isFinished) return;
-    setIsFinished(true);
-    setFinishReason(reason);
-    setShowResults(true);
-    if (nextQuestionTimeoutRef.current)
-      clearTimeout(nextQuestionTimeoutRef.current);
-  };
-
   const handleOptionSelect = (optionIndex: number): void => {
     if (isFinished) return;
     // Prevent reselection: once a question is answered, block further changes.
@@ -119,6 +134,10 @@ export default function Quiz({ test }: { test: TestConfig }) {
       const updated = { ...prev, [currentQuestionIndex]: optionIndex };
       return updated;
     });
+
+    if (answeredCount + 1 === totalSlots) {
+      queueMicrotask(() => handleFinish("all-answered"));
+    }
 
     if (nextQuestionTimeoutRef.current)
       clearTimeout(nextQuestionTimeoutRef.current);
@@ -148,27 +167,62 @@ export default function Quiz({ test }: { test: TestConfig }) {
     [correctCount, totalSlots],
   );
 
+  const finishReasonLabel = useMemo(() => {
+    switch (finishReason) {
+      case "time":
+        return "Vaqt tugadi";
+      case "manual":
+        return "Oldin yakunlandi";
+      case "all-answered":
+        return "Barcha savollar yakunlandi";
+      default:
+        return "Natija";
+    }
+  }, [finishReason]);
+
   useEffect(() => {
-    if (showResults && resultRef.current) {
+    if (finishStage === "results" && resultRef.current) {
       resultRef.current.scrollIntoView({ behavior: "smooth" });
     }
-  }, [showResults]);
+  }, [finishStage]);
 
   if (!isReady) {
     return (
       <div className="min-h-screen bg-white px-4 py-8 font-sans text-gray-800 sm:px-6">
-        <div className="max-w-3xl mx-auto text-sm text-gray-500">Yuklanmoqda...</div>
+        <div className="max-w-3xl mx-auto text-sm text-gray-500">
+          Yuklanmoqda...
+        </div>
       </div>
     );
   }
 
-  if (isFinished && showResults) {
+  if (finishStage === "results") {
     return (
       <div className="min-h-screen bg-white px-4 py-8 font-sans text-gray-800 sm:px-6">
-        <div className="max-w-3xl mx-auto rounded-2xl border border-gray-200 bg-gray-50 p-6 shadow-sm" ref={resultRef}>
+        <div
+          className="max-w-3xl mx-auto rounded-2xl border border-gray-200 bg-gray-50 p-6 shadow-sm"
+          ref={resultRef}
+        >
           <div className="flex items-center justify-between gap-3 mb-4">
             <div>
               <h1 className="text-2xl font-bold leading-tight">Natija</h1>
+              {isFinished && (
+                <div className="max-w-7xl mx-auto mb-4 rounded-xl border border-blue-100 bg-blue-50 px-4 py-3 text-sm text-blue-900 shadow-sm">
+                  <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
+                    <span>
+                      Test yakunlangan. Natija bo&apos;yicha batafsil
+                      ma&apos;lumotni ko&apos;rishingiz mumkin.
+                    </span>
+                    <button
+                      onClick={() => setFinishStage("results")}
+                      className="inline-flex items-center justify-center rounded-lg bg-blue-600 px-4 py-2 text-xs font-semibold uppercase tracking-wide text-white shadow hover:bg-blue-700"
+                    >
+                      Natijaga qaytish
+                    </button>
+                  </div>
+                </div>
+              )}
+
               <p className="text-sm text-gray-500">{test.title}</p>
             </div>
             <Link
@@ -181,7 +235,8 @@ export default function Quiz({ test }: { test: TestConfig }) {
 
           <div className="flex flex-col gap-3 text-gray-800">
             <div className="text-lg font-semibold">
-              To&apos;g&apos;ri javoblar: <span className="text-green-700">{correctCount}</span>
+              To&apos;g&apos;ri javoblar:{" "}
+              <span className="text-green-700">{correctCount}</span>
               <span className="text-gray-600"> / {totalSlots}</span>
             </div>
             <div className="flex items-center gap-2 text-sm font-semibold text-blue-700">
@@ -193,18 +248,14 @@ export default function Quiz({ test }: { test: TestConfig }) {
                 />
               </span>
             </div>
-            <div className="text-sm text-gray-600">Sabab: {
-              finishReason === "time"
-                ? "Vaqt tugadi"
-                : finishReason === "manual"
-                  ? "Oldin yakunlandi"
-                  : "Barcha savollar yakunlandi"
-            }</div>
+            <div className="text-sm text-gray-600">
+              Sabab: {finishReasonLabel}
+            </div>
           </div>
 
           <div className="mt-6 flex flex-wrap gap-3">
             <button
-              onClick={() => setShowResults(false)}
+              onClick={() => setFinishStage("quiz")}
               className="rounded-lg border border-gray-300 px-4 py-2 text-sm font-semibold text-gray-700 hover:bg-white"
             >
               Savollarni ko&apos;rish
@@ -239,6 +290,37 @@ export default function Quiz({ test }: { test: TestConfig }) {
           ← Asosiy menu
         </Link>
       </div>
+
+      {finishStage === "modal" && (
+        <div className="fixed inset-0 z-20 flex items-center justify-center bg-black/40 px-4 py-6">
+          <div className="w-full max-w-md rounded-2xl bg-white p-6 text-center shadow-2xl">
+            <p className="text-sm font-semibold uppercase tracking-wide text-blue-600">
+              Test yakunlanmoqda
+            </p>
+            <h2 className="mt-2 text-2xl font-bold text-gray-900">
+              {finishReasonLabel}
+            </h2>
+            <p className="mt-3 text-sm text-gray-600">
+              Natijalar {autoRedirectSeconds} soniyadan so&apos;ng avtomatik
+              ko&apos;rsatiladi.
+            </p>
+            <div className="mt-5 flex flex-col gap-3 sm:flex-row">
+              <button
+                onClick={() => setFinishStage("results")}
+                className="flex-1 rounded-lg bg-blue-600 px-4 py-2 text-sm font-semibold text-white shadow hover:bg-blue-700"
+              >
+                Natijani hozir ko&apos;rish
+              </button>
+              <Link
+                href="/"
+                className="flex-1 rounded-lg border border-gray-200 px-4 py-2 text-sm font-semibold text-gray-700 hover:bg-gray-50"
+              >
+                Bosh sahifa
+              </Link>
+            </div>
+          </div>
+        </div>
+      )}
 
       <div className="max-w-7xl mx-auto">
         <div className="grid grid-cols-[repeat(auto-fit,minmax(44px,1fr))] gap-2 max-h-32 sm:max-h-none overflow-auto  bg-white">
@@ -285,14 +367,17 @@ export default function Quiz({ test }: { test: TestConfig }) {
       <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-3 border-b border-gray-200 bg-white py-2 text-sm sm:text-base">
         <div className="flex flex-wrap items-center gap-4 sm:gap-6">
           <span className="font-semibold text-gray-600">
-            Savollar: <span className="text-black font-bold">{answeredCount}</span>
+            Savollar:{" "}
+            <span className="text-black font-bold">{answeredCount}</span>
             <span className="text-gray-500">/{totalSlots}</span>
           </span>
           <div className="flex items-center gap-2 text-gray-500">
             <span className="h-2 w-28 overflow-hidden rounded-full bg-gray-100">
               <span
                 className="block h-full rounded-full bg-blue-500 transition-all"
-                style={{ width: `${Math.min(100, (answeredCount / Math.max(1, totalSlots)) * 100)}%` }}
+                style={{
+                  width: `${Math.min(100, (answeredCount / Math.max(1, totalSlots)) * 100)}%`,
+                }}
               />
             </span>
             <span className="text-xs font-semibold text-blue-600">
@@ -301,7 +386,7 @@ export default function Quiz({ test }: { test: TestConfig }) {
           </div>
         </div>
 
-          <div className="flex items-center gap-3">
+        <div className="flex items-center gap-3">
           <div className="flex items-center text-red-500 font-bold gap-2 rounded-full bg-red-50 px-3 py-1">
             <Clock size={18} />
             <span>{formatTime(timeLeft)}</span>
@@ -347,7 +432,6 @@ export default function Quiz({ test }: { test: TestConfig }) {
                   "relative p-3 rounded-lg border cursor-pointer transition-all flex items-start bg-green-50/40 border-green-400";
               }
 
-
               return (
                 <button
                   type="button"
@@ -355,7 +439,6 @@ export default function Quiz({ test }: { test: TestConfig }) {
                   onClick={() => handleOptionSelect(idx)}
                   className={`${style} w-full text-left`}
                 >
-                  
                   <span
                     className={`text-base ${
                       isCorrectSelection
@@ -395,7 +478,6 @@ export default function Quiz({ test }: { test: TestConfig }) {
               >
                 Keyingi <ChevronRight size={20} />
               </button>
-             
             </div>
           </div>
           {isFinished && (
@@ -403,7 +485,10 @@ export default function Quiz({ test }: { test: TestConfig }) {
               <h3 className="text-lg font-bold mb-3">Natija</h3>
               <div className="flex flex-col gap-2 text-gray-700 sm:flex-row sm:items-center sm:gap-6">
                 <span>
-                  To&apos;g&apos;ri javoblar: <span className="font-semibold text-green-700">{correctCount}</span>
+                  To&apos;g&apos;ri javoblar:{" "}
+                  <span className="font-semibold text-green-700">
+                    {correctCount}
+                  </span>
                   <span className="text-gray-600"> / {totalSlots}</span>
                 </span>
                 <span className="flex items-center gap-2 text-sm font-semibold text-blue-700">
