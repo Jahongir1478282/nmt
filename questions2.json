@@ -230,17 +230,6 @@
     "correct_answer": "30 foizga (O‘zbekiston-2030 strategiyasi doirasidagi maqsadlardan kelib chiqib)"
   },
   {
-    "id": 23,
-    "question": "Kredit-modul tizimida talabalar tanlagan fanlarini o'zgartirishi mumkinmi?",
-    "options": [
-      "Talabalar tanlagan fanlarini o'zgartirishi mumkin emas",
-      "Talabalar tanlagan fanlarini har semestrning ikkinchi haftasiga qadar o'zgartirishi mumkin",
-      "Talabalar tanlagan fanlarini OTM rahbariyatini roziligi bilan o'zgartirishi mumkin",
-      "Talabalar tanlagan fanlarini har semestrning dastlabki birinchi haftasi ichida o'zgartirishi mumkin"
-    ],
-    "correct_answer": "Talabalar tanlagan fanlarini har semestrning ikkinchi haftasiga qadar o'zgartirishi mumkin"
-  },
-  {
     "id": 24,
     "question": "Global innovatsion indeksda O‘zbekiston Respublikasining o‘rnini yaxshilash va 2030-yilga qadar qanday reyting qatoriga kirish rejalashtirilgan?",
     "options": [
@@ -612,11 +601,11 @@
     "id": 58,
     "question": "1996-yilda Hoffstein, Pipher va Silverman tomonidan ishlab chiqilgan panjaraga asoslangan tizim bu?",
     "options": [
-      "NTRU (Javob varianti faylda bo‘sh, standart javob kiritildi)",
+      "NTRU",
       "RSA",
       "ElGamal"
     ],
-    "correct_answer": "NTRU (Javob varianti faylda bo‘sh, standart javob kiritildi)"
+    "correct_answer": "NTRU"
   },
   {
     "id": 59,
@@ -656,9 +645,10 @@
     "options": [
       "bir nechta o‘quv moduli hamda kurslar o‘rganiladigan o‘quv rejasining bir qismi",
       "Talabaning alohida ta’lim yo‘nalishini o‘zlashtirishi uchun sarflangan o‘quv yuklamasining (vaqtning) o‘lchov birligidir (Kredit-modul tizimida)",
-      "Xalqaro monitoringlash va baholash tizimi"
+      "Xalqaro monitoringlash va baholash tizimi",
+      "Turli mamlakatlarda tashkil etiladigan pedagogik jarayonlarning xalqaro qiyosiy tahliliga asoslangan tadqiqot"
     ],
-    "correct_answer": "Talabaning alohida ta’lim yo‘nalishini o‘zlashtirishi uchun sarflangan o‘quv yuklamasining (vaqtning) o‘lchov birligidir (Kredit-modul tizimida)"
+    "correct_answer": "bir nechta o‘quv moduli hamda kurslar o‘rganiladigan o‘quv rejasining bir qismi"
   },
   {
     "id": 63,
@@ -680,7 +670,7 @@
       "Axborotni ruxsatsiz yoki noma'lum vositalar bilan o'zgartirilmaganligini ta'minlash",
       "Subyektning shaxsini tasdiqlash"
     ],
-    "correct_answer": "Axborotni ruxsatsiz yoki noma'lum vositalar bilan o'zgartirilmaganligini ta'minlash"
+    "correct_answer": "Ma’lumot manbasini tasdiqlash"
   },
   {
     "id": 65,
@@ -1742,17 +1732,6 @@
     "correct_answer": "Hujjatlarni masofadan turib real vaqtda tahrirlash imkoni"
   },
   {
-    "id": 163,
-    "question": "“Yangi O‘zbekiston” universitetida sun’iy intellekt bo‘yicha 2026 yilda qancha nafar trener-o‘qituvchi tayyorlanishi belgilandi?",
-    "options": [
-      "1 ming 300 nafar",
-      "2 ming nafar",
-      "1 ming nafar",
-      "1 ming 800 nafar"
-    ],
-    "correct_answer": "1 ming nafar"
-  },
-  {
     "id": 164,
     "question": "Innovatsiya – bu?",
     "options": [
@@ -2390,17 +2369,6 @@
       "Harf chastotasini tahlil qilish va brute-force usuli"
     ],
     "correct_answer": "Harf chastotasini tahlil qilish va brute-force usuli"
-  },
-  {
-    "id": 222,
-    "question": "bazis vektorlar $b_1=(2,1)$, $b_2=(1,3)$ ga teng, $z_1=1$, $z_2=1$ ga teng bo'lsa, $\\Lambda = z_1 b_1 + z_2 b_2$ panjara nuqtasini hisoblang?",
-    "options": [
-      "(2,1)",
-      "(1,3)",
-      "(3,4)",
-      "(0,0)"
-    ],
-    "correct_answer": "(3,4)"
   },
   {
     "id": 223,
@@ -4787,7 +4755,7 @@
       "His tuyg‘usi bilimi, nutqi, hatti harakatini",
       "Diqqatini, ruhiyatini, mahoratini, hatti harakatini"
     ],
-    "correct_answer": "His tuyg‘usi bilimi, nutqi, hatti harakatini"
+    "correct_answer": "Diqqatini, ruhiyatini, mahoratini, hatti harakatini"
   },
   {
     "id": 440,
@@ -4886,7 +4854,7 @@
       "aniq jarayonlarni raqamlar tizimi yordamida modellashtirish. Uning turli uslublari sifat tavsiflarini miqdoriy o‘zgarishlarga aylantirishga yordam beradi",
       "muayyan hodisani oldindan belgilangan shkala bo‘yicha baholas"
     ],
-    "correct_answer": "muayyan hodisani oldindan belgilangan shkala bo‘yicha baholas"
+    "correct_answer": "aniq jarayonlarni raqamlar tizimi yordamida modellashtirish. Uning turli uslublari sifat tavsiflarini miqdoriy o‘zgarishlarga aylantirishga yordam beradi"
   },
   {
     "id": 449,
@@ -5920,7 +5888,7 @@
       "Maʼlumotning xavfsizligini taʼminlash uchun",
       "bir martalik parol uchun"
     ],
-    "correct_answer": "bir martalik parol uchun"
+    "correct_answer": "Maʼlumotning xavfsizligini taʼminlash uchun"
   },
   {
     "id": 543,
@@ -6240,5 +6208,16 @@
       "UDP"
     ],
     "correct_answer": "UDP"
+  },
+  {
+    "id": 572,
+    "question": "Pedagogik mahoratning tarkibiy elementlari nimalar?",
+    "options": [
+      "Nazariyalar, qonuniyatlar, tamoyillar",
+      "Pedagogik texnika, nutq madaniyati, kommunikativ qobiliyat",
+      "O'qitish metodlari, innovatsiyalar",
+      "Ta'lim metodlari, texnologiyalar, vositalar"
+    ],
+    "correct_answer": "Pedagogik texnika, nutq madaniyati, kommunikativ qobiliyat"
   }
 ]
