@@ -23,17 +23,8 @@ const shuffleOptions = (options: string[]): string[] =>
 type FinishReason = "time" | "manual" | "all-answered" | null;
 
 export default function Quiz({ test }: { test: TestConfig }) {
-  const initialPool = useMemo(
-    () => {
-      const base = test.randomCount
-        ? shuffleAndTake(test.questions, test.randomCount)
-        : test.questions;
-      return base.map((q) => ({ ...q, options: shuffleOptions(q.options) }));
-    },
-    [test],
-  );
-
-  const [questionPool, setQuestionPool] = useState<Question[]>(initialPool);
+  // Start with deterministic data to keep SSR/CSR consistent; shuffle only on client.
+  const [questionPool, setQuestionPool] = useState<Question[]>(test.questions);
   const [currentQuestionIndex, setCurrentQuestionIndex] = useState(0);
   const [selectedAnswers, setSelectedAnswers] = useState<Record<number, number>>(
     {},
@@ -42,6 +33,7 @@ export default function Quiz({ test }: { test: TestConfig }) {
   const [isFinished, setIsFinished] = useState(false);
   const [finishReason, setFinishReason] = useState<FinishReason>(null);
   const [showResults, setShowResults] = useState(false);
+  const [isReady, setIsReady] = useState(false);
 
   const nextQuestionTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(
     null,
@@ -60,6 +52,7 @@ export default function Quiz({ test }: { test: TestConfig }) {
     setIsFinished(false);
     setFinishReason(null);
     setShowResults(false);
+    setIsReady(true);
   }, [test]);
 
   const totalSlots = questionPool.length;
@@ -119,6 +112,8 @@ export default function Quiz({ test }: { test: TestConfig }) {
 
   const handleOptionSelect = (optionIndex: number): void => {
     if (isFinished) return;
+    // Prevent reselection: once a question is answered, block further changes.
+    if (selectedAnswers.hasOwnProperty(currentQuestionIndex)) return;
 
     setSelectedAnswers((prev) => {
       const updated = { ...prev, [currentQuestionIndex]: optionIndex };
@@ -158,6 +153,14 @@ export default function Quiz({ test }: { test: TestConfig }) {
       resultRef.current.scrollIntoView({ behavior: "smooth" });
     }
   }, [showResults]);
+
+  if (!isReady) {
+    return (
+      <div className="min-h-screen bg-white px-4 py-8 font-sans text-gray-800 sm:px-6">
+        <div className="max-w-3xl mx-auto text-sm text-gray-500">Yuklanmoqda...</div>
+      </div>
+    );
+  }
 
   if (isFinished && showResults) {
     return (
@@ -219,8 +222,8 @@ export default function Quiz({ test }: { test: TestConfig }) {
   }
 
   return (
-    <div className="min-h-screen bg-white px-4 py-6 font-sans text-gray-800 sm:px-6">
-      <div className="max-w-5xl mx-auto mb-5 flex items-center justify-between gap-3">
+    <div className="min-h-screen bg-white px-4 font-sans text-gray-800 sm:px-6">
+      <div className="sticky top-0 z-10 bg-white/95 backdrop-blur max-w-7xl mx-auto mb-5 flex items-center justify-between gap-3 py-3 border-b border-gray-100">
         <div>
           <h1 className="text-xl font-bold leading-tight sm:text-2xl">
             {test.title}
@@ -237,13 +240,13 @@ export default function Quiz({ test }: { test: TestConfig }) {
         </Link>
       </div>
 
-      <div className="max-w-5xl mx-auto mb-6">
-        <div className="flex max-h-32 flex-wrap gap-1 justify-center sm:justify-start sm:max-h-none overflow-auto rounded-xl border border-gray-100 bg-white p-2 shadow-sm">
+      <div className="max-w-7xl mx-auto">
+        <div className="grid grid-cols-[repeat(auto-fit,minmax(44px,1fr))] gap-2 max-h-32 sm:max-h-none overflow-auto  bg-white">
           {Array.from({ length: totalSlots }, (_, i) => i).map((index) => {
             const isCurrent = index === currentQuestionIndex;
             const isAnswered = selectedAnswers.hasOwnProperty(index);
             const baseStyle =
-              "w-9 h-9 sm:w-10 sm:h-10 flex items-center justify-center text-xs sm:text-sm border rounded cursor-pointer transition-colors";
+              "min-w-[32px] h-8 flex items-center justify-center text-xs sm:text-sm border rounded cursor-pointer transition-colors";
 
             if (isCurrent) {
               return (
@@ -279,7 +282,7 @@ export default function Quiz({ test }: { test: TestConfig }) {
         </div>
       </div>
 
-      <div className="max-w-5xl mx-auto flex flex-wrap items-center justify-between gap-3 rounded-2xl border border-gray-100 bg-white px-4 py-3 shadow-sm text-sm sm:text-base">
+      <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-3 border-b border-gray-200 bg-white py-2 text-sm sm:text-base">
         <div className="flex flex-wrap items-center gap-4 sm:gap-6">
           <span className="font-semibold text-gray-600">
             Savollar: <span className="text-black font-bold">{answeredCount}</span>
@@ -298,7 +301,7 @@ export default function Quiz({ test }: { test: TestConfig }) {
           </div>
         </div>
 
-        <div className="flex items-center gap-3">
+          <div className="flex items-center gap-3">
           <div className="flex items-center text-red-500 font-bold gap-2 rounded-full bg-red-50 px-3 py-1">
             <Clock size={18} />
             <span>{formatTime(timeLeft)}</span>
@@ -315,8 +318,8 @@ export default function Quiz({ test }: { test: TestConfig }) {
       </div>
 
       {currentQuestion && (
-        <div className="max-w-5xl mx-auto">
-          <h2 className="text-xl sm:text-2xl font-bold text-gray-900 mb-4 sm:mb-6 leading-snug">
+        <div className="max-w-7xl mx-auto">
+          <h2 className="text-xl sm:text-2xl font-bold text-gray-900 mb-2 leading-snug">
             {currentQuestionIndex + 1}. {currentQuestion.question}
           </h2>
 
@@ -332,24 +335,27 @@ export default function Quiz({ test }: { test: TestConfig }) {
                 selectedAnswers[currentQuestionIndex] !== undefined;
 
               let style =
-                "relative p-4 rounded-lg border cursor-pointer transition-all flex items-start bg-white border-gray-200 hover:border-gray-300";
+                "relative p-3 rounded-lg border cursor-pointer transition-all flex items-start bg-white border-gray-200 hover:border-gray-300";
               if (isCorrectSelection) {
                 style =
-                  "relative p-4 rounded-lg border cursor-pointer transition-all flex items-start bg-green-50 border-green-500 shadow-sm";
+                  "relative p-3 rounded-lg border cursor-pointer transition-all flex items-start bg-green-50 border-green-500 shadow-sm";
               } else if (isWrongSelection) {
                 style =
-                  "relative p-4 rounded-lg border cursor-pointer transition-all flex items-start bg-red-50 border-red-400 shadow-sm";
+                  "relative p-3 rounded-lg border cursor-pointer transition-all flex items-start bg-red-50 border-red-400 shadow-sm";
               } else if (isRightAnswerRevealed) {
                 style =
-                  "relative p-4 rounded-lg border cursor-pointer transition-all flex items-start bg-green-50/40 border-green-400";
+                  "relative p-3 rounded-lg border cursor-pointer transition-all flex items-start bg-green-50/40 border-green-400";
               }
 
+
               return (
-                <div
+                <button
+                  type="button"
                   key={idx}
                   onClick={() => handleOptionSelect(idx)}
-                  className={style}
+                  className={`${style} w-full text-left`}
                 >
+                  
                   <span
                     className={`text-base ${
                       isCorrectSelection
@@ -361,7 +367,7 @@ export default function Quiz({ test }: { test: TestConfig }) {
                   >
                     {option}
                   </span>
-                </div>
+                </button>
               );
             })}
           </div>
@@ -389,13 +395,7 @@ export default function Quiz({ test }: { test: TestConfig }) {
               >
                 Keyingi <ChevronRight size={20} />
               </button>
-              <button
-                onClick={() => handleFinish("manual")}
-                disabled={isFinished}
-                className="w-full px-6 py-2 rounded border border-gray-300 text-gray-700 hover:bg-gray-50 shadow-sm disabled:opacity-50"
-              >
-                Testni yakunlash
-              </button>
+             
             </div>
           </div>
           {isFinished && (
