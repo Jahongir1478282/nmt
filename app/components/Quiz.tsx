@@ -14,14 +14,22 @@ const shuffleAndTake = <T,>(arr: T[], take: number): T[] =>
     .slice(0, Math.min(take, arr.length))
     .map(({ item }) => item);
 
+const shuffleOptions = (options: string[]): string[] =>
+  [...options]
+    .map((item) => ({ item, sort: Math.random() }))
+    .sort((a, b) => a.sort - b.sort)
+    .map(({ item }) => item);
+
 type FinishReason = "time" | "manual" | "all-answered" | null;
 
 export default function Quiz({ test }: { test: TestConfig }) {
   const initialPool = useMemo(
-    () =>
-      test.randomCount
+    () => {
+      const base = test.randomCount
         ? shuffleAndTake(test.questions, test.randomCount)
-        : test.questions,
+        : test.questions;
+      return base.map((q) => ({ ...q, options: shuffleOptions(q.options) }));
+    },
     [test],
   );
 
@@ -33,21 +41,25 @@ export default function Quiz({ test }: { test: TestConfig }) {
   const [timeLeft, setTimeLeft] = useState(test.durationSeconds ?? 4800);
   const [isFinished, setIsFinished] = useState(false);
   const [finishReason, setFinishReason] = useState<FinishReason>(null);
+  const [showResults, setShowResults] = useState(false);
 
   const nextQuestionTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(
     null,
   );
+  const resultRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
-    const nextPool = test.randomCount
+    const base = test.randomCount
       ? shuffleAndTake(test.questions, test.randomCount)
       : test.questions;
+    const nextPool = base.map((q) => ({ ...q, options: shuffleOptions(q.options) }));
     setQuestionPool(nextPool);
     setCurrentQuestionIndex(0);
     setSelectedAnswers({});
     setTimeLeft(test.durationSeconds ?? 4800);
     setIsFinished(false);
     setFinishReason(null);
+    setShowResults(false);
   }, [test]);
 
   const totalSlots = questionPool.length;
@@ -100,6 +112,7 @@ export default function Quiz({ test }: { test: TestConfig }) {
     if (isFinished) return;
     setIsFinished(true);
     setFinishReason(reason);
+    setShowResults(true);
     if (nextQuestionTimeoutRef.current)
       clearTimeout(nextQuestionTimeoutRef.current);
   };
@@ -119,21 +132,91 @@ export default function Quiz({ test }: { test: TestConfig }) {
     }, 600);
   };
 
-  const correctCount = questionPool.reduce((acc, q, idx) => {
-    const correctIdx = getCorrectIndex(q);
-    const selected = selectedAnswers[idx];
-    if (correctIdx !== null && selected === correctIdx) return acc + 1;
-    return acc;
-  }, 0);
+  const correctCount = useMemo(
+    () =>
+      questionPool.reduce((acc, q, idx) => {
+        const correctIdx = getCorrectIndex(q);
+        const selected = selectedAnswers[idx];
+        if (correctIdx !== null && selected === correctIdx) return acc + 1;
+        return acc;
+      }, 0),
+    [questionPool, selectedAnswers],
+  );
 
   const currentQuestion =
     questionPool && questionPool[currentQuestionIndex]
       ? questionPool[currentQuestionIndex]
       : null;
 
-  const completionPercent = totalSlots
-    ? Math.round((correctCount / totalSlots) * 100)
-    : 0;
+  const completionPercent = useMemo(
+    () => (totalSlots ? Math.round((correctCount / totalSlots) * 100) : 0),
+    [correctCount, totalSlots],
+  );
+
+  useEffect(() => {
+    if (showResults && resultRef.current) {
+      resultRef.current.scrollIntoView({ behavior: "smooth" });
+    }
+  }, [showResults]);
+
+  if (isFinished && showResults) {
+    return (
+      <div className="min-h-screen bg-white px-4 py-8 font-sans text-gray-800 sm:px-6">
+        <div className="max-w-3xl mx-auto rounded-2xl border border-gray-200 bg-gray-50 p-6 shadow-sm" ref={resultRef}>
+          <div className="flex items-center justify-between gap-3 mb-4">
+            <div>
+              <h1 className="text-2xl font-bold leading-tight">Natija</h1>
+              <p className="text-sm text-gray-500">{test.title}</p>
+            </div>
+            <Link
+              href="/"
+              className="rounded-full border border-gray-200 bg-white px-4 py-2 text-sm font-semibold text-blue-600 hover:border-blue-300 hover:bg-blue-50"
+            >
+              Bosh sahifa
+            </Link>
+          </div>
+
+          <div className="flex flex-col gap-3 text-gray-800">
+            <div className="text-lg font-semibold">
+              To&apos;g&apos;ri javoblar: <span className="text-green-700">{correctCount}</span>
+              <span className="text-gray-600"> / {totalSlots}</span>
+            </div>
+            <div className="flex items-center gap-2 text-sm font-semibold text-blue-700">
+              {completionPercent}%
+              <span className="h-2 w-32 overflow-hidden rounded-full bg-blue-100">
+                <span
+                  className="block h-full rounded-full bg-blue-500"
+                  style={{ width: `${completionPercent}%` }}
+                />
+              </span>
+            </div>
+            <div className="text-sm text-gray-600">Sabab: {
+              finishReason === "time"
+                ? "Vaqt tugadi"
+                : finishReason === "manual"
+                  ? "Oldin yakunlandi"
+                  : "Barcha savollar yakunlandi"
+            }</div>
+          </div>
+
+          <div className="mt-6 flex flex-wrap gap-3">
+            <button
+              onClick={() => setShowResults(false)}
+              className="rounded-lg border border-gray-300 px-4 py-2 text-sm font-semibold text-gray-700 hover:bg-white"
+            >
+              Savollarni ko&apos;rish
+            </button>
+            <Link
+              href="/"
+              className="rounded-lg bg-blue-600 px-4 py-2 text-sm font-semibold text-white shadow-sm hover:bg-blue-700"
+            >
+              Asosiy menyu
+            </Link>
+          </div>
+        </div>
+      </div>
+    );
+  }
 
   return (
     <div className="min-h-screen bg-white px-4 py-6 font-sans text-gray-800 sm:px-6">
