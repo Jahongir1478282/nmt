@@ -1,0 +1,572 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Simmetrik blokli shifrlarni qurishning ARX usuliga asoslangan blokli shifrlarni ko‘rsating?",
+      "options": [
+        "CLOC, SILC, JAMBU, Ketje, Minalpher",
+        "AES, Camellia, CLEFIA, TDES",
+        "Photon, Spongent, Lesamnta-LW",
+        "Hight, Simon, Speck, Lea va Chaskey"
+      ],
+      "correct_answer": "Hight, Simon, Speck, Lea va Chaskey"
+    },
+    {
+      "id": 2,
+      "question": "88, 128, 160, 224 va 256 bitli chiqishlarga ega yengil vaznli xesh-funksiyalar oilasi bu?",
+      "options": ["PRESENT", "H-PRESENT", "QUARK", "SPONGENT"],
+      "correct_answer": "SPONGENT"
+    },
+    {
+      "id": 3,
+      "question": "IoT qurilmalariga nisbatan \"imkoniyati cheklangan\" iborasini ishlatilishi qanday ma‘noda tushuniladi?",
+      "options": [
+        "Hisoblash imkoniyatlarini cheklanganligi",
+        "Quvvat manbasini cheklanganligi",
+        "Tarmoq imkoniyatlarini cheklanganligi",
+        "Barcha javoblar to‘g‘ri"
+      ],
+      "correct_answer": "Barcha javoblar to‘g‘ri"
+    },
+    {
+      "id": 4,
+      "question": "Xavfsiz, n-bitli chiqishga ega xesh funksiya uchun kolliziya hujumiga bardoshlik nechta amalni talab etishi kerak?",
+      "options": ["2^n", "2^(n/2)", "n^2", "n!"],
+      "correct_answer": "2^(n/2)"
+    },
+    {
+      "id": 5,
+      "question": "Yengil vaznli algoritmlarni apparat amalga oshirishdagi samaradorlik qanday kattalik bilan xarakterlanadi?",
+      "options": ["blok uzunligi", "kod hajmi", "GE soni", "raundlar soni"],
+      "correct_answer": "GE soni"
+    },
+    {
+      "id": 6,
+      "question": "Xesh qiymat h berilgan bo‘lsa, h = hash(m) bo‘ladigan m xabarini olish uchun xesh funksiyasini o‘zgartirish qiyin bo‘lishi kerak. Bu qanday hujumni anglatadi?",
+      "options": [
+        "pre-image",
+        "second pre-image",
+        "kolliziya",
+        "hisoblashli tezkor"
+      ],
+      "correct_answer": "pre-image"
+    },
+    {
+      "id": 7,
+      "question": "PRESENT shifrlash algoritmining blok uzunligi necha bitga teng?",
+      "options": ["32", "64", "194", "128"],
+      "correct_answer": "64"
+    },
+    {
+      "id": 8,
+      "question": "RFC7228da 2-sinf (Class 2) qurilmalari imkoniyati keltirilgan javobni toping?",
+      "options": [
+        "RAM ( < < 10 MiB), ROM ( < < 100 MiB)",
+        "RAM ( < < 10 KiB), ROM ( < < 100 KiB)",
+        "RAM (~10 KiB), ROM (~100 KiB)",
+        "RAM (~50 KiB), ROM (~250 KiB)"
+      ],
+      "correct_answer": "RAM (~50 KiB), ROM (~250 KiB)"
+    },
+    {
+      "id": 9,
+      "question": "Shor kvant algoritmi qaysi muammolarni samarali yechishga mo‘ljallangan?",
+      "options": [
+        "Qidirish muammosini",
+        "Barcha turdagi muammolarni",
+        "Tartiblash muammosini",
+        "Butun sonni faktorlash, diskret logarifmlash muammolarini"
+      ],
+      "correct_answer": "Butun sonni faktorlash, diskret logarifmlash muammolarini"
+    },
+    {
+      "id": 10,
+      "question": "Kvant hisoblashdagi dolzarb muammolar keltirilgan javobni ko‘rsating?",
+      "options": [
+        "Dekogerentlik va xatolik darajasi bilan bog‘liq",
+        "Kvant algoritmlari, qurilma va infratuzilma bilan bog‘liq",
+        "Masshtablilik bilan bog‘liq",
+        "Barcha javoblar to‘g‘ri"
+      ],
+      "correct_answer": "Barcha javoblar to‘g‘ri"
+    },
+    {
+      "id": 11,
+      "question": "Zarrachaning pozitsiyasi va impuls kabi ma’lum bir juft xususiyatlarni bir vaqtning o‘zida aniq o‘lchash mumkin emas. Bu qanday tamoyil?",
+      "options": [
+        "Superpozitsiya tamoyili",
+        "Chalkashlik tamoyili",
+        "Geyzenbergning noaniqlik printsipi",
+        "To‘lqin-zarralar ikkiligi tamoyili"
+      ],
+      "correct_answer": "Geyzenbergning noaniqlik printsipi"
+    },
+    {
+      "id": 12,
+      "question": "“Uzoqdagi qo‘rqinchli harakat”( “spooky action at a distance”) hodisasi bu?",
+      "options": [
+        "Superpozitsiya tamoyili",
+        "To‘lqin-zarralar ikkiligi tamoyili",
+        "Geyzenbergning noaniqlik printsipi",
+        "Chalkashlik tamoyili"
+      ],
+      "correct_answer": "Chalkashlik tamoyili"
+    },
+    {
+      "id": 13,
+      "question": "Ko‘p o‘zgaruvchili imzo sxemasiga asoslangan algoritmni ko‘rsating?",
+      "options": ["Falcon", "Rainbow", "Dilithium", "Classic McEliece"],
+      "correct_answer": "Rainbow"
+    },
+    {
+      "id": 14,
+      "question": "Post kvant kriptogafiyasiga oid algoritmlar amalga oshirilgan kutubxonani ko‘rsating?",
+      "options": ["OpenSSL", "CryptoLib", "Liboqs", "Bouncy Castle"],
+      "correct_answer": "Liboqs"
+    },
+    {
+      "id": 15,
+      "question": "Grover algoritmi simmetrik kriptografiyadagi 2^128 hisoblashni qanchaga qisqartiradi?",
+      "options": ["2^16", "2^32", "2^64", "2^127"],
+      "correct_answer": "2^64"
+    },
+    {
+      "id": 16,
+      "question": "Panjara kriptografiyasida qisqa va deyarli ortogonal vektorlardan tashkil topgan bazis bu?",
+      "options": [
+        "qoniqarli bazis",
+        "o‘rtacha bazis",
+        "yomon bazis",
+        "yaxshi bazis"
+      ],
+      "correct_answer": "yaxshi bazis"
+    },
+    {
+      "id": 17,
+      "question": "eSTREAM loyihasida dasturiy amalga oshirishga qulay va yuqori o‘tkazuvchan oqimli shifrlar uchun qanday talablar qo‘yilgan?",
+      "options": [
+        "128-bitli kalit, 128 va 256 bitli IVni qo‘llab quvvatlashi kerak",
+        "80-bitli kalit, 32 va 64 bitli IVni qo‘llab quvvatlashi kerak",
+        "128-bitli kalit, 64 va 128 bitli boshlang‘ich vektorni (IV) qo‘llab quvvatlashi kerak",
+        "80-bitli kalit, 128 va 256 bitli IVni qo‘llab quvvatlashi kerak"
+      ],
+      "correct_answer": "128-bitli kalit, 64 va 128 bitli boshlang‘ich vektorni (IV) qo‘llab quvvatlashi kerak"
+    },
+    {
+      "id": 18,
+      "question": "Ascon algoritmida foydalanilgan S jadvalning o‘lchamini ko‘rsating?",
+      "options": ["8x8", "4x4", "5x5", "6x4"],
+      "correct_answer": "5x5"
+    },
+    {
+      "id": 19,
+      "question": "f_i (f_i (x))=x kо‘rinishidagi funksiyalar tо‘plamidan foydalanishga asoslangan simmetrik blokli shifrlarni qurish usuli?",
+      "options": ["LTS", "WTS", "Involyutiv", "Gibrid"],
+      "correct_answer": "Involyutiv"
+    },
+    {
+      "id": 20,
+      "question": "RFC7228 hujjatida IoT aqlli ob’ektlari va cheklangan qurilmalar nechta sinfga ajratilgan?",
+      "options": ["4", "5", "3", "2"],
+      "correct_answer": "3"
+    },
+    {
+      "id": 21,
+      "question": "eSTREAM loyihasida qurilmaga amalga oshirishga qulay va cheklangan imkoniyatli qurilmalarda ishlovchi oqimli shifrlar uchun qanday talablar qo‘yilgan?",
+      "options": [
+        "128-bitli kalit, 128 va 256 bitli IVni qo‘llab quvvatlashi kerak",
+        "80-bitli kalit, 32 va 64 bitli IVni qo‘llab quvvatlashi kerak",
+        "80-bitli kalit, 128 va 256 bitli IVni qo‘llab quvvatlashi kerak",
+        "128-bitli kalit, 64 va 128 bitli boshlang‘ich vektorni (IV) qo‘llab quvvatlashi kerak"
+      ],
+      "correct_answer": "80-bitli kalit, 32 va 64 bitli IVni qo‘llab quvvatlashi kerak"
+    },
+    {
+      "id": 22,
+      "question": "IoT bozorida mavjud apparat platformalari keltirilgan qatorni toping?",
+      "options": [
+        "FreeRTOS, TelosB, Zolertia Z1, Contiki OS",
+        "TinyOS, Zolertia Z1, OpenMote",
+        "TelosB, Zolertia Z1, OpenMote",
+        "Arduino, Raspberry Pi, OpenWSN"
+      ],
+      "correct_answer": "TelosB, Zolertia Z1, OpenMote"
+    },
+    {
+      "id": 23,
+      "question": "UDP’dagi umumiy muammolar, paketlarni yo‘qotish, tartibni o‘zgartirish va xabarlarni takrorlash kabilarni hal qilish uchun ishlab chiqilgan protokol bu?",
+      "options": ["IPSec", "TLS", "CoAP", "DTLS"],
+      "correct_answer": "DTLS"
+    },
+    {
+      "id": 24,
+      "question": "NIST LWC konkursida g‘olib bo‘lgan algoritm nomini ko‘rsating?",
+      "options": ["Ascon", "AES", "AEGIS-128", "Acorn"],
+      "correct_answer": "Ascon"
+    },
+    {
+      "id": 25,
+      "question": "bazis vektorlar b_1=(2,1), b_2=(1,3) ga teng, z_1=1, z_2=0 ga teng bo‘lsa, Λ=z_1 b_1+z_2 b_2 panjara nuqtasini hisoblang?",
+      "options": ["(0,0)", "(1,3)", "(2,1)", "(3,4)"],
+      "correct_answer": "(2,1)"
+    },
+    {
+      "id": 26,
+      "question": "1996-yilda Hoffstein, Pipher va Silverman tomonidan ishlab chiqilgan panjaraga asoslangan tizim bu?",
+      "options": ["LWR", "Saber", "LWE", "NTRU"],
+      "correct_answer": "NTRU"
+    },
+    {
+      "id": 27,
+      "question": "Kvant kompyuterlarining ilovalari keltirilgan qatorni ko‘rsating?",
+      "options": [
+        "Barcha javoblar to‘g‘ri",
+        "Dori kashfiyoti va materialshunoslik",
+        "Kriptografiya",
+        "Optimallashtirish muammolari"
+      ],
+      "correct_answer": "Barcha javoblar to‘g‘ri"
+    },
+    {
+      "id": 28,
+      "question": "\"Ixtiyoriy kvant holatini mukammal tarzda takrorlab bo‘lmaydi\". Bu?",
+      "options": [
+        "Geyzenbergning noaniqlik printsipi",
+        "To‘lqin-zarralar ikkiligi tamoyili",
+        "Superpozitsiya tamoyili",
+        "Kvantni klonlash mumkin emasligi to‘g‘risida teorema"
+      ],
+      "correct_answer": "Kvantni klonlash mumkin emasligi to‘g‘risida teorema"
+    },
+    {
+      "id": 29,
+      "question": "LWElarning qaysi varianti uchun ko‘phadlar ustida ko‘paytirish amali qo‘llaniladi?",
+      "options": ["Module-LWE", "Ring-LWE", "Plain LWE", "Simple LWE"],
+      "correct_answer": "Ring-LWE"
+    },
+    {
+      "id": 30,
+      "question": "“Shrödingerning mushugi” fikrlash tajribasi qaysi tamoyilni tushuntirish uchun foydalaniladi?",
+      "options": [
+        "Chalkashlik tamoyili",
+        "Geyzenbergning noaniqlik printsipi",
+        "To‘lqin-zarralar ikkiligi tamoyili",
+        "Superpozitsiya tamoyili"
+      ],
+      "correct_answer": "Superpozitsiya tamoyili"
+    },
+    {
+      "id": 31,
+      "question": "Grover algoritmi qaysi turdagi kriptografik algoritmlarga jiddiy ta‘sir o‘tkazadi?",
+      "options": ["ECC", "Diffie-Hellman", "Simmetrik kalitli", "RSA"],
+      "correct_answer": "Simmetrik kalitli"
+    },
+    {
+      "id": 32,
+      "question": "Grover algoritmi simmetrik kriptografiyadagi 2^256 hisoblashni qanchaga qisqartiradi?",
+      "options": ["2^255", "2^32", "2^128", "2^64"],
+      "correct_answer": "2^128"
+    },
+    {
+      "id": 33,
+      "question": "RFC7228da 0-sinf (Class 0) qurilmalari imkoniyati keltirilgan javobni toping?",
+      "options": [
+        "RAM ( < < 10 MiB), ROM ( < < 100 MiB)",
+        "RAM (~10 KiB), ROM (~100 KiB)",
+        "RAM (~50 KiB), ROM (~250 KiB)",
+        "RAM ( < < 10 KiB), ROM ( < < 100 KiB)"
+      ],
+      "correct_answer": "RAM ( < < 10 KiB), ROM ( < < 100 KiB)"
+    },
+    {
+      "id": 34,
+      "question": "PRESENT shifrlash algoritmining blok uzunligi necha bitga teng?",
+      "options": ["64", "94", "128", "32"],
+      "correct_answer": "64"
+    },
+    {
+      "id": 35,
+      "question": "IoT bozorida mavjud dasturiy platformalari keltirilgan qatorni toping?",
+      "options": [
+        "OpenWSN, TinyOS, Contiki OS",
+        "FreeRTOS, TelosB, Zolertia Z1, Contiki OS",
+        "Arduino, Raspberry Pi, OpenWSN",
+        "TinyOS, Zolertia Z1, OpenMote"
+      ],
+      "correct_answer": "OpenWSN, TinyOS, Contiki OS"
+    },
+    {
+      "id": 36,
+      "question": "NIST LWC konkursi nechta bosqichda amalga oshirilgan?",
+      "options": ["1", "2", "3", "4"],
+      "correct_answer": "3"
+    },
+    {
+      "id": 37,
+      "question": "88, 128, 160, 224 va 256 bitli chiqishlarga ega yengil vaznli xesh-funksiyalar oilasi bu?",
+      "options": ["QUARK", "H-PRESENT", "PRESENT", "SPONGENT"],
+      "correct_answer": "SPONGENT"
+    },
+    {
+      "id": 38,
+      "question": "HIGH shifrlash algoritmida raundlar soni nechiga teng?",
+      "options": ["16", "32", "14", "31"],
+      "correct_answer": "32"
+    },
+    {
+      "id": 39,
+      "question": "NIST LWC konkursida AEAD turidagi shifrlash algoritmi uchun autentifikatsiya tegi uzunligiga qo‘yilgan minimal talab?",
+      "options": ["64 bit", "60 bit", "80 bit", "96 bit"],
+      "correct_answer": "64 bit"
+    },
+    {
+      "id": 40,
+      "question": "SPN va Feystel tarmog‘larini mujassamlashtirgan simmetrik blokli shifrlarni qurish usuli bu?",
+      "options": ["Gibrid", "Bitslice", "LTS", "WTS+"],
+      "correct_answer": "Gibrid"
+    },
+    {
+      "id": 41,
+      "question": "bazis vektorlar b_1=(2,1), b_2=(1,3) ga teng, z_1=0, z_2=1 ga teng bo‘lsa, Λ=z_1 b_1+z_2 b_2 panjara nuqtasini hisoblang?",
+      "options": ["(2,1)", "(0,0)", "(1,3)", "(3,4)"],
+      "correct_answer": "(1,3)"
+    },
+    {
+      "id": 42,
+      "question": "NIST tomonidan e‘lon qilingan Post-kvant kriptografiyasi tanlovining ikkinchi bosqichida nechta algoritm tanlab olindi?",
+      "options": ["26", "25", "82", "69"],
+      "correct_answer": "26"
+    },
+    {
+      "id": 43,
+      "question": "NIST tomonidan e‘lon qilingan Post-kvant kriptografiyasi tanlovining birinchi bosqichida nechta algoritm tanlab olindi?",
+      "options": ["69", "82", "25", "26"],
+      "correct_answer": "69"
+    },
+    {
+      "id": 44,
+      "question": "Ko‘p o‘zgaruvchili kriptografiyaga oid muammoni ko‘rsating?",
+      "options": [
+        "Sindromni dekodlash muammosi",
+        "MQ (multivariate quadratic) muammosi",
+        "Eng qisqa vektor muammosi",
+        "Eng yaqin vektor muammosi"
+      ],
+      "correct_answer": "MQ (multivariate quadratic) muammosi"
+    },
+    {
+      "id": 45,
+      "question": "Panjara kriptografiyasidagi xatolik bilan o‘rganish ifodasini ko‘rsating?",
+      "options": ["A∙s+e=b", "A∙s=b", "A/s+e=b", "A/s=b"],
+      "correct_answer": "A∙s+e=b"
+    },
+    {
+      "id": 46,
+      "question": "NIST tomonidan e‘lon qilingan Post-kvant kriptografiyasi tanlovining uchunchi bosqichida nechta algoritm tanlab olindi?",
+      "options": ["7", "17", "25", "9"],
+      "correct_answer": "7"
+    },
+    {
+      "id": 47,
+      "question": "Zarralar bir-biridan qanchalik uzoqda bo‘lishidan qat’i nazar, bir zarraning holati boshqasining holati bilan darhol bog‘langan holda bo‘lish hodisasi bu?",
+      "options": [
+        "Chalkashlik tamoyili",
+        "To‘lqin-zarralar ikkiligi tamoyili",
+        "Superpozitsiya tamoyili",
+        "Geyzenbergning noaniqlik printsipi"
+      ],
+      "correct_answer": "Chalkashlik tamoyili"
+    },
+    {
+      "id": 48,
+      "question": "“Uzoqdagi qo‘rqinchli harakat”( “spooky action at a distance”) hodisasi bu?",
+      "options": [
+        "Chalkashlik tamoyili",
+        "To‘lqin-zarralar ikkiligi tamoyili",
+        "Geyzenbergning noaniqlik printsipi",
+        "Superpozitsiya tamoyili"
+      ],
+      "correct_answer": "Chalkashlik tamoyili"
+    },
+    {
+      "id": 49,
+      "question": "DTLS protokolidagi  sertifikatlarsiz ochiq kalitni almashinuvchi o'zaro autentifikatsiya usuli bu",
+      "options": [
+        "oldindan taqsimlangan kalit(Pre-shared key PSK)ga asoslangan",
+        "sertifikatlarga asoslangan",
+        "xom(raw)ochiq kalitga asoslangan",
+        "barcha javoblar to'g'ri"
+      ],
+      "correct_answer": "barcha javoblar to'g'ri"
+    },
+    {
+      "id": 50,
+      "question": "Faqat o'qish uchun mo'ljallangan xotira bu",
+      "options": ["RAM", "Sram", "Usart", "ROM"],
+      "correct_answer": "ROM"
+    },
+    {
+      "id": 51,
+      "question": "WTS va ARX usullarini kombinatsiyasiga asslangan simmetrik blokli shifrlarni qurish usuli bu",
+      "options": ["bitslice", "ARX+", "LTS", "WTS+"],
+      "correct_answer": "LTS"
+    },
+    {
+      "id": 52,
+      "question": "NIST LWC konkursida AEAD turidagi shifrlash algoritmi uchun nonce uzunligiga qo‘yilgan minimal talab?",
+      "options": ["64 bit", "60 bit", "80 bit", "96 bit"],
+      "correct_answer": "96 bit"
+    },
+    {
+      "id": 53,
+      "question": "RSA algoritmi qaysi amalga nisbatan gomomorfik hisoblanadi",
+      "options": ["qo'shish", "ko'paytiruv", "ayiruv", "XOR amali"],
+      "correct_answer": "ko'paytiruv"
+    },
+    {
+      "id": 54,
+      "question": "HIGH shifrlash algoritmida kalit uzunligi  necha bitga teng?",
+      "options": ["194", "128", "64", "256"],
+      "correct_answer": "128"
+    },
+    {
+      "id": 55,
+      "question": "eSTREAM loyihasida apparat amalga oshirishga mo'ljallangan shifrlar kotegoriyasi bo'yicha tanlab olingan algoritmlardan birini ko'rsating",
+      "options": ["Rabbit", "Sosemanuk", "Salsa20/12", "Grain v1"],
+      "correct_answer": "Grain v1"
+    },
+    {
+      "id": 56,
+      "question": "Shor algoritmi qachon yaratilgan",
+      "options": ["2010", "1994", "2001", "1996"],
+      "correct_answer": "1994"
+    },
+    {
+      "id": 57,
+      "question": "NTRU tuzilmasiga asoslangan algoritmni ko'rsating",
+      "options": ["Dilithuim", "Classic McEliece", "Kaber", "Falcon"],
+      "correct_answer": "Falcon"
+    },
+    {
+      "id": 58,
+      "question": "NIST tomonidan Post-kvant kariptografiyasini standartlashtirish loyihasi qachon boshlandi",
+      "options": ["2022", "2018", "2016", "2020"],
+      "correct_answer": "2016"
+    },
+    {
+      "id": 59,
+      "question": "kvant tizimlari kuzatilmaguncha yoki o'lchanmaguncha bir vaqtning o'zida bir necha holatda mavjud bo'lish mumkinligi bu",
+      "options": [
+        "Chalkashlik tamoyili",
+        "Geyzenbergning noaniqlik printsipi",
+        "To‘lqin-zarralar ikkiligi tamoyili",
+        "Superpozitsiya tamoyili"
+      ],
+      "correct_answer": "Superpozitsiya tamoyili"
+    },
+    {
+      "id": 60,
+      "question": "NIST tomonidan elon qilingan Post kvant kriptografiyasi tanl;ovining birinchi bosqichida nechta algoritm tanlab olingan",
+      "options": ["25", "26", "82", "69"],
+      "correct_answer": "69"
+    },
+    {
+      "id": 61,
+      "question": "Panjarada berilgan q€E*n nuqta uchun II-qI qiymati eng minimal bo'lishini ta'minlovchi I€L ni topish vazifasi bu",
+      "options": [
+        "Eng qisqa vektor muammmosi",
+        "Eng uzun vektor muammosi",
+        "Eng uzoq vektor muammosi",
+        "Eng yaqin vektor muammosi"
+      ],
+      "correct_answer": "Eng yaqin vektor muammosi"
+    },
+    {
+      "id": 62,
+      "question": "NIST tomonidan elon qilingan Post kvant kriptografiyasi tanlovining Uchunchi bosqichida nechta algoritm tanlab olingan",
+      "options": ["17", "8", "9", "7"],
+      "correct_answer": "7"
+    },
+    {
+      "id": 63,
+      "question": "Panjara kriptotizimning ochiq kaliti sifatida qanday bazis tanlanadi",
+      "options": [
+        "yomon bazis",
+        "yaxshi bazis",
+        "qoniqarli bazis",
+        "o'rtacha bazis"
+      ],
+      "correct_answer": "yomon bazis"
+    },
+    {
+      "id": 64,
+      "question": "NIST tomonidan elon qilingan Post kvant kriptografiyasi tanlovining ikkinchi bosqichida nechta algoritm tanlab olingan",
+      "options": ["25", "26", "82", "69"],
+      "correct_answer": "26"
+    },
+    {
+      "id": 65,
+      "question": "bazis vektorlar b_1=(2,1), b_2=(1,3) ga teng, z_1=1, z_2=1 ga teng bo‘lsa, Λ=z_1 b_1+z_2 b_2 panjara nuqtasini hisoblang?",
+      "options": ["(2,1)", "(0,0)", "(1,3)", "(3,4)"],
+      "correct_answer": "(3,4)"
+    },
+    {
+      "id": 66,
+      "question": "bazis vektorlar b_1=(2,1), b_2=(1,3) ga teng, z_1=1, z_2=0 ga teng bo‘lsa, Λ=z_1 b_1+z_2 b_2 panjara nuqtasini hisoblang?",
+      "options": ["(2,1)", "(0,0)", "(1,3)", "(3,4)"],
+      "correct_answer": "(2,1)"
+    },
+    {
+      "id": 67,
+      "question": "Grover algoritmi simmtrik kriptografiyadagi 2^128 hisoblashni qanchaga qisqartiradi",
+      "options": ["2^64", "2^32", "2^127", "2^16"],
+      "correct_answer": "2^64"
+    },
+    {
+      "id": 68,
+      "question": "bazis vektorlar b_1=(2,1), b_2=(1,3) ga teng, z_1=0, z_2=0 ga teng bo‘lsa, Λ=z_1 b_1+z_2 b_2 panjara nuqtasini hisoblang?",
+      "options": ["(2,1)", "(0,0)", "(1,3)", "(3,4)"],
+      "correct_answer": "(0,0)"
+    },
+    {
+      "id": 69,
+      "question": "Panjara kriptografiyasiga oid muammoni ko'rsating",
+      "options": [
+        "MQ(multivariate quadratic)muammosi",
+        "(Isomorphism of Polinomials,IP)muammosi",
+        "sindromni dekodlash muammosi",
+        "Eng yaqin vektor muammosi"
+      ],
+      "correct_answer": "Eng yaqin vektor muammosi"
+    },
+    {
+      "id": 70,
+      "question": "Kodga asoslangan shifrlash sxemasini ko'rsating",
+      "options": ["Classic McElice", "Saber", "Dilithium", "Kaber"],
+      "correct_answer": "Classic McElice"
+    },
+    {
+      "id": 71,
+      "question": "1996 yilda Hoffstein,Pipher va Silverman tomonidan ishlab chiqilgan panjaraga asoslangan tizim bu",
+      "options": ["NTRU", "LWE", "LWR", "SABER"],
+      "correct_answer": "NTRU"
+    },
+    {
+      "id": 72,
+      "question": "Ananaviy tarmoqdagi TLS protokoli vazifasini IoT protokoli stekida qaysi prtokol amalga oshiradi",
+      "options": ["TCP", "TLS", "DTLS", "UDP"],
+      "correct_answer": "DTLS"
+    },
+    {
+      "id": 73,
+      "question": "Qaysi algoritmlar feystel tarmog'iga asoslangan holda ishlaydi",
+      "options": [
+        "DES, GOST 28147-89",
+        "Rijndael, DES",
+        "AES, GOST 28147-89",
+        "DES, Kuznechik"
+      ],
+      "correct_answer": "DES, GOST 28147-89"
+    }
+  ]
+}

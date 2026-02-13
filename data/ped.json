@@ -1,0 +1,634 @@
+{
+  "questions": [
+    {
+      "question": "... fanlararo tadqiqotlar sohasi bo'lib, texnik, axloqiy, huquqiy, ijtimoiy, siyosiy va falsafiy masalalarni ko'rib chiqishni o'z ichiga oladi.",
+      "options": [
+        "Kompyuter etikasi",
+        "Kiberxavfsizlik",
+        "Axborot xavfsizligi",
+        "Maxfiylik"
+      ],
+      "correct": "Kompyuter etikasi"
+    },
+    {
+      "question": "Agar mahsulot inson tomonidan o'z vazifalarini bajarish jarayonida yaratilgan bo'lsa (masalan, o'qituvchi masofaviy o'qitish kursini ishlab chiqqan bo'lsa), unda u qaysi huquqqa tegishli bo'ladi",
+      "options": [
+        "ma'muriy huquqlar ish beruvchiga, mutlaq huquqlar muallifga",
+        "shaxsiy huquqlar muallifga, nomulkiy huquqlar ish beruvchiga",
+        "shaxsiy nomulkiy huquqlar muallifga, mutlaq huquqlar esa ish beruvchiga",
+        "moliyaviy huquqlar muallifga, shaxsiy-nomulkiy huquqlar ish beruvchiga"
+      ],
+      "correct": "shaxsiy nomulkiy huquqlar muallifga, mutlaq huquqlar esa ish beruvchiga"
+    },
+    {
+      "question": "Axborotni izlashda raqamli ta'lim rerusrlarining Dasturlash komponenti nimani nazarda tutadi?",
+      "options": [
+        "Bu talab o'quv va kognitiv faoliyatning tabiati bilan bog'liq. Hal qilinishi kerak bo'lgan muammoli vaziyatga duch kelganda, ta'lim oluvchilarning idrok etish faolligini oshiradi.",
+        "Bu talab eng yangi ilmiy yutuqlarini hisobga olgan holda materialni yetarlicha chuqur va to'g'ri taqdim etish zarurligini bildiradi.",
+        "Ta'lim oluvchining yoshi va individual xususiyatlariga muvofiq materialni taqdim etishning kognitiv murakkablik darajasini aniqlash zarurligini anglatadi.",
+        "dasturiy ta'minotni loyihalash va ishlab chiqishga qaratilgan dasturlar uchun asosiy komponent hisoblanadi."
+      ],
+      "correct": "dasturiy ta'minotni loyihalash va ishlab chiqishga qaratilgan dasturlar uchun asosiy komponent hisoblanadi."
+    },
+    {
+      "question": "Axborotni izlashda raqamli ta'lim rerusrlarining instrumental komponenti nimani nazarda tutadi?",
+      "options": [
+        "hamkorlikdagi ta'lim faoliyati",
+        "raqamli ta'lim resurslari kompyuter simulyatsiyasi uchun dastur yoki tayyor muhit ekanligini anglatadi.",
+        "o'quv faoliyatini amalga oshirish uchun vositalar manbaidan foydalanishni o'z ichiga oladi",
+        "o'z-o'zini nazorat qilish, baholash, aks ettirishga qaratilgan rtr uchun etakchi hisoblanadi."
+      ],
+      "correct": "o'quv faoliyatini amalga oshirish uchun vositalar manbaidan foydalanishni o'z ichiga oladi"
+    },
+    {
+      "question": "Axborotni izlashda raqamli ta'lim rerusrlarining Kompyuter simulyatsiyasi komponenti nimani nazarda tutadi?",
+      "options": [
+        "dasturiy ta'minotni loyihalash va ishlab chiqishga qaratilgan dasturlar uchun asosiy komponent hisoblanadi.",
+        "Hamkorlikdagi ta'lim faoliyati",
+        "o'z-o'zini nazorat qilish, baholash, aks ettirishga qaratilgan RTR uchun etakchi hisoblanadi.",
+        "Raqamli ta'lim resurslari kompyuter simulyatsiyasi uchun dastur yoki tayyor muhit ekanligini anglatadi."
+      ],
+      "correct": "Raqamli ta'lim resurslari kompyuter simulyatsiyasi uchun dastur yoki tayyor muhit ekanligini anglatadi."
+    },
+    {
+      "question": "Axborotni izlashda raqamli ta'lim rerusrlarining Nazorat qiluvchi komponenti nimani nazarda tutadi?",
+      "options": [
+        "Ta'lim oluvchining yoshi va individual xususiyatlariga muvofiq materialni taqdim etishning kognitiv murakkablik darajasini aniqlash zarurligini anglatadi.",
+        "dasturiy ta'minotni loyihalash va ishlab chiqishga qaratilgan dasturlar uchun asosiy komponent hisoblanadi.",
+        "Bu talab eng yangi ilmiy yutuqlarini hisobga olgan holda materialni yetarlicha chuqur va to'g'ri taqdim etish zarurligini bildiradi.",
+        "o'z-o'zini nazorat qilish, baholash, aks ettirishga qaratilgan RTR uchun etakchi hisoblanadi."
+      ],
+      "correct": "o'z-o'zini nazorat qilish, baholash, aks ettirishga qaratilgan RTR uchun etakchi hisoblanadi."
+    },
+    {
+      "question": "Axborotni izlashda raqamli ta'lim rerusrlarining telekommunikatsiya komponenti nimani nazarda tutadi?",
+      "options": [
+        "o'z-o'zini nazorat qilish, baholash, aks ettirishga qaratilgan RTR uchun etakchi hisoblanadi.",
+        "Hamkorlikdagi ta'lim faoliyatini nazarda tutadi",
+        "dasturiy ta'minotni loyihalash va ishlab chiqishga qaratilgan dasturlar uchun asosiy komponent hisoblanadi.",
+        "Bu talab eng yangi ilmiy yutuqlarini hisobga olgan holda materialni yetarlicha chuqur va to'g'ri taqdim etish zarurligini bildiradi."
+      ],
+      "correct": "Hamkorlikdagi ta'lim faoliyatini nazarda tutadi"
+    },
+    {
+      "question": "Dinamik saytlar yaratish imkoniyatini beruvchi (kontentni boshqaruvchi) tizimlar (CMS-Content Management Systems) to'g'ri ko'rsatilgan javobni ko'rsating.",
+      "options": [
+        "LearnWorlds, Articulate Storyline 360, G-Cube, iSpring, ProProfs, TBS, TalentLMS, Joomla, Magento, Umbraco, Shopify, Django CMS",
+        "LearnWorlds, Articulate Storyline 360, Elucidat, Adobe Captivate, Lectora Online, iSpring Suite, EasyGenerator, isEazy, Evolve, H5P",
+        "Moodle, e-khool, Atutor, Captivate Prime, G-Cube, iSpring, ProProfs, TBS, TalentLMS, GoToTraining, Coassemble, Teamie, eFront, Lessonly, Mindflash, Litmos LMS",
+        "WordPress, Drupal, Joomla, Magento, Umbraco, Shopify, Sitecore, Kentico, Sitefinity, DNN, SharePoint, Typo3, Alfresco, DotCMS, Django CMS"
+      ],
+      "correct": "WordPress, Drupal, Joomla, Magento, Umbraco, Shopify, Sitecore, Kentico, Sitefinity, DNN, SharePoint, Typo3, Alfresco, DotCMS, Django CMS"
+    },
+    {
+      "question": "Distributiv (inglizcha distribute - tarqatish) nima?",
+      "options": [
+        "Texnik vositalarni tarqatish shaklidir.",
+        "Dasturiy vositalarni tarqatish shaklidir.",
+        "Texnik ta'minotni tarqatish shaklidir.",
+        "Dasturiy ta'minotni tarqatish shaklidir."
+      ],
+      "correct": "Dasturiy ta'minotni tarqatish shaklidir."
+    },
+    {
+      "question": "EDX akademik bepul masofaviy ta'lim platformasiga kim tomonidan asos solingan?",
+      "options": [
+        "Illinoys, Duke, Google, IBM, Stenford, Imperial College London kabi yetakchi kompaniyalar va universitetlari",
+        "Garvard universiteti, Massachuset texnologiya instituti va Berklidagi Kaliforniya universiteti tomonidan",
+        "Massachuset texnologiya instituti va Google kompaniyasi tomonidan",
+        "Stenford universiteti va Chikago universiteti tomonidan"
+      ],
+      "correct": "Garvard universiteti, Massachuset texnologiya instituti va Berklidagi Kaliforniya universiteti tomonidan"
+    },
+    {
+      "question": "Elektron o'quv resurslarini yaratish imkoniyatini beruvchi pedagogik dasturiy ta'minotlar to'g'ri ko'rsatilgan javobni ko'rsating.",
+      "options": [
+        "LearnWorlds, Articulate Storyline 360, Elucidat, Adobe Captivate, Lectora Online, iSpring Suite, EasyGenerator, isEazy, Evolve, H5P",
+        "Moodle, e-khool, Atutor, Captivate Prime, G-Cube, iSpring, ProProfs, TBS, TalentLMS, GoToTraining, Coassemble, Teamie, eFront, Lessonly, Mindflash, Litmos LMS",
+        "WordPress, Drupal, Joomla, Magento, Umbraco, Shopify, Sitecore, Kentico, Sitefinity, DNN, SharePoint, Typo3, Alfresco, DotCMS, Django CMS",
+        "LearnWorlds, Articulate Storyline 360, G-Cube, iSpring, ProProfs, TBS, TalentLMS, Joomla, Magento, Umbraco, Shopify, Django CMS"
+      ],
+      "correct": "LearnWorlds, Articulate Storyline 360, Elucidat, Adobe Captivate, Lectora Online, iSpring Suite, EasyGenerator, isEazy, Evolve, H5P"
+    },
+    {
+      "question": "Elektron taqdimlar tayyorlash dasturlari",
+      "options": [
+        "Movavi, Camtasia, iMovie, Flipgrid, Thinglink",
+        "Canva, PosterMyWall, Piktochart, DesignCap, Visme",
+        "Prezi, ClearSlide, VoiceThread, TopHat",
+        "Prezi, ClearSlide, Piktochart, DesignCap, Visme"
+      ],
+      "correct": "Prezi, ClearSlide, VoiceThread, TopHat"
+    },
+    {
+      "question": "Grafik muharrirlar - ...",
+      "options": [
+        "... murakkab hisob-kitoblarni avtomatlashtirish talabaning diqqatini o'rganilayotgan hodisa yoki jarayonning mohiyatini tushunishga qaratish imkonini beradi.",
+        "... murakkab tuzilishga ega bo'lgan ma'lumotlar bilan ishlash uchun mo'ljallangan bo'lib, ular ma'lumotlar bazasini yaratish, uni dastlabki ma'lumotlar bilan to'ldirish, keyinchalik ma'lumotlarni to'ldirish va o'zgartirish, shuningdek ma'lumotlar bazalarida qidirishni tashkil qilish uchun xizmat qiladi.",
+        "... grafik tasvirlarni yaratish, grafik hujjatlarni, shu jumladan diagrammalar, rasmlar, chizmalar, jadvallarni qayta ishlash uchun mo'ljallangan.",
+        "... turli manbalardan ovoz yozish, musiqani tahrirlash, raqs mikslarini yaratish, audio treklarni yozib olish va ijro etish imkonini beradi."
+      ],
+      "correct": "... grafik tasvirlarni yaratish, grafik hujjatlarni, shu jumladan diagrammalar, rasmlar, chizmalar, jadvallarni qayta ishlash uchun mo'ljallangan."
+    },
+    {
+      "question": "Grafika va infografika yaratish vositalari",
+      "options": [
+        "Prezi, ClearSlide, Piktochart, DesignCap, Visme",
+        "Prezi, ClearSlide, VoiceThread, TopHat",
+        "Movavi, Camtasia, iMovie, Flipgrid, Thinglink",
+        "Canva, PosterMyWall, Piktochart, DesignCap, Visme"
+      ],
+      "correct": "Canva, PosterMyWall, Piktochart, DesignCap, Visme"
+    },
+    {
+      "question": "Himoyalangan veb-saytlar",
+      "options": ["httpl://", "http://", "htp", "https://"],
+      "correct": "https://"
+    },
+    {
+      "question": "Ilias - masofaviy ta'lim tizimi qanday tizim hisoblanadi?",
+      "options": [
+        "forumlar va shaxsiy bloglar yaratish imkoniyatiga ega bepul platforma.",
+        "Keng xususiylashtirish imkoniyatlariga ega bepul platforma",
+        "Korporativ sektorga yo'naltirilgan platforma.",
+        "virtual muhitni qurish uchun ta'lim platformasi."
+      ],
+      "correct": "forumlar va shaxsiy bloglar yaratish imkoniyatiga ega bepul platforma."
+    },
+    {
+      "question": "Interfaollik darajasini oshirishning tadqiqotli shakllari...",
+      "options": [
+        "... ular foydalanuvchining kontent bilan o'zaro aloqasi yo'qligi bilan tavsiflanadi, shu bilan birga kontent foydalanish paytida o'zgarmagan ko'rinishga ega bo'ladi.",
+        "... tadqiqotlar taklif qilingan voqealarni o'rganishga emas, balki o'z voqealarini ishlab chiqarishga asoslanadi.",
+        "... kontent elementlari bilan foydalanuvchi o'rtasidagi konstruktiv aloqa bilan tavsiflanadi.",
+        "... ular kontent tarkibiy qismlari bilan elementar amallar bajarish orqali foydalanuvchining o'zaro ta'siri bilan tavsiflanadi."
+      ],
+      "correct": "... tadqiqotlar taklif qilingan voqealarni o'rganishga emas, balki o'z voqealarini ishlab chiqarishga asoslanadi."
+    },
+    {
+      "question": "iSpring Learn - masofaviy ta'lim tizimi qanday tizim hisoblanadi?",
+      "options": [
+        "virtual muhitni qurish uchun ta'lim platformasi.",
+        "forumlar va shaxsiy bloglar yaratish imkoniyatiga ega bepul platforma.",
+        "Keng xususiylashtirish imkoniyatlariga ega bepul platforma",
+        "Korporativ sektorga yo'naltirilgan platforma."
+      ],
+      "correct": "Korporativ sektorga yo'naltirilgan platforma."
+    },
+    {
+      "question": "Jadval muharrirlari - ...",
+      "options": [
+        "... bu MS PowerPoint, Prezi, SlideRocet, VoiceThread va boshqalar kabi taqdimotlarini yaratish va qo'llash uchun keng miqyosda qo'llaniladi.",
+        "... matnli hujjatlarni yaratish, tahrirlash va formatlash uchun dasturlar hisoblanadi. Misollar: Microsoft Word, Word Perfect, ChiWriter, Multi-Edit, Open Office va boshqalar.",
+        "... bu ma'lumotlarni jadvallar ko'rinishida taqdim etish, matematik ma'lumotlarni qayta ishlash, ma'lumotlarni vizuallashtirish va diagrammalar yaratish uchun mo'ljallangan dasturlar.",
+        "... grafik tasvirlarni yaratish, grafik hujjatlarni, shu jumladan diagrammalar, rasmlar, chizmalar, jadvallarni qayta ishlash uchun mo'ljallangan."
+      ],
+      "correct": "... bu ma'lumotlarni jadvallar ko'rinishida taqdim etish, matematik ma'lumotlarni qayta ishlash, ma'lumotlarni vizuallashtirish va diagrammalar yaratish uchun mo'ljallangan dasturlar."
+    },
+    {
+      "question": "Ko'p mehnat talab qiladigan hisoblash ishlari va raqamli tahlil bilan bog'liq faoliyatni avtomatlashtirish tizimlari - ...",
+      "options": [
+        "... bu ma'lumotlarni jadvallar ko'rinishida taqdim etish, matematik ma'lumotlarni qayta ishlash, ma'lumotlarni vizuallashtirish va diagrammalar yaratish uchun mo'ljallangan dasturlar.",
+        "... matnli hujjatlarni yaratish, tahrirlash va formatlash uchun dasturlar hisoblanadi. Misollar: Microsoft Word, Word Perfect, ChiWriter, Multi-Edit, Open Office va boshqalar.",
+        "... murakkab hisob-kitoblarni avtomatlashtirish talabaning diqqatini o'rganilayotgan hodisa yoki jarayonning mohiyatini tushunishga qaratish imkonini beradi.",
+        "... grafik tasvirlarni yaratish, grafik hujjatlarni, shu jumladan diagrammalar, rasmlar, chizmalar, jadvallarni qayta ishlash uchun mo'ljallangan."
+      ],
+      "correct": "... murakkab hisob-kitoblarni avtomatlashtirish talabaning diqqatini o'rganilayotgan hodisa yoki jarayonning mohiyatini tushunishga qaratish imkonini beradi."
+    },
+    {
+      "question": "Ma'lumotlar bazasini boshqarish tizimlari (MBBT) - ...",
+      "options": [
+        "... murakkab hisob-kitoblarni avtomatlashtirish talabaning diqqatini o'rganilayotgan hodisa yoki jarayonning mohiyatini tushunishga qaratish imkonini beradi.",
+        "... murakkab tuzilishga ega bo'lgan ma'lumotlar bilan ishlash uchun mo'ljallangan bo'lib, ular ma'lumotlar bazasini yaratish, uni dastlabki ma'lumotlar bilan to'ldirish, keyinchalik ma'lumotlarni to'ldirish va o'zgartirish, shuningdek ma'lumotlar bazalarida qidirishni tashkil qilish uchun xizmat qiladi.",
+        "... turli manbalardan ovoz yozish, musiqani tahrirlash, raqs mikslarini yaratish, audio treklarni yozib olish va ijro etish imkonini beradi.",
+        "... o'quv videolarini yaratish, audio va video ma'lumotlar bilan ishlash, videolarni tahrirlash va ko'rish uchun mo'ljallangan."
+      ],
+      "correct": "... murakkab tuzilishga ega bo'lgan ma'lumotlar bilan ishlash uchun mo'ljallangan bo'lib, ular ma'lumotlar bazasini yaratish, uni dastlabki ma'lumotlar bilan to'ldirish, keyinchalik ma'lumotlarni to'ldirish va o'zgartirish, shuningdek ma'lumotlar bazalarida qidirishni tashkil qilish uchun xizmat qiladi."
+    },
+    {
+      "question": "Masofali o'qitish jixatiga nima kirmaydi?",
+      "options": [
+        "rigidlik",
+        "o'qituvchi yangi roli",
+        "modullik",
+        "an'anaviy bilimlar nazorati usullari"
+      ],
+      "correct": "an'anaviy bilimlar nazorati usullari"
+    },
+    {
+      "question": "Masofali o'qitish tizimi uchun ishlab chikilgan spetsifikatsiya va standartlar tuplami qanday nomlanadi",
+      "options": ["XML", "SCORM", "Moodle", "TinCan"],
+      "correct": "SCORM"
+    },
+    {
+      "question": "Masofaviy ta'lim tushunchasi qanday ma'noni anglatadi?",
+      "options": [
+        "o'qituvchi tomonidan yaratilgan resurslar talabalarning mustaqil ishini tashkil etishga imkon berishini anglatadi.",
+        "talaba va o'qituvchi odatda auditoriya turib ta'lim jarayonini tashkil etilishini anglatadi.",
+        "talaba va o'qituvchi odatda auditoriyada emas, balki bir-biridan masofadan turib ta'lim jarayonini tashkil etilishini anglatadi.",
+        "Auditoriyada ota-onalar va o'qituvchilar o'rtasida muloqot qilish jarayonini tashkil etilishini anglatadi."
+      ],
+      "correct": "talaba va o'qituvchi odatda auditoriyada emas, balki bir-biridan masofadan turib ta'lim jarayonini tashkil etilishini anglatadi."
+    },
+    {
+      "question": "Matn muharrirlari - ...",
+      "options": [
+        "... matnli hujjatlarni yaratish, tahrirlash va formatlash uchun dasturlar hisoblanadi. Misollar: Microsoft Word, Word Perfect, ChiWriter, Multi-Edit, Open Office va boshqalar.",
+        "... bu MS PowerPoint, Prezi, SlideRocet, VoiceThread va boshqalar kabi taqdimotlarini yaratish va qo'llash uchun keng miqyosda qo'llaniladi.",
+        "... bu ma'lumotlarni jadvallar ko'rinishida taqdim etish, matematik ma'lumotlarni qayta ishlash, ma'lumotlarni vizuallashtirish va diagrammalar yaratish uchun mo'ljallangan dasturlar.",
+        "... grafik tasvirlarni yaratish, grafik hujjatlarni, shu jumladan diagrammalar, rasmlar, chizmalar, jadvallarni qayta ishlash uchun mo'ljallangan."
+      ],
+      "correct": "... matnli hujjatlarni yaratish, tahrirlash va formatlash uchun dasturlar hisoblanadi. Misollar: Microsoft Word, Word Perfect, ChiWriter, Multi-Edit, Open Office va boshqalar."
+    },
+    {
+      "question": "Merrillning integratsiya tamoyili to'g'ri ko'rsatilgan qatorni belgilang.",
+      "options": [
+        "O'quv kontentlari tinglovchilarning faoliyatida duch keladigan aniq vazifalarni yengishga yordam berishi kerak.",
+        "Onlayn kurs bo'yicha bilimlar tinglovchilarning faoliyatiga singib ketishi, amalda qo'llanilishi kerak.",
+        "Onlayn kurs tinglovchilarning mavjud bilimlarini yangi ma'lumotlar bilan bog'lashga yordam beradi.",
+        "Onlayn kurs tinglovchilari e'tiborini jalb qilishi va ma'lumotni yaxshiroq eslab qolishlari uchun yangi bilimlarni taqdim etishning turli usullaridan (ma'ruzalar, hikoyalar, videofilmlar, infografika) foydalanishi kerak."
+      ],
+      "correct": "Onlayn kurs bo'yicha bilimlar tinglovchilarning faoliyatiga singib ketishi, amalda qo'llanilishi kerak."
+    },
+    {
+      "question": "Merrillning o'quv materiallari taqdimotining xilma-xilligi tamoyili to'g'ri ko'rsatilgan qatorni belgilang.",
+      "options": [
+        "Onlayn kurs tinglovchilari e'tiborini jalb qilishi va ma'lumotni yaxshiroq eslab qolishlari uchun yangi bilimlarni taqdim etishning turli usullaridan (ma'ruzalar, hikoyalar, videofilmlar, infografika) foydalanishi kerak.",
+        "Onlayn kurs bo'yicha bilimlar tinglovchilarning faoliyatiga singib ketishi, amalda qo'llanilishi kerak.",
+        "O'quv kontentlari tinglovchilarning faoliyatida duch keladigan aniq vazifalarni yengishga yordam berishi kerak.",
+        "Onlayn kurs tinglovchilarning mavjud bilimlarini yangi ma'lumotlar bilan bog'lashga yordam beradi."
+      ],
+      "correct": "Onlayn kurs tinglovchilari e'tiborini jalb qilishi va ma'lumotni yaxshiroq eslab qolishlari uchun yangi bilimlarni taqdim etishning turli usullaridan (ma'ruzalar, hikoyalar, videofilmlar, infografika) foydalanishi kerak."
+    },
+    {
+      "question": "Merrillning Qo'llash tamoyili to'g'ri ko'rsatilgan qatorni belgilang.",
+      "options": [
+        "Tinglovchilar mashg'ulot jarayonida yangi bilimlarni mustaqil ravishda qo'llashlari kerak.",
+        "Onlayn kurs tinglovchilari e'tiborini jalb qilishi va ma'lumotni yaxshiroq eslab qolishlari uchun yangi bilimlarni taqdim etishning turli usullaridan (ma'ruzalar, hikoyalar, videofilmlar, infografika) foydalanishi kerak.",
+        "Onlayn kurs bo'yicha bilimlar tinglovchilarning faoliyatiga singib ketishi, amalda qo'llanilishi kerak.",
+        "O'quv kontentlari tinglovchilarning faoliyatida duch keladigan aniq vazifalarni yengishga yordam berishi kerak."
+      ],
+      "correct": "Tinglovchilar mashg'ulot jarayonida yangi bilimlarni mustaqil ravishda qo'llashlari kerak."
+    },
+    {
+      "question": "Merrillning Tinglovchilar bilimiga murojaat tamoyili to'g'ri ko'rsatilgan qatorni belgilang.",
+      "options": [
+        "O'quv kontentlari tinglovchilarning faoliyatida duch keladigan aniq vazifalarni yengishga yordam berishi kerak.",
+        "Onlayn kurs tinglovchilarning mavjud bilimlarini yangi ma'lumotlar bilan bog'lashga yordam beradi.",
+        "Onlayn kurs tinglovchilari e'tiborini jalb qilishi va ma'lumotni yaxshiroq eslab qolishlari uchun yangi bilimlarni taqdim etishning turli usullaridan (ma'ruzalar, hikoyalar, videofilmlar, infografika) foydalanishi kerak.",
+        "Tinglovchilar mashg'ulot jarayonida yangi bilimlarni mustaqil ravishda qo'llashlari kerak."
+      ],
+      "correct": "Onlayn kurs tinglovchilarning mavjud bilimlarini yangi ma'lumotlar bilan bog'lashga yordam beradi."
+    },
+    {
+      "question": "Merrillning vazifalarga yo'naltirish tamoyili to'g'ri ko'rsatilgan qatorni belgilang.",
+      "options": [
+        "Onlayn kurs tinglovchilarning mavjud bilimlarini yangi ma'lumotlar bilan bog'lashga yordam beradi.",
+        "O'quv kontentlari tinglovchilarning faoliyatida duch keladigan aniq vazifalarni yengishga yordam berishi kerak.",
+        "Onlayn kurs tinglovchilari e'tiborini jalb qilishi va ma'lumotni yaxshiroq eslab qolishlari uchun yangi bilimlarni taqdim etishning turli usullaridan (ma'ruzalar, hikoyalar, videofilmlar, infografika) foydalanishi kerak.",
+        "Tinglovchilar mashg'ulot jarayonida yangi bilimlarni mustaqil ravishda qo'llashlari kerak."
+      ],
+      "correct": "O'quv kontentlari tinglovchilarning faoliyatida duch keladigan aniq vazifalarni yengishga yordam berishi kerak."
+    },
+    {
+      "question": "MOOC (Massive Open Online Course (ommaviy ochik onlayn kurs) lar asosan qaysi turdagi ma'lumotlardan iborat?",
+      "options": [
+        "amaliy ishlar",
+        "tarqatma material",
+        "keyslar",
+        "Videma'ruzalar"
+      ],
+      "correct": "Videma'ruzalar"
+    },
+    {
+      "question": "Moodle - masofaviy ta'lim tizimi qanday tizim hisoblanadi?",
+      "options": [
+        "forumlar va shaxsiy bloglar yaratish imkoniyatiga ega bepul platforma.",
+        "Keng xususiylashtirish imkoniyatlariga ega bepul platforma",
+        "Korporativ sektorga yo'naltirilgan platforma.",
+        "virtual muhitni qurish uchun ta'lim platformasi."
+      ],
+      "correct": "Keng xususiylashtirish imkoniyatlariga ega bepul platforma"
+    },
+    {
+      "question": "Mualliflik huquqi qachon yuzaga keladi?",
+      "options": [
+        "mualliflik huquqi g'oya kelgandan yuzaga keladi",
+        "mualliflik huquqi asar yaratilmasdan oldin yuzaga keladi",
+        "mualliflik huquqi asar yaratilganda yuzaga keladi",
+        "to'g'ri javob keltirilmagan"
+      ],
+      "correct": "mualliflik huquqi asar yaratilganda yuzaga keladi"
+    },
+    {
+      "question": "Mualliflik huquqi qanday huquqlarga ajraladi?",
+      "options": [
+        "moliyaviy mualliflik huquqi va shaxsiy-nomulkiy mualliflik huquqi",
+        "shaxsiy mualliflik huquqi va nomulkiy mualliflik huquqi",
+        "ma'muriy mualliflik huquqi va mutlaq mualliflik huquqi",
+        "shaxsiy-nomulkiy mualliflik huquqi va mutlaq mualliflik huquqi"
+      ],
+      "correct": "shaxsiy-nomulkiy mualliflik huquqi va mutlaq mualliflik huquqi"
+    },
+    {
+      "question": "Multimedia ma'lumotlari bilan ishlash uchun dasturiy vositalar - ...",
+      "options": [
+        "... o'quv videolarini yaratish, audio va video ma'lumotlar bilan ishlash, videolarni tahrirlash va ko'rish uchun mo'ljallangan.",
+        "... matnli hujjatlarni yaratish, tahrirlash va formatlash uchun dasturlar hisoblanadi. Misollar: Microsoft Word, Word Perfect, ChiWriter, Multi-Edit, Open Office va boshqalar.",
+        "... bu ma'lumotlarni jadvallar ko'rinishida taqdim etish, matematik ma'lumotlarni qayta ishlash, ma'lumotlarni vizuallashtirish va diagrammalar yaratish uchun mo'ljallangan dasturlar.",
+        "... grafik tasvirlarni yaratish, grafik hujjatlarni, shu jumladan diagrammalar, rasmlar, chizmalar, jadvallarni qayta ishlash uchun mo'ljallangan."
+      ],
+      "correct": "... o'quv videolarini yaratish, audio va video ma'lumotlar bilan ishlash, videolarni tahrirlash va ko'rish uchun mo'ljallangan."
+    },
+    {
+      "question": "Pedagog tegishli muassasalarda yaratilgan elektron ta'lim resurslariga mualliflik huquqini qanday rasmiylashtirishi mumkin?",
+      "options": [
+        "ruxsatsiz rasmiylashtira olmaydi",
+        "rasmiylashtira olmaydi",
+        "mustaqil ravishda rasmiylashtirishi mumkin",
+        "ba'zi holatlarda rasmiylashtira olmaydi"
+      ],
+      "correct": "mustaqil ravishda rasmiylashtirishi mumkin"
+    },
+    {
+      "question": "Pedagogik dizayn - bu ...",
+      "options": [
+        "... onlayn ta'limni tashkil etishning asosiy usullaridan biri hisoblanib, kontentni aniq strategiyali, maqsadli va natijalarni tahlil qilish imkoniyatiga ega bo'lgan kursga aylantirish imkoniyatini beradi.",
+        "... ular foydalanuvchining kontent bilan o'zaro aloqasi yo'qligi bilan tavsiflanadi, shu bilan birga kontent foydalanish paytida o'zgarmagan ko'rinishga ega bo'ladi.",
+        "... kontent elementlari bilan foydalanuvchi o'rtasidagi konstruktiv aloqa bilan tavsiflanadi.",
+        "... ular kontent tarkibiy qismlari bilan elementar amallar bajarish orqali foydalanuvchining o'zaro ta'siri bilan tavsiflanadi."
+      ],
+      "correct": "... onlayn ta'limni tashkil etishning asosiy usullaridan biri hisoblanib, kontentni aniq strategiyali, maqsadli va natijalarni tahlil qilish imkoniyatiga ega bo'lgan kursga aylantirish imkoniyatini beradi."
+    },
+    {
+      "question": "Raqamli didaktika tushunchasiga ta'rifi qaysi qatorda to'g'ri ko'rsatilgan?",
+      "options": [
+        "Raqamli didaktika - pedagogikaning bir qismi hisoblanib, raqamli ta'lim muhitida o'quv jarayonini tashkil etish bo'yicha fan sifatida qaraladi.",
+        "Raqamli didaktika - pedagogikaning bir qismi hisoblanib, raqamli ta'lim muhitida malaka oshirishni nazarda tutadi.",
+        "Raqamli didaktika - veb portallar bilan ishlash imkoniyatini beradi.",
+        "Raqamli didaktika - pedagogikaning bir qismi hisoblanib, o'quv jarayonini tashkil etish bo'yicha fan sifatida qaraladi."
+      ],
+      "correct": "Raqamli didaktika - pedagogikaning bir qismi hisoblanib, raqamli ta'lim muhitida o'quv jarayonini tashkil etish bo'yicha fan sifatida qaraladi."
+    },
+    {
+      "question": "Raqamli etika - bu ...",
+      "options": [
+        "ommaviy axborot vositalari bilan ishlash, texnologik innovatsiyalar, raqamli kontent bilan ishlash, kompyuter texnikasi bilan ishlash, kommunikatsiya.",
+        "kommunikatsiya,raqamli kontent bilan ishlash, kompyuter texnikasi bilan ishlash, ommaviy axborot vositalari bilan ishlash, texnologik innovatsiyalar.",
+        "kompyuter texnikasi bilan ishlash, ommaviy axborot vositalari bilan ishlash, raqamli kontent bilan ishlash, texnologik innovatsiyalar, kommunikatsiya.",
+        "onlayn muhitda o'zini tutish qoidalari va tamoyillari to'plamidir."
+      ],
+      "correct": "onlayn muhitda o'zini tutish qoidalari va tamoyillari to'plamidir."
+    },
+    {
+      "question": "Raqamli etikaning asosiy tamoyillari to'g'ri ko'rsatilgan qatorni belgilang:",
+      "options": [
+        "Xavfsizlik. Maxfiylik. Hurmat. Ishonchlilik. Mualliflik huquqi.Shaxsiy javobgarlik.",
+        "Axborot xavfsizligi. Maxfiylik. Ishonchlilik. Mualliflik huquqi. Ko'p madaniyatlilik. Shaxsiy xususiyatlar.",
+        "Xavfsizlik. Maxfiylik. Hurmat. Ishonchlilik. Mualliflik huquqi. Ko'p madaniyatlilik. Shaxsiy javobgarlik.",
+        "Kiberxavfsizlik. Raqamli savodxonlik. Xavfsizlik. Maxfiylik. Hurmat. Ko'p madaniyatlilik. Shaxsiy javobgarlik."
+      ],
+      "correct": "Xavfsizlik. Maxfiylik. Hurmat. Ishonchlilik. Mualliflik huquqi. Ko'p madaniyatlilik. Shaxsiy javobgarlik."
+    },
+    {
+      "question": "Raqamli izni boshqarishning refleksiv komponenti ...",
+      "options": [
+        "turli forumlar, suhbatlar, elektron pochta xabarlari asosida to'planadi;",
+        "axborot-ta'lim sohasidagi faoliyat natijalarini ko'rsatadi;",
+        "turli xil so'rovnomalar va sotsiologik tadqiqotlar natijalaridan kelib chiqadi.",
+        "raqamli muhitdagi faoliyatni odatda foydalanadigan texnologiyalar, ya'ni IP-manzillar, qidiruvlar, ma'lumot almashish protokollari va boshqalar nuqtai nazaridan aks ettiradi;"
+      ],
+      "correct": "turli xil so'rovnomalar va sotsiologik tadqiqotlar natijalaridan kelib chiqadi."
+    },
+    {
+      "question": "Raqamli ta'lim jarayonining Amaliyotga yo'naltirilganlik tamoyili - ...",
+      "options": [
+        "vizualizatsiyaning batafsilroq didaktik tamoyili bo'lib, o'quv jarayonida idrok etishning vizual, eshitish va vosita (kinestetik) usullarini o'z ichiga oladi.",
+        "mavjudlik, tizimlilik va izchillik didaktik tamoyili bilan bog'liq bo'lib, murakkablikni oshirish prinsipi izchil o'tishni o'z ichiga oladi: oddiydan murakkabga va murakkabdan oddiyga, umumiydan xususiyga va xususiydan umumiyga, individualdan guruhga va guruhdan individual va boshqa ta'lim jarayonlarini nazarda tutadi.",
+        "individual ta'lim strategiyasini yaratish uchun ortiqcha axborot resurslarini talab qiladi. Bunday ortiqchalik tarmoq ta'lim resursi - yagona axborot ta'lim muhiti yordamida amalga oshirilishi mumkin.",
+        "ta'limni hayot bilan bog'lashning an'anaviy didaktik tamoyili bilan bevosita bog'liq bo'lib, aniq maqsad va aniq natijalarni belgilashni talab qiladi."
+      ],
+      "correct": "ta'limni hayot bilan bog'lashning an'anaviy didaktik tamoyili bilan bevosita bog'liq bo'lib, aniq maqsad va aniq natijalarni belgilashni talab qiladi."
+    },
+    {
+      "question": "Raqamli ta'lim jarayonining Hamkorlikda o'rganish tamoyili - ...",
+      "options": [
+        "mavjudlik, tizimlilik va izchillik didaktik tamoyili bilan bog'liq bo'lib, murakkablikni oshirish prinsipi izchil o'tishni o'z ichiga oladi: oddiydan murakkabga va murakkabdan oddiyga, umumiydan xususiyga va xususiydan umumiyga, individualdan guruhga va guruhdan individual va boshqa ta'lim jarayonlarini nazarda tutadi.",
+        "ta'limni hayot bilan bog'lashning an'anaviy didaktik tamoyili bilan bevosita bog'liq bo'lib, aniq maqsad va aniq natijalarni belgilashni talab qiladi.",
+        "o'qituvchi va talaba o'rtasidagi faol ko'p tomonlama - real va tarmoqli aloqa asosida o'quv jarayonini qurishni talab qiladi hamda tarmoqni o'rganishning guruh shakllaridan foydalanishni o'z ichiga oladi.",
+        "individual ta'lim strategiyasini yaratish uchun ortiqcha axborot resurslarini talab qiladi. Bunday ortiqchalik tarmoq ta'lim resursi - yagona axborot ta'lim muhiti yordamida amalga oshirilishi mumkin."
+      ],
+      "correct": "o'qituvchi va talaba o'rtasidagi faol ko'p tomonlama - real va tarmoqli aloqa asosida o'quv jarayonini qurishni talab qiladi hamda tarmoqni o'rganishning guruh shakllaridan foydalanishni o'z ichiga oladi."
+    },
+    {
+      "question": "Raqamli ta'lim jarayonining Moslashuvchanlik tamoyili - ...",
+      "options": [
+        "raqamli ta'lim jarayonining shartlariga qarab individual yondashuvni ishlab chiqish, shuningdek, o'quv materialini taqdim etish tartibi, usuli va sur'ati kabi jihatlarni hisobga olgan holda har bir talaba uchun dasturni avtomatik ravishda sozlash imkonini beradi.",
+        "maqsadlarga erishishni, bilim, ko'nikma va malakalarni to'liq o'zlashtirishni talab qiladi \"tushuntirish - mustahkamlash - nazorat\" didaktik zanjirining yakuniy elementi hisoblanadi.",
+        "o'qituvchi va talaba o'rtasidagi faol ko'p tomonlama - real va tarmoqli aloqa asosida o'quv jarayonini qurishni talab qiladi hamda tarmoqni o'rganishning guruh shakllaridan foydalanishni o'z ichiga oladi.",
+        "ta'limni hayot bilan bog'lashning an'anaviy didaktik tamoyili bilan bevosita bog'liq bo'lib, aniq maqsad va aniq natijalarni belgilashni talab qiladi."
+      ],
+      "correct": "raqamli ta'lim jarayonining shartlariga qarab individual yondashuvni ishlab chiqish, shuningdek, o'quv materialini taqdim etish tartibi, usuli va sur'ati kabi jihatlarni hisobga olgan holda har bir talaba uchun dasturni avtomatik ravishda sozlash imkonini beradi."
+    },
+    {
+      "question": "Raqamli ta'lim jarayonining Muvaffaqiyatlilik tamoyili - ...",
+      "options": [
+        "o'qituvchi va talaba o'rtasidagi faol ko'p tomonlama - real va tarmoqli aloqa asosida o'quv jarayonini qurishni talab qiladi hamda tarmoqni o'rganishning guruh shakllaridan foydalanishni o'z ichiga oladi.",
+        "maqsadlarga erishishni, bilim, ko'nikma va malakalarni to'liq o'zlashtirishni talab qiladi \"tushuntirish - mustahkamlash - nazorat\" didaktik zanjirining yakuniy elementi hisoblanadi.",
+        "ta'limni hayot bilan bog'lashning an'anaviy didaktik tamoyili bilan bevosita bog'liq bo'lib, aniq maqsad va aniq natijalarni belgilashni talab qiladi.",
+        "mavjudlik, tizimlilik va izchillik didaktik tamoyili bilan bog'liq bo'lib, murakkablikni oshirish prinsipi izchil o'tishni o'z ichiga oladi: oddiydan murakkabga va murakkabdan oddiyga, umumiydan xususiyga va xususiydan umumiyga, individualdan guruhga va guruhdan individual va boshqa ta'lim jarayonlarini nazarda tutadi."
+      ],
+      "correct": "maqsadlarga erishishni, bilim, ko'nikma va malakalarni to'liq o'zlashtirishni talab qiladi \"tushuntirish - mustahkamlash - nazorat\" didaktik zanjirining yakuniy elementi hisoblanadi."
+    },
+    {
+      "question": "Raqamli ta'lim jarayonining Ta'lim muhitining to'yinganligi tamoyili - ...",
+      "options": [
+        "maqsadlilikning an'anaviy didaktik tamoyili bilan kesishadi: o'quv jarayonida faqat ma'lum bir talabaning ta'lim jarayonida belgilangan maqsadlarga maksimal darajada erishishni ta'minlaydigan raqamli texnologiyalardan foydalanish talab etiladi.",
+        "vizualizatsiyaning batafsilroq didaktik tamoyili bo'lib, o'quv jarayonida idrok etishning vizual, eshitish va vosita (kinestetik) usullarini o'z ichiga oladi.",
+        "butun o'quv jarayoni davomida talabalarning muvaffaqiyatini doimiy ravishda baholashni taqozo etadi.",
+        "individual ta'lim strategiyasini yaratish uchun ortiqcha axborot resurslarini talab qiladi. Bunday ortiqchalik tarmoq ta'lim resursi - yagona axborot ta'lim muhiti yordamida amalga oshirilishi mumkin."
+      ],
+      "correct": "individual ta'lim strategiyasini yaratish uchun ortiqcha axborot resurslarini talab qiladi. Bunday ortiqchalik tarmoq ta'lim resursi - yagona axborot ta'lim muhiti yordamida amalga oshirilishi mumkin."
+    },
+    {
+      "question": "Raqamli ta'lim jarayonining Ustunlik tamoyili - ...",
+      "options": [
+        "talabaning o'quv maqsadini mustaqil ravishda belgilash, o'quv jarayonining strategiyasini, o'quv dasturining rivojlanish sur'ati va darajasini tanlash qobiliyatini nazarda tutadi.",
+        "raqamli ta'lim muhitida talabaning mustaqil ta'lim faoliyatiga qaratilgan bo'lib, o'quv jarayonini tashkil etish, o'quv jarayonida talabani qo'llab-quvvatlash va yordam berish lozimligin ko'rsatadi.",
+        "maqsadlilikning an'anaviy didaktik tamoyili bilan kesishadi: o'quv jarayonida faqat ma'lum bir talabaning ta'lim jarayonida belgilangan maqsadlarga maksimal darajada erishishni ta'minlaydigan raqamli texnologiyalardan foydalanish talab etiladi.",
+        "raqamli ta'lim jarayonining shartlariga qarab individual yondashuvni ishlab chiqish, shuningdek, o'quv materialini taqdim etish tartibi, usuli va sur'ati kabi jihatlarni hisobga olgan holda har bir talaba uchun dasturni avtomatik ravishda sozlash imkonini beradi."
+      ],
+      "correct": "raqamli ta'lim muhitida talabaning mustaqil ta'lim faoliyatiga qaratilgan bo'lib, o'quv jarayonini tashkil etish, o'quv jarayonida talabani qo'llab-quvvatlash va yordam berish lozimligin ko'rsatadi."
+    },
+    {
+      "question": "Raqamli ta'lim resursi - ...",
+      "options": [
+        "raqamli shaklda taqdim etiladigan ta'lim resursi bo'lib, mavzu tuzilmasi, mazmuni va metama'lumotlarni o'z ichiga oladi.",
+        "raqamli shaklda taqdim etiladigan ta'lim resursi bo'lib, videodarsliklarga asoslangan metama'lumotlarni o'z ichiga oladi.",
+        "raqamli shaklda taqdim etiladigan ta'lim resursi bo'lib, ochiq ma'lumotlarni o'z ichiga oladi.",
+        "raqamli shaklda taqdim etiladigan ta'lim resursi bo'lib, ta'lim portallarida taqdim etiladigan ma'lumotlarni o'z ichiga oladi."
+      ],
+      "correct": "raqamli shaklda taqdim etiladigan ta'lim resursi bo'lib, mavzu tuzilmasi, mazmuni va metama'lumotlarni o'z ichiga oladi."
+    },
+    {
+      "question": "Raqamli ta'lim resurslarini ishlab chiqishda Bilimlarni o'zlashtirishning mustahkamlash didaktik talabi to'g'ri keltirilgan qatorni belgilang.",
+      "options": [
+        "Bu talab o'quv va kognitiv faoliyatning tabiati bilan bog'liq. Hal qilinishi kerak bo'lgan muammoli vaziyatga duch kelganda, ta'lim oluvchilarning idrok etish faolligini oshiradi.",
+        "Raqamli ta'lim resurslari yordamida muayyan harakatlarning takrorlanishini tashkil qilish, individual o'quv topshiriqlarining o'zgaruvchanligini oshirish mumkin bo'ladi.",
+        "O'rganilayotgan obyektlar va jarayonlarni hissiy idrok etish qonuniyatlarini hisobga olish zarurligini anglatadi.",
+        "O'quv jarayoni faolligini oshirish uchun RTR turli xil o'quv vaziyatlarini yaratishi, turli xil savollarni shakllantirishi, talabaga u yoki bu ta'lim trayektoriyasini tanlash imkoniyatini, hodisalarning borishini nazorat qilish qobiliyatini ta'minlashi kerak."
+      ],
+      "correct": "Raqamli ta'lim resurslari yordamida muayyan harakatlarning takrorlanishini tashkil qilish, individual o'quv topshiriqlarining o'zgaruvchanligini oshirish mumkin bo'ladi."
+    },
+    {
+      "question": "Raqamli ta'lim resurslarini ishlab chiqishda Faollik va onglilik didaktik talabi to'g'ri keltirilgan qatorni belgilang.",
+      "options": [
+        "Raqamli ta'lim resurslari yordamida muayyan harakatlarning takrorlanishini tashkil qilish, individual o'quv topshiriqlarining o'zgaruvchanligini oshirish mumkin bo'ladi.",
+        "Talabalar tomonidan o'rganilayotgan fan sohasidagi ma'lum bir bilim tizimini izchil o'zlashtirish zaruratidir.",
+        "O'quv jarayoni faolligini oshirish uchun RTR turli xil o'quv vaziyatlarini yaratishi, turli xil savollarni shakllantirishi, talabaga u yoki bu ta'lim trayektoriyasini tanlash imkoniyatini, hodisalarning borishini nazorat qilish qobiliyatini ta'minlashi kerak.",
+        "Raqamli ta'lim resurslari faqatgina ta'lim funksiyasi bilan cheklanib qolmasligi kerak, ular o'quvchilarning aqliy qobiliyatlarini rivojlantirishi, o'quv faoliyati uchun motivatsiyani ta'minlashi va bir qator tarbiyaviy funksiyalarni bajarishi kerak."
+      ],
+      "correct": "O'quv jarayoni faolligini oshirish uchun RTR turli xil o'quv vaziyatlarini yaratishi, turli xil savollarni shakllantirishi, talabaga u yoki bu ta'lim trayektoriyasini tanlash imkoniyatini, hodisalarning borishini nazorat qilish qobiliyatini ta'minlashi kerak."
+    },
+    {
+      "question": "Raqamli ta'lim resurslarini ishlab chiqishda Ilmiylik didaktik talabi to'g'ri keltirilgan qatorni belgilang.",
+      "options": [
+        "Ta'lim oluvchining yoshi va individual xususiyatlariga muvofiq materialni taqdim etishning kognitiv murakkablik darajasini aniqlash zarurligini anglatadi.",
+        "Bu talab eng yangi ilmiy yutuqlarini hisobga olgan holda materialni yetarlicha chuqur va to'g'ri taqdim etish zarurligini bildiradi.",
+        "Bu talab o'quv va kognitiv faoliyatning tabiati bilan bog'liq. Hal qilinishi kerak bo'lgan muammoli vaziyatga duch kelganda, ta'lim oluvchilarning idrok etish faolligini oshiradi.",
+        "O'rganilayotgan obyektlar va jarayonlarni hissiy idrok etish qonuniyatlarini hisobga olish zarurligini anglatadi."
+      ],
+      "correct": "Bu talab eng yangi ilmiy yutuqlarini hisobga olgan holda materialni yetarlicha chuqur va to'g'ri taqdim etish zarurligini bildiradi."
+    },
+    {
+      "question": "Raqamli ta'lim resurslarini ishlab chiqishda Ko'rgazmalilik didaktik talabi to'g'ri keltirilgan qatorni belgilang.",
+      "options": [
+        "Talabalar tomonidan o'rganilayotgan fan sohasidagi ma'lum bir bilim tizimini izchil o'zlashtirish zaruratidir.",
+        "O'quv jarayoni faolligini oshirish uchun RTR turli xil o'quv vaziyatlarini yaratishi, turli xil savollarni shakllantirishi, talabaga u yoki bu ta'lim trayektoriyasini tanlash imkoniyatini, hodisalarning borishini nazorat qilish qobiliyatini ta'minlashi kerak.",
+        "O'rganilayotgan obyektlar va jarayonlarni hissiy idrok etish qonuniyatlarini hisobga olish zarurligini anglatadi.",
+        "Raqamli ta'lim resurslari yordamida muayyan harakatlarning takrorlanishini tashkil qilish, individual o'quv topshiriqlarining o'zgaruvchanligini oshirish mumkin bo'ladi."
+      ],
+      "correct": "O'rganilayotgan obyektlar va jarayonlarni hissiy idrok etish qonuniyatlarini hisobga olish zarurligini anglatadi."
+    },
+    {
+      "question": "Raqamli ta'lim resurslarini ishlab chiqishda Muammolar yechimi didaktik talabi to'g'ri keltirilgan qatorni belgilang.",
+      "options": [
+        "O'quv jarayoni faolligini oshirish uchun RTR turli xil o'quv vaziyatlarini yaratishi, turli xil savollarni shakllantirishi, talabaga u yoki bu ta'lim trayektoriyasini tanlash imkoniyatini, hodisalarning borishini nazorat qilish qobiliyatini ta'minlashi kerak.",
+        "O'rganilayotgan obyektlar va jarayonlarni hissiy idrok etish qonuniyatlarini hisobga olish zarurligini anglatadi.",
+        "Bu talab o'quv va kognitiv faoliyatning tabiati bilan bog'liq. Hal qilinishi kerak bo'lgan muammoli vaziyatga duch kelganda, ta'lim oluvchilarning idrok etish faolligini oshiradi.",
+        "Talabalar tomonidan o'rganilayotgan fan sohasidagi ma'lum bir bilim tizimini izchil o'zlashtirish zaruratidir."
+      ],
+      "correct": "Bu talab o'quv va kognitiv faoliyatning tabiati bilan bog'liq. Hal qilinishi kerak bo'lgan muammoli vaziyatga duch kelganda, ta'lim oluvchilarning idrok etish faolligini oshiradi."
+    },
+    {
+      "question": "Raqamli ta'lim resurslarini ishlab chiqishda Ochiqlik didaktik talabi to'g'ri keltirilgan qatorni belgilang.",
+      "options": [
+        "Bu talab o'quv va kognitiv faoliyatning tabiati bilan bog'liq. Hal qilinishi kerak bo'lgan muammoli vaziyatga duch kelganda, ta'lim oluvchilarning idrok etish faolligini oshiradi.",
+        "Ta'lim oluvchining yoshi va individual xususiyatlariga muvofiq materialni taqdim etishning kognitiv murakkablik darajasini aniqlash zarurligini anglatadi.",
+        "O'rganilayotgan obyektlar va jarayonlarni hissiy idrok etish qonuniyatlarini hisobga olish zarurligini anglatadi.",
+        "O'quv jarayoni faolligini oshirish uchun RTR turli xil o'quv vaziyatlarini yaratishi, turli xil savollarni shakllantirishi, talabaga u yoki bu ta'lim trayektoriyasini tanlash imkoniyatini, hodisalarning borishini nazorat qilish qobiliyatini ta'minlashi kerak."
+      ],
+      "correct": "Ta'lim oluvchining yoshi va individual xususiyatlariga muvofiq materialni taqdim etishning kognitiv murakkablik darajasini aniqlash zarurligini anglatadi."
+    },
+    {
+      "question": "Raqamli ta'lim resurslarini ishlab chiqishda Rivojlantiruchi didaktik talabi to'g'ri keltirilgan qatorni belgilang.",
+      "options": [
+        "Bu talab o'quv va kognitiv faoliyatning tabiati bilan bog'liq. Hal qilinishi kerak bo'lgan muammoli vaziyatga duch kelganda, ta'lim oluvchilarning idrok etish faolligini oshiradi.",
+        "Raqamli ta'lim resurslari faqatgina ta'lim funksiyasi bilan cheklanib qolmasligi kerak, ular o'quvchilarning aqliy qobiliyatlarini rivojlantirishi, o'quv faoliyati uchun motivatsiyani ta'minlashi va bir qator tarbiyaviy funksiyalarni bajarishi kerak.",
+        "O'rganilayotgan obyektlar va jarayonlarni hissiy idrok etish qonuniyatlarini hisobga olish zarurligini anglatadi.",
+        "O'quv jarayoni faolligini oshirish uchun RTR turli xil o'quv vaziyatlarini yaratishi, turli xil savollarni shakllantirishi, talabaga u yoki bu ta'lim trayektoriyasini tanlash imkoniyatini, hodisalarning borishini nazorat qilish qobiliyatini ta'minlashi kerak."
+      ],
+      "correct": "Raqamli ta'lim resurslari faqatgina ta'lim funksiyasi bilan cheklanib qolmasligi kerak, ular o'quvchilarning aqliy qobiliyatlarini rivojlantirishi, o'quv faoliyati uchun motivatsiyani ta'minlashi va bir qator tarbiyaviy funksiyalarni bajarishi kerak."
+    },
+    {
+      "question": "Raqamli ta'lim resurslarini ishlab chiqishda Tizimlilik didaktik talabi to'g'ri keltirilgan qatorni belgilang.",
+      "options": [
+        "Raqamli ta'lim resurslari yordamida muayyan harakatlarning takrorlanishini tashkil qilish, individual o'quv topshiriqlarining o'zgaruvchanligini oshirish mumkin bo'ladi.",
+        "Talabalar tomonidan o'rganilayotgan fan sohasidagi ma'lum bir bilim tizimini izchil o'zlashtirish zaruratidir.",
+        "Raqamli ta'lim resurslari faqatgina ta'lim funksiyasi bilan cheklanib qolmasligi kerak, ular o'quvchilarning aqliy qobiliyatlarini rivojlantirishi, o'quv faoliyati uchun motivatsiyani ta'minlashi va bir qator tarbiyaviy funksiyalarni bajarishi kerak.",
+        "O'rganilayotgan obyektlar va jarayonlarni hissiy idrok etish qonuniyatlarini hisobga olish zarurligini anglatadi."
+      ],
+      "correct": "Talabalar tomonidan o'rganilayotgan fan sohasidagi ma'lum bir bilim tizimini izchil o'zlashtirish zaruratidir."
+    },
+    {
+      "question": "Raqamli ta'lim resurslarining didaktik vazifalari quyidagilarni o'z ichiga oladi:",
+      "options": [
+        "Barcha javoblar to'g'ri",
+        "Ta'lim faoliyatining yangi turlarini amalga oshirish va an'anaviy ta'lim turlarining yuqori sifat darajasida ishlashini qo'llab-quvvatlash;",
+        "Ta'lim jarayoni ishtirokchilarining o'zaro munosabatlari xarakterini o'zgartirish imkoniyatini ta'minlash;",
+        "Ta'lim jarayonini individuallashtirish va ta'lim mazmunini kengaytirish."
+      ],
+      "correct": "Barcha javoblar to'g'ri"
+    },
+    {
+      "question": "Resurs mualliflari o'zlarining asarlaridan erkin foydalanishga qarshi bo'lmasalar, uni qanday litsenziya bilan belgilaydilar?",
+      "options": [
+        "Freeware litsenziyasi bilan",
+        "Creative Commons litsenziyasi bilan",
+        "Open Source litsenziyasi bilan",
+        "Commercial litsenziyasi bilan"
+      ],
+      "correct": "Creative Commons litsenziyasi bilan"
+    },
+    {
+      "question": "Taqdimot tayyorlarlash dasturi - ...",
+      "options": [
+        "... grafik tasvirlarni yaratish, grafik hujjatlarni, shu jumladan diagrammalar, rasmlar, chizmalar, jadvallarni qayta ishlash uchun mo'ljallangan.",
+        "... matnli hujjatlarni yaratish, tahrirlash va formatlash uchun dasturlar hisoblanadi. Misollar: Microsoft Word, Word Perfect, ChiWriter, Multi-Edit, Open Office va boshqalar.",
+        "... bu ma'lumotlarni jadvallar ko'rinishida taqdim etish, matematik ma'lumotlarni qayta ishlash, ma'lumotlarni vizuallashtirish va diagrammalar yaratish uchun mo'ljallangan dasturlar.",
+        "... bu MS PowerPoint, Prezi, SlideRocet, VoiceThread va boshqalar kabi taqdimotlarini yaratish va qo'llash uchun keng miqyosda qo'llaniladi."
+      ],
+      "correct": "... bu MS PowerPoint, Prezi, SlideRocet, VoiceThread va boshqalar kabi taqdimotlarini yaratish va qo'llash uchun keng miqyosda qo'llaniladi."
+    },
+    {
+      "question": "Tarmoq gigiyenasi (kibergigiyena) deganda nimani tushunasiz?",
+      "options": [
+        "raqamli ma'lumotlarni qidirish, tushunish, arxivlash va uni tanqidiy aks ettirish bilan bog'liq bilim, ko'nikma, malaka, motivatsiya, mas'uliyat, shuningdek raqamli resurslardan foydalangan holda axborot obyektlarini yaratish",
+        "ta'lim jarayoni bilan bevosita bog'liq bo'lgan kompetensiyalarni shakllantirishni, ya'ni ta'lim oluvchilarning mustaqil ishlash qobiliyatini rivojlantirishni ta'minlashga, shuningdek, guruh shaklida ishlashda samarali o'zaro ta'sirini amalga oshirishga qaratilgan kompetensiyalarini qamrab oladi",
+        "pedagogning axborot resurslarini tanlash va ularni ta'lim oluvchilar ehtiyojlariga moslashtirish, o'z raqamli resurslarini yaratishi va o'quv jarayonining barcha subyektlari uchun ulardan xavfsiz foydalanishni ta'minlash qobiliyatini o'z ichiga oladi.",
+        "Tarmoqdagi xavfsizlikni yaxshilash va tizimning ishlashini ta'minlash uchun har qanday qurilma foydalanuvchilari bajaradigan harakatlar to'plamidir."
+      ],
+      "correct": "Tarmoqdagi xavfsizlikni yaxshilash va tizimning ishlashini ta'minlash uchun har qanday qurilma foydalanuvchilari bajaradigan harakatlar to'plamidir."
+    },
+    {
+      "question": "Udacity loyihasining maqsadi nimadan iborat?",
+      "options": [
+        "ta'limni demokratlashtirish",
+        "an'anaviy ta'limga qaytarish",
+        "ta'limni ommaviylashtirish",
+        "ta'limni interaktivlashtirish"
+      ],
+      "correct": "ta'limni demokratlashtirish"
+    },
+    {
+      "question": "Udacity notijorat MOOCga kim asos solgan?",
+      "options": [
+        "Massachuset texnologiya instituti professori Stiven Douns",
+        "Stenford professori Sebastyan Tran",
+        "Stenford professori Devid Stavens",
+        "Kembridj universiteti professori Dafna Koller"
+      ],
+      "correct": "Stenford professori Sebastyan Tran"
+    },
+    {
+      "question": "Virgual ta'lnm jarayonini boshqaruvchi tizimlar (LMS-Leaming Management Systems) to'g'ri ko'rsatilgan javobni ko'rsating.",
+      "options": [
+        "Moodle, e-khool, Atutor, Captivate Prime, G-Cube, iSpring, ProProfs, TBS, TalentLMS, GoToTraining, Coassemble, Teamie, eFront, Lessonly, Mindflash, Litmos LMS",
+        "LearnWorlds, Articulate Storyline 360, Elucidat, Adobe Captivate, Lectora Online, iSpring Suite, EasyGenerator, isEazy, Evolve, H5P",
+        "WordPress, Drupal, Joomla, Magento, Umbraco, Shopify, Sitecore, Kentico, Sitefinity, DNN, SharePoint, Typo3, Alfresco, DotCMS, Django CMS",
+        "LearnWorlds, Articulate Storyline 360, G-Cube, iSpring, ProProfs, TBS, TalentLMS, Joomla, Magento, Umbraco, Shopify, Django CMS"
+      ],
+      "correct": "Moodle, e-khool, Atutor, Captivate Prime, G-Cube, iSpring, ProProfs, TBS, TalentLMS, GoToTraining, Coassemble, Teamie, eFront, Lessonly, Mindflash, Litmos LMS"
+    },
+    {
+      "question": "Virtual sintezatorlar, tovush va musiqa dasturlari - ...",
+      "options": [
+        "... bu ma'lumotlarni jadvallar ko'rinishida taqdim etish, matematik ma'lumotlarni qayta ishlash, ma'lumotlarni vizuallashtirish va diagrammalar yaratish uchun mo'ljallangan dasturlar.",
+        "... matnli hujjatlarni yaratish, tahrirlash va formatlash uchun dasturlar hisoblanadi. Misollar: Microsoft Word, Word Perfect, ChiWriter, Multi-Edit, Open Office va boshqalar.",
+        "... turli manbalardan ovoz yozish, musiqani tahrirlash, raqs mikslarini yaratish, audio treklarni yozib olish va ijro etish imkonini beradi.",
+        "... grafik tasvirlarni yaratish, grafik hujjatlarni, shu jumladan diagrammalar, rasmlar, chizmalar, jadvallarni qayta ishlash uchun mo'ljallangan."
+      ],
+      "correct": "... turli manbalardan ovoz yozish, musiqani tahrirlash, raqs mikslarini yaratish, audio treklarni yozib olish va ijro etish imkonini beradi."
+    }
+  ]
+}

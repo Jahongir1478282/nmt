@@ -1,0 +1,979 @@
+{
+  "questions": [
+    {
+      "question": "2030 yilga qadar ilm-fanni umumiy moliyalashtirish hajmida ilmiy-tadqiqot va tajriba-konstruktorlik ishlariga xususiy sektor tomonidan ajratiladigan mablag'lar ulushini necha foizga yetkazish ko'zda tutilgan?",
+      "options": ["15", "20", "25", "30"],
+      "correct": "30"
+    },
+    {
+      "question": "2030 yilgacha ilm-fanga yo'naltiriladigan jami mablag'larning yalpi ichki mahsulotga nisbatan ulushini necha baravarga oshirish ko'zda tutilgan?",
+      "options": ["3", "5", "6", "10"],
+      "correct": "10"
+    },
+    {
+      "question": "2030 yilgacha Respublikamizdagi oliy ta'lim muassasalaridan nechtasi dunyoning eng nufuzli «Top-1000» oliy ta'lim tashkilotlari reytingiga kiritishga erishish rejalashtirilgan?",
+      "options": ["10", "36", "25", "41 ta"],
+      "correct": "10"
+    },
+    {
+      "question": "Akademik tadbirkorlik atamasi nimani anglatadi?",
+      "options": [
+        "bu o'qituvchilarning o'z ishlanmalarini tijoratlashtirishda ishtirok etishini anglatadi",
+        "bu talabalar o'z ishlanmalarini tijoratlashtirishda ishtirok etishini anglatadi",
+        "bu tadqiqotchilarning o'z ishlanmalarini tijoratlashtirishda ishtirok etishini anglatadi",
+        "bu tadqiqotchilar va olimlarning o'z ishlanmalarini tijoratlashtirishda ishtirok etishini anglatadi"
+      ],
+      "correct": "bu tadqiqotchilar va olimlarning o'z ishlanmalarini tijoratlashtirishda ishtirok etishini anglatadi"
+    },
+    {
+      "question": "Amalga oshirish muddati, infratuzilmasi, ijrochilari, moliyalashtirish manbai va hajmiga ega innovatsiyani yaratish hamda ishlab chiqarishga yo'naltirilgan tadqiqot - ....",
+      "options": [
+        "Startaplar loyihalari",
+        "Innovatsion loyihalar",
+        "Ijodiy loyihalar",
+        "Ilmiy loyihalar"
+      ],
+      "correct": "Innovatsion loyihalar"
+    },
+    {
+      "question": "Amalga oshish xavfi yuqori bo'lgan sharoitda yangi mahsulot yoki xizmat turini yaratuvchi innovatsion ishlanmalarning qo'llanilishi, ko'lami va tez o'sish sur'ati bilan farqlanadigan yangi biznes loyiha - ....",
+      "options": [
+        "Ijodiy loyihalar",
+        "Innovatsion loyihalar",
+        "Startaplar loyihalari",
+        "Ilmiy loyihalar"
+      ],
+      "correct": "Startaplar loyihalari"
+    },
+    {
+      "question": "Amaliy maqsadlarga erishish hamda aniq vazifalarni hal etish uchun, asosan, yangi bilimlar va fundamental tadqiqotlar natijalarini qo'llashga yo'naltirilgan tadqiqotlar -.......",
+      "options": [
+        "Amaliy tadqiqotlar",
+        "Fundamental tadqiqotlar",
+        "Maqsadli tadqiqot",
+        "Tematik ilmiy-tadqiqot"
+      ],
+      "correct": "Amaliy tadqiqotlar"
+    },
+    {
+      "question": "Amaliyotchi professorlar (PoP, Professor of Practice) modelning asosiy g'oyasi?",
+      "options": [
+        "dissertatsiya ishi paragraflari, ilmiy maqolalar va biznes hisobotlarni IMRAD formatida rasmiylashtirish.",
+        "tinglovchilarda yangi axborotlar tizimini qabul qilish va biliimlarni tizimlashtirish maqsadida",
+        "Scopus xalqaro ilmiy bazasida Sifat ko'rsatkichlari: Quartile (kvartil); CiteScore (yiliga sitatalash soni); SJR (SCImago Journal Rank); SNIP (Source Normalized Impact per Paper); kvartillar va protsentillar;",
+        "universitetga yuqori texnologiyaga asoslangan firmalarni yaratgan xodimlarni jalb etish"
+      ],
+      "correct": "universitetga yuqori texnologiyaga asoslangan firmalarni yaratgan xodimlarni jalb etish"
+    },
+    {
+      "question": "Asosiy funksiyasi bilimlar yetkazilishi va kadrlar tayyorlash, ya'ni ta'lim berishdan iborat bo'lgan muassasa.....",
+      "options": [
+        "Universitet 2.0",
+        "Universitet 1.0",
+        "Universitet 3.0",
+        "Institut"
+      ],
+      "correct": "Universitet 1.0"
+    },
+    {
+      "question": "Benchmarking - bu",
+      "options": [
+        "Xorijiy mamlakatadagi tashkilotdan o'z tashkiloti faoliyatini yaxshilash uchun boshqa tashkilotlarning ilg'or tajribasini o'rganish, amaliyotiga moslashish jarayoni.",
+        "O'z tashkiloti(o'z mamlakatida yoki xorijda faoliyat ko'rsatayotgan tarmog'iga yoki tarmoqqa taalluqligidan qat'iy nazar jarayonlari o'xshash tashkilotlardan) faoliyatini yaxshilash uchun boshqa tashkilotlarning ilg'or tajribasini o'rganish, amaliyotiga moslashish jarayoni.",
+        "Xorijda faoliyat ko'rsatayotgan tarmog'iga yoki tarmoqqa taalluqligidan qat'iy nazar jarayonlari o'xshash tashkilotlardan faoliyatini yaxshilash uchun boshqa tashkilotlarning ilg'or tajribasini o'rganish, amaliyotiga moslashish",
+        "Xorijiy mamalakatda faoliyat ko'rsatayotgan tarmog'iga yoki tarmoqqa taalluqligidan qat'iy nazar jarayonlari o'xshash tashkilotlardan) faoliyatini yaxshilash uchun boshqa tashkilotlarning ilg'or tajribasini o'rganish, amaliyotiga moslashish jarayoni."
+      ],
+      "correct": "O'z tashkiloti(o'z mamlakatida yoki xorijda faoliyat ko'rsatayotgan tarmog'iga yoki tarmoqqa taalluqligidan qat'iy nazar jarayonlari o'xshash tashkilotlardan) faoliyatini yaxshilash uchun boshqa tashkilotlarning ilg'or tajribasini o'rganish, amaliyotiga moslashish jarayoni."
+    },
+    {
+      "question": "Bibliografik va referativ berilganlar bazasi va ilmiy nashrlarda chop qilingan maqolalarga murojaatlarni kuzatib borish uchun vosita.....",
+      "options": [
+        "Mendeley ScienceDirect",
+        "Mendeley",
+        "ScienceDirect",
+        "Scopus"
+      ],
+      "correct": "Scopus"
+    },
+    {
+      "question": "Birinchi akademik tadbirkorlikka o'tish qachon ro'y berdi?",
+      "options": ["1810 y.", "1862 y.", "1861 y.", "1710 y."],
+      "correct": "1862 y."
+    },
+    {
+      "question": "Birinchi marta \"tadbirkorlik universiteti (institut)\" iborasi kim tomonidan qo'llanilgan?",
+      "options": [
+        "amerikalik tadqiqotchi Berton Klark tomonidan",
+        "britaniyalik tadqiqotchi Berton Klark tomonidan",
+        "amerikalik tadqiqotchi Vilgelm fon Gumbold tomonidan",
+        "amerikalik tadqiqotchi Genri Itskovits"
+      ],
+      "correct": "amerikalik tadqiqotchi Genri Itskovits"
+    },
+    {
+      "question": "Birinchi tabirkorlik universitetining asosiy maqsadi qaysi universitet bilan biznes o'rtasidagi hamkorlikni o'rnatish hisoblangan?",
+      "options": [
+        "Kembridj universiteti bilan",
+        "Massachuseta texnologik universiteti bilan",
+        "Oksford universiteti bilan",
+        "Berlin universiteti bilan"
+      ],
+      "correct": "Massachuseta texnologik universiteti bilan"
+    },
+    {
+      "question": "Birinchi texnopark nechangi yil va qaysi davlatdagi universitet qoshida ochilgan ?",
+      "options": [
+        "1952 yilda Fransiyaning Sarbona universitetida",
+        "1952 yilda Angliyaning Kembridj universitetida",
+        "1951 yilda AQShning Kaliforniya shtatidagi Stenford universitetida",
+        "1964 yilda Germaniyaing Berlin universitetida"
+      ],
+      "correct": "1951 yilda AQShning Kaliforniya shtatidagi Stenford universitetida"
+    },
+    {
+      "question": "Boloniya deklaratsiyasi qaysi yili Yevropa davlatlarining 29 vazirlari tomonidan imzolagan?",
+      "options": ["2002 yilda", "2000 yilda", "1999 yilda", "1998 yilda"],
+      "correct": "1999 yilda"
+    },
+    {
+      "question": "Bolonya deklaratsiyasi 1999 yil, 19 iyunda necha davlat vazirlari ishtirokida imzolangan?",
+      "options": ["39 ta", "20 ta", "26 ta", "29 ta"],
+      "correct": "29 ta"
+    },
+    {
+      "question": "Bolonya deklaratsiyasi qachon imzolangan?",
+      "options": [
+        "2001yil, 19 iyun",
+        "2000 yil, 19 iyun",
+        "1998 yil, 19 iyun",
+        "1999 yil, 19 iyun"
+      ],
+      "correct": "1999 yil, 19 iyun"
+    },
+    {
+      "question": "Bolonya universiteti o'z nizomini qachon qabul qilgan?",
+      "options": ["1209 y.", "1088 y.", "1096 y.", "1158 y."],
+      "correct": "1158 y."
+    },
+    {
+      "question": "Bolonya universiteti qachon tashkil topgan?",
+      "options": ["1158 y.", "1088 y.", "1096 y.", "1209 y."],
+      "correct": "1088 y."
+    },
+    {
+      "question": "Bugungi kunda universitetlarning nechta asosiy shakllarini ajratishadi",
+      "options": ["6 ta", "2 ta", "4 ta", "3 ta"],
+      "correct": "3 ta"
+    },
+    {
+      "question": "Bugungi kunga qadar universitetlarning nechta avlodlarini keltirib o'tish mumkin?",
+      "options": [
+        "O'rta asrlar, birinchi avlod universitetlari, Ikkinchi avlod , tadqiqot universitetlari hamda Uchinchi avlod universitetlari.",
+        "Tadqiqot universitetlari hamda Uchinchi avlod universitetlari.",
+        "O'rta asrlar, birinchi avlod universitetlari, Tadqiqot universitetlari hamda Uchinchi avlod universitetlari.",
+        "O'rta asrlar, birinchi avlod universitetlari, Ikkinchi avlod, tadqiqot universitetlari, Uchinchi avlod universitetlari va To'rtinchi avlod universitetlari."
+      ],
+      "correct": "O'rta asrlar, birinchi avlod universitetlari, Tadqiqot universitetlari hamda Uchinchi avlod universitetlari."
+    },
+    {
+      "question": "Davlat boshqaruvi va mahalliy davlat hokimiyati organlari oldida turgan muammolarni hal etish maqsadida ishlab chiqiladi va amalga oshiriladi -....",
+      "options": [
+        "Ilmiy loyihalar",
+        "Tematik ilmiy-tadqiqot loyihalari",
+        "Maqsadli loyihalar",
+        "Amaliy loyihalar"
+      ],
+      "correct": "Maqsadli loyihalar"
+    },
+    {
+      "question": "Fundamental va ko'pgina amaliy fanlar bo'yicha mutaxassislar tahsil oladigan oliy ta'lim muassasi.....",
+      "options": [
+        "Universitet 3.0",
+        "Universitet 1.0",
+        "Universitet 2.0",
+        "Universitet"
+      ],
+      "correct": "Universitet"
+    },
+    {
+      "question": "Globallashuv tufayli qaysi til universitet muhitida lotin va milliy tillarning o'rnini bosadigan yangi universal tilga aylandi.",
+      "options": ["nemis", "ingliz", "fransuz", "lotin"],
+      "correct": "ingliz"
+    },
+    {
+      "question": "Gumanitar fanlarda innovatsiyalar - bu",
+      "options": [
+        "Birinchi navbatda yangi ijtimoy .... paydo bol",
+        "Birinchi navbatda yangi iqtisodiy.... paydo bol",
+        "Birinchi navbatda yangi siyosiy.... paydo bol",
+        "Birinchi navbatda yangi manaviy.... paydo bol"
+      ],
+      "correct": "Birinchi navbatda yangi ijtimoy .... paydo bol"
+    },
+    {
+      "question": "Ikkinchi akademik tadbirkorlik XX asrning boshida va o'rtalarida gumanitar fanlar yo'nalishlarida qo'llaniladigan qaysi universitetga o'kazilgan",
+      "options": ["Pekinga", "Tokioga", "Stenfordga", "Seulga"],
+      "correct": "Stenfordga"
+    },
+    {
+      "question": "Ilm-fan va ilmiy faoliyat to'g'risidagi Qonunning nechanchi moddasi ilm-fan va ta'limning uzviy bog'liqligiga qaratilgan?",
+      "options": [
+        "4-moddasida",
+        "22-moddasida",
+        "11-moddasida",
+        "21-moddasida"
+      ],
+      "correct": "21-moddasida"
+    },
+    {
+      "question": "Ilm-fan va ilmiy faoliyat to'g'risidagi Qonunning nechanchi moddasi ilmiy darajali kadrlarni tayyorlashga qaratilgan?",
+      "options": [
+        "11-moddasida",
+        "21-moddasida",
+        "22-moddasida",
+        "23-moddasida"
+      ],
+      "correct": "23-moddasida"
+    },
+    {
+      "question": "Ilm-fan va ilmiy faoliyat to'g'risidagi Qonunning nechanchi moddasi yoshlarni ilm-fan va ilmiy faoliyatga jalb etishga qaratilgan?",
+      "options": ["21-moddasida", "3-moddasida", "4-moddasida", "11-moddasida"],
+      "correct": "11-moddasida"
+    },
+    {
+      "question": "Ilm-fan va ilmiy faoliyat to'g'risidagi Qonunning nechanchi moddasida ilm-fan va ilmiy faoliyat sohasining asosiy yo'nalishlari keltirilgan?",
+      "options": ["11-moddasida", "3-moddasida", "4-moddasida", "6-moddasida"],
+      "correct": "4-moddasida"
+    },
+    {
+      "question": "Ilm-fanni 2030 yilgacha rivojlantirish konsepsiyasi necha bob va paragrafdan iborat?",
+      "options": ["5 bob, 4 §", "5 bob, 8 §", "5 bob, 6 §", "5 bob, 5 §"],
+      "correct": "5 bob, 5 §"
+    },
+    {
+      "question": "Ilm-fanni 2030 yilgacha rivojlantirish konsepsiyasida ilm-fan sohasida boshqaruv tizimini takomillashtirishga qaysi bobda yoritilgan",
+      "options": ["4- bobda", "3- bobda", "2- bobda", "5- bobda"],
+      "correct": "4- bobda"
+    },
+    {
+      "question": "Ilm-fanni 2030 yilgacha rivojlantirish konsepsiyasini 2020-2022 yillarda amalga oshirish bo'yicha \"Yo'l xaritasi\"da ilmiy loyihalarni xususiy sektor va tarmoq tashkilotlari bilan teng sheriklikda moliyalashtirish ko'lamini kengaytirish qaysi yillarga mo'ljallangan",
+      "options": [
+        "2021 yilga",
+        "2020-2021 yillarga",
+        "2021-2022 yillarga",
+        "2020-2022 yillarga"
+      ],
+      "correct": "2020-2022 yillarga"
+    },
+    {
+      "question": "Ilm-fanni 2030 yilgacha rivojlantirish konsepsiyasining ikkinchi bobi qanday nomlanadi.",
+      "options": [
+        "Ilm-fanni rivojlantirishning ustuvor yo'nalishlarini amalga oshirish mexanizmlari",
+        "Ilm-fanni rivojlantirishning ustuvor yo'nalishlari",
+        "Ilm-fanni rivojlantirish zarurati, uning joriy holati va mavjud muammolar",
+        "Ilm-fan taraqqiyotiga ko'maklashadigan zamonaviy axborot muhitini shakllantirish"
+      ],
+      "correct": "Ilm-fanni rivojlantirish zarurati, uning joriy holati va mavjud muammolar"
+    },
+    {
+      "question": "Ilm-fanni 2030 yilgacha rivojlantirish konsepsiyasining maqsadli ko'rsatkichlari va indikatorlarida tadqiqotchilarning o'rtacha yoshi 2021 yilda necha yoshni tashkil qilishi belgilangan",
+      "options": ["51 yosh", "39 yosh", "47 yosh", "49 yosh"],
+      "correct": "49 yosh"
+    },
+    {
+      "question": "Ilm-fanni 2030 yilgacha rivojlantirish konsepsiyasining nechanchi bobi ilm-fanni rivojlantirishning ustuvor yo'nalishlarini amalga oshirishga qaratilgan ?",
+      "options": ["2-moddasida", "4-moddasida", "1-moddasida", "3-moddasida"],
+      "correct": "4-moddasida"
+    },
+    {
+      "question": "Ilm-fanni 2030 yilgacha rivojlantirish konsepsiyasining to'rtinchi bobi qanday nomlanadi.",
+      "options": [
+        "Ilm-fanni rivojlantirish zarurati, uning joriy holati va mavjud muammolar",
+        "Ilm-fanni rivojlantirishning ustuvor yo'nalishlari",
+        "Ilm-fanni rivojlantirishning ustuvor yo'nalishlarini amalga oshirish mexanizmlari",
+        "Ilm-fan taraqqiyotiga ko'maklashadigan zamonaviy axborot muhitini shakllantirish"
+      ],
+      "correct": "Ilm-fanni rivojlantirishning ustuvor yo'nalishlarini amalga oshirish mexanizmlari"
+    },
+    {
+      "question": "Ilm-fanni 2030 yilgacha rivojlantirish konsepsiyasining uchinchi bobi qanday nomlanadi.",
+      "options": [
+        "Ilm-fan taraqqiyotiga ko'maklashadigan zamonaviy axborot muhitini shakllantirish",
+        "Ilm-fanni rivojlantirish zarurati, uning joriy holati va mavjud muammolar",
+        "Ilm-fanni rivojlantirishning ustuvor yo'nalishlarini amalga oshirish mexanizmlari",
+        "Ilm-fanni rivojlantirishning ustuvor yo'nalishlari"
+      ],
+      "correct": "Ilm-fanni rivojlantirishning ustuvor yo'nalishlari"
+    },
+    {
+      "question": "Indivudial foydalanuvchilar uchun mutloq bepul tizim.....",
+      "options": [
+        "Mendeley ScienceDirect",
+        "ScienceDirect",
+        "SCOPUS",
+        "Mendeley"
+      ],
+      "correct": "Mendeley"
+    },
+    {
+      "question": "iste'molchi bilimlardan foydalanish huquqini olgan va o'z egasiga u yoki bu shaklda litsenziya bitim shartlarida belgilangan miqdorda haq to'laydigan texnologik jarayon shakli...",
+      "options": [
+        "texnologiyalarni uzatish",
+        "texnologiyalarni tijoratlashtirish",
+        "bilimlarni uzatish",
+        "innovatsion tijoratlashtirish"
+      ],
+      "correct": "texnologiyalarni tijoratlashtirish"
+    },
+    {
+      "question": "Itskovich va Leydesdorf nazariyasi ko'ra innovatsiyaning uchala spiral modeli uchta elementlarning o'zaro xatti-harkatlariga asoslangan:",
+      "options": [
+        "tadqiqotlar bilan shug'ullanuvchi universitetlar, tijorat tovarlarini ishlab chiqaruvchi ijtimoiy sohalar va bozorni tartibga soluvchi ta'lim tizimi.",
+        "ilmiy tadqiqotlar bilan shug'ullanuvchi institutlar, tijorat tovarlarini ishlab chiqaruvchi tarmoqlar va bozorni tartibga soluvchi bank.",
+        "fundamental tadqiqotlar bilan shug'ullanuvchi universitetlar, tijorat tovarlarini ishlab chiqaruvchi tarmoqlar va bozorni tartibga soluvchi hukumat.",
+        "nazariy tadqiqotlar bilan shug'ullanuvchi universitetlar, ijtimoiy tovarlarini ishlab chiqaruvchi tarmoqlar va bozorni tartibga soluvchi birja."
+      ],
+      "correct": "fundamental tadqiqotlar bilan shug'ullanuvchi universitetlar, tijorat tovarlarini ishlab chiqaruvchi tarmoqlar va bozorni tartibga soluvchi hukumat."
+    },
+    {
+      "question": "Ixtiro va innovatsiya tushunchalarining farqi",
+      "options": [
+        "ixtiro faqat texnika olamida yaratilsa, innovatsiya biznes olamida yaratiladi hamda amalda joriy etiladi.",
+        "ixtiro faqat texnika olamida yaratilsa, innovatsiya ham texnika va ham biznes olamida yaratiladi hamda amalda joriy etiladi.",
+        "ixtiro faqat biznes olamida yaratilsa, innovatsiya texnika olamida yaratiladi hamda amalda joriy etiladi.",
+        "ixtiro faqat texnika olamida yaratilsa, innovatsiya faqat biznes olamida yaratiladi"
+      ],
+      "correct": "ixtiro faqat texnika olamida yaratilsa, innovatsiya ham texnika va ham biznes olamida yaratiladi hamda amalda joriy etiladi."
+    },
+    {
+      "question": "Kredit-modul tizimida akademik guruh jurnalida keltiriladigan bandni ko'rsating.",
+      "options": [
+        "fan kodi, o'quv auditoriyasi, fan o'qituvchisi",
+        "fan nomi, kodi, mashg'ulotlar hajmi, talabalar soni",
+        "o'qituvchining bajargan o'quv yuklamasi",
+        "ilmiy-uslubiy, ilmiy-tadqiqot va \"ustoz-shogird\" yuklamalari"
+      ],
+      "correct": "o'qituvchining bajargan o'quv yuklamasi"
+    },
+    {
+      "question": "Kredit-modul tizimida o'qituvchining shaxsiy ish rejasida keltiriladigan bandni ko'rsating.",
+      "options": [
+        "O'RTMI, TMT",
+        "fan kodi, o'quv auditoriyasi, fan o'qituvchisi, akademik guruh",
+        "fan kodi, o'quv auditoriyasi, potoklar, murabbiylik soatlari, ma'naviy-ma'rifiy tadbirlar",
+        "o'quv ishlari, ilmiy-uslubiy, ilmiy-tadqiqot va \"ustoz-shogird\" yuklamalari"
+      ],
+      "correct": "o'quv ishlari, ilmiy-uslubiy, ilmiy-tadqiqot va \"ustoz-shogird\" yuklamalari"
+    },
+    {
+      "question": "Nechinchi yilga borib O'zbekiston Respublikasining Global innovatsion indeks reytingi bo'yicha jahonning 50 ilg'or mamlakati qatoriga kirish asosiy maqsad qilingan.",
+      "options": ["2025 yilga", "2030 yilga", "2045 yilga", "2035 yilga"],
+      "correct": "2030 yilga"
+    },
+    {
+      "question": "Oliy ta'lim muassasalarida o'quv jarayonini bosqichma-bosqich kredit-modul tizimiga o'tkazish vazifasi qaysi normativ-huquqiy hujjatda keltirilgan?",
+      "options": [
+        "Ilm-fan sohasini 2030 yilgacha rivojlantirish konsepsiyasida",
+        "Oliy ta'lim tizimini 2030 yilgacha rivojlantirish konsepsiyasida",
+        "Innovatsion faoliyat to'g'risida\" gi qonunda",
+        "Ilm-fan va ilmiy faoliyat to'g'risidagi qonunida"
+      ],
+      "correct": "Oliy ta'lim tizimini 2030 yilgacha rivojlantirish konsepsiyasida"
+    },
+    {
+      "question": "Oliy ta'lim muassasalarida ta'lim, fan, innovatsiya va ilmiy-tadqiqotlar natijalarini tijoratlashtirish faoliyatining uzviy bog'liqligini nazarda tutuvchi \"Universitet 3.0\" konsepsiyasini bosqichma-bosqich joriy etish vazifasi normativ-huquqiy hujjatda keltirilgan?",
+      "options": [
+        "Innovatsion faoliyat to'g'risida\"gi qonunda",
+        "Ilm-fan sohasini 2030 yilgacha rivojlantirish konsepsiyasida",
+        "Oliy ta'lim tizimini 2030 yilgacha rivojlantirish konsepsiyasida",
+        "Ilm-fan va ilmiy faoliyat to'g'risidagi qonunida"
+      ],
+      "correct": "Oliy ta'lim tizimini 2030 yilgacha rivojlantirish konsepsiyasida"
+    },
+    {
+      "question": "O'zbekiston Respublikasi Oliy va o'rta maxsus ta'lim vazirligi Gollandiyaning \"Elsevier\" kompaniyasi bilan hamkorlikda qanday dasturini ishlab chiqdi?",
+      "options": [
+        "innovatsion faoliyatni 2030 yilgacha rivojlantirish",
+        "oliy ta'lim tizimini 2030 yilgacha rivojlantirish",
+        "ilmiy-tadqiqotni 2030 yilgacha rivojlantirish",
+        "ilm-fanni 2030 yilgacha rivojlantirish"
+      ],
+      "correct": "ilm-fanni 2030 yilgacha rivojlantirish"
+    },
+    {
+      "question": "O'zbekiston Respublikasi Prezidentining \"Ilm-fanni 2030 yilgacha rivojlantirish konsepsiyasini tasdiqlash to'g'risida\" gi Farmoni qachon qabul qilingan?",
+      "options": [
+        "2019 yil 29 oktyabrda",
+        "2020 yil 29 oktabr",
+        "2018 yil 8 oktabr",
+        "2019 yil 8 oktabr"
+      ],
+      "correct": "2020 yil 29 oktabr"
+    },
+    {
+      "question": "O'zbekiston Respublikasi Prezidentining \"O'zbekiston Respublikasi oliy ta'lim tizimini 2030 yilgacha rivojlantirish konsepsiyasini tasdiqlash to'g'risida\"gi Farmoni qachon qabul qilingan?",
+      "options": [
+        "2018 yil 8 oktabr",
+        "2019 yil 8 oktabr",
+        "2019 yil 29 oktabr",
+        "2020 yil 29 oktabr"
+      ],
+      "correct": "2019 yil 8 oktabr"
+    },
+    {
+      "question": "O'zbekiston Respublikasi Prezidentining 2020 yi 29 oktabrdagi Farmoni bilan tasdiqlangan «Ilm fanni 2030 yilgacha rivojlantirish konsepsiyasida...",
+      "options": [
+        "mazkur yo'nalishni rivojlantirish yo'lidagi 12 ta muammo alohida belgilandi",
+        "mazkur yo'nalishni rivojlantirish yo'lidagi 20 ta muammo alohida belgilandi",
+        "mazkur yo'nalishni rivojlantirish yo'lidagi 19 ta muammo alohida belgilandi",
+        "mazkur yo'nalishni rivojlantirish yo'lidagi 18 ta muammo alohida belgilandi"
+      ],
+      "correct": "mazkur yo'nalishni rivojlantirish yo'lidagi 19 ta muammo alohida belgilandi"
+    },
+    {
+      "question": "O'zbekiston Respublikasining \"Ilm-fan va ilmiy faoliyat to'g'risida\"gi qonun qachon qabul qilingan?",
+      "options": [
+        "2020 yil 29 oktabr",
+        "2019 yil 29 oktabr",
+        "2019 yil 8 oktabr",
+        "2019 yil 18 oktabr"
+      ],
+      "correct": "2019 yil 29 oktabr"
+    },
+    {
+      "question": "O'zbekiston Respublikasining \"Innovatsion faoliyat to'g'risida\" gi qonun qachon qabul qilingan?",
+      "options": [
+        "2020 yil 29 oktabr",
+        "2020 yil 24 iyul",
+        "2019 yil 24 iyul",
+        "2019 yil 29 oktabr"
+      ],
+      "correct": "2020 yil 24 iyul"
+    },
+    {
+      "question": "O'zbekiston Respublikasining 2030 yilga borib Global innovatsion indeks reytingi bo'yicha jahonning 50 ilg'or mamlakati qatoriga kirishiga erishish vazifasi qaysi normativ-huquqiy hujjatda keltirilgan?",
+      "options": [
+        "Ilm-fan va ilmiy faoliyat to'g'risidagi qonunida",
+        "Ilm-fan sohasini 2030 yilgacha rivojlantirish konsepsiyasida",
+        "Innovatsion faoliyat to'g'risida\" gi qonunda",
+        "Oliy ta'lim tizimini 2030 yilgacha rivojlantirish konsepsiyasida"
+      ],
+      "correct": "Oliy ta'lim tizimini 2030 yilgacha rivojlantirish konsepsiyasida"
+    },
+    {
+      "question": "Pedagogika sohasida yangi ilmiy yo'nalish nima deb nomlanadi?",
+      "options": [
+        "O'qituvchining innovatsion faoliyati",
+        "O'qituvchining evristik faoliyati",
+        "O'qituvchining texnologik faoliyati",
+        "O'qituvchi-tyuter faoliyati"
+      ],
+      "correct": "O'qituvchining innovatsion faoliyati"
+    },
+    {
+      "question": "Qachondan boshlab insoniyat universitet evolyutsiyasining navbatdagi modeli-tadbirkorlik modelini muhokama qilishmoqda.",
+      "options": [
+        "XXI asrning boshidan boshlab",
+        "XX asrning oxirlaridan boshlab",
+        "XX asrning boshidan boshlab",
+        "XIX asrning boshidan boshlab"
+      ],
+      "correct": "XX asrning oxirlaridan boshlab"
+    },
+    {
+      "question": "Qaysi universitet modulining funksiyalari ta'lim xizmatlari va ilmiy izlanishlarni taqdim etish bilan cheklangan, ixtirolarni tijoratlashtirish talab qilinmagan?",
+      "options": [
+        "Universitet-3.0",
+        "Universitet-1.0",
+        "Universitet-2.0",
+        "Universitet-5.0"
+      ],
+      "correct": "Universitet-2.0"
+    },
+    {
+      "question": "Qaysi universitet o'z missiyasi doirasida tadbirkor, innovator, integrator.",
+      "options": [
+        "Universitet",
+        "Universitet 2.0",
+        "Universitet 3.0",
+        "Universitet 1.0"
+      ],
+      "correct": "Universitet 3.0"
+    },
+    {
+      "question": "Qo'yilgan ilmiy muammoni hal etish uchun maqsad va vazifalar, ijrochilar va bajarish muddatlari, manbalar va vositalarni ko'rsatgan holda shakllantirilgan chora-tadbirlar majmui - ....",
+      "options": [
+        "Startaplar loyihalari",
+        "Ilmiy loyihalar",
+        "Innovatsion loyihalar",
+        "Ijodiy loyihalar"
+      ],
+      "correct": "Ilmiy loyihalar"
+    },
+    {
+      "question": "Rivojlangan mamlakatlar universitetlarida \"tadbirkor-olim\" iborasi keng tarqalgan bo'lib, uning yangi roli o'zida nimani namoyon etadi?",
+      "options": [
+        "akademik va biznes-elementlarni namoyon etadi.",
+        "akademik va ishlab chiqarish elementlarni namoyon etadi.",
+        "akademik va tadqiqot olib borish elementlarni namoyon etadi.",
+        "biznes-elementlarni namoyon etadi"
+      ],
+      "correct": "akademik va biznes-elementlarni namoyon etadi."
+    },
+    {
+      "question": "ScienceDirect tizimida necha turdagi qidiruv mavjud?",
+      "options": ["2 ta", "3 ta", "4 ta", "1 ta"],
+      "correct": "2 ta"
+    },
+    {
+      "question": "ScienceDirect tizimida qidiruv turlarini belgilang.",
+      "options": [
+        "kengaytirilgan qidiruv",
+        "tashkilot bo'yicha qidiruv",
+        "oddiy va murakkab turlari",
+        "muallif bo'yicha qidiruv"
+      ],
+      "correct": "oddiy va murakkab turlari"
+    },
+    {
+      "question": "Scopus klassifikatsion tizimi nechta tematik bo'limdan iborat?",
+      "options": ["15", "25", "30", "24"],
+      "correct": "24"
+    },
+    {
+      "question": "SCOPUS ma'lumotlar bazasida Advanced Search qidiruv...",
+      "options": [
+        "muallif bo'yicha qidiruv",
+        "kengaytirilgan qidiruv",
+        "tashkilot bo'yicha qidiruv",
+        "oddiy qidiruv"
+      ],
+      "correct": "kengaytirilgan qidiruv"
+    },
+    {
+      "question": "SCOPUS ma'lumotlar bazasida Affiliation Search qidiruv...",
+      "options": [
+        "muallif bo'yicha qidiruv",
+        "kengaytirilgan qidiruv",
+        "tashkilot bo'yicha qidiruv",
+        "oddiy qidiruv"
+      ],
+      "correct": "tashkilot bo'yicha qidiruv"
+    },
+    {
+      "question": "SCOPUS ma'lumotlar bazasida And (I) yordamida qidirish nimani anglatadi?",
+      "options": [
+        "3 ta so'zdan tarkib topgan maqolani qidirish uchun",
+        "hech bo'lmaganda 2 ta so'zdan bittasi bo'yicha maqolani qidirish uchun",
+        "Ma'lum so'zdan tarkib topmagan maqolani qidirish uchun",
+        "2 ta so'zdan tarkib topgan maqolani qidirish uchun"
+      ],
+      "correct": "2 ta so'zdan tarkib topgan maqolani qidirish uchun"
+    },
+    {
+      "question": "SCOPUS ma'lumotlar bazasida Author Search qidiruv ...",
+      "options": [
+        "tashkilot bo'yicha qidiruv",
+        "muallif bo'yicha qidiruv",
+        "kengaytirilgan qidiruv",
+        "oddiy qidiruv"
+      ],
+      "correct": "muallif bo'yicha qidiruv"
+    },
+    {
+      "question": "SCOPUS ma'lumotlar bazasida Basic search qidiruv...",
+      "options": [
+        "kengaytirilgan qidiruv",
+        "tashkilot bo'yicha qidiruv",
+        "oddiy qidiruv",
+        "muallif bo'yicha qidiruv"
+      ],
+      "correct": "oddiy qidiruv"
+    },
+    {
+      "question": "SCOPUS ma'lumotlar bazasida figurali qavs yordamida qidirish nimani anglatadi?",
+      "options": [
+        "Aniq farazlarni qidirish",
+        "barcha farazlarni qidirish",
+        "..dan tashqari farazlarni qidirish",
+        "Sinonim farazlarni qidirish"
+      ],
+      "correct": "Aniq farazlarni qidirish"
+    },
+    {
+      "question": "SCOPUS ma'lumotlar bazasida iqtiboslik tahlilini o'tkazish quyidagilarning qaysi biri orqali amalga oshiriladi?",
+      "options": [
+        "View at publisner",
+        "Cited by sence",
+        "View citation",
+        "References"
+      ],
+      "correct": "View citation"
+    },
+    {
+      "question": "SCOPUS ma'lumotlar bazasida Or (ILI) yordamida qidirish nimani anglatadi?",
+      "options": [
+        "2 ta so'zdan tarkib topgan maqolani qidirish uchun",
+        "hech bo'lmaganda 2 ta so'zdan bittasi bo'yicha maqolani qidirish uchun",
+        "Ma'lum so'zdan tarkib topmagan maqolani qidirish uchun",
+        "3 ta so'zdan tarkib topgan maqolani qidirish uchun"
+      ],
+      "correct": "hech bo'lmaganda 2 ta so'zdan bittasi bo'yicha maqolani qidirish uchun"
+    },
+    {
+      "question": "SCOPUS ma'lumotlar bazasida qachon individual hisob yozuvi ochiladi?",
+      "options": [
+        "3 tadan ko'p maqola chop etganlar uchun",
+        "2 tadan ko'p maqola chop etganlar uchun",
+        "1 tadan ko'p maqola chop etganlar uchun",
+        "5 tadan ko'p maqola chop etganlar uchun"
+      ],
+      "correct": "1 tadan ko'p maqola chop etganlar uchun"
+    },
+    {
+      "question": "Shaxsiy ilmiy kutubxonani boshqarish va ilmiy maqolalar bo'yicha samarali hamkorlik qilish vositasi- bu",
+      "options": [
+        "SCOPUS",
+        "ScienceDirect",
+        "Mendeley",
+        "Mendeley ScienceDirect"
+      ],
+      "correct": "Mendeley"
+    },
+    {
+      "question": "So'nggi 5 yil ichida QS universitetlarining dunyo reytingida birinchi o'rinni egallab turgan universitet bu",
+      "options": [
+        "Stenford universiteti",
+        "Kaliforniya texnologiya instituti",
+        "Kembridj universiteti",
+        "Massachusets texnologiya instituti"
+      ],
+      "correct": "Massachusets texnologiya instituti"
+    },
+    {
+      "question": "Start-ap loyiha tushunchasi dastlab nechanchi yilda kim tomonidan olib kirilgan?",
+      "options": [
+        "1976 yili Forbes",
+        "1978 yili Blonskiy",
+        "1977yili Rubenshtiyin",
+        "1978 yili Vigotskiy"
+      ],
+      "correct": "1976 yili Forbes"
+    },
+    {
+      "question": "Tabiat, jamiyat va insonning tuzilishi, shakllanishi va rivojlanishiga oid asosiy qonuniyatlar haqidagi yangi bilimlar olish, ular o'rtasidagi o'zaro bog'liqlik bo'yicha tajriba o'tkazishga qaratilgan tadqiqotlar -....",
+      "options": [
+        "Tematik ilmiy-tadqiqot",
+        "Amaliy tadqiqotlar",
+        "Maqsadli tadqiqot",
+        "Fundamental tadqiqotlar"
+      ],
+      "correct": "Fundamental tadqiqotlar"
+    },
+    {
+      "question": "Tadbirkorlik universiteti konsepsiyasi rivojlanishida \"To'rtinchi spiral\" tamoyili g'oyasi, ya'ni universitetning -",
+      "options": [
+        "hukumat, ishlab chiqarish va iste'molchi buyurtmachilarning manfaatlarini ifodlovchi sifatidagi hamkorligi rivojlanmoqda.",
+        "hukumat, davlat, biznes va tadbirkorlar bilan hamkorligi rivojlanmoqda.",
+        "biznes va davlat iste'molchi buyurtmachilarining manfaatlarini ifodlovchi sifatidagi hamkorligi rivojlanmoqda.",
+        "davlat, biznes va texnoparklar (iste'molchi buyurtmachilarning manfaatlarini ifodlovchi sifatidagi) bilan hamkorligi rivojlanmoqda."
+      ],
+      "correct": "davlat, biznes va texnoparklar (iste'molchi buyurtmachilarning manfaatlarini ifodlovchi sifatidagi) bilan hamkorligi rivojlanmoqda."
+    },
+    {
+      "question": "Tadbirkorlik universiteti konsepsiyasining muallifi bo'lib kim hisoblanadi ?",
+      "options": [
+        "Berlin universiteti professori Vilgelm fon Gumbold hisoblanadi",
+        "Kembridj universiteti professori Berton Klark hisoblanadi",
+        "Oksford universiteti professori Y.Shumpeter hisoblanadi",
+        "Stenford universiteti professori Genri Itskovits hisoblanadi"
+      ],
+      "correct": "Stenford universiteti professori Genri Itskovits hisoblanadi"
+    },
+    {
+      "question": "Tadbirkorlik universiteti konsepsiyasining muallifi kim?",
+      "options": [
+        "P. Druker",
+        "Y.Shumpeter",
+        "Genri Itskovits",
+        "A.O.Grudzinskiy"
+      ],
+      "correct": "Genri Itskovits"
+    },
+    {
+      "question": "Tadbirkorlik universiteti rolining ortishi nima sifatida ularni amaliyotda qo'llashgacha olib borishga qodirligi bilan izohlanadi ?",
+      "options": [
+        "ta'limni \"generatsiyalash\" mexanizmni shakllantirish",
+        "bilimlarni \"generatsiyalash\" mexanizmni shakllantirish",
+        "tarbiyani \"generatsiyalash\" mexanizmni shakllantirish",
+        "o'qishni \"generatsiyalash\" mexanizmni shakllantirish"
+      ],
+      "correct": "bilimlarni \"generatsiyalash\" mexanizmni shakllantirish"
+    },
+    {
+      "question": "Tadbirkorlik universiteti tarixi qachon va qayerda boshlangan?",
+      "options": [
+        "Londonda (XX asrning 40 yillarining oxiri 50 yillarning boshlarida) Silikova (Kremli) vodiysida",
+        "Kaliforniyada (XX asrning 40 yillarining oxiri 50 yillarning boshlarida) Silikova (Kremli) vodiysida",
+        "Berlinda (XX asrning 40 yillarining oxiri 50 yillarning boshlarida) Silikova (Kremli) vodiysida",
+        "Parijda (XX asrning 40 yillarining oxiri 50 yillarning boshlarida) Silikova (Kremli) vodiysida"
+      ],
+      "correct": "Kaliforniyada (XX asrning 40 yillarining oxiri 50 yillarning boshlarida) Silikova (Kremli) vodiysida"
+    },
+    {
+      "question": "Tadbirkorlik universiteti(TU) missiyasi:",
+      "options": [
+        "o'qish; ta'lim; ilmiy-tadqiqot; innovatsion; tadbirkorlik; ishlab chiqarish.",
+        "madaniy-ta'lim; ilmiy-tadqiqot; texnologik tadbirkorlik.",
+        "ilmiy-tadqiqot; innovatsion;",
+        "madaniy-ta'lim; ilmiy-tadqiqot; innovatsion-tadbirkorlik."
+      ],
+      "correct": "madaniy-ta'lim; ilmiy-tadqiqot; innovatsion-tadbirkorlik."
+    },
+    {
+      "question": "Tadbirkorlik universitetining hamkorlar bilan ko'p tomonlama o'zaro xatti-harakatlarini kimning \"Uchala spiral\" tamoyili orqali ko'rib chiqish mumkin: biznes, hukumat, universitet.",
+      "options": [
+        "G.Itskovitsning",
+        "Vilgelm fon Gumbold",
+        "Berton Klarkning",
+        "Yozef.Shumpeterning"
+      ],
+      "correct": "G.Itskovitsning"
+    },
+    {
+      "question": "Tadbirkorlik universitetining missiyasi?",
+      "options": [
+        "Tadbirkor, Innovator, integrator",
+        "Ta'lim xizmatlarini ko'rsatish, innovator",
+        "Innovator, integrator",
+        "Tadbirkor, Innovator,"
+      ],
+      "correct": "Tadbirkor, Innovator, integrator"
+    },
+    {
+      "question": "Talabalar bilan start-ap loyihalashda uning ________ni shakllantirish muhim rol o'ynaydi?",
+      "options": ["Gipotezasi", "Loyihasi", "Ilmiy ishlanmalari", "Ob'ekti"],
+      "correct": "Gipotezasi"
+    },
+    {
+      "question": "Ta'lim xizmatlari va ilmiy izlanishlarni taqdim etish bilan cheklangan, ixtirolarni tijoratlashtirish talab qilinmagan - amaliy tadqiqotlar va ilmiy-texnik ishlanmalar bilan bog'liq vazifalarni amalga oshiruvchi muassasa......",
+      "options": [
+        "Universitet 1.0",
+        "Universitet 3.0",
+        "Universitet",
+        "Universitet 2.0"
+      ],
+      "correct": "Universitet 2.0"
+    },
+    {
+      "question": "Tarix va ijtimoiy-gumanitar fanlar; filologiya, psixologiya va pedagogika fanlari; iqtisodiyot va huquq fanlari; informatika, axborot-kommunikatsiya texnologiyalari fan yo'nalishlari bo'yicha amalga oshiriladigan loyihalar qancha muddatgacha shakllantirish va amalga oshirish tavsiya etiladi?",
+      "options": [
+        "5 yil muddatgacha",
+        "4 yil muddatga",
+        "3 yil muddatgacha",
+        "2 yil muddatgacha"
+      ],
+      "correct": "3 yil muddatgacha"
+    },
+    {
+      "question": "Texnologiyalarni tijoratlashtirish - bu",
+      "options": [
+        "iste'molchi (xaridor) bilimlardan foydalanish huquqini olgan va o'z egasiga bitim shartlarida belgilangan miqdorda haq to'laydigan texnologik uzatish shakli",
+        "iste'molchi (xaridor) bilimlardan foydalanish huquqini olgan va o'z egasiga (texnologiyalarni ishlab chiquvchisiga) u yoki bu shaklda litsenziya (yoki boshqa) bitim shartlarida belgilangan miqdorda haq to'laydigan texnologik uzatish shakli",
+        "o'z egasiga (texnologiyalarni ishlab chiquvchisiga) u yoki bu shaklda litsenziya (yoki boshqa) bitim shartlarida belgilangan miqdorda haq to'laydigan texnologik uzatish shakli",
+        "u yoki bu shaklda litsenziya (yoki boshqa) bitim shartlarida belgilangan miqdorda haq to'laydigan texnologik uzatish shakli"
+      ],
+      "correct": "iste'molchi (xaridor) bilimlardan foydalanish huquqini olgan va o'z egasiga (texnologiyalarni ishlab chiquvchisiga) u yoki bu shaklda litsenziya (yoki boshqa) bitim shartlarida belgilangan miqdorda haq to'laydigan texnologik uzatish shakli"
+    },
+    {
+      "question": "Texnologiyalarni tijoratlashtirish tushunchasi - bu",
+      "options": [
+        "dissertatsiya natijalari o'z vaqtida bozorda mahsulot va xizmatlarga aylantiriladigan jarayondir",
+        "ilmiy-tadqiqot natijalari o'z vaqtida bozorda mahsulot va xizmatlarga aylantiriladigan jarayondir",
+        "texnik yechimlar natijalari o'z vaqtida bozorda mahsulot va xizmatlarga aylantiriladigan jarayondir",
+        "loyihalar natijalari o'z vaqtida bozorda mahsulot va xizmatlarga aylantiriladigan jarayondir"
+      ],
+      "correct": "ilmiy-tadqiqot natijalari o'z vaqtida bozorda mahsulot va xizmatlarga aylantiriladigan jarayondir"
+    },
+    {
+      "question": "Texnologiyalarni uzatish qanday xususiyatlarga ko'ra turlarga bo'linadi?",
+      "options": [
+        "shartnoma, almashuv darjasi va texnologiyalar transferi turi bo'yicha",
+        "shartnoma, hajm, texnologiyalar transferi turi bo'yicha",
+        "shartnoma texnologiyalar transferi turi bo'yicha",
+        "shartnoma, hajmi, almashuv darjasi va texnologiyalar transferi turi bo'yicha"
+      ],
+      "correct": "shartnoma, hajmi, almashuv darjasi va texnologiyalar transferi turi bo'yicha"
+    },
+    {
+      "question": "THE reytingi aniqlashda quyidagi universitetlar qatnasha olmaydi?",
+      "options": [
+        "besh yil ichida 500 ta ilmiy ishlar, shu jumladan bir yilda 100 tadan kam nashr ettirganlar",
+        "yuqori kurs talabalarini o'qitmaydiganlar, tor mutaxassisliklar tayyorlaydigan, besh yil ichida 500 ta ilmiy ishlar, shu jumladan bir yilda 100 tadan kam nashr ettirganlar",
+        "yuqori kurs talabalarini o'qitmaydiganlar, tor mutaxassisliklar tayyorlaydigan, besh yil ichida 1000 ta ilmiy ishlar, shu jumladan bir yilda 200 tadan kam nashr ettirganlar",
+        "yuqori kurs talabalarini o'qitadiganlar, tor mutaxassisliklar tayyorlaydigan, uch yil ichida 1000 ta ilmiy ishlar, shu jumladan bir yilda 200 tadan kam nashr ettirganlar"
+      ],
+      "correct": "yuqori kurs talabalarini o'qitmaydiganlar, tor mutaxassisliklar tayyorlaydigan, besh yil ichida 1000 ta ilmiy ishlar, shu jumladan bir yilda 200 tadan kam nashr ettirganlar"
+    },
+    {
+      "question": "THE reytingning kamchiliklari?",
+      "options": [
+        "Reyting ta'lim berish sifati va talabalar uchun sharoitlarni baholamaydi",
+        "Ob'ektivlikning yetarli emasligi",
+        "Har bir OTMda ham o'zida zamonaviy ilg'or laboratoriyalar va o'qituvchilari orasida Nobel mukofotiga ega xodimlarga ega bo'lish imkoniyati mavjud emas",
+        "Ingliz tilidagi mamlakatlar uchun ustuvorlik yuqori. Reyting faqat ingliz tilidagi ilmiy nashrlarni tahlil qiladi. Bundan aksariyat uchinchi mamalatlarning OTMlari o'z ulushini yo'qotishadi"
+      ],
+      "correct": "Ingliz tilidagi mamlakatlar uchun ustuvorlik yuqori. Reyting faqat ingliz tilidagi ilmiy nashrlarni tahlil qiladi. Bundan aksariyat uchinchi mamalatlarning OTMlari o'z ulushini yo'qotishadi"
+    },
+    {
+      "question": "Universitet - bu",
+      "options": [
+        "faqat amaliy fanlar bo'yicha mutaxassislar tahsil olishadigan oliy ta'lim muassasi",
+        "Faqat akademik ta'lim bo'yicha mutaxassislar tahsil olishadigan oliy ta'lim muassasi",
+        "faqat nazariy fanlar bo'yicha mutaxassislar tahsil olishadigan oliy ta'lim muassasi",
+        "fundamental va ko'pgina amaliy fanlar bo'yicha mutaxassislar tahsil olishadigan oliy ta'lim muassasi"
+      ],
+      "correct": "fundamental va ko'pgina amaliy fanlar bo'yicha mutaxassislar tahsil olishadigan oliy ta'lim muassasi"
+    },
+    {
+      "question": "Universitet - bu nem. Universität, o'z navbatida lat. universitas so'zidan kelib chiqib",
+      "options": [
+        "Faqat akademik ta'lim bo'yicha mutaxassislar tahsil olishadigan oliy ta'lim muassasi",
+        "fundamental va ko'pgina amaliy fanlar bo'yicha mutaxassislar tahsil olishadigan oliy ta'lim muassasi",
+        "faqat amaliy fanlar bo'yicha mutaxassislar tahsil olishadigan oliy ta'lim muassasi",
+        "faqat nazariy fanlar bo'yicha mutaxassislar tahsil olishadigan oliy ta'lim muassasi"
+      ],
+      "correct": "fundamental va ko'pgina amaliy fanlar bo'yicha mutaxassislar tahsil olishadigan oliy ta'lim muassasi"
+    },
+    {
+      "question": "Universitet 3.0 modelining yangi bosqichi qachon va qayerda paydo bo'lgan?",
+      "options": [
+        "XX asrning 50-60 yillarida Yevropada",
+        "XX asrning 50-60 yillarida AQSh",
+        "XX asrning 50-60 yillarida AQSh va Kanadada",
+        "XX asrning 50-60 yillarida Kanada"
+      ],
+      "correct": "XX asrning 50-60 yillarida AQSh va Kanadada"
+    },
+    {
+      "question": "Universitet uchun haqiqiy bilimni olishning o'ziga xos usuli-?",
+      "options": [
+        "Ta'lim oluvchilarda tadbirkorlik faolligini rag'batlantiruvchi innovatsion ta'lim mahsulotlarini joriy etish",
+        "Oldindan yangi bilimlarni berish va o'zlashtirish bo'lgan",
+        "Klassik ta'limni tadbirkorlikka transformatsiyalash",
+        "Universitet professorlari tomonidan talabalarni ilmga jalb etish orqali erishiladigan tadqiqot faoliyati hisoblangan"
+      ],
+      "correct": "Universitet professorlari tomonidan talabalarni ilmga jalb etish orqali erishiladigan tadqiqot faoliyati hisoblangan"
+    },
+    {
+      "question": "Universitetlarni yaratish uchun namuna bo'lgan ta'lim muassasasi nomini aniqlang?",
+      "options": [
+        "Massachesuta texnologiya instituti",
+        "Stenford",
+        "Gumboldt",
+        "Oksford"
+      ],
+      "correct": "Gumboldt"
+    },
+    {
+      "question": "Universitetni bitkoinlarda moliyalashtirishning maqsadi?",
+      "options": [
+        "intellektual tadbirkor konsepsiyasi yaratish",
+        "bank tarmog'i rivojlanmagan mintaqalarida moliyaviy xizmatlarni kengaytirishni yengillashtirish",
+        "jahonning yetakchi universitetlari strategik xujjatlarida, rivojlantirish dasturlarini yaratish",
+        "jahonning yetakchi universitetlari strategik xujjatlarida, rivojlanish dasturlarida, modelli qarorlarida o'z aksini topgan strategiiyani rivojlantirish"
+      ],
+      "correct": "bank tarmog'i rivojlanmagan mintaqalarida moliyaviy xizmatlarni kengaytirishni yengillashtirish"
+    },
+    {
+      "question": "videofilm, nashr ishlari - kitob, almanax, buklet, albom, bosma va elektron jurnal, kompyuter dasturlarni yaratishga yo'naltirilgan loyihalar -......",
+      "options": [
+        "Ilmiy loyihalar",
+        "Startaplar loyihalari",
+        "Ijodiy loyihalar",
+        "Amaliy loyihalar"
+      ],
+      "correct": "Ijodiy loyihalar"
+    },
+    {
+      "question": "Web of Science xalqaro ilmiy ma'lumotlar bazasida indeksatsiya qilinadigan xalqaro ilmiy jurnallarda chop etilgan umumiy maqolalar sonida O'zbekistonning ulushi 2030 yilgacha necha foizga yetkazish ko'zda tutilgan?",
+      "options": ["0.008", "0, 2", "0.1", "0, 4"],
+      "correct": "0, 2"
+    },
+    {
+      "question": "Web of Science xalqaro ilmiy ma'lumotlar bazasida indeksatsiya qilinadigan xalqaro ilmiy jurnallarda har 100 nafar O'zbekistonlik olimlar tomonidan chop etilgan maqolalar soni 2030 yilgacha qanchaga oshirish ko'zda tutilgan?",
+      "options": ["15", "10", "8", "6"],
+      "correct": "10"
+    },
+    {
+      "question": "Web of Science xalqaro ilmiy ma'lumotlar bazasida indeksatsiya qilinadigan xalqaro ilmiy jurnallarda O'zbekistonlik olimlar tomonidan chop etilgan bitta maqolaga nisbatan xorijiy havolalar soni 2030 yilgacha qanchaga oshirish ko'zda tutilgan?",
+      "options": ["1/2", "2", "1", "3"],
+      "correct": "2"
+    },
+    {
+      "question": "xorijiy yetakchi investitsiya kompaniyalari bilan hamkorlikda 2021 yilda nechta venchur jamg'armalarini tashkil qilish ko'zda tutilgan?",
+      "options": ["5", "4", "10", "2"],
+      "correct": "2"
+    },
+    {
+      "question": "Yangi o'quv kurslari, mutaxassisliklar, kadrlar tayyorlash va qayta tayyorlash sohalari (profillari), yangi ta'lim texnologiyalari ko'rinishidagi innovatsion faoliyat natijalari -....",
+      "options": [
+        "Ilmiy innovatsiyalar",
+        "Ta'limdagi innovatsiyalar",
+        "Texnologik innovatsiyalar",
+        "boshqaruvdagi innovatsiyalar"
+      ],
+      "correct": "Ta'limdagi innovatsiyalar"
+    },
+    {
+      "question": "Yangi texnologiyalar, yangi jihozlar, materiallar, mahsulotlar, ilmiy-texnik xizmatlarning namunalari va boshqa yuqori texnologiyali mahsulotlar ko'rinishidagi innovatsion faoliyat natijalari -...",
+      "options": [
+        "Texnologik innovatsiyalar",
+        "Ilmiy va texnologik innovatsiyalar",
+        "boshqaruvdagi innovatsiyalar",
+        "Ta'limdagi innovatsiyalar"
+      ],
+      "correct": "Ilmiy va texnologik innovatsiyalar"
+    },
+    {
+      "question": "Yevropada birinchi tadbirkorlik shaklidagi universitetni aniqlang?",
+      "options": [
+        "Stenford universiteti",
+        "Kaliforniya texnologiya instituti",
+        "Kembridj universiteti",
+        "Xalmers universiteti (Geteborg)"
+      ],
+      "correct": "Xalmers universiteti (Geteborg)"
+    },
+    {
+      "question": "Yevropadagi birinchi universitetlardan biri ...........",
+      "options": [
+        "Oksford universiteti",
+        "Parij universiteti",
+        "Bolonya universiteti",
+        "Kembrijd universiteti"
+      ],
+      "correct": "Bolonya universiteti"
+    },
+    {
+      "question": "Zamonaviy global iqtisodiyot nechta kitlar ustida turadi?",
+      "options": [
+        "ikkita: bilim; texnologiya;",
+        "Uchta: bilim; texnologiya; tadbirkorlik tashabbuskorligi.",
+        "To'rtta: bilim; texnologiya; tadbirkorlik va innovatsiya.",
+        "Ikkita: bilim; tadbirkorlik tashabbuskorligi."
+      ],
+      "correct": "Uchta: bilim; texnologiya; tadbirkorlik tashabbuskorligi."
+    },
+    {
+      "question": "Zamonaviy universitetning bosh funksiyasi -",
+      "options": [
+        "Yuqori malakali talabalarni tayyorlash",
+        "Yuqori sifatli mutaxassislarni tayyorlash",
+        "Yuqori malakali kadrlar tayyorlash",
+        "innovatorlarni tayyorlash"
+      ],
+      "correct": "innovatorlarni tayyorlash"
+    }
+  ]
+}

@@ -1,0 +1,1094 @@
+{
+  "quesions": [
+    {
+      "question": "1-4 sinf o'quvchilarining o'qish va matnni tushunish yuzasidan o'tkaziladigan Xalqaro baholash dasturini toping.",
+      "options": ["PIRLS", "Pisa", "Tims", "Talis"],
+      "correct": "PIRLS"
+    },
+    {
+      "question": "o'quvchilarining o'qish va matnni tushunish, matematik va tabiiy savodxonligini aniqlash maqsadida o'tkaziladigan Xalqaro baholash dasturini toping.",
+      "options": ["PISA", "TALIS", "PIRLS", "TIMMS"],
+      "correct": "TIMMS"
+    },
+    {
+      "question": "TALIS –tadqiqotining asosiy vazifalaridan birini toping(5)",
+      "options": [
+        "Uzluksiz malaka oshirish jarayonini takomillashtirish",
+        "Matematik savodxonlikni orttirish.",
+        "O'qish va matnni tushunish savodxonlikni orttirish.",
+        "Tabiiy savodxonlikni orttirish"
+      ],
+      "correct": "Uzluksiz malaka oshirish jarayonini takomillashtirish"
+    },
+    {
+      "question": "Xorijiy tajribaga ko'ra, kredit-modul tizimida o'quv jarayoni har semestrda nechta moduldan iborat bo'ladi.",
+      "options": ["Aniq o'lchovi yo'q", "Bitta", "2 - 4 tagacha", "Bir nechta"],
+      "correct": "2 - 4 tagacha"
+    },
+    {
+      "question": "1 USTS ga teng birlikni ko'rsating.",
+      "options": ["4 SATS", "2 ECTS", "2 SATS", "1 UCTS"],
+      "correct": "2 ECTS"
+    },
+    {
+      "question": "1-4 sinf o'quvchilarining o'qish va matnni tushunish, matematik va tabiiy savodxonligini aniqlash maqsadida o'tkaziladigan Xalqaro baholash dasturini toping.",
+      "options": ["Timms", "Pisa", "Talis", "Pirls"],
+      "correct": "Timms"
+    },
+    {
+      "question": "15 yoshli o'quvchilar uchun o'tkaziladigan Xalqaro baholash dasturi PISA mezonining (1)birinchi darajasi Blum taksonomiyasining qaysi o'quv maqsadiga mosligini toping",
+      "options": ["Bilish", "Tushinish", "Amalda qo'llash", "Tahlil sintez"],
+      "correct": "Bilish"
+    },
+    {
+      "question": "15 yoshli o'quvchilar uchun o'tkaziladigan Xalqaro baholash dasturi PISA mezonining (2)ikkinchi darajasi Blum taksonomiyasining qaysi o'quv maqsadiga mosligini toping",
+      "options": [
+        "Amalda qo'llash",
+        "tahlil sintez.",
+        "Bilish, tushunish",
+        "xulosa"
+      ],
+      "correct": "Bilish, tushunish"
+    },
+    {
+      "question": "15 yoshli o'quvchilar uchun o'tkaziladigan Xalqaro baholash dasturi PISA mezonining (3)uchinchi darajasi Blum taksonomiyasining qaysi o'quv maqsadiga mosligini toping",
+      "options": [
+        "Tahlil sintez Amalda qo'llash",
+        "Tushunish, xulosa tahlil sintez",
+        "Bilish, tushunish, amalda qo'llash,",
+        "Bilish, tushunish, xulosa"
+      ],
+      "correct": "Bilish, tushunish, amalda qo'llash,"
+    },
+    {
+      "question": "15 yoshli o'quvchilar uchun o'tkaziladigan Xalqaro baholash dasturi PISA mezonining (4)tortinchi darajasi Blum taksonomiyasining qaysi o'quv maqsadiga mosligini toping",
+      "options": [
+        "Bilish, tushunish, amalda qo'llash, tahlil,",
+        "Bilish, tushunish, amalda qo'llash, xulosa",
+        "Bilish, tushunish, amalda qo'llash, taklif",
+        "Bilish, tushunish, amalda qo'llash, sintez"
+      ],
+      "correct": "Bilish, tushunish, amalda qo'llash, tahlil,"
+    },
+    {
+      "question": "15 yoshli o'quvchilar uchun o'tkaziladigan Xalqaro baholash dasturi PISA mezonining (5)beshinchi darajasi Blum taksonomiyasining qaysi o'quv maqsadiga mosligini toping",
+      "options": [
+        "Tushunish, xulosa tahlil sintez",
+        "Tahlil sintez Amalda qo'llash",
+        "Bilish, tushunish, amalda qo'llash, tahlil, sintez",
+        "Bilish, tushunish, xulosa"
+      ],
+      "correct": "Bilish, tushunish, amalda qo'llash, tahlil, sintez"
+    },
+    {
+      "question": "15 yoshli o'quvchilar uchun o'tkaziladigan Xalqaro baholash dasturi PISA mezonining (6)oltinchi darajasi Blum taksonomiyasining qaysi o'quv maqsadiga mosligini toping",
+      "options": [
+        "Bilish, tushunish, amalda qo'llash, tahlil, sintez, xulosa",
+        "tushunish, xulosa Tahlil, sintez, Amalda qo'llash",
+        "tushunish, xulosa tahlil sintez.",
+        "Bilish, tushunish, xulosa, tahlil sintez Amalda qo'llash"
+      ],
+      "correct": "Bilish, tushunish, amalda qo'llash, tahlil, sintez, xulosa"
+    },
+    {
+      "question": "15 yoshli o'quvchilar uchun o'tkaziladigan Xalqaro baholash dasturini toping.",
+      "options": [
+        "PISA",
+        "PROBLEM SOLVING AND FINANCIAL LITERACY",
+        "TALIS",
+        "IMMS"
+      ],
+      "correct": "PISA"
+    },
+    {
+      "question": "5 kreditlik fanni 70% ga o'zlashtirgan talaba necha kreditni qo'lga kiritadi?",
+      "options": ["3,5 kredit", "3 kredit", "4 kredit", "5 kredit"],
+      "correct": "5 kredit"
+    },
+    {
+      "question": "Akademik kreditga berilgan javobni toping",
+      "options": [
+        "Oliy ta'limni tugatishiga asos bo'ladigan talaba tomonidan to'plangan ramziy o'lchov birligi",
+        "Yaxlit, muayyan o'quv natijalariga erishishga qaratilgan, Reyting tizimi mezonlariga ega bulgan tizimli, izchil o'qish va o'rganish harakatlari jamlanmasi.",
+        "Oliy ta'limning muayyan bosqichida ushbu ta'lim darajasini qo'lga kiritish maqsadida talaba tomonidan muntazam ravishda to'plab boriladigan ramziy o'lchov birligi.",
+        "Oliy ta'lim faoliyatini nazorat qiladigan ramziy o'lchov birligi."
+      ],
+      "correct": "Oliy ta'limning muayyan bosqichida ushbu ta'lim darajasini qo'lga kiritish maqsadida talaba tomonidan muntazam ravishda to'plab boriladigan ramziy o'lchov birligi."
+    },
+    {
+      "question": "Akademik modulga berilgan javobni toping",
+      "options": [
+        "Oliy ta'limning muayyan bosqichida ushbu ta'lim darajasini qo'lga kiritish maqsadida talaba tomonidan muntazam ravishda to'plab boriladigan ramziy o'lchov birligi.",
+        "Oliy ta'limni tugatishiga asos bo'ladigan talaba tomonidan to'plangan ramziy o'lchov birligi.",
+        "Oliy ta'lim faoliyatini nazorat qiladigan ramziy o'lchov birligi.",
+        "Yaxlit, muayyan o'quv natijalariga erishishga qaratilgan, Reyting tizimi mezonlariga ega bulgan tizimli, izchil o'qish va o'rganish harakatlari jamlanmasi."
+      ],
+      "correct": "Yaxlit, muayyan o'quv natijalariga erishishga qaratilgan, Reyting tizimi mezonlariga ega bulgan tizimli, izchil o'qish va o'rganish harakatlari jamlanmasi."
+    },
+    {
+      "question": "Amerika Qo'shma Shtatlari kredit tizimini ko'rsating.",
+      "options": ["ECTS", "SATS", "USCS", "UCTS"],
+      "correct": "USCS"
+    },
+    {
+      "question": "Bajarish, qo'llash, ijro qilish, hisoblash, o'zgartirish, mavzu bo'yicha suhbatlashish, tajriba o'tkazish, rasmiylashtirish, fikr almashish, chizish, foydalanish kabi amallar Blum taksonomiyasining qaysi kategoriyasiga tegishli?",
+      "options": ["bilish", "amalda qo'llash", "tushunish", "baholash"],
+      "correct": "amalda qo'llash"
+    },
+    {
+      "question": "Bakalavriat ta'lim yo'nalishi namunaviy o'quv rejasidan o'rin olgan o'quv modulidan auditoriyada tashkil etiladigan o'qitish shakllarini toping.",
+      "options": [
+        "ma'ruza, laboratoriya, amaliy va seminar mashg'ulotlari",
+        "Ma'ruza, seminar va amaliy mashg'ulotlar, mustaqil ta'lim",
+        "Ma'ruza, seminar va amaliy mashg'ulotlar, kurs ishi",
+        "Ma'ruza, laboratoriya, amaliy mashg'ulotlar, fan to'garagi"
+      ],
+      "correct": "ma'ruza, laboratoriya, amaliy va seminar mashg'ulotlari"
+    },
+    {
+      "question": "Bakalavriatda kechki va sirtqi ta'lim shakllari bo'yicha me'yoriy o'qish muddatlari kunduzgi shakldagidan ko'pi bilan qancha muddat farq qilishi mumkin?",
+      "options": ["6 oy", "2 yil", "1 yil", "1,5 yil"],
+      "correct": "1 yil"
+    },
+    {
+      "question": "Bir o'quv yili uchun kunduzgi ta'limda amalga oshiriladigan ta'lim dasturining hajmi necha kreditga teng?",
+      "options": ["120", "30", "60", "240"],
+      "correct": "60"
+    },
+    {
+      "question": "Bolonya jarayoni ishtirokchi davlatlari OTM lari bilan akademik almashishga imkon beruvchi bandni ko'rsating.",
+      "options": [
+        "professor-o'qituvchilarning xorijiy tajribasi",
+        "magistrantlarning xorijda stajirovka o'tashi",
+        "o'quv rejalarining xorijiy o'quv rejalariga mosligi",
+        "xalqaro ilmiy anjumanlarda ishtirok etish"
+      ],
+      "correct": "o'quv rejalarining xorijiy o'quv rejalariga mosligi"
+    },
+    {
+      "question": "Dars jadvallari nimalar asosida tuziladi?",
+      "options": [
+        "o'quv rejalari va akademik taqvim",
+        "akademik guruhlar, o'quv rejalardagi fanlar va mashg'ulotlar hajmi, o'qituvchilar kontingenti, auditoriya fondi",
+        "o'quv rejalari va auditoriya fondi",
+        "o'quv rejalari, qo'shimcha fanlar, akademik taqvim, auditoriya fondi, o'qituvchilarning va talabalarning bo'sh vaqti"
+      ],
+      "correct": "akademik guruhlar, o'quv rejalardagi fanlar va mashg'ulotlar hajmi, o'qituvchilar kontingenti, auditoriya fondi"
+    },
+    {
+      "question": "Eslash, nomlash, tasavvur qilish, aytib berish, tasvirlash, o'xshashini topish kabi amallar Blum taksonomiyasining qaysi kategoriyasiga tegishli?",
+      "options": ["amalda qo'llash", "bilish", "tahlil", "baholash"],
+      "correct": "bilish"
+    },
+    {
+      "question": "Fandan keyin o'zlashtirilishi nazarda tutiladigan bandni ko'rsating.",
+      "options": [
+        "malakaviy amaliyotlar",
+        "prerekvizitlar",
+        "postrekvizitlar",
+        "mustaqil ta'lim"
+      ],
+      "correct": "postrekvizitlar"
+    },
+    {
+      "question": "Fandan oldin o'zlashtirilishi zarur bo'lgan bandni ko'rsating.",
+      "options": [
+        "nazariy materiallar",
+        "postrekvizitlar",
+        "malakaviy amaliyotlar",
+        "prerekvizitlar"
+      ],
+      "correct": "prerekvizitlar"
+    },
+    {
+      "question": "Fanning o'quv-uslubiy majmuasi uchun asos bo'ladigan me'yoriy hujjatlarni ko'rsating.",
+      "options": [
+        "soatlar taqsimoti, auditoriya va mustaqil ish turlari, laboratoriya anjomlari",
+        "DTS, MT, o'quv reja, fan dasturi",
+        "dars jadvali, talabaning shaxsiy o'quv rejasi",
+        "auditoriya fondi, fan o'qituvchilari ro'yxati"
+      ],
+      "correct": "DTS, MT, o'quv reja, fan dasturi"
+    },
+    {
+      "question": "Guruhlash, bog'lash, izohlash, ixchamlash, kengaytirish, tushuntirish, farqlash, boshqa shaklda ifodalash kabi amallar Blum taksonomiyasining qaysi kategoriyasiga tegishli?",
+      "options": ["baholash", "bilish", "sintez", "tushunish"],
+      "correct": "tushunish"
+    },
+    {
+      "question": "Ikki karra o'tkaziladigan Xalqaro baholash dasturini toping.",
+      "options": ["PISA", "TALIS", "PIRLS", "TIMMS"],
+      "correct": "PISA"
+    },
+    {
+      "question": "Kompetensiyaning lug'aviy ma'nosini toping.",
+      "options": [
+        "Lotincha competens – layoqatli, qobiliyatli",
+        "Fransuzcha competens – uquvli, bilimli",
+        "Inglizcha competens – layoqatli, uquvli",
+        "Yunoncha competens – layoqatli, bilimli"
+      ],
+      "correct": "Lotincha competens – layoqatli, qobiliyatli"
+    },
+    {
+      "question": "Kredit-bu..... Ta'rifni to'ldiring",
+      "options": [
+        "O'qitishning modul texnologiyalari jamlamasi va kredit o'lchovi asosida baholash modeli",
+        "Yaxlit, muayyan o'quv natijalariga erishishga qaratilgan, Reyting tizimi mezonlariga ega bulgan tizimli, izchil o'qish va o'rganish harakatlari jamlanmasi.",
+        "Talabaning modullarni o'qib o'rganishi va o'z­lashtirishi uchun sarflangan o'quv yuklamasining (vaqtning) o'lchov birligidir",
+        "Oliy ta'limni tugatishiga asos bo'ladigan talaba tomonidan to'plangan ramziy o'lchov birligi."
+      ],
+      "correct": "Talabaning modullarni o'qib o'rganishi va o'z­lashtirishi uchun sarflangan o'quv yuklamasining (vaqtning) o'lchov birligidir"
+    },
+    {
+      "question": "Kredit-modul tizimida akademik guruh jurnalida keltiriladigan bandni ko'rsating.",
+      "options": [
+        "ilmiy-uslubiy, ilmiy-tadqiqot va \"ustoz-shogird\" yuklamalari",
+        "fan nomi, kodi, mashg'ulotlar hajmi, talabalar soni",
+        "fan kodi, o'quv auditoriyasi, fan o'qituvchisi",
+        "O'RTMI baholari"
+      ],
+      "correct": "O'RTMI baholari"
+    },
+    {
+      "question": "Kredit-modul tizimida akademik guruh talabalari sonining minimal va maksimal qiymatlari nima asosida belgilanadi?",
+      "options": [
+        "vaqt me'yorlari asosida, 20-25 ta oralig'ida belgilanadi",
+        "auditoriya sig'imi, yuklamalarni optimallashtirish, o'qituvchi yuklamasi asosida belgilanadi",
+        "faqat auditoriya sig'imi asosida",
+        "o'qituvchi yuklamasi asosida"
+      ],
+      "correct": "auditoriya sig'imi, yuklamalarni optimallashtirish, o'qituvchi yuklamasi asosida belgilanadi"
+    },
+    {
+      "question": "Kredit-modul tizimida akademik guruhlar qanday belgilanishi lozim?",
+      "options": [
+        "1-kurs talabalarini tor ixtisosliklarga biriktirish asosida",
+        "o'qishga qabul qilingan abituriyenlarni farmoyish bo'yicha guruhlarga taqsimlash orqali",
+        "fanlarga va o'qituvchilarga yozilgan talabalar kontingentidan kelib chiqib, ruxsat etilgan chegarada",
+        "vaqt me'yorlari asosida har bir guruhga 20-25 ta talabani biriktirish asosida"
+      ],
+      "correct": "fanlarga va o'qituvchilarga yozilgan talabalar kontingentidan kelib chiqib, ruxsat etilgan chegarada"
+    },
+    {
+      "question": "Kredit-modul tizimida amaliyotga joriy etilishi nazarda tutilgan «flipped classroom» texnologiyasining ma'nosi to'g'ri berilgan javobni toping.",
+      "options": [
+        "Modulli ta'lim",
+        "Kompetensiyali ta'lim",
+        "Aralash ta'lim",
+        "Majmuali ta'lim"
+      ],
+      "correct": "Aralash ta'lim"
+    },
+    {
+      "question": "Kredit-modul tizimida dars jadvallari kim tomonidan tuziladi?",
+      "options": [
+        "o'quv bo'limi",
+        "dekanat",
+        "registrator ofisi",
+        "magistratura bo'limi"
+      ],
+      "correct": "registrator ofisi"
+    },
+    {
+      "question": "Kredit-modul tizimida dars jadvallarida keltiriladigan bandlarni ko'rsating.",
+      "options": [
+        "fan nomi, kodi, mashg'ulotlar hajmi, talabalar soni",
+        "fan kodi, o'quv auditoriyasi, fan o'qituvchisi, akademik guruh",
+        "fan kodi, o'quv auditoriyasi, potoklar, murabbiylik soatlari, ma'naviy-ma'rifiy tadbirlar",
+        "talabalar familiyasi, mashg'ulot mavzulari, baholar"
+      ],
+      "correct": "fan kodi, o'quv auditoriyasi, fan o'qituvchisi, akademik guruh"
+    },
+    {
+      "question": "Kredit-modul tizimida edvayzerning vazifasi nimadan iborat?",
+      "options": [
+        "talabaning fanlarni o'zlashtirishiga, ilmiy ishlarni olib borishiga, ilmiy anjumanlarda ma'ruza qilishiga, maqola chop qilishiga yaqindan yordam ko'rsatish",
+        "amaliy turdagi darslarni o'tish, talabalarga topshiriqlar berish, ularni nazorat qilish va bajarilishiga erishish",
+        "amaliy va laboratoriya mashg'ulotlarini olib borish, kurs ishi va loyihalari, malakaviy amaliyotlar, ilmiy izlanishlariga rahbarlik qilish",
+        "talabaga o'quv trayektoriyasini tanlashiga akademik maslahatchilik qilish, tanlov fanlarini tanlashiga, ishga joylashishiga yordam ko'rsatish"
+      ],
+      "correct": "talabaga o'quv trayektoriyasini tanlashiga akademik maslahatchilik qilish, tanlov fanlarini tanlashiga, ishga joylashishiga yordam ko'rsatish"
+    },
+    {
+      "question": "Kredit-modul tizimida fanlar katalogini ishlab chiqadigan komissiya turini ko'rsating.",
+      "options": [
+        "o'qituvchilar faoliyatini nazorat qilish bo'yicha komissiya",
+        "o'quv rejalari bo'yicha komissiya",
+        "TMI sifatini nazorat qilish bo'yicha komissiya",
+        "ishchi dasturlar bo'yicha komissiya"
+      ],
+      "correct": "ishchi dasturlar bo'yicha komissiya"
+    },
+    {
+      "question": "Kredit-modul tizimida fanning o'quv-uslubiy majmuasi tarkibiga kiruvchi elementni ko'rsating.",
+      "options": [
+        "dars jadvallari",
+        "o'qituvchi rahbarligidagi talabaning mustaqil ishlari",
+        "tanlov fanlari katalogi",
+        "talabaning axborot paketi"
+      ],
+      "correct": "o'qituvchi rahbarligidagi talabaning mustaqil ishlari"
+    },
+    {
+      "question": "Kredit-modul tizimida har bir talaba nima bilan ta'minlanishi kerak?",
+      "options": [
+        "murabbiyning ish rejasi",
+        "kafedraning ish rejasi",
+        "ma'lumotnoma-ko'rsatkich",
+        "talabaning shaxsiy ish rejasi"
+      ],
+      "correct": "ma'lumotnoma-ko'rsatkich"
+    },
+    {
+      "question": "Kredit-modul tizimida ishchi o'quv reja nima uchun tuziladi?",
+      "options": [
+        "talabaning o'quv davrida o'qiydigan barcha fanlarini aniq belgilab qo'yish uchun",
+        "dars jadvalini tuzish va fanlarni tanlovga taqdim qilish uchun",
+        "dars jadvalini tuzish va o'quv yuklamalarini hisoblash uchun",
+        "alohida har bir kafedra tomonidan olib boriladigan o'quv yuklamalarini belgilab qo'yish uchun"
+      ],
+      "correct": "dars jadvalini tuzish va o'quv yuklamalarini hisoblash uchun"
+    },
+    {
+      "question": "Kredit-modul tizimida ishchi o'quv rejalar qanday ishlab chiqiladi?",
+      "options": [
+        "namunaviy o'quv rejalariga tanlov fanlarini qo'shish orqali",
+        "eng ko'p talabalar kontingentining shaxsiy o'quv rejalari asosida",
+        "talabaning shaxsiy o'quv rejasi asosida",
+        "namunaviy o'quv reja asosida turdosh OTM lar bilan kelishilgan holda"
+      ],
+      "correct": "eng ko'p talabalar kontingentining shaxsiy o'quv rejalari asosida"
+    },
+    {
+      "question": "Kredit-modul tizimida kafedra o'quv yuklamasida keltiriladigan bandlarni ko'rsating.",
+      "options": [
+        "talabalar familiyasi, mashg'ulot mavzulari, baholar",
+        "o'quv auditoriyasi, fan o'qituvchisi",
+        "o'quv ishlari, ilmiy-uslubiy, ilmiy-tadqiqot va \"ustoz-shogird\" yuklamalari",
+        "fan nomi, kodi, mashg'ulotlar hajmi"
+      ],
+      "correct": "fan nomi, kodi, mashg'ulotlar hajmi"
+    },
+    {
+      "question": "Kredit-modul tizimida lektorning vazifasi nimadan iborat?",
+      "options": [
+        "leksiyalarni o'qish hamda talabalarda bilim, ko'nikma va malakalar hosil qilish",
+        "nazariy bilim berish, talabalarga mustaqil ish topshiriqlari berish va ularni baholash",
+        "nazariy bilim berish, talabaning mustaqil ta'limi uchun material tayyorlash",
+        "ma'ruzalarni auditoriyada o'tish, talabalarning fan bo'yicha ma'ruza konspektlari to'liq bo'lishini ta'minlash, yakuniy nazorat olish"
+      ],
+      "correct": "nazariy bilim berish, talabaning mustaqil ta'limi uchun material tayyorlash"
+    },
+    {
+      "question": "Kredit-modul tizimida o'quv rejalari necha marta tuziladi?",
+      "options": [
+        "1 marta, butun o'quv davri uchun",
+        "4 marta, har bir o'quv yili uchun",
+        "8 marta, har bir o'quv semestri uchun",
+        "2 marta, 1-2 kurs va 3-4 kurs uchun"
+      ],
+      "correct": "4 marta, har bir o'quv yili uchun"
+    },
+    {
+      "question": "Kredit-modul tizimida o'quv yili bo'yicha barcha fanlarni ijobiy bahoga topshirgan talaba ...",
+      "options": [
+        "GPA balidan past ball olgan bo'lsa ham keyingi kursga o'tkaziladi",
+        "GPA balidan yuqori ball olgan bo'lsa keyingi kursga o'tkaziladi",
+        "kamida 3 ta fandan \"yaxshi\" baho olgan bo'lsa keyingi kursga o'tkaziladi",
+        "kamida 1 ta fandan \"a'lo\" va 2 ta fandan \"yaxshi\" baho olgan bo'lsa keyingi kursga o'tkaziladi"
+      ],
+      "correct": "GPA balidan yuqori ball olgan bo'lsa keyingi kursga o'tkaziladi"
+    },
+    {
+      "question": "Kredit-modul tizimida pedagogik yuklama turlari va me'yorlari nimaga qaratilgan bo'lishi zarur?",
+      "options": [
+        "ilmiy daraja va unvonlar oshib borishi bilan yuklamalarni kamaytirishga",
+        "o'quv yuklamalarini xronometraj asosida aniq belgilashga",
+        "ta'lim sifatini va OTM reytingini oshirishga",
+        "pedagogik yuklamani faqat o'quv yuklamalari asosida belgilashga"
+      ],
+      "correct": "ta'lim sifatini va OTM reytingini oshirishga"
+    },
+    {
+      "question": "Kredit-modul tizimida prerekvizitlar va postrekvizitlar tizimini shakllantirish bo'yicha asosiy yondashuvlarni ishlab chiqadigan komissiya turini ko'rsating.",
+      "options": [
+        "ishchi dasturlar bo'yicha komissiya",
+        "o'quv rejalari bo'yicha komissiya",
+        "TMI sifatini nazorat qilish bo'yicha komissiya",
+        "o'qituvchilar faoliyatini nazorat qilish bo'yicha komissiya"
+      ],
+      "correct": "o'quv rejalari bo'yicha komissiya"
+    },
+    {
+      "question": "Kredit-modul tizimida qaysi faoliyat turi pedagogning o'quv yuklamasiga kiritiladi?",
+      "options": [
+        "talabalarning ilmiy-tadqiqot ishlari",
+        "talabaning mustaqil ta'limi",
+        "talabalarning o'quv-izlanish ishlari",
+        "o'qituvchi rahbarligidagi talabaning mustaqil ishi"
+      ],
+      "correct": "o'qituvchi rahbarligidagi talabaning mustaqil ishi"
+    },
+    {
+      "question": "Kredit-modul tizimida qaysi faoliyat turi talabaning faqat o'zi tomonidan amalga oshiriladi?",
+      "options": [
+        "talabalarning ilmiy-tadqiqot ishlari",
+        "talabalarning o'quv-izlanish ishlari",
+        "o'qituvchi rahbarligidagi talabaning mustaqil ishi",
+        "talabaning mustaqil ta'limi"
+      ],
+      "correct": "talabaning mustaqil ta'limi"
+    },
+    {
+      "question": "Kredit-modul tizimida talaba qanday akademik guruhda o'qiydi?",
+      "options": [
+        "butun o'qish davri davomida bitta akademik guruhda",
+        "o'z tanlovi asosida har bir semestrda boshqa akademik guruhda",
+        "1-2 kurslarda boshqa, 3-4 kurslarda boshqa akademik guruhda",
+        "talaba xohlagan paytda guruhini o'zgartirishi mumkin"
+      ],
+      "correct": "o'z tanlovi asosida har bir semestrda boshqa akademik guruhda"
+    },
+    {
+      "question": "Kredit-modul tizimida talabaga taqdim etiladigan ma'lumotnoma-ko'rsatkich tarkibiga kiruvchi elementni ko'rsating.",
+      "options": [
+        "sillabuslar, o'quv adabiyotlari nusxalari",
+        "yo'nalishning DTS, MT, o'quv rejalari",
+        "OTM haqida ma'lumot, talabalarning yashash tarzi, ma'muriy tadbirlar",
+        "o'tkaziladigan ma'naviy-ma'rifiy tadbirlar rejasi"
+      ],
+      "correct": "OTM haqida ma'lumot, talabalarning yashash tarzi, ma'muriy tadbirlar"
+    },
+    {
+      "question": "Kredit-modul tizimida talabalarning mustaqil ishini baholash me'yorlarini ishlab chiqadigan komissiya turini ko'rsating.",
+      "options": [
+        "o'qituvchilar faoliyatini nazorat qilish bo'yicha komissiya",
+        "o'quv rejalari bo'yicha komissiya",
+        "ishchi dasturlar bo'yicha komissiya",
+        "TMI sifatini nazorat qilish bo'yicha komissiya"
+      ],
+      "correct": "TMI sifatini nazorat qilish bo'yicha komissiya"
+    },
+    {
+      "question": "Kredit-modul tizimida talabaning axborot paketi tarkibiga nimalar kiradi?",
+      "options": [
+        "yo'nalishning DTS, MT, o'quv rejalari",
+        "ma'lumotnoma-ko'rsatkich, talabaning o'quv-uslubiy majmuasi",
+        "sillabuslar, o'quv adabiyotlari nusxalari",
+        "akademik kalendar, o'tkaziladigan tadbirlar rejasi"
+      ],
+      "correct": "ma'lumotnoma-ko'rsatkich, talabaning o'quv-uslubiy majmuasi"
+    },
+    {
+      "question": "Kredit-modul tizimida talabaning fan o'qituvchisini tanlashi qanday amalga oshiriladi?",
+      "options": [
+        "o'qituvchining ilmiy darajasi va unvoniga qarab",
+        "semestr davomida xohlagan paytda va talabaning xohishiga ko'ra",
+        "semestrning dastlabki haftasidagi o'qituvchilarning ochiq darslari va o'quv-me'yoriy hujjatlari orqali",
+        "talabaning reytingi kamayib borishi tartibida hamda o'qituvchining tasdiqlangan shaxsiy ish rejasi va qat'iy belgilangan kafedra o'quv yuklamasi asosida"
+      ],
+      "correct": "semestrning dastlabki haftasidagi o'qituvchilarning ochiq darslari va o'quv-me'yoriy hujjatlari orqali"
+    },
+    {
+      "question": "Kredit-modul tizimida talabaning o'quv-uslubiy majmuasi tarkibiga kiruvchi elementni ko'rsating.",
+      "options": [
+        "akademik taqvim",
+        "mustaqil ish bo'yicha ko'rsatmalar",
+        "OTM haqida ma'lumotlar",
+        "kredit-modul tizimida o'qish tartibi"
+      ],
+      "correct": "mustaqil ish bo'yicha ko'rsatmalar"
+    },
+    {
+      "question": "Kredit-modul tizimida talabaning o'quv-uslubiy majmuasi tarkibiga kiruvchi elementni ko'rsating.",
+      "options": [
+        "OTM haqida ma'lumotlar",
+        "akademik taqvim",
+        "sillabuslar",
+        "kredit-modul tizimida o'qish tartibi"
+      ],
+      "correct": "sillabuslar"
+    },
+    {
+      "question": "Kredit-modul tizimida talabaning o'quv-uslubiy majmuasi tarkibiga kiruvchi elementni ko'rsating.",
+      "options": [
+        "akademik taqvim",
+        "talabaning shaxsiy o'quv rejasi",
+        "OTM haqida ma'lumotlar",
+        "kredit-modul tizimida o'qish tartibi"
+      ],
+      "correct": "talabaning shaxsiy o'quv rejasi"
+    },
+    {
+      "question": "Kredit-modul tizimida talabaning o'zlashtira olmagan fanini qayta o'qishga imkon beriladigan davrni ko'rsating.",
+      "options": [
+        "ta'til davri",
+        "kuzgi semestr",
+        "bahorgi semestr",
+        "yozgi semestr"
+      ],
+      "correct": "yozgi semestr"
+    },
+    {
+      "question": "Kredit-modul tizimida tyutorning vazifasi nimadan iborat?",
+      "options": [
+        "talabaning fanlarni o'zlashtirishiga, ilmiy ishlarni olib borishiga, ilmiy anjumanlarda ma'ruza qilishiga, maqola chop qilishiga yaqindan yordam ko'rsatish",
+        "amaliy va laboratoriya mashg'ulotlarini olib borish, kurs ishi va loyihalari, malakaviy amaliyotlar, ilmiy izlanishlariga rahbarlik qilish",
+        "talabaga o'quv trayektoriyasini tanlashiga akademik maslahatchilik qilish, tanlov fanlarini tanlashiga, ishga joylashishiga yordam ko'rsatish",
+        "amaliy turdagi darslarni o'tish, talabalarga topshiriqlar berish, ularni nazorat qilish va bajarilishiga erishish"
+      ],
+      "correct": "amaliy turdagi darslarni o'tish, talabalarga topshiriqlar berish, ularni nazorat qilish va bajarilishiga erishish"
+    },
+    {
+      "question": "Kredit-modul tizimida yakuniy nazorat qanday shakllarda o'tkaziladi?",
+      "options": [
+        "faqat yozma ish shaklida",
+        "yozma, og'zaki, test, portfolio, taqdimot va h.k.",
+        "faqat test shaklida",
+        "kurs ishi, kurs loyihasi, startap loyihasi, himoya va h.k."
+      ],
+      "correct": "yozma, og'zaki, test, portfolio, taqdimot va h.k."
+    },
+    {
+      "question": "Kreditlarning to'plash va o'tkazishning Britaniya tizimini ko'rsating.",
+      "options": ["USCS", "SATS", "ECTS", "UCTS"],
+      "correct": "SATS"
+    },
+    {
+      "question": "Magistraturada kechki va sirtqi ta'lim shakllari bo'yicha me'yoriy o'qish muddatlari kunduzgi shakldagidan ko'pi bilan qancha muddat farq qilishi mumkin?",
+      "options": ["2 yil", "6 oy", "1 yil", "1,5 yil"],
+      "correct": "6 oy"
+    },
+    {
+      "question": "Material tayyorlash, yangi shaklda ifodalash, imitatsiyalash, yasash, tuzish, qurish, dasturlash, yaratish, umumlashtirish, modifikatsiyalash, moslashtirish, rejalashtirish kabi amallar Blum taksonomiyasining qaysi kategoriyasiga tegishli?",
+      "options": ["bilish", "sintez", "tushunish", "amalda qo'llash"],
+      "correct": "sintez"
+    },
+    {
+      "question": "Modul so'zining lug'aviy ma'nosini toping.",
+      "options": [
+        "Inglizcha - qism, blok",
+        "Ruscha – yaxlit narsaning qismi",
+        "Lotincha - qism, blok",
+        "Fransuzcha - qism, blok"
+      ],
+      "correct": "Lotincha - qism, blok"
+    },
+    {
+      "question": "Muayyan soha uchun bakalavr tayyorlashda ta'lim sifatini saqlab qolgan holda muddatini 2 yilga qisqartirishga imkon beruvchi tadbirni ko'rsating.",
+      "options": [
+        "birinchi yil tayanch fanlarni, ikkinchi yil ixtisoslik fanlarini o'qitishni tashkil qilish",
+        "2 yillik bakalavriat tayanch ta'limi asosida keyingi 2 yilda ixtisoslik fanlarini o'qitishni tashkil qilish",
+        "o'rta maxsus ta'lim muassasalarida bakalavr tayyorlashni yo'lga qo'yish",
+        "2 yillik an'anaviy va 2 yillik masofaviy ta'limni joriy qilish"
+      ],
+      "correct": "2 yillik bakalavriat tayanch ta'limi asosida keyingi 2 yilda ixtisoslik fanlarini o'qitishni tashkil qilish"
+    },
+    {
+      "question": "Mustaqil ta'lim topshiriqlarining qancha qismi kichik guruhlarda hamkorlikda ishlashga mo'ljallangan bo'lishi kerak?",
+      "options": ["46143", "46113", "46054", "1/3"],
+      "correct": "1/3"
+    },
+    {
+      "question": "Namunaviy o'quv reja asosida ishlab chiqiladigan va ishchi o'quv rejani ishlab chiqish uchun asos bo'ladigan bandni ko'rsating.",
+      "options": [
+        "fan modullari",
+        "talabaning ishchi o'quv rejasi",
+        "tanlov fanlari katalogi",
+        "talabaning dars jadvali"
+      ],
+      "correct": "talabaning ishchi o'quv rejasi"
+    },
+    {
+      "question": "Namunaviy o'quv rejada ochilmagan fanlarning kodlari, prerekvizitlari, postrekvizitlari, kreditlari va qisqa mazmuni keltiriladigan materialni ko'rsating.",
+      "options": [
+        "sillabus",
+        "ishchi o'quv reja",
+        "tanlov fanlari katalogi",
+        "talabaning shaxsiy o'quv rejasi"
+      ],
+      "correct": "tanlov fanlari katalogi"
+    },
+    {
+      "question": "O'qituvchi rahbarligidagi talabaning mustaqil ishi (O'RTMI) elementini ko'rsating.",
+      "options": [
+        "FAQ (ko'p so'raladigan savollar) bazasi bilan ishlash",
+        "ilmiy tezis, maqola tayyorlash",
+        "o'rgatuvchi testlarni mashq qilish",
+        "forumda ishtirok etish"
+      ],
+      "correct": "ilmiy tezis, maqola tayyorlash"
+    },
+    {
+      "question": "O'qituvchi rahbarligidagi talabaning mustaqil ishi (O'RTMI) elementini ko'rsating.",
+      "options": [
+        "o'rgatuvchi testlarni mashq qilish",
+        "FAQ (ko'p so'raladigan savollar) bazasi bilan ishlash",
+        "malakaviy amaliyot hisobotini tayyorlash",
+        "forumda ishtirok etish"
+      ],
+      "correct": "malakaviy amaliyot hisobotini tayyorlash"
+    },
+    {
+      "question": "O'qituvchi rahbarligidagi talabaning mustaqil ishi (O'RTMI) elementini ko'rsating.",
+      "options": [
+        "o'rgatuvchi testlarni mashq qilish",
+        "FAQ (ko'p so'raladigan savollar) bazasi bilan ishlash",
+        "kurs ishi (loyihasi)ni tayyorlash",
+        "forumda ishtirok etish"
+      ],
+      "correct": "kurs ishi (loyihasi)ni tayyorlash"
+    },
+    {
+      "question": "O'qituvchi rahbarligidagi talabaning mustaqil ishi (O'RTMI) elementini ko'rsating.",
+      "options": [
+        "o'rgatuvchi testlarni mashq qilish",
+        "FAQ (ko'p so'raladigan savollar) bazasi bilan ishlash",
+        "hisob-chizma ishini tayyorlash",
+        "forumda ishtirok etish"
+      ],
+      "correct": "hisob-chizma ishini tayyorlash"
+    },
+    {
+      "question": "O'qituvchi rahbarligidagi talabaning mustaqil ishi (O'RTMI) elementini ko'rsating.",
+      "options": [
+        "FAQ (ko'p so'raladigan savollar) bazasi bilan ishlash",
+        "taqdimot tayyorlash",
+        "o'rgatuvchi testlarni mashq qilish",
+        "forumda ishtirok etish"
+      ],
+      "correct": "taqdimot tayyorlash"
+    },
+    {
+      "question": "O'qituvchi va talabaning shaxsiy dars jadvalida keltiriladigan bandni ko'rsating.",
+      "options": [
+        "ma'naviy-ma'rifiy tadbirlar",
+        "murabbiylik soatlari",
+        "O'RTMI",
+        "TMT"
+      ],
+      "correct": "O'RTMI"
+    },
+    {
+      "question": "O'quv davridagi asosiy o'quv faoliyatlari va ularning muddatlari ko'rsatilgan hujjatni ko'rsating.",
+      "options": [
+        "sillabus",
+        "akademik taqvim",
+        "talabaning shaxsiy o'quv rejasi",
+        "fanning taqvimiy rejasi"
+      ],
+      "correct": "akademik taqvim"
+    },
+    {
+      "question": "O'quv jarayonini tashkil qilish hujjatlarini ko'rsating.",
+      "options": [
+        "sillabuslar, o'quv adabiyotlari nusxalari",
+        "yo'nalishning DTS, MT, o'quv rejalari",
+        "akademik guruh jurnali, o'qituvchining shaxsiy ish rejasi",
+        "o'tkaziladigan ma'naviy-ma'rifiy tadbirlar rejasi"
+      ],
+      "correct": "akademik guruh jurnali, o'qituvchining shaxsiy ish rejasi"
+    },
+    {
+      "question": "O'quv jarayonini tashkil qilish hujjatlarini ko'rsating.",
+      "options": [
+        "o'tkaziladigan ma'naviy-ma'rifiy tadbirlar rejasi",
+        "yo'nalishning DTS, MT, o'quv rejalari",
+        "sillabuslar, o'quv adabiyotlari nusxalari",
+        "kafedra o'quv yuklamasi, dars jadvallari"
+      ],
+      "correct": "kafedra o'quv yuklamasi, dars jadvallari"
+    },
+    {
+      "question": "O'zR OO'MTV ning 09.08.2018 y. dagi 19-2018-sonli buyrug'iga ilova qilingan \"Oliy ta'lim muassasalarida talabalar bilimini nazorat qilish baholash tizimi to'g'risidagi nizom\" ilovasiga ko'ra fanni necha foizga o'zlashtirgan talabaga \"a'lo\" baho qo'yiladi?",
+      "options": ["86...100 %", "91...100 %", "90...100 %", "85...100 %"],
+      "correct": "90...100 %"
+    },
+    {
+      "question": "O'zR OO'MTV ning 09.08.2018 y. dagi 19-2018-sonli buyrug'iga ilova qilingan \"Oliy ta'lim muassasalarida talabalar bilimini nazorat qilish baholash tizimi to'g'risidagi nizom\" ilovasiga ko'ra fanni necha foizga o'zlashtirgan talabaga \"qoniqarli\" baho qo'yiladi?",
+      "options": ["55...70,9 %", "60...70,9 %", "55...69,9 %", "60...69,9 %"],
+      "correct": "60...69,9 %"
+    },
+    {
+      "question": "O'zR OO'MTV ning 09.08.2018 y. dagi 19-2018-sonli buyrug'iga ilova qilingan \"Oliy ta'lim muassasalarida talabalar bilimini nazorat qilish baholash tizimi to'g'risidagi nizom\" ilovasiga ko'ra fanni necha foizga o'zlashtirgan talabaga \"yaxshi\" baho qo'yiladi?",
+      "options": ["70...86,9 %", "71...85,9 %", "71...89,9 %", "70...89,9 %"],
+      "correct": "70...89,9 %"
+    },
+    {
+      "question": "Oliy ta'lim muassasasida o'rtacha o'quv yuklamasi qanday aniqlanadi?",
+      "options": [
+        "kafedra mudiriga - 600, professorga - 700, dotsentga - 800, katta o'qituvchiga - 900, assistentga - 950 soat hisobidan",
+        "OTM bo'yicha jami o'quv yuklamasini pedagoglar shtati soniga bo'lish orqali aniqlanadi",
+        "o'rtacha o'quv yuklama 900-950 soat chegarasida belgilanadi",
+        "kafedra o'quv yuklamasini kafedra shtatlariga bo'lish orqali aniqlanadi"
+      ],
+      "correct": "OTM bo'yicha jami o'quv yuklamasini pedagoglar shtati soniga bo'lish orqali aniqlanadi"
+    },
+    {
+      "question": "Oliy ta'lim muassasalarida ta'lim mazmuni nechta tarkibiy qismdan iborat bo'lishi aniqlang.",
+      "options": ["3", "4", "1", "2"],
+      "correct": "4"
+    },
+    {
+      "question": "O'zbekiston Respublikasi Vazirlar Mahkamasining qaysi Qarorida Xalqaro baholash dasturi asosida tadqiqotlar o'tkazish belgilangan?",
+      "options": [
+        "O'zbekiston Respublikasi Vazirlar Mahkamasining 2017 yil 6 apreldagi 187-sonli qarori",
+        "8-dekabr 2018-yilda qabul qilingan 998-sonli «Xalq ta'limi tizimida ta'lim sifatini baholash sohasidagi xalqaro tadqiqotlarni tashkil etish chora-tadbirlari to'g'risida”gi Qaror",
+        "8-dekabr 2018-yilda qabul qilingan 997-sonli «Xalq ta'limi tizimida ta'lim sifatini baholash sohasidagi xalqaro tadqiqotlarni tashkil etish chora-tadbirlari to'g'risida”gi Qaror",
+        "O'zbekiston Respublikasi oliy ta'lim tizimini 2030-yilgacha rivojlantirish konsepsiyasi"
+      ],
+      "correct": "8-dekabr 2018-yilda qabul qilingan 997-sonli «Xalq ta'limi tizimida ta'lim sifatini baholash sohasidagi xalqaro tadqiqotlarni tashkil etish chora-tadbirlari to'g'risida”gi Qaror"
+    },
+    {
+      "question": "Pedagogning auditoriya o'quv yuklamalarini kamaytirishga imkon beradigan tadbirni ko'rsating.",
+      "options": [
+        "ixtisoslik fanlarini quyi kurslardan boshlab rejalashtirish",
+        "har bir tanlov fani uchun alohida yuklama rejalashtirish",
+        "talabaning mustaqil ish hajmini oshirish",
+        "nazariy darslarni qisqartirib amaliy dars soatlarini oshirish"
+      ],
+      "correct": "talabaning mustaqil ish hajmini oshirish"
+    },
+    {
+      "question": "Ta'lim sohalari bo'yicha ishlab chiqiladigan me'yoriy hujjatni ko'rsating.",
+      "options": [
+        "Fan dasturlari",
+        "Malaka talablari",
+        "O'quv rejalari",
+        "Davlat ta'lim standarti"
+      ],
+      "correct": "Davlat ta'lim standarti"
+    },
+    {
+      "question": "Ta'lim yo'nalishi va mutaxassisligi bo'yicha ishlab chiqiladigan me'yoriy hujjatni ko'rsating.",
+      "options": [
+        "Davlat ta'lim talabi",
+        "Davlat ta'lim standarti",
+        "O'quv rejasi",
+        "Oliy ta'lim yo'nalishlari va mutaxassisliklari klassifikatori"
+      ],
+      "correct": "O'quv rejasi"
+    },
+    {
+      "question": "Ta'lim yo'nalishi va mutaxassisligi bo'yicha ishlab chiqiladigan me'yoriy hujjatni ko'rsating.",
+      "options": [
+        "Davlat ta'lim standarti",
+        "Malaka talablari",
+        "Davlat ta'lim talabi",
+        "Oliy ta'lim yo'nalishlari va mutaxassisliklari klassifikatori"
+      ],
+      "correct": "Malaka talablari"
+    },
+    {
+      "question": "Talabalar bilimi va malakasini nazorat va baholash qilish tamoyillaridan birini toping(1)",
+      "options": [
+        "Fundamentallik",
+        "Ilmiylik",
+        "Muntazamlilik",
+        "Ko'rgazmalilik"
+      ],
+      "correct": "Muntazamlilik"
+    },
+    {
+      "question": "Talabalar bilimi va malakasini nazorat va baholash qilish tamoyillaridan birini toping(2)",
+      "options": [
+        "Beg'arazlilik",
+        "Ko'rgazmalilik",
+        "Ilmiylik",
+        "Fundamentallik"
+      ],
+      "correct": "Beg'arazlilik"
+    },
+    {
+      "question": "Talabalar bilimi va malakasini nazorat va baholash qilish tamoyillaridan birini toping(3)",
+      "options": [
+        "Keng qamrovlilik",
+        "Ilmiylik",
+        "Ko'rgazmalilik",
+        "Fundamentallik"
+      ],
+      "correct": "Keng qamrovlilik"
+    },
+    {
+      "question": "Talabalar bilimi va malakasini nazorat va baholash qilish tamoyillaridan birini toping(4)",
+      "options": [
+        "Individuallilik",
+        "Ko'rgazmalilik",
+        "Ilmiylik",
+        "Fundamentallik"
+      ],
+      "correct": "Individuallilik"
+    },
+    {
+      "question": "Talabalar bilimi va malakasini nazorat va baholash qilish tamoyillaridan birini toping(5)",
+      "options": [
+        "Fundamentallik",
+        "Tabaqalashgan yondashuv",
+        "Ilmiylik",
+        "Ko'rgazmalilik"
+      ],
+      "correct": "Tabaqalashgan yondashuv"
+    },
+    {
+      "question": "Talabalar bilimi va malakasini nazorat va baholash qilish tamoyillaridan birini toping(6)",
+      "options": [
+        "Ilmiylik",
+        "Fundamentallik",
+        "Ko'rgazmalilik",
+        "Talabning yagonaligi"
+      ],
+      "correct": "Talabning yagonaligi"
+    },
+    {
+      "question": "Talabalar bilimi va malakasini nazorat va baholash qilish tamoyillaridan birini toping(7)",
+      "options": [
+        "Ko'rgazmalilik",
+        "Fundamentallik",
+        "1.Muntazamlilik. 2.Beg'arazlilik. 3.Keng qamrovlilik 4. Individuallilik 5. Tabaqalashgan yondashuv. 6. Talabning yagonaligi 7. Maqsadga yo'naltirilgan 8. Ishonchlilik(validlik)",
+        "Ilmiylik"
+      ],
+      "correct": "1.Muntazamlilik. 2.Beg'arazlilik. 3.Keng qamrovlilik 4. Individuallilik 5. Tabaqalashgan yondashuv. 6. Talabning yagonaligi 7. Maqsadga yo'naltirilgan 8. Ishonchlilik(validlik)"
+    },
+    {
+      "question": "Talabalar bilimi va malakasini nazorat va baholash qilish tamoyillaridan birini toping(8)",
+      "options": [
+        "Ko'rgazmalilik",
+        "1.Muntazamlilik. 2.Beg'arazlilik. 3.Keng qamrovlilik 4. Individuallilik 5. Tabaqalashgan yondashuv. 6. Talabning yagonaligi 7. Maqsadga yo'naltirilgan 8. Ishonchlilik(validlik)",
+        "Ilmiylik",
+        "Fundamentallik"
+      ],
+      "correct": "1.Muntazamlilik. 2.Beg'arazlilik. 3.Keng qamrovlilik 4. Individuallilik 5. Tabaqalashgan yondashuv. 6. Talabning yagonaligi 7. Maqsadga yo'naltirilgan 8. Ishonchlilik(validlik)"
+    },
+    {
+      "question": "Talabalar tomonidan o'quv maqsadlariga erishish natijalariga asosan?",
+      "options": [
+        "Amaliy, laboratoriya mashg'ulotlarining va mustaqil talimning samaradorlik koeffitsenti aniqlanadi",
+        "Amaliy, seminar mashg'ulotlarining va mustaqil talimning samaradorlik koeffitsenti aniqlanadi",
+        "Amaliy, laboratoriya va seminar mashg'ulotlarining samaradorlik koeffitsenti aniqlanadi",
+        "Auditoriya mashg'ulotlarining samaradorlik koeffitsenti aniqlanadi"
+      ],
+      "correct": "Amaliy, laboratoriya va seminar mashg'ulotlarining samaradorlik koeffitsenti aniqlanadi"
+    },
+    {
+      "question": "Talabalarning barcha akademik masalalarini hal qilishga qaratilgan bo'limni ko'rsating.",
+      "options": [
+        "o'quv-uslubiy bo'lim",
+        "dekanat",
+        "registrator ofisi",
+        "kadrlar bo'limi"
+      ],
+      "correct": "registrator ofisi"
+    },
+    {
+      "question": "Talabalarning bilimini nazorat qilish va baholash qaysi nazorat turlarida amalga oshiriladi?",
+      "options": [
+        "Adaptiv nazorat, oraliq, yakuniy",
+        "Joriy, oraliq, yakuniy nazorat",
+        "Summativ baholash va Reyting tizimi",
+        "Dastlabki, formativ, adaptiv nazorat"
+      ],
+      "correct": "Joriy, oraliq, yakuniy nazorat"
+    },
+    {
+      "question": "Talabalarning fanlarni tanlashi qanday amalga oshiriladi?",
+      "options": [
+        "talabalarning o'zaro maslahatlashishi, guruhlarga birlashishi va dekan muovini targ'iboti asosida",
+        "Yoshlar ittifoqi boshlang'ich tashkiloti targ'iboti asosida",
+        "talabaning kasbiy shakllanishidan kelib chiqib dekan va edvayzerlar maslahatchiligida",
+        "talabaning qiziqishidan kelib chiqib xohlagan fanni tanlashi asosida"
+      ],
+      "correct": "talabaning kasbiy shakllanishidan kelib chiqib dekan va edvayzerlar maslahatchiligida"
+    },
+    {
+      "question": "Talabaning mustaqil ta'limi (TMT) elementini ko'rsating.",
+      "options": [
+        "ilmiy tezis, maqola tayyorlash",
+        "taqdimot tayyorlash",
+        "kurs ishi (loyihasi)ni tayyorlash",
+        "fan bo'yicha forumda ishtirok etish"
+      ],
+      "correct": "fan bo'yicha forumda ishtirok etish"
+    },
+    {
+      "question": "Talabaning mustaqil ta'limi (TMT) elementini ko'rsating.",
+      "options": [
+        "taqdimot tayyorlash",
+        "o'rgatuvchi testlarni mashq qilish",
+        "kurs ishi (loyihasi)ni tayyorlash",
+        "ilmiy tezis, maqola tayyorlash"
+      ],
+      "correct": "o'rgatuvchi testlarni mashq qilish"
+    },
+    {
+      "question": "Talabaning mustaqil ta'limi (TMT) elementini ko'rsating.",
+      "options": [
+        "taqdimot tayyorlash",
+        "FAQ (ko'p so'raladigan savollar) bazasi bilan ishlash",
+        "kurs ishi (loyihasi)ni tayyorlash",
+        "ilmiy tezis, maqola tayyorlash"
+      ],
+      "correct": "FAQ (ko'p so'raladigan savollar) bazasi bilan ishlash"
+    },
+    {
+      "question": "Talabaning shaxsiy o'quv rejasini ishlab chiqish uchun majburiy bo'lmagan, lekin o'zlashtirish tavsiya qilinadigan bandni ko'rsating.",
+      "options": [
+        "qo'shimcha fanlar",
+        "fan modullari",
+        "tanlov fanlari",
+        "majburiy fanlar"
+      ],
+      "correct": "tanlov fanlari"
+    },
+    {
+      "question": "TALIS –tadqiqotining asosiy vazifalaridan birini toping(1)",
+      "options": [
+        "O'qish va matnni tushunish savodxonlikni orttirish.",
+        "Tabiiy savodxonlikni orttirish",
+        "Matematik savodxonlikni orttirish.",
+        "Pedagogning ijtimoiy mavqeyini oshirish"
+      ],
+      "correct": "Pedagogning ijtimoiy mavqeyini oshirish"
+    },
+    {
+      "question": "TALIS –tadqiqotining asosiy vazifalaridan birini toping(2)",
+      "options": [
+        "Pedagogika mutaxassisligi uchun iqtidorli yoshlarni tanlash",
+        "Matematik savodxonlikni orttirish.",
+        "O'qish va matnni tushunish savodxonlikni orttirish.",
+        "Tabiiy savodxonlikni orttirish"
+      ],
+      "correct": "Pedagogika mutaxassisligi uchun iqtidorli yoshlarni tanlash"
+    },
+    {
+      "question": "TALIS –tadqiqotining asosiy vazifalaridan birini toping(3)",
+      "options": [
+        "Tabiiy savodxonlikni orttirish",
+        "Matematik savodxonlikni orttirish.",
+        "O'qish va matnni tushunish savodxonlikni orttirish.",
+        "Moderator o'qituvchilarni tanlash"
+      ],
+      "correct": "Moderator o'qituvchilarni tanlash"
+    },
+    {
+      "question": "TALIS –tadqiqotining asosiy vazifalaridan birini toping(4)",
+      "options": [
+        "Matematik savodxonlikni orttirish.",
+        "Tabiiy savodxonlikni orttirish",
+        "O'qish va matnni tushunish savodxonlikni orttirish",
+        "O'qituvchining kasbiy tayyorgarligini takomillashtirish"
+      ],
+      "correct": "O'qituvchining kasbiy tayyorgarligini takomillashtirish"
+    },
+    {
+      "question": "Tarbiyalash qaysi nazorat tuzilmasi tarkibiga kiradi?",
+      "options": [
+        "Nazorat turlari",
+        "Nazorat shakllari",
+        "Baholashning didaktik maqsadi",
+        "Nazorat tamoyillari"
+      ],
+      "correct": "Baholashning didaktik maqsadi"
+    },
+    {
+      "question": "Tasdiqlash, nazorat qilish, bashoratlash, tanqid qilish, himoya qilish, yoqlash, taqriz berish, tavsiya qilish, isbotlash kabi amallar Blum taksonomiyasining qaysi kategoriyasiga tegishli?",
+      "options": ["sintez", "bilish", "tushunish", "baholash"],
+      "correct": "baholash"
+    },
+    {
+      "question": "Tashxis – bu?",
+      "options": [
+        "bu didaktik jarayon, ya'ni talabalarning kasbiy tayyorgarlik sifatini aniqlash jarayoniga ta'sir etadigan omillarni aniqlash va tizimlash, ularning natijalarini tahlil qilish sanaladi",
+        "Sifatli ta'lim ko'rsatkichi dinamikasi",
+        "Strategiya va tendensiyalarni aniqlash",
+        "Talabalarning kasbiy tayyorgarlik sifatini aniqlash monitoringi"
+      ],
+      "correct": "bu didaktik jarayon, ya'ni talabalarning kasbiy tayyorgarlik sifatini aniqlash jarayoniga ta'sir etadigan omillarni aniqlash va tizimlash, ularning natijalarini tahlil qilish sanaladi"
+    },
+    {
+      "question": "Ta'lim tizimi oldidagi muhim funksiyalaridan biri bu-?",
+      "options": [
+        "o'sib kelayotgan yosh avlodga ta'lim, tarbiya berishning yangi va samarali usullarini yaratish, talabalarning bilim darajalariga bo'lgan talabni ko'tarish, o'qitishning rejalashtirilgan natijalariga erishish hisoblanadi",
+        "ta'lim-tarbiya jarayoniga individuallashtirish tamoyillarini tatbiq etish, davlat ta'lim standartlarida ko'zda tutilgan kompetensiyalarni rivojlantirish",
+        "talabalarning bilim olishga qiziqishlarini orttirish, mustaqil va mantiqiy fikrlashga o'rgatish",
+        "ta'lim-tarbiya jarayoniga individuallashtirish tamoyillarini tatbiq etish, davlat ta'lim standartlarida ko'zda tutilgan kompetensiyalarni rivojlantirish"
+      ],
+      "correct": "o'sib kelayotgan yosh avlodga ta'lim, tarbiya berishning yangi va samarali usullarini yaratish, talabalarning bilim darajalariga bo'lgan talabni ko'tarish, o'qitishning rejalashtirilgan natijalariga erishish hisoblanadi"
+    },
+    {
+      "question": "Test topshiriqlarining ta'limiy funksiyasi berilgan javobni toping.",
+      "options": [
+        "egallangan bilim, ko'nikma va malakalarni mustahkamlash, rivojlantirish, erishilgan natijalarda o'zining ulushi muhim o'rin tutishini e'tiborga olgan shaxs va kelgusi faoliyatidagi ma'suliyatini anglagan holda o'z-o'zini rivojlantirishga undaydi",
+        "Barkamollikka zamin tayyorlaydigan sifatlar: iroda, ongli intizom, muayyan o'quv muammo- larini hal etishga safarbarlik, chidamlilik, sabr-toqat, yutuqlarga erishish uchun bilimi va kuchini sarf etishi orqali shaxs sifatida rivojlanishiga imkoniyat yaratadi",
+        "O'zlashtirilgan bilim, ko'nikma va malakalardagi tipik kamchiliklarni aniqlash barobarida, talabalarni o'z bilimlarini orttirish maqsadida muntazam, tizimli fan asoslarini o'rganishga undaydi.",
+        "o'zlashtirgan bilim, ko'nikma va malakalardagi tipik kamchiliklarni aniqlash, iroda, ongli intizomni vujudga keltirish, shaxs va kelgusi faoliyatidagi ma'suliyatini anglagan bilimlarni orttirishga undaydi"
+      ],
+      "correct": "egallangan bilim, ko'nikma va malakalarni mustahkamlash, rivojlantirish, erishilgan natijalarda o'zining ulushi muhim o'rin tutishini e'tiborga olgan shaxs va kelgusi faoliyatidagi ma'suliyatini anglagan holda o'z-o'zini rivojlantirishga undaydi"
+    },
+    {
+      "question": "Umumta'lim maktablari pedagogik kadrlari bilan o'tkaziladigan Xalqaro baholash dasturini toping.",
+      "options": [
+        "PISA",
+        "TALIS",
+        "TIMMS",
+        "PROBLEM SOLVING AND FINANCIAL LITERACY"
+      ],
+      "correct": "TALIS"
+    },
+    {
+      "question": "Universitet kreditlarini o'tkazishning Osiyo - Tinch okeani tizimini ko'rsating.",
+      "options": ["ECTS", "SATS", "UCTS", "USCS"],
+      "correct": "UCTS"
+    },
+    {
+      "question": "Xalqaro baholash dasturi TALIS (Teaching and Learning International Survey) qaysi tashkilot tomonidan ta'sis etilganligini toping",
+      "options": [
+        "Xalq ta'limi vazirligi",
+        "Xalqaro milliy baholash markazi",
+        "O'zR Vazirlar Mahkamasi",
+        "Xalqaro hamkorlik va rivojlanish tashkiloti"
+      ],
+      "correct": "Xalqaro hamkorlik va rivojlanish tashkiloti"
+    },
+    {
+      "question": "Xalqaro baholash dasturidan birini toping",
+      "options": [
+        "TALIS",
+        "YuNISEF",
+        "YuNESKO",
+        "PROBLEM SOLVING AND FINANCIAL LITERACY"
+      ],
+      "correct": "TALIS"
+    },
+    {
+      "question": "Xalqaro baholash dasturidan birini toping(2)",
+      "options": ["PISA, PIRLS, TALIS", "UTC", "USTC", "UKTC"],
+      "correct": "PISA, PIRLS, TALIS"
+    },
+    {
+      "question": "Xos belgilarini aniqlash, darajalash, qiyoslash, sababini aniqlash, bog'liqligini aniqlash, ajratish, tartiblash, rejalashtirish, bo'laklash, chegarasini aniqlash, tarkibini aniqlash kabi amallar Blum taksonomiyasining qaysi kategoriyasiga tegishli?",
+      "options": ["bilish", "tahlil", "tushunish", "amalda qo'llash"],
+      "correct": "tahlil"
+    },
+    {
+      "question": "Yevropa kredit tizimini ko'rsating.",
+      "options": ["UCTS", "SATS", "USCS", "ECTS"],
+      "correct": "ECTS"
+    },
+    {
+      "question": "Yozgi (qishki) semestr kimning tashabbusi bilan tashkil qilinadi?",
+      "options": ["dekanning", "rektorning", "talabaning", "edvayzerning"],
+      "correct": "talabaning"
+    },
+    {
+      "question": "Yozgi semestr nima maqsadda tashkil etiladi?",
+      "options": [
+        "qo'shimcha fanlar blokidagi fanlarni o'qish",
+        "qo'shimcha to'lov asosida talabalarni kursdan-kursga imtihonsiz o'tkazish",
+        "talabaning o'qishini boshqa oliy ta'lim muassasasiga ko'chirish",
+        "qo'shimcha bilim olish, akademik qarzni topshirish, ta'lim dasturidagi farqlarni yo'qotish"
+      ],
+      "correct": "qo'shimcha bilim olish, akademik qarzni topshirish, ta'lim dasturidagi farqlarni yo'qotish"
+    }
+  ]
+}
