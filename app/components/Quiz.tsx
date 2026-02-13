@@ -250,9 +250,6 @@ function QuizContent({ test }: { test: TestConfig }) {
           <h1 className="text-xl font-bold leading-tight sm:text-2xl">
             {test.title}
           </h1>
-          <p className="text-sm text-gray-500 leading-snug sm:text-base">
-            {test.description}
-          </p>
         </div>
         <Link
           href="/"
