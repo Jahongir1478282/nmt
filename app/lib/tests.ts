@@ -20,6 +20,28 @@ export interface TestConfig {
   durationSeconds?: number;
 }
 
+// Small helpers to build mixed test pools without repeating logic elsewhere.
+const takeRandom = <T,>(source: T[], count: number): T[] => {
+  const pool = [...source];
+  for (let i = pool.length - 1; i > 0; i -= 1) {
+    const j = Math.floor(Math.random() * (i + 1));
+    [pool[i], pool[j]] = [pool[j], pool[i]];
+  }
+  return pool.slice(0, Math.max(0, Math.min(count, pool.length)));
+};
+
+const shuffle = <T,>(source: T[]): T[] => takeRandom(source, source.length);
+
+const cryptoPool = (cryptoQuestions as { questions: Question[] }).questions;
+const kmaPool = (kmaQuestions as { questions: Question[] }).questions;
+const zkuPool = (zkuQuestions as { questions: Question[] }).questions;
+
+const mixSpecialistQuestions: Question[] = shuffle([
+  ...takeRandom(cryptoPool, 20),
+  ...takeRandom(kmaPool, 20),
+  ...takeRandom(zkuPool, 20),
+]);
+
 export const tests = {
   general: {
     title: "Umumiy testlar",
@@ -45,6 +67,12 @@ export const tests = {
     description: "Zamonaviy kriptotahlil usullari savollari",
     questions: (zkuQuestions as { questions: Question[] }).questions,
     durationSeconds: 60 * 80,
+  },
+  mix: {
+    title: "Umumiy mutaxassisliklar",
+    description: "Har bir to'plamdan 20 tadan (KP, KMA, ZKU) — jami 60 savol",
+    questions: mixSpecialistQuestions,
+    durationSeconds: 60 * 90,
   },
   fintech: {
     title: "Muxassislik 3 (vaqtinchalik umumiy)",
