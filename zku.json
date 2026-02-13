@@ -1,0 +1,1324 @@
+{
+  "questions": [
+    {
+      "id": 1,
+      "question": "Kriptologiya nima va uning asosiy ilmiy yo'nalishlari qanday?",
+      "options": [
+        "Kriptologiya - ma'lumotlarni himoya qilish va tahlil qilishni o'rganadigan ilmiy soha",
+        "Kriptologiya - faqat shifrlash algoritmlarini ishlab chiqish",
+        "Kriptologiya - faqat ma'lumotlar uzatishni tahlil qilish",
+        "Kriptologiya - matematika va informatika bilan aloqasi yo'q"
+      ],
+      "correct_answer": "Kriptologiya - ma'lumotlarni himoya qilish va tahlil qilishni o'rganadigan ilmiy soha"
+    },
+    {
+      "id": 2,
+      "question": "Kriptografiya va kriptoanaliz o'rtasidagi asosiy farq nima?",
+      "options": [
+        "Kriptografiya ma'lumotlarni shifrlash, kriptoanaliz esa shifrni buzish bilan shug'ullanadi",
+        "Kriptografiya faqat hisobotlarni tayyorlash, kriptoanaliz esa algoritmlar yaratish bilan shug'ullanadi",
+        "Kriptografiya faqat asimmetrik tizimlarni o'rganadi, kriptoanaliz esa simmetrik tizimlarni",
+        "Kriptografiya faqat matematik tahlilni o'rganadi, kriptoanaliz esa statistika bilan ishlaydi"
+      ],
+      "correct_answer": "Kriptografiya ma'lumotlarni shifrlash, kriptoanaliz esa shifrni buzish bilan shug'ullanadi"
+    },
+    {
+      "id": 3,
+      "question": "Klassik shifrlar qanday xususiyatlarga ega?",
+      "options": [
+        "Oddiy algoritmlar bo'lib, har xil tahlil usullariga qarshi zaif",
+        "Ularning kriptoanalizini amalga oshirish juda qiyin",
+        "Shifrni buzish uchun faqat zamonaviy kompyuterlardan foydalanish mumkin",
+        "Ular faqat davlat darajasida qo'llaniladi"
+      ],
+      "correct_answer": "Oddiy algoritmlar bo'lib, har xil tahlil usullariga qarshi zaif"
+    },
+    {
+      "id": 4,
+      "question": "Klassik shifrlarning kriptoanalizining asosiy maqsadi nima?",
+      "options": [
+        "Shifrni buzish va asl matnni tiklash",
+        "Shifrning samaradorligini oshirish",
+        "Kriptografik algoritmlarni o'zgartirish",
+        "Ma'lumotlarni to'liq shifrlash"
+      ],
+      "correct_answer": "Shifrni buzish va asl matnni tiklash"
+    },
+    {
+      "id": 5,
+      "question": "Kriptografik algoritmlarning bardoshliligi nima?",
+      "options": [
+        "Algoritmning turli xil hujumlarga nisbatan chidamliligi",
+        "Algoritmning ishlash tezligi",
+        "Algoritmning samaradorligi",
+        "Algoritmning o'zgaruvchanligi"
+      ],
+      "correct_answer": "Algoritmning turli xil hujumlarga nisbatan chidamliligi"
+    },
+    {
+      "id": 6,
+      "question": "Hisoblash murakkabligi nazariyasi nima?",
+      "options": [
+        "Algoritmning bajarilishi uchun kerak bo'ladigan vaqt va xotira resurslari",
+        "Faqat algoritmning samaradorligini o'lchash",
+        "Yangi algoritmlar yaratishning murakkabligini o'rganish",
+        "Kriptografik algoritmlarning statistik tahlilini o'rganish"
+      ],
+      "correct_answer": "Algoritmning bajarilishi uchun kerak bo'ladigan vaqt va xotira resurslari"
+    },
+    {
+      "id": 7,
+      "question": "Kriptografik bardoshlilikni baholashda qanday omillar hisobga olinadi?",
+      "options": [
+        "Algoritmga nisbatan hujum usullari va tizimning chidamliligi",
+        "Faqat algoritmning tezligi",
+        "Shifrlashning murakkabligi",
+        "Faqat hisobotlarning aniqligi"
+      ],
+      "correct_answer": "Algoritmga nisbatan hujum usullari va tizimning chidamliligi"
+    },
+    {
+      "id": 8,
+      "question": "Kriptografik algoritmlar bardoshliligini baholash uchun qaysi mezonlardan foydalaniladi?",
+      "options": [
+        "Algoritmga qarshi hujumlarning samaradorligi",
+        "Faqat algoritmning tezligi",
+        "Algoritmning o'zgaruvchanligi",
+        "Algoritmning murakkabligi"
+      ],
+      "correct_answer": "Algoritmga qarshi hujumlarning samaradorligi"
+    },
+    {
+      "id": 9,
+      "question": "Simmetrik va asimmetrik kriptografik tizimlar o'rtasidagi asosiy farq nima?",
+      "options": [
+        "Simmetrik tizimda bitta kalit, asimmetrik tizimda ikkita kalit ishlatiladi",
+        "Simmetrik tizim faqat shifrlash uchun, asimmetrik tizim faqat deshifrlash uchun ishlatiladi",
+        "Simmetrik tizimda ikkita kalit, asimmetrik tizimda bitta kalit ishlatiladi",
+        "Ikki tizimning farqi yo'q"
+      ],
+      "correct_answer": "Simmetrik tizimda bitta kalit, asimmetrik tizimda ikkita kalit ishlatiladi"
+    },
+    {
+      "id": 10,
+      "question": "Klassik shifrlarni tahlil qilishda qanday sodda usullar ishlatiladi?",
+      "options": [
+        "Harf chastotasini tahlil qilish va brute-force usuli",
+        "Faqat statistik tahlil",
+        "Faqat matematik modellarni qo'llash",
+        "Faqat zamonaviy kompyuter resurslarini ishlatish"
+      ],
+      "correct_answer": "Harf chastotasini tahlil qilish va brute-force usuli"
+    },
+    {
+      "id": 11,
+      "question": "Simmetrik shifrda matnni qanday shifrlash mumkin?",
+      "options": [
+        "Shifrlash kaliti yordamida harflarni almashtirish",
+        "Matnni faqat raqamli kodga o'zgartirish",
+        "Shifrlash faqat blokli tizimlarda ishlatiladi",
+        "Shifrlash uchun harflarni alifbo tartibiga qarab almashtirish"
+      ],
+      "correct_answer": "Shifrlash kaliti yordamida harflarni almashtirish"
+    },
+    {
+      "id": 12,
+      "question": "Klassik shifrlarda matnning harf chastotasini qanday tahlil qilish mumkin?",
+      "options": [
+        "Eng ko'p uchraydigan harflarni aniqlash",
+        "Matnning uzunligini hisoblash",
+        "Harflarning o'zaro bog'liqligini tekshirish",
+        "Harflarni alifbo bo'yicha tartiblash"
+      ],
+      "correct_answer": "Eng ko'p uchraydigan harflarni aniqlash"
+    },
+    {
+      "id": 13,
+      "question": "Monoalfavitli shifrni buzishda qanday sodda usul ishlatiladi?",
+      "options": [
+        "Harf chastotasi tahlili",
+        "Blokni tahlil qilish",
+        "Matnni raqamli kodlarga aylantirish",
+        "Xesh funktsiyasini qo'llash"
+      ],
+      "correct_answer": "Harf chastotasi tahlili"
+    },
+    {
+      "id": 14,
+      "question": "Vijiner shifrini tahlil qilishda qaysi usul ishlatiladi?",
+      "options": [
+        "Kasiski testi",
+        "Harf chastotasi tahlili",
+        "Raqamli kodlarni ishlatish",
+        "Xesh funksiyalarni qo'llash"
+      ],
+      "correct_answer": "Kasiski testi"
+    },
+    {
+      "id": 15,
+      "question": "Bruteforce (qo'pol kuch) usulining afzalliklari qanday?",
+      "options": [
+        "Kichik o'lchamli kalitlarda shifrni tezda buzishga yordam beradi",
+        "Har bir harf uchun mumkin bo'lgan barcha variantlarni sinab ko'radi",
+        "Faqat katta kalitli tizimlarda ishlaydi",
+        "Zamonaviy texnologiyalarga asoslanadi"
+      ],
+      "correct_answer": "Kichik o'lchamli kalitlarda shifrni tezda buzishga yordam beradi"
+    },
+    {
+      "id": 16,
+      "question": "Simmetrik blokli shifrlarda differensial kriptoanalizni qanday qo'llash mumkin?",
+      "options": [
+        "Matnni tahlil qilish va farqlarni aniqlash",
+        "Raqamlarni o'zgartirish",
+        "Harflar orasidagi bog'liqlikni aniqlash",
+        "Xesh funktsiyasini tahlil qilish"
+      ],
+      "correct_answer": "Matnni tahlil qilish va farqlarni aniqlash"
+    },
+    {
+      "id": 17,
+      "question": "Pollard usulini qanday ishlatish mumkin?",
+      "options": [
+        "Xesh funktsiyasining kolliziyasini topish",
+        "Faktorlarni tahlil qilish",
+        "Diskret logarifmlashni yechish",
+        "Shifrlarni buzish uchun brute-force usulini qo'llash"
+      ],
+      "correct_answer": "Xesh funktsiyasining kolliziyasini topish"
+    },
+    {
+      "id": 18,
+      "question": "Diskret logarifmlash muammosini qanday yechish mumkin?",
+      "options": [
+        "Pollard rho usulini qo'llash orqali",
+        "Brute-force usulini ishlatish orqali",
+        "Xesh funksiyalarni tahlil qilish",
+        "Harf chastotasini tahlil qilish"
+      ],
+      "correct_answer": "Pollard rho usulini qo'llash orqali"
+    },
+    {
+      "id": 19,
+      "question": "Simmetrik kriptografiyada blokli tizimni tahlil qilishda quyidagilardan qaysi biri qo'llaniladi?",
+      "options": [
+        "Chiziqli kriptoanaliz",
+        "Faqat statistik tahlil qilish",
+        "Shifrlashni faqat algoritm bilan buzish",
+        "Xesh funksiyasini qo'llash"
+      ],
+      "correct_answer": "Chiziqli kriptoanaliz"
+    },
+    {
+      "id": 20,
+      "question": "Klassik shifrlarni buzish uchun qanday sodda tahlil usullari mavjud?",
+      "options": [
+        "Brute-force va harf chastotasini tahlil qilish",
+        "Diskret logarifmlashni qo'llash",
+        "Xesh funksiyalarni tahlil qilish",
+        "Algoritmni matematik modellar yordamida buzish"
+      ],
+      "correct_answer": "Brute-force va harf chastotasini tahlil qilish"
+    },
+    {
+      "id": 21,
+      "question": "Statistik usullar simmetrik blokli shifrlarni tahlil qilishda qanday rol o'ynaydi?",
+      "options": [
+        "Shifrlangan matnning statistik xususiyatlarini tahlil qilish orqali shifrni buzish",
+        "Harf chastotasini o'rganmasdan shifrni ochish",
+        "Faqat shifrlash jarayonini optimallashtirish",
+        "Ma'lumotni qayta shifrlash uchun ishlatiladi"
+      ],
+      "correct_answer": "Shifrlangan matnning statistik xususiyatlarini tahlil qilish orqali shifrni buzish"
+    },
+    {
+      "id": 22,
+      "question": "Differensial kriptotahlil qanday amalga oshiriladi?",
+      "options": [
+        "Shifrlangan matnlar orasidagi farqlarni tahlil qilish orqali kalitni topish",
+        "Harf chastotasini tahlil qilish orqali shifrni buzish",
+        "Faqat xesh funksiyalariga nisbatan qo'llaniladi",
+        "Ma'lumotlarning blokli o'zgarishlarini tahlil qilish"
+      ],
+      "correct_answer": "Shifrlangan matnlar orasidagi farqlarni tahlil qilish orqali kalitni topish"
+    },
+    {
+      "id": 23,
+      "question": "Chiziqli kriptotahlilning asosiy prinsipi nimadan iborat?",
+      "options": [
+        "Chiziqli munosabatlar orqali shifrlash kalitini aniqlash",
+        "Faqat statistik usullarni qo'llash",
+        "Algoritmni raqamli kodlar yordamida tahlil qilish",
+        "Blokli shifrlarni statistik tahlil qilish"
+      ],
+      "correct_answer": "Chiziqli munosabatlar orqali shifrlash kalitini aniqlash"
+    },
+    {
+      "id": 24,
+      "question": "Chiziqli-differensial kriptotahlil qanday amalga oshiriladi?",
+      "options": [
+        "Chiziqli va differensial usullarning birikmasi orqali shifrlarni buzish",
+        "Faqat statistik xususiyatlar yordamida ma'lumotlarni tahlil qilish",
+        "Algoritmning blokli o'zgarishlarini o'rganish",
+        "Matnni raqamli ko'rinishga o'tkazish"
+      ],
+      "correct_answer": "Chiziqli va differensial usullarning birikmasi orqali shifrlarni buzish"
+    },
+    {
+      "id": 25,
+      "question": "Differensial kriptotahlilda asosiy maqsad nima?",
+      "options": [
+        "Kiruvchi va chiquvchi bloklar orasidagi farqlarni tahlil qilish",
+        "Shifrlash jarayonini tezlashtirish",
+        "Ma'lumotlarni to'liq xeshlash",
+        "Shifrlash algoritmini qayta yozish"
+      ],
+      "correct_answer": "Kiruvchi va chiquvchi bloklar orasidagi farqlarni tahlil qilish"
+    },
+    {
+      "id": 26,
+      "question": "Statistik tahlil usullari qaysi shifrlarga qarshi samarali?",
+      "options": [
+        "Oddiy va blokli shifrlarga qarshi",
+        "Faqat blokli shifrlarga qarshi",
+        "Faqat oddiy monoalfavitli shifrlarga qarshi",
+        "Faqat asimmetrik shifrlarga qarshi"
+      ],
+      "correct_answer": "Oddiy va blokli shifrlarga qarshi"
+    },
+    {
+      "id": 27,
+      "question": "Chiziqli kriptotahlilda qanday usul ishlatiladi?",
+      "options": [
+        "Ma'lum chiziqli munosabatlarni kuzatish",
+        "Shifrni buzishda faqat statistik xususiyatlardan foydalanish",
+        "Algoritmni raqamli kodlar bilan o'zgartirish",
+        "Harf chastotasini hisoblash"
+      ],
+      "correct_answer": "Ma'lum chiziqli munosabatlarni kuzatish"
+    },
+    {
+      "id": 28,
+      "question": "Chiziqli-differensial kriptotahlil qachon samarali bo'ladi?",
+      "options": [
+        "Shifrlash algoritmi kam himoyalangan bo'lsa",
+        "Xesh funksiyalari ishlatilganda",
+        "Faqat katta kalitli tizimlarda",
+        "Algoritmlar yuqori darajada bardoshli bo'lsa"
+      ],
+      "correct_answer": "Shifrlash algoritmi kam himoyalangan bo'lsa"
+    },
+    {
+      "id": 29,
+      "question": "Statistik tahlil qanday algoritmlarda samarali ishlaydi?",
+      "options": [
+        "Statistik o'zgaruvchanlikni saqlamaydigan algoritmlarda",
+        "Faqat asimmetrik shifrlash tizimlarida",
+        "Har qanday algoritmda",
+        "Faqat xesh funksiyalari uchun"
+      ],
+      "correct_answer": "Statistik o'zgaruvchanlikni saqlamaydigan algoritmlarda"
+    },
+    {
+      "id": 30,
+      "question": "Differensial kriptotahlil uchun qaysi ma'lumotlar zarur?",
+      "options": [
+        "Kiruvchi va chiquvchi bloklarning farqlari",
+        "Harflar chastotasi",
+        "Ma'lumotning uzunligi",
+        "Shifrlash algoritmining kodi"
+      ],
+      "correct_answer": "Kiruvchi va chiquvchi bloklarning farqlari"
+    },
+    {
+      "id": 31,
+      "question": "Statistik usullar yordamida blokli shifrni qanday tahlil qilish mumkin?",
+      "options": [
+        "Shifrlangan matnning tarqalishini kuzatish",
+        "Faqat matn uzunligini hisoblash",
+        "Matnni alifboga aylantirish",
+        "Faqat algoritmni kod tahlilidan o'tkazish"
+      ],
+      "correct_answer": "Shifrlangan matnning tarqalishini kuzatish"
+    },
+    {
+      "id": 32,
+      "question": "Differensial kriptotahlilda blokli shifrlarni tahlil qilishning asosiy bosqichlari qanday?",
+      "options": [
+        "Farqlarni aniqlash va kalitni aniqlash",
+        "Raqamli kodlarni sinab ko'rish",
+        "Algoritmni o'zgartirish",
+        "Faqat shifrlangan matnni qayta kodlash"
+      ],
+      "correct_answer": "Farqlarni aniqlash va kalitni aniqlash"
+    },
+    {
+      "id": 33,
+      "question": "Chiziqli kriptotahlilda statistik tahlil qanday amalga oshiriladi?",
+      "options": [
+        "Chiziqli bog'liqliklarni aniqlash orqali",
+        "Matn uzunligini hisoblash orqali",
+        "Harf chastotasini kuzatish orqali",
+        "Matnning shifrlash kodini o'zgartirish orqali"
+      ],
+      "correct_answer": "Chiziqli bog'liqliklarni aniqlash orqali"
+    },
+    {
+      "id": 34,
+      "question": "Differensial kriptotahlil qaysi algoritmga nisbatan samaraliroq?",
+      "options": [
+        "DES kabi blokli algoritmlarga",
+        "Faqat protokollarga",
+        "Asimmetrik algoritmlarga",
+        "Faqat xesh funksiyalariga"
+      ],
+      "correct_answer": "DES kabi blokli algoritmlarga"
+    },
+    {
+      "id": 35,
+      "question": "Chiziqli-differensial kriptotahlilda asosiy maqsad nima?",
+      "options": [
+        "Shifrlash kalitini aniqlash uchun chiziqli va differensial usullarni birlashtirish",
+        "Faqat statistik usullarni qo'llash",
+        "Matnni kodlash algoritmini sinab ko'rish",
+        "Ma'lumotlarni to'liq o'zgartirish"
+      ],
+      "correct_answer": "Shifrlash kalitini aniqlash uchun chiziqli va differensial usullarni birlashtirish"
+    },
+    {
+      "id": 36,
+      "question": "Chiziqli kriptotahlil natijasi qanday olinadi?",
+      "options": [
+        "Chiziqli tenglamalar orqali kalitni topish",
+        "Harf chastotasini hisoblash orqali",
+        "Faqat statistik tahlil qilish orqali",
+        "Ma'lumotlarning farqlarini kuzatish orqali"
+      ],
+      "correct_answer": "Chiziqli tenglamalar orqali kalitni topish"
+    },
+    {
+      "id": 37,
+      "question": "Differensial kriptotahlil jarayonida qanday usul qo'llaniladi?",
+      "options": [
+        "Kiruvchi va chiquvchi bloklar o'rtasidagi farqlarni tahlil qilish",
+        "Shifrlash jarayonini statistik baholash",
+        "Harflar chastotasini aniqlash",
+        "Algoritmning murakkabligini oshirish"
+      ],
+      "correct_answer": "Kiruvchi va chiquvchi bloklar o'rtasidagi farqlarni tahlil qilish"
+    },
+    {
+      "id": 38,
+      "question": "Blokli shifrlarning statistik tahlili qanday amalga oshiriladi?",
+      "options": [
+        "Shifrlangan matnning xususiyatlarini tahlil qilish",
+        "Faqat xesh funksiyalarini tahlil qilish",
+        "Matnni raqamli kodlarga aylantirish",
+        "Algoritmni qayta yozish"
+      ],
+      "correct_answer": "Shifrlangan matnning xususiyatlarini tahlil qilish"
+    },
+    {
+      "id": 39,
+      "question": "Chiziqli-differensial kriptotahlilda statistik usullar qanday ishlatiladi?",
+      "options": [
+        "Bloklar orasidagi bog'liqlikni aniqlash orqali",
+        "Faqat matn uzunligini hisoblash orqali",
+        "Algoritmni optimallashtirish orqali",
+        "Faqat kalitni o'zgartirish orqali"
+      ],
+      "correct_answer": "Bloklar orasidagi bog'liqlikni aniqlash orqali"
+    },
+    {
+      "id": 40,
+      "question": "Differensial kriptotahlil uchun qanday dastlabki ma'lumotlar kerak?",
+      "options": [
+        "Kiruvchi va chiquvchi bloklarning statistik farqlari",
+        "Harflarning chastota tahlili",
+        "Faqat matnning uzunligi",
+        "Algoritm kodi va raqamli kodlar"
+      ],
+      "correct_answer": "Kiruvchi va chiquvchi bloklarning statistik farqlari"
+    },
+    {
+      "id": 41,
+      "question": "Algebraik kriptotahlilning asosiy maqsadi nimadan iborat?",
+      "options": [
+        "Shifrlash algoritmining matematik tenglamalarini yechish",
+        "Ma'lumotning statistik xususiyatlarini tahlil qilish",
+        "Farqlarni kuzatish orqali kalitni aniqlash",
+        "Faqat apparat xatoliklarini aniqlash"
+      ],
+      "correct_answer": "Shifrlash algoritmining matematik tenglamalarini yechish"
+    },
+    {
+      "id": 42,
+      "question": "Integral kriptotahlil qachon samarali hisoblanadi?",
+      "options": [
+        "Ma'lum shifrlash bloklarida bitlarning umumiy yig'indisi kuzatilganda",
+        "Faqat statistik tahlil usullari ishlatilganda",
+        "Chiziqli bog'liqlikni aniqlashda",
+        "Faqat matematik tenglamalar tahlilida"
+      ],
+      "correct_answer": "Ma'lum shifrlash bloklarida bitlarning umumiy yig'indisi kuzatilganda"
+    },
+    {
+      "id": 43,
+      "question": "\"Slaydli hujum\" usuli qanday shifrlash algoritmlariga nisbatan qo'llaniladi?",
+      "options": [
+        "Iterativ shifrlash algoritmlariga",
+        "Faqat statistik algoritmlarga",
+        "Asimmetrik shifrlash tizimlariga",
+        "Faqat xesh funksiyalariga"
+      ],
+      "correct_answer": "Iterativ shifrlash algoritmlariga"
+    },
+    {
+      "id": 44,
+      "question": "Apparat xatoliklarini generatsiyalashga asoslangan kriptotahlilning mohiyati nimadan iborat?",
+      "options": [
+        "Shifrlash jarayonida yuzaga kelgan apparat xatolaridan foydalanib shifrni buzish",
+        "Faqat statistik xatolarni kuzatish",
+        "Matematik tahlil yordamida shifrlash kalitini aniqlash",
+        "Faqat matn uzunligini tahlil qilish"
+      ],
+      "correct_answer": "Shifrlash jarayonida yuzaga kelgan apparat xatolaridan foydalanib shifrni buzish"
+    },
+    {
+      "id": 45,
+      "question": "Integral kriptotahlilda qanday tahlil qilinadi?",
+      "options": [
+        "Shifr bloklaridagi bitlarning o'zgarishi kuzatiladi",
+        "Ma'lumotlarning farqlari tahlil qilinadi",
+        "Harf chastotasi hisoblanadi",
+        "Kalit uzunligi aniqlanadi"
+      ],
+      "correct_answer": "Shifr bloklaridagi bitlarning o'zgarishi kuzatiladi"
+    },
+    {
+      "id": 46,
+      "question": "Algebraik kriptotahlilda qanday vositalar qo'llaniladi?",
+      "options": [
+        "Matematik tenglamalar tizimlarini yechish usullari",
+        "Faqat statistik ma'lumotlarni yig'ish",
+        "Raqamli kodlarni aniqlash",
+        "Shifrning xatolarini qayta generatsiyalash"
+      ],
+      "correct_answer": "Matematik tenglamalar tizimlarini yechish usullari"
+    },
+    {
+      "id": 47,
+      "question": "\"Slaydli hujum\" usuli qanday shifrlash tizimlarida samarali bo'ladi?",
+      "options": [
+        "Kam iteratsiyali shifrlash tizimlarida",
+        "Xesh funksiyalarida",
+        "Chiziqli shifrlash algoritmlarida",
+        "Faqat xatolik tahlilida"
+      ],
+      "correct_answer": "Kam iteratsiyali shifrlash tizimlarida"
+    },
+    {
+      "id": 48,
+      "question": "Apparat xatoliklariga asoslangan kriptotahlil uchun qanday ma'lumotlar zarur?",
+      "options": [
+        "Xatolik paydo bo'lgan kiruvchi va chiquvchi bloklar",
+        "Faqat shifrlash algoritmi kodi",
+        "Faqat statistik xususiyatlar",
+        "Faqat algoritmning xesh qiymatlari"
+      ],
+      "correct_answer": "Xatolik paydo bo'lgan kiruvchi va chiquvchi bloklar"
+    },
+    {
+      "id": 49,
+      "question": "Integral kriptotahlilning asosiy yondashuvi qanday?",
+      "options": [
+        "Bloklar yig'indisi yoki bitlarning tahliliga asoslangan",
+        "Faqat statistik ma'lumotlar yig'iladi",
+        "Raqamli kodlarning qayta ishlanishiga asoslangan",
+        "Harflar chastotasiga bog'liq"
+      ],
+      "correct_answer": "Bloklar yig'indisi yoki bitlarning tahliliga asoslangan"
+    },
+    {
+      "id": 50,
+      "question": "Algebraik kriptotahlilda qanday algoritmlar zaif hisoblanadi?",
+      "options": [
+        "Matematik modellarga asoslangan murakkablik darajasi past algoritmlar",
+        "Faqat iterativ shifrlash tizimlari",
+        "Kam blokli xesh funksiyalari",
+        "Statistik o'zgarishlarga mos algoritmlar"
+      ],
+      "correct_answer": "Matematik modellarga asoslangan murakkablik darajasi past algoritmlar"
+    },
+    {
+      "id": 51,
+      "question": "Algebraik kriptotahlilda qanday matematik usul samarali hisoblanadi?",
+      "options": [
+        "Matematik tenglamalarni yechish usullari",
+        "Harf chastotasi tahlili",
+        "Farqlarni kuzatish orqali tahlil",
+        "Raqamli kodlarni sinab ko'rish"
+      ],
+      "correct_answer": "Matematik tenglamalarni yechish usullari"
+    },
+    {
+      "id": 52,
+      "question": "Integral kriptotahlilda blokli shifrlarni qanday tahlil qilasiz?",
+      "options": [
+        "Shifr bitlarining umumiy yig'indisini kuzatib borish",
+        "Faqat statistik o'zgarishlarni kuzatish",
+        "Matematik tenglamalarni o'rganish",
+        "Harf chastotasi tahlili"
+      ],
+      "correct_answer": "Shifr bitlarining umumiy yig'indisini kuzatib borish"
+    },
+    {
+      "id": 53,
+      "question": "\"Slaydli hujum\" qanday amalga oshiriladi?",
+      "options": [
+        "Shifrlash algoritmidagi iteratsiyalar orasidagi bog'liqlikni kuzatish orqali",
+        "Shifrlangan matnning xususiyatlarini kuzatish orqali",
+        "Faqat apparat xatolarini aniqlash orqali",
+        "Ma'lumotlarni qayta kodlash orqali"
+      ],
+      "correct_answer": "Shifrlash algoritmidagi iteratsiyalar orasidagi bog'liqlikni kuzatish orqali"
+    },
+    {
+      "id": 54,
+      "question": "Apparat xatoliklarini generatsiyalashga asoslangan hujumda qanday vositalar qo'llaniladi?",
+      "options": [
+        "Shifrlash algoritmidagi apparat muammolarini tahlil qilish",
+        "Faqat matematik usullarni qo'llash",
+        "Shifr bloklarini qo'lda tahlil qilish",
+        "Statistik ma'lumotlarni to'plash"
+      ],
+      "correct_answer": "Shifrlash algoritmidagi apparat muammolarini tahlil qilish"
+    },
+    {
+      "id": 55,
+      "question": "Algebraik tahlil jarayonida qaysi usuldan foydalanish kerak?",
+      "options": [
+        "Tenglamalar tizimini yechish uchun algoritmik yondashuvlar",
+        "Faqat statistik tahlil usullaridan foydalanish",
+        "Xatolik tahlilini o'tkazish",
+        "Faqat kodlash algoritmlarini o'rganish"
+      ],
+      "correct_answer": "Tenglamalar tizimini yechish uchun algoritmik yondashuvlar"
+    },
+    {
+      "id": 56,
+      "question": "Integral kriptotahlilda asosiy natijalar qanday olinadi?",
+      "options": [
+        "Bitlar yig'indisi yoki blok o'zgarishlari orqali",
+        "Faqat apparat xatoliklarini kuzatish orqali",
+        "Harflar chastotasini hisoblash orqali",
+        "Shifrlash algoritmini qayta kodlash orqali"
+      ],
+      "correct_answer": "Bitlar yig'indisi yoki blok o'zgarishlari orqali"
+    },
+    {
+      "id": 57,
+      "question": "\"Slaydli hujum\" uchun qanday shartlar bajarilishi kerak?",
+      "options": [
+        "Iteratsiyali shifrlash algoritmi mavjud bo'lishi",
+        "Xatoliklar mavjud bo'lishi",
+        "Bloklarni statistik kuzatish",
+        "Matematik modellarni qo'llash"
+      ],
+      "correct_answer": "Iteratsiyali shifrlash algoritmi mavjud bo'lishi"
+    },
+    {
+      "id": 58,
+      "question": "Apparat xatoliklarini generatsiyalash jarayonida qanday natijalar olinadi?",
+      "options": [
+        "Xatoliklardan foydalanib shifrlash kalitini topish",
+        "Faqat statistik xatolarni aniqlash",
+        "Harflar chastotasiga asoslangan natijalar",
+        "Xesh qiymatlarini o'zgartirish"
+      ],
+      "correct_answer": "Xatoliklardan foydalanib shifrlash kalitini topish"
+    },
+    {
+      "id": 59,
+      "question": "Algebraik tahlil qanday algoritmlarga nisbatan samarali?",
+      "options": [
+        "Murakkab bo'lmagan iterativ algoritmlarga",
+        "Faqat statistik tizimlarga",
+        "Asimmetrik tizimlarga",
+        "Xesh algoritmlariga"
+      ],
+      "correct_answer": "Murakkab bo'lmagan iterativ algoritmlarga"
+    },
+    {
+      "id": 60,
+      "question": "Integral kriptotahlilda qanday ma'lumotlar asosiy rol o'ynaydi?",
+      "options": [
+        "Shifr bitlarining umumiy yig'indisi",
+        "Faqat xatolik qiymatlari",
+        "Statistik ma'lumotlar",
+        "Harflar chastotasi"
+      ],
+      "correct_answer": "Shifr bitlarining umumiy yig'indisi"
+    },
+    {
+      "id": 61,
+      "question": "Asimmetrik kriptotizimlarning asosiy xususiyati nima?",
+      "options": [
+        "Ochiq va yopiq kalitlardan foydalanishi",
+        "Shifrlash va deshifrlashning bir xil kalitda amalga oshirilishi",
+        "Faqat statistik tahlilga asoslanganligi",
+        "Faqat algoritmik tahlilga asoslanganligi"
+      ],
+      "correct_answer": "Ochiq va yopiq kalitlardan foydalanishi"
+    },
+    {
+      "id": 62,
+      "question": "Faktorlash muammosi qanday hisoblanadi?",
+      "options": [
+        "Ikkita katta sonni ko'paytuvchilarga ajratish murakkabligi",
+        "Ikkita matnni xeshlash algoritmiga asoslash",
+        "Matnni shifrlash va deshifrlash algoritmini qo'llash",
+        "Shifr bloklarining statistik xususiyatlarini tahlil qilish"
+      ],
+      "correct_answer": "Ikkita katta sonni ko'paytuvchilarga ajratish murakkabligi"
+    },
+    {
+      "id": 63,
+      "question": "Diskret logarifmlash muammosi qaysi operatsiyaga asoslanadi?",
+      "options": [
+        "Modular eksponentatsiya",
+        "Ikkilik tahlil",
+        "Statistik o'zgarishlar",
+        "Faqat xesh algoritmlar"
+      ],
+      "correct_answer": "Modular eksponentatsiya"
+    },
+    {
+      "id": 64,
+      "question": "RSA algoritmining xavfsizligi qaysi muammoga bog‘liq?",
+      "options": [
+        "Faktorlash muammosi murakkabligiga",
+        "Diskret logarifmlash murakkabligiga",
+        "Xesh algoritmlarining tahliliga",
+        "Chiziqli algebraik usullarga"
+      ],
+      "correct_answer": "Faktorlash muammosi murakkabligiga"
+    },
+    {
+      "id": 65,
+      "question": "Diffi-Xellman algoritmi qanday kriptotahlil usuliga ko'proq ta'sirchan?",
+      "options": [
+        "Diskret logarifmlash muammosini yechishga asoslangan hujum",
+        "Faktorlashga asoslangan tahlil",
+        "Statistik xususiyatlarni tahlil qilish",
+        "Matematik tenglamalar tizimlarini yechish"
+      ],
+      "correct_answer": "Diskret logarifmlash muammosini yechishga asoslangan hujum"
+    },
+    {
+      "id": 66,
+      "question": "Asimmetrik kriptotizimlarda qaysi kalit oshkora bo‘ladi?",
+      "options": [
+        "Ochiq kalit",
+        "Yopiq kalit",
+        "Faqat shifrlash kaliti",
+        "Faqat deshifrlash kaliti"
+      ],
+      "correct_answer": "Ochiq kalit"
+    },
+    {
+      "id": 67,
+      "question": "Faktorlash muammosini hal qilish uchun qaysi algoritmlar qo'llaniladi?",
+      "options": [
+        "Kvadrat elak algoritmi va generalizatsiyalangan elak usuli",
+        "Faqat statistik tahlil algoritmlari",
+        "Chiziqli tenglamalarni yechish algoritmlari",
+        "Xesh funksiyalar algoritmlari"
+      ],
+      "correct_answer": "Kvadrat elak algoritmi va generalizatsiyalangan elak usuli"
+    },
+    {
+      "id": 68,
+      "question": "Asimmetrik kriptotizimlar qaysi muammolarni hal qilishga asoslangan?",
+      "options": [
+        "Faktorlash va diskret logarifmlash muammolari",
+        "Faqat statistik tahlil muammolari",
+        "Chiziqli algebraik masalalar",
+        "Oddiy qo'shish va ko'paytirish operatsiyalari"
+      ],
+      "correct_answer": "Faktorlash va diskret logarifmlash muammolari"
+    },
+    {
+      "id": 69,
+      "question": "Diskret logarifmlash muammosining asosiy murakkabligi nimaga bog‘liq?",
+      "options": [
+        "Katta sondagi eksponentatsiya operatsiyalarining qayta tahliliga",
+        "Faktorlash jarayonining sodda ko‘rinishiga",
+        "Matn uzunligi tahliliga",
+        "O‘zaro statistik bog‘liqliklarga"
+      ],
+      "correct_answer": "Katta sondagi eksponentatsiya operatsiyalarining qayta tahliliga"
+    },
+    {
+      "id": 70,
+      "question": "Faktorlash va diskret logarifmlash asosida qurilgan tizimlarning bardoshliligi qaysi holatda pasayadi?",
+      "options": [
+        "Kvant kompyuterlari bilan ishlaganda",
+        "Oddiy kompyuter vositalari qo'llanganda",
+        "Faqat xesh algoritmlar bilan bog‘liq bo‘lganda",
+        "Faqat statistik xususiyatlar hisoblanganda"
+      ],
+      "correct_answer": "Kvant kompyuterlari bilan ishlaganda"
+    },
+    {
+      "id": 71,
+      "question": "RSA algoritmida yopiq kalitni qanday himoyalash lozim?",
+      "options": [
+        "Yopiq kalit faqat egasi tomonidan ishlatilishi kerak",
+        "Yopiq kalit ochiq ma'lumot sifatida saqlanishi kerak",
+        "Kalitni ochiq serverda saqlash kerak",
+        "Yopiq kalitni xesh funksiyasi yordamida qayta ishlash kerak"
+      ],
+      "correct_answer": "Yopiq kalit faqat egasi tomonidan ishlatilishi kerak"
+    },
+    {
+      "id": 72,
+      "question": "Diffi-Xellman algoritmining zaif tomonlari qanday aniqlanadi?",
+      "options": [
+        "Diskret logarifmlash muammosi bo'yicha tahlil qilish orqali",
+        "Faktorlash muammosiga bog'liq bo'lgan tahlil orqali",
+        "Xesh qiymatlarini hisoblash orqali",
+        "Shifrlash bloklarining statistik tahlili orqali"
+      ],
+      "correct_answer": "Diskret logarifmlash muammosi bo'yicha tahlil qilish orqali"
+    },
+    {
+      "id": 73,
+      "question": "Faktorlash muammosini yechish uchun qaysi texnologiya eng samarali hisoblanadi?",
+      "options": [
+        "Kvant kompyuterlar",
+        "Statistik analiz algoritmlari",
+        "Oddiy matematik tenglamalar",
+        "Chiziqli bog'liqlik tahlili"
+      ],
+      "correct_answer": "Kvant kompyuterlar"
+    },
+    {
+      "id": 74,
+      "question": "Diskret logarifmlash muammosini samarali hal qilish uchun qaysi yondashuv ishlatiladi?",
+      "options": [
+        "Indeksli kvadrat usuli",
+        "Xesh algoritmlari orqali tahlil qilish",
+        "Statistik usullarni qo'llash",
+        "Modular arifmetikani tekshirish"
+      ],
+      "correct_answer": "Indeksli kvadrat usuli"
+    },
+    {
+      "id": 75,
+      "question": "RSA algoritmida ochiq va yopiq kalitlarning uzunligi qanday bo'lishi kerak?",
+      "options": [
+        "2048 bit yoki undan yuqori",
+        "Faqat 512 bitga teng",
+        "Faqat 1024 bitga teng",
+        "256 bitdan kichik bo'lishi mumkin"
+      ],
+      "correct_answer": "2048 bit yoki undan yuqori"
+    },
+    {
+      "id": 76,
+      "question": "Diffi-Xellman algoritmi qaysi maydonlarda qo'llaniladi?",
+      "options": [
+        "Modular eksponentatsiya maydonlarida",
+        "Faqat statistik tahlil uchun",
+        "Kvadrat ko‘paytirish maydonlarida",
+        "Faqat xesh algoritmlar uchun"
+      ],
+      "correct_answer": "Modular eksponentatsiya maydonlarida"
+    },
+    {
+      "id": 77,
+      "question": "Asimmetrik kriptotizimlarning xavfsizligini qanday oshirish mumkin?",
+      "options": [
+        "Kalit uzunligini oshirish orqali",
+        "Faqat statistik tahlilni cheklash orqali",
+        "Shifr bloklarini qisqartirish orqali",
+        "Faqat yopiq kalitni oshkora qilish orqali"
+      ],
+      "correct_answer": "Kalit uzunligini oshirish orqali"
+    },
+    {
+      "id": 78,
+      "question": "Faktorlash muammosi asosida ishlaydigan tizimlar uchun qaysi usul eng xavfli?",
+      "options": [
+        "Kvant kompyuterlarga asoslangan hujumlar",
+        "Oddiy statistik tahlil",
+        "Raqamli o‘zgartirishlar",
+        "Matn uzunligini tahlil qilish"
+      ],
+      "correct_answer": "Kvant kompyuterlarga asoslangan hujumlar"
+    },
+    {
+      "id": 79,
+      "question": "Diskret logarifmlash muammosining murakkabligini pasaytiruvchi omillar qaysilar?",
+      "options": [
+        "Kichik eksponent va modul qiymatlarining ishlatilishi",
+        "Kalit uzunligini oshirish",
+        "Statistik analizning kuchayishi",
+        "Matematik tenglamalar soddalashishi"
+      ],
+      "correct_answer": "Kichik eksponent va modul qiymatlarining ishlatilishi"
+    },
+    {
+      "id": 80,
+      "question": "Kvant kompyuterlar RSA algoritmiga qanday ta'sir ko‘rsatadi?",
+      "options": [
+        "Faktorlash muammosini samarali hal qiladi",
+        "Shifrlash jarayonini tezlashtiradi",
+        "Shifr matn uzunligini o'zgartiradi",
+        "Faqat statistik tahlilni kuchaytiradi"
+      ],
+      "correct_answer": "Faktorlash muammosini samarali hal qiladi"
+    },
+    {
+      "id": 81,
+      "question": "Xesh funksiyasining asosiy vazifasi nima?",
+      "options": [
+        "Ma'lumotlarning ixcham xesh qiymatini yaratish",
+        "Ma'lumotlarni shifrlash va deshifrlash",
+        "Tasodifiy sonlar generatsiyasi",
+        "Ochiq kalitlar almashinuvi"
+      ],
+      "correct_answer": "Ma'lumotlarning ixcham xesh qiymatini yaratish"
+    },
+    {
+      "id": 82,
+      "question": "Tug‘ilgan kun muammosi nimaga asoslangan?",
+      "options": [
+        "Xesh funksiyalarida ikkita bir xil xesh qiymatni topish ehtimoli",
+        "Tasodifiy sonlar generatsiyasi murakkabligiga",
+        "Faktorlash va diskret logarifmlashga",
+        "Shifrlash algoritmlarining statistik zaifligiga"
+      ],
+      "correct_answer": "Xesh funksiyalarida ikkita bir xil xesh qiymatni topish ehtimoli"
+    },
+    {
+      "id": 83,
+      "question": "MD5 xesh algoritmining asosiy zaif tomoni nima?",
+      "options": [
+        "Kolliziya zaifligi",
+        "Tasodifiylikni ta'minlay olmasligi",
+        "Kalitlarni noto‘g‘ri generatsiya qilish",
+        "Statistik tahlilga qarshi zaifligi"
+      ],
+      "correct_answer": "Kolliziya zaifligi"
+    },
+    {
+      "id": 84,
+      "question": "NIST va DIEHARD testlar to‘plami qanday maqsadda ishlatiladi?",
+      "options": [
+        "Tasodifiy sonlar generatorlarini tekshirish uchun",
+        "Xesh funksiyalarining xavfsizligini baholash uchun",
+        "Shifrlash algoritmlarining tezligini tekshirish uchun",
+        "Ochiq kalitlarning xavfsizligini aniqlash uchun"
+      ],
+      "correct_answer": "Tasodifiy sonlar generatorlarini tekshirish uchun"
+    },
+    {
+      "id": 85,
+      "question": "MD4 va MD5 algoritmlarining kolliziya xavfi qaysi operatsiyaga bog‘liq?",
+      "options": [
+        "XOR va ADD operatsiyalari",
+        "Modular eksponentatsiya",
+        "Shifrlash va deshifrlash algoritmlari",
+        "Kalit uzunligi"
+      ],
+      "correct_answer": "XOR va ADD operatsiyalari"
+    },
+    {
+      "id": 86,
+      "question": "Xesh funksiyalarining kriptotahlilida kolliziya tushunchasi nimani anglatadi?",
+      "options": [
+        "Ikki xil ma'lumot uchun bir xil xesh qiymatni topish",
+        "Tasodifiylikni yo'qotish",
+        "Tasodifiy sonlarni noto‘g‘ri generatsiya qilish",
+        "Kalit uzunligining qisqarishi"
+      ],
+      "correct_answer": "Ikki xil ma'lumot uchun bir xil xesh qiymatni topish"
+    },
+    {
+      "id": 87,
+      "question": "Tasodifiy sonlar generatorlarining xavfsizligi nimaga bog‘liq?",
+      "options": [
+        "Deterministik bo'lmagan usullardan foydalanish",
+        "Ma'lumotlarni xeshlash jarayoniga",
+        "Shifrlash algoritmlarining zaifligiga",
+        "XOR operatsiyalarining ko'pligiga"
+      ],
+      "correct_answer": "Deterministik bo'lmagan usullardan foydalanish"
+    },
+    {
+      "id": 88,
+      "question": "Tug‘ilgan kun paradoksining o‘rganilishidagi asosiy maqsad nima?",
+      "options": [
+        "Tasodifiy hodisalar orasida bog‘liqlikni aniqlash",
+        "Kriptotizimlar xavfsizligini tekshirish",
+        "Shifrlash algoritmlarini ishlab chiqish",
+        "Statistik tahlil qilish"
+      ],
+      "correct_answer": "Tasodifiy hodisalar orasida bog‘liqlikni aniqlash"
+    },
+    {
+      "id": 89,
+      "question": "MD4 algoritmining kriptotahliliga qaysi usul ta'sir qiladi?",
+      "options": [
+        "Kolliziya hujumlari",
+        "Faktorlash algoritmlari",
+        "Diskret logarifmlash usullari",
+        "Xesh qiymatlarini statistik tahlil qilish"
+      ],
+      "correct_answer": "Kolliziya hujumlari"
+    },
+    {
+      "id": 90,
+      "question": "NIST testlar to‘plami nimani tekshirishga mo‘ljallangan?",
+      "options": [
+        "Tasodifiy sonlar generatorining sifati va xavfsizligi",
+        "Xesh algoritmlarining tezligi",
+        "Ma'lumotlarni shifrlash va deshifrlash jarayoni",
+        "Ochiq kalitlar xavfsizligi"
+      ],
+      "correct_answer": "Tasodifiy sonlar generatorining sifati va xavfsizligi"
+    },
+    {
+      "id": 91,
+      "question": "Xesh funksiyalarining xavfsizligini qanday oshirish mumkin?",
+      "options": [
+        "Kalit uzunligini oshirish va tasodifiylikni ta'minlash",
+        "Tasodifiy sonlar generatorlaridan foydalanish",
+        "MD4 va MD5 algoritmlarini qo‘llash",
+        "Kolliziya zaifligini e'tiborsiz qoldirish"
+      ],
+      "correct_answer": "Kalit uzunligini oshirish va tasodifiylikni ta'minlash"
+    },
+    {
+      "id": 92,
+      "question": "Tug‘ilgan kun muammosi qaysi jarayonlarda xavf tug‘diradi?",
+      "options": [
+        "Raqamli imzo va sertifikatlar tizimida",
+        "Ma'lumotlarni xeshlashda tezlikni oshirishda",
+        "Statistik tahlilning soddalashuvida",
+        "Xesh qiymatlarining qisqarishida"
+      ],
+      "correct_answer": "Raqamli imzo va sertifikatlar tizimida"
+    },
+    {
+      "id": 93,
+      "question": "MD5 algoritmini zamonaviy tizimlarda ishlatish xavfsizmi?",
+      "options": [
+        "Yo'q, kolliziya zaifligi mavjud",
+        "Ha, zamonaviy shifrlash uchun mos",
+        "Faqat tasodifiy sonlar generatsiyasi uchun xavfsiz",
+        "Xesh funksiyalari uchun mos emas"
+      ],
+      "correct_answer": "Yo'q, kolliziya zaifligi mavjud"
+    },
+    {
+      "id": 94,
+      "question": "Tasodifiy sonlar generatorlarini tahlil qilish uchun qaysi testlar qo‘llaniladi?",
+      "options": [
+        "DIEHARD va NIST testlari",
+        "MD5 va MD4 algoritmlari",
+        "XOR va AND operatsiyalari",
+        "Faktorlash va logarifmlash tahlillari"
+      ],
+      "correct_answer": "DIEHARD va NIST testlari"
+    },
+    {
+      "id": 95,
+      "question": "NIST testlari to‘plamidan qaysi tahlil maqsadida foydalaniladi?",
+      "options": [
+        "Generatorning tasodifiy sonlar hosil qilish qobiliyatini baholash",
+        "Kolliziya xususiyatlarini aniqlash uchun",
+        "Ma'lumotlarni xeshlash tezligini o‘lchash uchun",
+        "Tasodifiy sonlar generatorlarini statistik tahlil qilish uchun emas"
+      ],
+      "correct_answer": "Generatorning tasodifiy sonlar hosil qilish qobiliyatini baholash"
+    },
+    {
+      "id": 96,
+      "question": "MD4 algoritmining kolliziya xavfini kamaytirish uchun nima qilish lozim?",
+      "options": [
+        "Zamonaviy xesh algoritmlariga o'tish",
+        "Kolliziya xususiyatlarini e'tiborsiz qoldirish",
+        "XOR operatsiyalaridan foydalanish",
+        "Faktorlash usullarini ishlatish"
+      ],
+      "correct_answer": "Zamonaviy xesh algoritmlariga o'tish"
+    },
+    {
+      "id": 97,
+      "question": "DIEHARD testlari qaysi sohada qo'llaniladi?",
+      "options": [
+        "Tasodifiy sonlar generatorlarining tasodifiyligini baholashda",
+        "Xesh algoritmlarining tezligini tahlil qilishda",
+        "Faktorlash murakkabligini tekshirishda",
+        "Shifrlash algoritmlarining bardoshliligini oshirishda"
+      ],
+      "correct_answer": "Tasodifiy sonlar generatorlarining tasodifiyligini baholashda"
+    },
+    {
+      "id": 98,
+      "question": "MD5 algoritmi uchun qaysi usul ko'proq xavf tug‘diradi?",
+      "options": [
+        "Kolliziya hujumlari",
+        "Statistik tahlil",
+        "Faktorlash algoritmlari",
+        "Tasodifiy sonlar generatsiyasi"
+      ],
+      "correct_answer": "Kolliziya hujumlari"
+    },
+    {
+      "id": 99,
+      "question": "Tasodifiy sonlar generatorining qoniqarli ekanligini qanday aniqlash mumkin?",
+      "options": [
+        "Statistik testlarni qo‘llash orqali",
+        "Kolliziya zaifligini o‘rganish orqali",
+        "Xesh algoritmlari xususiyatlariga bog‘liq holda",
+        "XOR operatsiyalarining soniga qarab"
+      ],
+      "correct_answer": "Statistik testlarni qo‘llash orqali"
+    },
+    {
+      "id": 100,
+      "question": "MD4 va MD5 algoritmlari o'rniga qaysi algoritmlar tavsiya etiladi?",
+      "options": [
+        "SHA-2 yoki SHA-3",
+        "Faqat DIEHARD testlari bilan tekshirilgan algoritmlar",
+        "XOR va AND operatsiyalariga asoslangan algoritmlar",
+        "Faktorlash murakkabligi asosida qurilgan algoritmlar"
+      ],
+      "correct_answer": "SHA-2 yoki SHA-3"
+    },
+    {
+      "id": 101,
+      "question": "Oqimli shifrlash algoritmlarining asosiy tamoyili nima?",
+      "options": [
+        "Ma'lumotlarni bitma-bit shifrlash",
+        "Ma'lumotlarni bloklarga ajratib shifrlash",
+        "Xesh funksiyalari yordamida shifrlash",
+        "Diskret logarifmlash jarayoniga asoslanish"
+      ],
+      "correct_answer": "Ma'lumotlarni bitma-bit shifrlash"
+    },
+    {
+      "id": 102,
+      "question": "Chiziqli kriptotahlil usuli qanday ishlaydi?",
+      "options": [
+        "Shifrlash jarayonidagi chiziqli bog‘liqliklarni tahlil qiladi",
+        "Kolliziya xususiyatlarini tahlil qiladi",
+        "Tasodifiy sonlar generatorlarini tekshiradi",
+        "Oqimli shifrlash algoritmlarini statistik tahlil qiladi"
+      ],
+      "correct_answer": "Shifrlash jarayonidagi chiziqli bog‘liqliklarni tahlil qiladi"
+    },
+    {
+      "id": 103,
+      "question": "Oqimli shifrlash algoritmlariga differensial kriptotahlil qaysi tamoyilga asoslanadi?",
+      "options": [
+        "Kirish va chiqish ma'lumotlari o‘rtasidagi o‘zgarishlarni tahlil qilish",
+        "Tasodifiy sonlar generatorlarining sifatini tekshirish",
+        "Diskret logarifmlash muammosini yechish",
+        "Xesh qiymatlarini tahlil qilish"
+      ],
+      "correct_answer": "Kirish va chiqish ma'lumotlari o‘rtasidagi o‘zgarishlarni tahlil qilish"
+    },
+    {
+      "id": 104,
+      "question": "Qo‘shimcha kanallarga asoslangan kriptotahlil nima?",
+      "options": [
+        "Kriptotizimning energiya iste'moli, vaqt yoki elektromagnit nurlanish kabi tashqi ko‘rsatkichlarini tahlil qilish",
+        "Xesh funksiyalari xususiyatlarini o‘rganish",
+        "Kolliziya muammosini tahlil qilish",
+        "Faktorlashga asoslangan usullarni qo‘llash"
+      ],
+      "correct_answer": "Kriptotizimning energiya iste'moli, vaqt yoki elektromagnit nurlanish kabi tashqi ko‘rsatkichlarini tahlil qilish"
+    },
+    {
+      "id": 105,
+      "question": "Algebraik kriptotahlil qaysi jihatlarga asoslanadi?",
+      "options": [
+        "Algoritmlarni matematik tenglamalar sifatida ifodalash va yechish",
+        "Shifrlash algoritmlarining statistik zaifliklarini topish",
+        "Ochiq kalitlarni o‘zaro taqqoslash",
+        "Diskret logarifmlashni optimallashtirish"
+      ],
+      "correct_answer": "Algoritmlarni matematik tenglamalar sifatida ifodalash va yechish"
+    },
+    {
+      "id": 106,
+      "question": "Qo‘shimcha kanallardan foydalanish usullarining zaif tomonlari nima?",
+      "options": [
+        "Faqat maxsus uskunalar yordamida amalga oshiriladi",
+        "Tasodifiy sonlar generatorlariga ta’sir ko‘rsatmaydi",
+        "Energiyani iste’mol qilishni oshiradi",
+        "Shifrlash jarayoniga bevosita ta’sir ko‘rsatadi"
+      ],
+      "correct_answer": "Faqat maxsus uskunalar yordamida amalga oshiriladi"
+    },
+    {
+      "id": 107,
+      "question": "Kriptotahlilda yangi texnologiyalardan foydalanish qaysi sohalarda qo‘llaniladi?",
+      "options": [
+        "Katta ma’lumotlarni qayta ishlash va mashinaviy o‘qitishda",
+        "Xesh funksiyalarining tezligini oshirishda",
+        "Tasodifiy sonlar generatorlarini yaratishda",
+        "Kolliziya muammolarini chetlashda"
+      ],
+      "correct_answer": "Katta ma’lumotlarni qayta ishlash va mashinaviy o‘qitishda"
+    },
+    {
+      "id": 108,
+      "question": "Oqimli shifrlash algoritmlarining xavfsizligini ta’minlash uchun qaysi chora ko‘riladi?",
+      "options": [
+        "Tasodifiy kalit oqimini yaratish uchun yuqori sifatli generatorlardan foydalanish",
+        "Qo‘shimcha kanallarni kuzatish imkoniyatini cheklash",
+        "Diskret logarifmlash muammosini ishlatish",
+        "Xesh algoritmlaridan foydalanish"
+      ],
+      "correct_answer": "Tasodifiy kalit oqimini yaratish uchun yuqori sifatli generatorlardan foydalanish"
+    },
+    {
+      "id": 109,
+      "question": "Differensial kriptotahlil qaysi algoritmlar uchun ko‘proq xavf tug‘diradi?",
+      "options": [
+        "Simmetrik shifrlash algoritmlari uchun",
+        "Ochiq kalitli kriptotizimlar uchun",
+        "Xesh funksiyalar uchun",
+        "Faqat oqimli shifrlash algoritmlari uchun"
+      ],
+      "correct_answer": "Simmetrik shifrlash algoritmlari uchun"
+    },
+    {
+      "id": 110,
+      "question": "Chiziqli-differensial kriptotahlil qanday maqsadda qo‘llaniladi?",
+      "options": [
+        "Shifrlash algoritmlaridagi chiziqli va differensial bog‘liqliklarni birgalikda tahlil qilish",
+        "Qo‘shimcha kanallardan olingan ma’lumotlarni tahlil qilish",
+        "Algoritmlarning xesh qiymatlarini tekshirish",
+        "Tasodifiy sonlar generatorlarini tahlil qilish"
+      ],
+      "correct_answer": "Shifrlash algoritmlaridagi chiziqli va differensial bog‘liqliklarni birgalikda tahlil qilish"
+    },
+    {
+      "id": 111,
+      "question": "Qo‘shimcha kanallar asosida kriptotahlilni qanday amalga oshirish mumkin?",
+      "options": [
+        "Shifrlash algoritmining elektromagnit nurlanishini tahlil qilish orqali",
+        "Xesh funksiyalarini tasodifiy sonlar generatori bilan taqqoslash orqali",
+        "Faktorlash algoritmlaridan foydalanish orqali",
+        "Diskret logarifmlashni amalga oshirish orqali"
+      ],
+      "correct_answer": "Shifrlash algoritmining elektromagnit nurlanishini tahlil qilish orqali"
+    },
+    {
+      "id": 112,
+      "question": "Oqimli shifrlash algoritmlariga differensial tahlil qaysi tamoyilga asoslanadi?",
+      "options": [
+        "Kirish va chiqish ma'lumotlaridagi o‘zgarishlarni kuzatish orqali",
+        "Xesh funksiyalarining kolliziyasini aniqlash orqali",
+        "Algoritmlarning tasodifiyligini tekshirish orqali",
+        "Faktorlash muammosini yechish orqali"
+      ],
+      "correct_answer": "Kirish va chiqish ma'lumotlaridagi o‘zgarishlarni kuzatish orqali"
+    },
+    {
+      "id": 113,
+      "question": "Chiziqli kriptotahlil qachon samarali bo‘ladi?",
+      "options": [
+        "Oqimli shifrlash algoritmlarining statistik zaifligi mavjud bo‘lganda",
+        "Qo‘shimcha kanallar tahlil qilinayotganda",
+        "Tasodifiy sonlar generatorlari noto‘g‘ri ishlaganda",
+        "Faktorlash jarayoni tezlashtirilganda"
+      ],
+      "correct_answer": "Oqimli shifrlash algoritmlarining statistik zaifligi mavjud bo‘lganda"
+    },
+    {
+      "id": 114,
+      "question": "Qo‘shimcha kanallarga asoslangan kriptotahlilda qaysi ma’lumot tahlil qilinadi?",
+      "options": [
+        "Energiya iste’moli, vaqt va elektromagnit nurlanish",
+        "Xesh qiymatlari va tasodifiylik",
+        "Ochiq kalit va shaxsiy kalitning mosligi",
+        "Kolliziya xavfi va uning statistik ta’siri"
+      ],
+      "correct_answer": "Energiya iste’moli, vaqt va elektromagnit nurlanish"
+    },
+    {
+      "id": 115,
+      "question": "Yangi texnologiyalardan foydalanish kriptotahlilning qaysi jihatini kuchaytiradi?",
+      "options": [
+        "Mashinaviy o‘qitish orqali zaifliklarni tezroq topish",
+        "Xesh funksiyalarining tezligini oshirish",
+        "Shifrlash algoritmlarini tezlashtirish",
+        "Tasodifiy sonlar generatorlarining sifati"
+      ],
+      "correct_answer": "Mashinaviy o‘qitish orqali zaifliklarni tezroq topish"
+    },
+    {
+      "id": 116,
+      "question": "Differensial tahlilda qaysi natija olinadi?",
+      "options": [
+        "Shifrlash algoritmidagi ma’lumotlarning o‘zgarish farqlari",
+        "Tasodifiy sonlarning generatorlaridagi noto‘g‘ri natijalar",
+        "Xesh funksiyalaridagi kolliziya zaifliklari",
+        "Ochiq kalit algoritmlarining murakkabligi"
+      ],
+      "correct_answer": "Shifrlash algoritmidagi ma’lumotlarning o‘zgarish farqlari"
+    },
+    {
+      "id": 117,
+      "question": "Oqimli shifrlash algoritmlariga chiziqli-differensial usulni qo‘llash nimani anglatadi?",
+      "options": [
+        "Chiziqli va differensial bog‘liqliklarni birgalikda tahlil qilish",
+        "Kolliziya xavfini aniqlash va bartaraf etish",
+        "Tasodifiy sonlar generatorlarining murakkabligini oshirish",
+        "Energiya iste’moli va elektromagnit nurlanishni kuzatish"
+      ],
+      "correct_answer": "Chiziqli va differensial bog‘liqliklarni birgalikda tahlil qilish"
+    },
+    {
+      "id": 118,
+      "question": "Qo‘shimcha kanallardan foydalanishga asoslangan kriptotahlil usullarining asosiy maqsadi nima?",
+      "options": [
+        "Kriptotizimning tashqi zaifliklarini aniqlash",
+        "Tasodifiy sonlar generatorlarining sifatini baholash",
+        "Faktorlash muammolarini yechish",
+        "Algoritmlarning xesh qiymatlarini tahlil qilish"
+      ],
+      "correct_answer": "Kriptotizimning tashqi zaifliklarini aniqlash"
+    },
+    {
+      "id": 119,
+      "question": "Mashinalarni o‘qitish texnologiyasi kriptotahlilda qanday foydalaniladi?",
+      "options": [
+        "Shifrlash algoritmlarining zaif tomonlarini avtomatik aniqlashda",
+        "Faktorlash jarayonini optimallashtirishda",
+        "Diskret logarifmlarni yechishda",
+        "Kolliziya xavfini kamaylashtirishda"
+      ],
+      "correct_answer": "Shifrlash algoritmlarining zaif tomonlarini avtomatik aniqlashda"
+    },
+    {
+      "id": 120,
+      "question": "Algebraik tahlilning oqimli shifrlash algoritmlariga ta’siri qanday?",
+      "options": [
+        "Matematik tenglamalar orqali algoritmlarning zaif tomonlarini aniqlash",
+        "Energiya iste’molini kuzatish orqali zaiflikni topish",
+        "Xesh funksiyalaridagi tasodifiylikni tahlil qilish",
+        "Kolliziya zaifliklarini kuzatish"
+      ],
+      "correct_answer": "Matematik tenglamalar orqali algoritmlarning zaif tomonlarini aniqlash"
+    }
+  ]
+}

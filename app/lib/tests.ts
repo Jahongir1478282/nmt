@@ -3,6 +3,7 @@
 import generalQuestions from "../../questions2.json";
 import cryptoQuestions from "../../cryptotest.json";
 import kmaQuestions from "../../kma.json";
+import zkuQuestions from "../../zku.json";
 
 export interface Question {
   id: number;
@@ -38,6 +39,12 @@ export const tests = {
     description: "Mutaxassislik bo'yicha savollari ",
     questions: (kmaQuestions as { questions: Question[] }).questions,
     durationSeconds: 60 * 60,
+  },
+  ZKU: {
+    title: "Zamonaviy kriptotahlil usullari",
+    description: "Zamonaviy kriptotahlil usullari savollari",
+    questions: (zkuQuestions as { questions: Question[] }).questions,
+    durationSeconds: 60 * 80,
   },
   fintech: {
     title: "Muxassislik 3 (vaqtinchalik umumiy)",

@@ -143,7 +143,7 @@ function QuizContent({ test }: { test: TestConfig }) {
       clearTimeout(nextQuestionTimeoutRef.current);
     nextQuestionTimeoutRef.current = setTimeout(() => {
       setCurrentQuestionIndex((prev) => Math.min(totalSlots - 1, prev + 1));
-    }, 600);
+    }, 2000);
   };
 
   const correctCount = useMemo(
@@ -206,31 +206,8 @@ function QuizContent({ test }: { test: TestConfig }) {
           <div className="flex items-center justify-between gap-3 mb-4">
             <div>
               <h1 className="text-2xl font-bold leading-tight">Natija</h1>
-              {isFinished && (
-                <div className="max-w-7xl mx-auto mb-4 rounded-xl border border-blue-100 bg-blue-50 px-4 py-3 text-sm text-blue-900 shadow-sm">
-                  <div className="flex flex-col gap-2 sm:flex-row sm:items-center sm:justify-between">
-                    <span>
-                      Test yakunlangan. Natija bo&apos;yicha batafsil
-                      ma&apos;lumotni ko&apos;rishingiz mumkin.
-                    </span>
-                    <button
-                      onClick={() => setFinishStage("results")}
-                      className="inline-flex items-center justify-center rounded-lg bg-blue-600 px-4 py-2 text-xs font-semibold uppercase tracking-wide text-white shadow hover:bg-blue-700"
-                    >
-                      Natijaga qaytish
-                    </button>
-                  </div>
-                </div>
-              )}
-
               <p className="text-sm text-gray-500">{test.title}</p>
             </div>
-            <Link
-              href="/"
-              className="rounded-full border border-gray-200 bg-white px-4 py-2 text-sm font-semibold text-blue-600 hover:border-blue-300 hover:bg-blue-50"
-            >
-              Bosh sahifa
-            </Link>
           </div>
 
           <div className="flex flex-col gap-3 text-gray-800">
@@ -254,12 +231,6 @@ function QuizContent({ test }: { test: TestConfig }) {
           </div>
 
           <div className="mt-6 flex flex-wrap gap-3">
-            <button
-              onClick={() => setFinishStage("quiz")}
-              className="rounded-lg border border-gray-300 px-4 py-2 text-sm font-semibold text-gray-700 hover:bg-white"
-            >
-              Savollarni ko&apos;rish
-            </button>
             <Link
               href="/"
               className="rounded-lg bg-blue-600 px-4 py-2 text-sm font-semibold text-white shadow-sm hover:bg-blue-700"
