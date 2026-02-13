@@ -1,9 +1,9 @@
 /** @format */
 
-import generalQuestions from "../../questions2.json";
-import cryptoQuestions from "../../cryptotest.json";
-import kmaQuestions from "../../kma.json";
-import zkuQuestions from "../../zku.json";
+import generalQuestions from "../../data/questions2.json";
+import cryptoQuestions from "../../data/cryptotest.json";
+import kmaQuestions from "../../data/kma.json";
+import zkuQuestions from "../../data/zku.json";
 
 export interface Question {
   id: number;

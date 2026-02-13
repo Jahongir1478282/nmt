@@ -2,7 +2,7 @@
   "questions": [
     {
       "id": 1,
-      "question": "Kriptografik protokol ta'rifi no'g'ri ko'rsatilgan javobni toping?",
+      "question": "Kriptografik protokol ta'rifi to'g'ri ko'rsatilgan javobni toping?",
       "options": [
         "Tomonlar bajaradigan, biror-bir masalani yechish uchun loyihalashtirilgan harakatlar ketma-ketligi",
         "Ikki yoki undan ortiq tomonlar bajaradigan, biror-bir masalani yechish uchun loyihalashtirilgan harakatlar ketma-ketligi",
@@ -74,7 +74,7 @@
     },
     {
       "id": 3,
-      "question": "Kriptografik trotokollarni  bajaradigan asosiy vazifalariga qarab qanday sinflarga ajratish mumkin",
+      "question": "Kriptografik protokollarni  bajaradigan asosiy vazifalariga qarab qanday sinflarga ajratish mumkin",
       "options": [
         "Kalit tarqatish, ma'lumot almashish, taqmoq protokollari",
         "simli, sizmsiz tarmoq, xavfsiz xabar almashish, elektron pochta protokollari",
