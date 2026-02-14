@@ -4,7 +4,7 @@
 
 import { useEffect, useMemo, useRef, useState, useCallback } from "react";
 import Link from "next/link";
-import { Clock, ChevronLeft, ChevronRight, Flag } from "lucide-react";
+import { Clock, ChevronLeft, ChevronRight, Flag, Shuffle } from "lucide-react";
 import type { Question, TestConfig } from "../lib/tests";
 
 const shuffleAndTake = <T,>(arr: T[], take: number): T[] =>
@@ -41,6 +41,7 @@ function QuizContent({ test }: { test: TestConfig }) {
   const [finishReason, setFinishReason] = useState<FinishReason>(null);
   const [finishStage, setFinishStage] = useState<FinishStage>("quiz");
   const [autoRedirectSeconds, setAutoRedirectSeconds] = useState(5);
+  const [showReview, setShowReview] = useState(false);
 
   const nextQuestionTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(
     null,
@@ -56,18 +57,44 @@ function QuizContent({ test }: { test: TestConfig }) {
     };
   }, []);
 
-  const questionPool = useMemo<Question[]>(() => {
-    const base = test.randomCount
-      ? shuffleAndTake(test.questions, test.randomCount)
-      : test.questions;
+  const buildPool = useCallback(
+    (shuffle: boolean): Question[] => {
+      let base = test.randomCount
+        ? shuffleAndTake(test.questions, test.randomCount)
+        : [...test.questions];
 
-    if (!isReady) return base;
+      if (shuffle) {
+        base = base
+          .map((item) => ({ item, sort: Math.random() }))
+          .sort((a, b) => a.sort - b.sort)
+          .map(({ item }) => item);
+      }
 
-    return base.map((q) => ({
-      ...q,
-      options: shuffleOptions(q.options),
-    }));
-  }, [test, isReady]);
+      return base.map((q) => ({
+        ...q,
+        options: shuffleOptions(q.options),
+      }));
+    },
+    [test],
+  );
+
+  const [questionPool, setQuestionPool] = useState<Question[]>(() =>
+    buildPool(false),
+  );
+
+  // Rebuild the pool once client-side hydration is ready (shuffled options)
+  useEffect(() => {
+    if (isReady) {
+      setQuestionPool(buildPool(false));
+    }
+    // eslint-disable-next-line react-hooks/exhaustive-deps
+  }, [isReady]);
+
+  const shuffleQuestions = (): void => {
+    setQuestionPool(buildPool(true));
+    setSelectedAnswers({});
+    setCurrentQuestionIndex(0);
+  };
 
   const totalSlots = questionPool.length;
   const answeredCount = Object.keys(selectedAnswers).length;
@@ -199,10 +226,7 @@ function QuizContent({ test }: { test: TestConfig }) {
   if (finishStage === "results") {
     return (
       <div className="min-h-screen bg-white px-4 py-8 font-sans text-gray-800 sm:px-6">
-        <div
-          className="max-w-3xl mx-auto rounded-2xl border border-gray-200 bg-gray-50 p-6 shadow-sm"
-          ref={resultRef}
-        >
+        <div className="max-w-5xl mx-auto rounded-2xl" ref={resultRef}>
           <div className="flex items-center justify-between gap-3 mb-4">
             <div>
               <h1 className="text-2xl font-bold leading-tight">Natija</h1>
@@ -233,11 +257,93 @@ function QuizContent({ test }: { test: TestConfig }) {
           <div className="mt-6 flex flex-wrap gap-3">
             <Link
               href="/"
-              className="rounded-lg bg-blue-600 px-4 py-2 text-sm font-semibold text-white shadow-sm hover:bg-blue-700"
+              className="rounded-lg bg-blue-600 p-4 py-2 text-sm font-semibold text-white shadow-sm hover:bg-blue-700"
             >
               Asosiy menyu
             </Link>
+            <button
+              onClick={() => setShowReview((prev) => !prev)}
+              className="rounded-lg border border-gray-300 bg-white px-4 py-2 text-sm font-semibold text-gray-700 shadow-sm hover:bg-gray-50"
+            >
+              {showReview ? "Javoblarni yashirish" : "Javoblarni ko\u2018rish"}
+            </button>
           </div>
+
+          {showReview && (
+            <div className="mt-2 space-y-1">
+              <h2 className="text-lg font-bold text-gray-900">
+                Savollar va javoblar
+              </h2>
+              {questionPool.map((q, qIdx) => {
+                const correctIdx = getCorrectIndex(q);
+                const selectedIdx = selectedAnswers[qIdx];
+                const isCorrect =
+                  correctIdx !== null && selectedIdx === correctIdx;
+                const isAnswered = selectedIdx !== undefined;
+
+                return (
+                  <div
+                    key={qIdx}
+                    className={`border-b p-3 ${!isAnswered ? "border-gray-200 bg-gray-50" : isCorrect ? "border-green-200 bg-green-50/50" : "border-red-200 bg-red-50/50"}`}
+                  >
+                    <div className="flex items-start gap-2 mb-2">
+                      <p className="font-semibold text-gray-900 leading-snug">
+                        {qIdx + 1}. {q.question}
+                      </p>
+                      {!isAnswered && (
+                        <span className="hidden sm:flex ml-auto shrink-0 rounded-full bg-gray-200 px-2 py-0.5 text-xs font-semibold text-gray-600">
+                          Javob berilmagan
+                        </span>
+                      )}
+                      {isAnswered && isCorrect && (
+                        <span className="hidden sm:flex ml-auto shrink-0 rounded-full bg-green-100 px-2 py-0.5 text-xs font-semibold text-green-700">
+                          To&apos;g&apos;ri ✓
+                        </span>
+                      )}
+                      {isAnswered && !isCorrect && (
+                        <span className="hidden sm:flex ml-auto shrink-0 rounded-full bg-red-100 px-2 py-0.5 text-xs font-semibold text-red-700">
+                          Noto&apos;g&apos;ri ✗
+                        </span>
+                      )}
+                    </div>
+                    <div className="space-y-2">
+                      {q.options.map((opt, optIdx) => {
+                        const isThisCorrect = correctIdx === optIdx;
+                        const isThisSelected = selectedIdx === optIdx;
+                        let optStyle =
+                          "rounded-lg border px-3 py-2 text-sm transition-all";
+
+                        if (isThisCorrect && isThisSelected) {
+                          optStyle +=
+                            " bg-green-100 border-green-400 text-green-900 font-semibold";
+                        } else if (isThisSelected && !isThisCorrect) {
+                          optStyle +=
+                            " bg-red-100 border-red-400 text-red-900 font-semibold line-through";
+                        } else if (isThisCorrect) {
+                          optStyle +=
+                            " bg-green-50 border-green-300 text-green-800 font-medium";
+                        } else {
+                          optStyle += " bg-white border-gray-200 text-gray-600";
+                        }
+
+                        return (
+                          <div key={optIdx} className={optStyle}>
+                            {isThisCorrect && (
+                              <span className="mr-1.5 text-green-600">✓</span>
+                            )}
+                            {isThisSelected && !isThisCorrect && (
+                              <span className="mr-1.5 text-red-500">✗</span>
+                            )}
+                            {opt}
+                          </div>
+                        );
+                      })}
+                    </div>
+                  </div>
+                );
+              })}
+            </div>
+          )}
         </div>
       </div>
     );
@@ -291,7 +397,7 @@ function QuizContent({ test }: { test: TestConfig }) {
       )}
 
       <div className="max-w-7xl mx-auto">
-        <div className="grid grid-cols-[repeat(auto-fit,minmax(44px,1fr))] gap-2 max-h-32 sm:max-h-none overflow-auto  bg-white">
+        <div className="hidden sm:grid grid-cols-[repeat(auto-fit,minmax(44px,1fr))] gap-2 sm:max-h-none overflow-auto  bg-white">
           {Array.from({ length: totalSlots }, (_, i) => i).map((index) => {
             const isCurrent = index === currentQuestionIndex;
             const isAnswered = selectedAnswers.hasOwnProperty(index);
@@ -335,7 +441,7 @@ function QuizContent({ test }: { test: TestConfig }) {
       <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-3 border-b border-gray-200 bg-white py-2 text-sm sm:text-base">
         <div className="flex flex-wrap items-center gap-4 sm:gap-6">
           <span className="font-semibold text-gray-600">
-            Savollar:{" "}
+            Savollar:
             <span className="text-black font-bold">{answeredCount}</span>
             <span className="text-gray-500">/{totalSlots}</span>
           </span>
@@ -360,12 +466,21 @@ function QuizContent({ test }: { test: TestConfig }) {
             <span>{formatTime(timeLeft)}</span>
           </div>
           <button
+            onClick={shuffleQuestions}
+            className="flex items-center gap-2 rounded-full border border-gray-200 bg-white px-3 py-2 text-xs font-semibold text-gray-700 shadow-sm transition hover:border-gray-300 hover:bg-gray-50"
+            disabled={isFinished}
+          >
+            <Shuffle size={16} className="text-blue-500" />
+            <span className="hidden sm:inline">Aralashtirish</span>
+            <span className="sm:hidden">Aralash</span>
+          </button>
+          <button
             onClick={() => handleFinish("manual")}
             className="flex items-center gap-2 rounded-full border border-gray-200 bg-white px-3 py-2 text-xs font-semibold text-gray-700 shadow-sm transition hover:border-gray-300 hover:bg-gray-50"
             disabled={isFinished}
           >
             <Flag size={16} className="text-orange-500" />
-            Vaqtdan oldin yakunlash
+            Yakunlash
           </button>
         </div>
       </div>
