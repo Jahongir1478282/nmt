@@ -1,0 +1,666 @@
+{
+  "title": "Quiz",
+  "totalQuestions": 60,
+  "questions": [
+    {
+      "id": 1,
+      "question": "Kvant tizimlari kuzatilmaguncha yoki o‘lchanmaguncha bir vaqtning o‘zida bir nechta holatda mavjud bo‘lishi mumkinligi bu?",
+      "options": [
+        "Superpozitsiya tamoyili",
+        "To‘lqin-zarralar ikkiligi tamoyili",
+        "Chalkashlik tamoyili",
+        "Geyzenbergning noaniqlik printsipi"
+      ],
+      "correct_answer": "Superpozitsiya tamoyili"
+    },
+    {
+      "id": 2,
+      "question": "Kvant nazariyasida elektronlar va fotonlar (yorug‘lik zarralari) kabi zarralar ularni qanday kuzatishimizga qarab ham zarracha, ham to‘lqin sifatida harakat qilishi mumkin. Bu qanday tamoyil?",
+      "options": [
+        "To‘lqin-zarralar ikkiligi tamoyili",
+        "Chalkashlik tamoyili",
+        "Geyzenbergning noaniqlik printsipi",
+        "Superpozitsiya tamoyili"
+      ],
+      "correct_answer": "To‘lqin-zarralar ikkiligi tamoyili"
+    },
+    {
+      "id": 3,
+      "question": "“Shrödingerning mushugi” fikrlash tajribasi qaysi tamoyilni tushuntirish uchun foydalaniladi?",
+      "options": [
+        "Superpozitsiya tamoyili",
+        "To‘lqin-zarralar ikkiligi tamoyili",
+        "Chalkashlik tamoyili",
+        "Geyzenbergning noaniqlik printsipi"
+      ],
+      "correct_answer": "Superpozitsiya tamoyili"
+    },
+    {
+      "id": 4,
+      "question": "Zarralar bir-biridan qanchalik uzoqda bo‘lishidan qat’i nazar, bir zarraning holati boshqasining holati bilan darhol bog‘langan holda bo‘lish hodisasi bu?",
+      "options": [
+        "Chalkashlik tamoyili",
+        "Geyzenbergning noaniqlik printsipi",
+        "Superpozitsiya tamoyili",
+        "To‘lqin-zarralar ikkiligi tamoyili"
+      ],
+      "correct_answer": "Chalkashlik tamoyili"
+    },
+    {
+      "id": 5,
+      "question": "“Uzoqdagi qo‘rqinchli harakat”( “spooky action at a distance”) hodisasi bu?",
+      "options": [
+        "Chalkashlik tamoyili",
+        "Geyzenbergning noaniqlik printsipi",
+        "Superpozitsiya tamoyili",
+        "To‘lqin-zarralar ikkiligi tamoyili"
+      ],
+      "correct_answer": "Chalkashlik tamoyili"
+    },
+    {
+      "id": 6,
+      "question": "Zarrachaning pozitsiyasi va impuls kabi ma’lum bir juft xususiyatlarni bir vaqtning o‘zida aniq o‘lchash mumkin emas. Bu qanday tamoyil?",
+      "options": [
+        "Geyzenbergning noaniqlik printsipi",
+        "Superpozitsiya tamoyili",
+        "To‘lqin-zarralar ikkiligi tamoyili",
+        "Chalkashlik tamoyili"
+      ],
+      "correct_answer": "Geyzenbergning noaniqlik printsipi"
+    },
+    {
+      "id": 7,
+      "question": "&quot;Ixtiyoriy kvant holatini mukammal tarzda takrorlab bo‘lmaydi&quot;. Bu?",
+      "options": [
+        "Kvantni klonlash mumkin emasligi to‘g‘risida teorema",
+        "Geyzenbergning noaniqlik printsipi",
+        "Superpozitsiya tamoyili",
+        "To‘lqin-zarralar ikkiligi tamoyili"
+      ],
+      "correct_answer": "Kvantni klonlash mumkin emasligi to‘g‘risida teorema"
+    },
+    {
+      "id": 8,
+      "question": "Klassik hisoblashda bit 0 yoki 1 ga teng. Kvant hisoblashda esa?",
+      "options": [
+        "kubit bir vaqtning o‘zida 0 va 1 ning superpozitsiyasida mavjud bo‘lishi mumkin.",
+        "kubit faqat 0 holatida mavjud bo‘lishi mumkin.",
+        "kubit faqat 1 holatida mavjud bo‘lishi mumkin.",
+        "kubit faqat 01 holatida mavjud bo‘lishi mumkin."
+      ],
+      "correct_answer": "kubit bir vaqtning o‘zida 0 va 1 ning superpozitsiyasida mavjud bo‘lishi mumkin."
+    },
+    {
+      "id": 9,
+      "question": "Kvant kompyuterlarining turlari keltirilgan qatorni ko'rsating?",
+      "options": [
+        "Barcha javoblar to'g'ri",
+        "Supero‘tkazuvchi kvant kompyuterlari",
+        "Tuzoqlangan (trapped) ionli kvant kompyuterlari",
+        "Fotonik kvant kompyuterlari"
+      ],
+      "correct_answer": "Barcha javoblar to'g'ri"
+    },
+    {
+      "id": 10,
+      "question": "Kvant kompyuterlarining ilovalari keltirilgan qatorni ko'rsating?",
+      "options": [
+        "Barcha javoblar to'g'ri",
+        "Kriptografiya",
+        "Dori kashfiyoti va materialshunoslik",
+        "Optimallashtirish muammolari"
+      ],
+      "correct_answer": "Barcha javoblar to'g'ri"
+    },
+    {
+      "id": 11,
+      "question": "Kvant hisoblashdagi dolzarb muammolar keltirilgan javobni ko'rsating?",
+      "options": [
+        "Barcha javoblar to'g'ri",
+        "Dekogerentlik va xatolik darajasi bilan bog'liq",
+        "Masshtablilik bilan bog'liq",
+        "Kvant algoritmlari, qurilma va infratuzilma bilan bog'liq"
+      ],
+      "correct_answer": "Barcha javoblar to'g'ri"
+    },
+    {
+      "id": 12,
+      "question": "Kvant kompyuterlarida Kvant Furye transformatsiyasi qancha amalni talab etadi?",
+      "options": [
+        "O(n^2)",
+        "O(2^n)",
+        "O((2^n)log(2^n))",
+        "O(n^n)"
+      ],
+      "correct_answer": "O(n^2)"
+    },
+    {
+      "id": 13,
+      "question": "2^n o'lchamli ma'lumot uchun klassik diskret Furye transformatsiyasi qancha amalni talab etadi?",
+      "options": [
+        "O((2^n)log(2^n))",
+        "O(n^n)",
+        "O(n^2)",
+        "O(2^n)"
+      ],
+      "correct_answer": "O((2^n)log(2^n))"
+    },
+    {
+      "id": 14,
+      "question": "Kvant kompyuterlari ko'proq qaysi turdagi kriptografik algoritmlarga ta'sir ko'rsatadi?",
+      "options": [
+        "RSA, ECC (Elliptic Curve Cryptography) va Diffie-Hellman",
+        "AES, DES",
+        "MD5, SHA1",
+        "Barcha turdagi kriptografik algoritmlarga"
+      ],
+      "correct_answer": "RSA, ECC (Elliptic Curve Cryptography) va Diffie-Hellman"
+    },
+    {
+      "id": 15,
+      "question": "Shor kvant algoritmi qaysi muammolarni samarali yechishga mo'ljallangan?",
+      "options": [
+        "Butun sonni faktorlash, diskret logarifmlash muammolarini",
+        "Qidirish muammosini",
+        "Barcha turdagi muammolarni",
+        "Tartiblash muammosini"
+      ],
+      "correct_answer": "Butun sonni faktorlash, diskret logarifmlash muammolarini"
+    },
+    {
+      "id": 16,
+      "question": "Shor algoritmi qachon yaratilgan?",
+      "options": [
+        "1994",
+        "1996",
+        "2001",
+        "2010"
+      ],
+      "correct_answer": "1994"
+    },
+    {
+      "id": 17,
+      "question": "Grover algoritmi qachon yaratilgan?",
+      "options": [
+        "1996",
+        "2001",
+        "2010",
+        "1994"
+      ],
+      "correct_answer": "1996"
+    },
+    {
+      "id": 18,
+      "question": "Grover algoritmi qaysi turdagi kriptografik algoritmlarga jiddiy ta'sir o'tkazadi?",
+      "options": [
+        "Simmetrik kalitli",
+        "RSA",
+        "ECC",
+        "Diffie-Hellman"
+      ],
+      "correct_answer": "Simmetrik kalitli"
+    },
+    {
+      "id": 19,
+      "question": "Grover algoritmi simmetrik kriptografiyadagi 2^128 hisoblashni qanchaga qisqartiradi?",
+      "options": [
+        "2^64",
+        "2^127",
+        "2^32",
+        "2^16"
+      ],
+      "correct_answer": "2^64"
+    },
+    {
+      "id": 20,
+      "question": "Grover algoritmi simmetrik kriptografiyadagi 2^256 hisoblashni qanchaga qisqartiradi?",
+      "options": [
+        "2^128",
+        "2^255",
+        "2^64",
+        "2^32"
+      ],
+      "correct_answer": "2^128"
+    },
+    {
+      "id": 21,
+      "question": "Kvant kompyuterlarini yaratilishi kriptografik algoritmlarning qaysi turiga ko'p ta'sir qiladi?",
+      "options": [
+        "Ochiq kalitli",
+        "Simmetrik",
+        "Xesh funksiya",
+        "Barcha turdagi kriptografik algoritmlarga birdek ta'sir qiladi"
+      ],
+      "correct_answer": "Ochiq kalitli"
+    },
+    {
+      "id": 22,
+      "question": "&quot;Dushmanlar kvant kompyuterlari mavjud bo‘lganda shifrlangan ma’lumotlarni ochish niyatida hozir saqlashlari mumkin&quot;. Bu qaysi hujumni ko'rsatadi?",
+      "options": [
+        "Harvest Now, Decrypt Later",
+        "Men in the middle attack",
+        "Denial of Service attack",
+        "Meet in the middle attack"
+      ],
+      "correct_answer": "Harvest Now, Decrypt Later"
+    },
+    {
+      "id": 23,
+      "question": "Post kvant kriptografiya algoritmlari asoslangan matematika sohasi bu?",
+      "options": [
+        "Panjara",
+        "Sonlar nazariyasi",
+        "Diskret matematika",
+        "Bul algebrasi"
+      ],
+      "correct_answer": "Panjara"
+    },
+    {
+      "id": 24,
+      "question": "Panjara kriptografiyasida qisqa va deyarli ortogonal vektorlardan tashkil topgan bazis bu?",
+      "options": [
+        "yaxshi bazis",
+        "yomon bazis",
+        "o'rtacha bazis",
+        "qoniqarli bazis"
+      ],
+      "correct_answer": "yaxshi bazis"
+    },
+    {
+      "id": 25,
+      "question": "Panjarali kriptotizimning shaxsiy kaliti sifatida qanday bazis tanlanadi?",
+      "options": [
+        "yaxshi bazis",
+        "yomon bazis",
+        "o'rtacha bazis",
+        "qoniqarli bazis"
+      ],
+      "correct_answer": "yaxshi bazis"
+    },
+    {
+      "id": 26,
+      "question": "Panjarali kriptotizimning ochiq kaliti sifatida qanday bazis tanlanadi?",
+      "options": [
+        "yomon bazis",
+        "o'rtacha bazis",
+        "qoniqarli bazis",
+        "yaxshi bazis"
+      ],
+      "correct_answer": "yomon bazis"
+    },
+    {
+      "id": 27,
+      "question": "bazis vektorlar b_1=(2,1), b_2=(1,3) ga teng, z_1=0, z_2=0 ga teng bo'lsa, Λ=z_1 b_1+z_2 b_2 panjara nuqtasini hisoblang?",
+      "options": [
+        "(0,0)",
+        "(2,1)",
+        "(1,3)",
+        "(3,4)"
+      ],
+      "correct_answer": "(0,0)"
+    },
+    {
+      "id": 28,
+      "question": "bazis vektorlar b_1=(2,1), b_2=(1,3) ga teng, z_1=1, z_2=0 ga teng bo'lsa, Λ=z_1 b_1+z_2 b_2 panjara nuqtasini hisoblang?",
+      "options": [
+        "(2,1)",
+        "(1,3)",
+        "(3,4)",
+        "(0,0)"
+      ],
+      "correct_answer": "(2,1)"
+    },
+    {
+      "id": 29,
+      "question": "bazis vektorlar b_1=(2,1), b_2=(1,3) ga teng, z_1=0, z_2=1 ga teng bo'lsa, Λ=z_1 b_1+z_2 b_2 panjara nuqtasini hisoblang?",
+      "options": [
+        "(1,3)",
+        "(3,4)",
+        "(0,0)",
+        "(2,1)"
+      ],
+      "correct_answer": "(1,3)"
+    },
+    {
+      "id": 30,
+      "question": "bazis vektorlar b_1=(2,1), b_2=(1,3) ga teng, z_1=1, z_2=1 ga teng bo'lsa, Λ=z_1 b_1+z_2 b_2 panjara nuqtasini hisoblang?",
+      "options": [
+        "(3,4)",
+        "(0,0)",
+        "(2,1)",
+        "(1,3)"
+      ],
+      "correct_answer": "(3,4)"
+    },
+    {
+      "id": 31,
+      "question": "Faraz qilinsin λ(Λ) qiymat Λ dagi nolga teng bo‘lmagan eng qisqa vektorning uzunligi. ‖l‖=λ(Λ) ​ shartni qanoatlantiruvchi l∈L ni topish vazifasi bu?",
+      "options": [
+        "Eng qisqa vektor muammosi",
+        "Eng yaqin vektor muammosi",
+        "Eng uzun vektor muammosi",
+        "Eng uzoq vektor muammosi"
+      ],
+      "correct_answer": "Eng qisqa vektor muammosi"
+    },
+    {
+      "id": 32,
+      "question": "Panjarada berilgan q∈E^n nuqta uchun ‖l-q‖ qiymat eng minimal bo‘lishini ta’minlovchi l∈L ni topish vazifasi bu?",
+      "options": [
+        "Eng yaqin vektor muammosi",
+        "Eng uzun vektor muammosi",
+        "Eng uzoq vektor muammosi",
+        "Eng qisqa vektor muammosi"
+      ],
+      "correct_answer": "Eng yaqin vektor muammosi"
+    },
+    {
+      "id": 33,
+      "question": "Panjara kriptografiyasidagi xatolik bilan o‘rganish ifodasini ko'rsating?",
+      "options": [
+        "A∙s+e=b",
+        "A∙s=b",
+        "A/s+e=b",
+        "A/s=b"
+      ],
+      "correct_answer": "A∙s+e=b"
+    },
+    {
+      "id": 34,
+      "question": "2010-yilda Vadim Lyubashevskiy, Kris Peykert va Oded Regev tomonidan taklif qilingan LWE varianti?",
+      "options": [
+        "Ring-LWE",
+        "Module-LWE",
+        "Plain LWE",
+        "Simple LWE"
+      ],
+      "correct_answer": "Ring-LWE"
+    },
+    {
+      "id": 35,
+      "question": "2012-yilda Adeline Langlois va Damien Stehlé tomonidan taklif qilingan LWE varianti?",
+      "options": [
+        "Module-LWE",
+        "Plain LWE",
+        "Simple LWE",
+        "Ring-LWE"
+      ],
+      "correct_answer": "Module-LWE"
+    },
+    {
+      "id": 36,
+      "question": "LWElarning qaysi varianti uchun ko'phadlar ustida ko'paytirish amali qo'llaniladi?",
+      "options": [
+        "Ring-LWE",
+        "Module-LWE",
+        "Plain LWE",
+        "Simple LWE"
+      ],
+      "correct_answer": "Ring-LWE"
+    },
+    {
+      "id": 37,
+      "question": "Saber sxemasi qaysi LWR variantidan foydalangan?",
+      "options": [
+        "Module-LWE",
+        "Plain LWE",
+        "Simple LWE",
+        "Ring-LWE"
+      ],
+      "correct_answer": "Module-LWE"
+    },
+    {
+      "id": 38,
+      "question": "1996-yilda Hoffstein, Pipher va Silverman tomonidan ishlab chiqilgan panjaraga asoslangan tizim bu?",
+      "options": [
+        "NTRU",
+        "LWE",
+        "LWR",
+        "Saber"
+      ],
+      "correct_answer": "NTRU"
+    },
+    {
+      "id": 39,
+      "question": "Uzatish davomida shovqin tufayli yuzaga kelishi mumkin bo‘lgan aloqa xatolarini aniqlash va tuzatish uchun standart yondashuv bu?",
+      "options": [
+        "Xatolarni tuzatuvchi kodlar",
+        "Oqimli shifrlar",
+        "Blokli shifrlar",
+        "Ochiq kalitli shifrlar"
+      ],
+      "correct_answer": "Xatolarni tuzatuvchi kodlar"
+    },
+    {
+      "id": 40,
+      "question": "Post kvant kriptotografiyasi algoritmlarini yaratishdagi matemtika sohalarini ko'rsating?",
+      "options": [
+        "Barcha javoblar to'g'ri",
+        "Panjara",
+        "Kodga asoslangan",
+        "Ko‘p o‘zgaruvchili"
+      ],
+      "correct_answer": "Barcha javoblar to'g'ri"
+    },
+    {
+      "id": 41,
+      "question": "Panjara kriptografiyasiga oid muammoni ko'rsating?",
+      "options": [
+        "Eng yaqin vektor muammosi",
+        "Sindromni dekodlash muammosi",
+        "MQ (multivariate quadratic) muammosi",
+        "(Isomorphism of Polynomials, IP) muammosini"
+      ],
+      "correct_answer": "Eng yaqin vektor muammosi"
+    },
+    {
+      "id": 42,
+      "question": "Chiziqli kodlarga oid hisoblash muammosi keltirilgan qatorni ko'rsating?",
+      "options": [
+        "Sindromni dekodlash muammosi",
+        "MQ (multivariate quadratic) muammosi",
+        "(Isomorphism of Polynomials, IP) muammosini",
+        "Eng yaqin vektor muammosi"
+      ],
+      "correct_answer": "Sindromni dekodlash muammosi"
+    },
+    {
+      "id": 43,
+      "question": "Ko‘p o‘zgaruvchili kriptografiyaga oid muammoni ko'rsating?",
+      "options": [
+        "MQ (multivariate quadratic) muammosi",
+        "Sindromni dekodlash muammosi",
+        "Eng yaqin vektor muammosi",
+        "Eng qisqa vektor muammosi"
+      ],
+      "correct_answer": "MQ (multivariate quadratic) muammosi"
+    },
+    {
+      "id": 44,
+      "question": "Ko‘p o‘zgaruvchili kriptografiyaga oid muammoni ko'rsating?",
+      "options": [
+        "(Isomorphism of Polynomials, IP) muammosini",
+        "Eng yaqin vektor muammosi",
+        "Sindromni dekodlash muammosi",
+        "Eng qisqa vektor muammosi"
+      ],
+      "correct_answer": "(Isomorphism of Polynomials, IP) muammosini"
+    },
+    {
+      "id": 45,
+      "question": "NIST tomonidan Post-kvant kriptografiyasini standartlashtirish loyihasi qachon boshlandi?",
+      "options": [
+        "2016-yil",
+        "2018-yil",
+        "2020-yil",
+        "2022-yil"
+      ],
+      "correct_answer": "2016-yil"
+    },
+    {
+      "id": 46,
+      "question": "NIST RSA kabi keng qo‘llaniladigan kriptografik tizimlar nechanchi yilga kelib kvant kompyuterlari tomonidan buzilishi ​ mumkinligi haqidagi hisobotni e'lon qildi?",
+      "options": [
+        "2030",
+        "2026",
+        "2050",
+        "2100"
+      ],
+      "correct_answer": "2030"
+    },
+    {
+      "id": 47,
+      "question": "NIST tomonidan e'lon qilingan Post-kvant kriptografiyasi tanlovi qanday kriptografik mexanizmlarni qamrab oladi?",
+      "options": [
+        "Elektron raqamli imzo va kalit inkapsulyatsiyasi",
+        "Elektron raqamli imzo",
+        "Kalit inkapsulyatsiyasi",
+        "Simmetrik kalitli shifrlar"
+      ],
+      "correct_answer": "Elektron raqamli imzo va kalit inkapsulyatsiyasi"
+    },
+    {
+      "id": 48,
+      "question": "NIST tomonidan e'lon qilingan Post-kvant kriptografiyasi tanlovining birinchi bosqichida nechta algoritm tanlab olindi?",
+      "options": [
+        "69",
+        "82",
+        "25",
+        "26"
+      ],
+      "correct_answer": "69"
+    },
+    {
+      "id": 49,
+      "question": "NIST tomonidan e'lon qilingan Post-kvant kriptografiyasi tanlovining ikkinchi bosqichida nechta algoritm tanlab olindi?",
+      "options": [
+        "26",
+        "69",
+        "82",
+        "25"
+      ],
+      "correct_answer": "26"
+    },
+    {
+      "id": 50,
+      "question": "NIST tomonidan e'lon qilingan Post-kvant kriptografiyasi tanlovining uchunchi bosqichida nechta algoritm tanlab olindi?",
+      "options": [
+        "7",
+        "9",
+        "17",
+        "25"
+      ],
+      "correct_answer": "7"
+    },
+    {
+      "id": 51,
+      "question": "NIST tomonidan e'lon qilingan Post-kvant kriptografiyasi tanlovining uchunchi bosqichida nechta algoritm alternativ sifatida tanlab olindi?",
+      "options": [
+        "8",
+        "7",
+        "9",
+        "17"
+      ],
+      "correct_answer": "8"
+    },
+    {
+      "id": 52,
+      "question": "NIST PQC tanlovida ochiq kalitli shifrlash/ kalit inkapsulyatsiyasi bo'yicha qaysi algoritm standartlashtirish uchun tanlab olindi?",
+      "options": [
+        "CRYSTALS-Kyber",
+        "CRYSTALS-Dilithium",
+        "FALCON",
+        "SPHINCS+."
+      ],
+      "correct_answer": "CRYSTALS-Kyber"
+    },
+    {
+      "id": 53,
+      "question": "NIST PQC tanlovida elektron raqamli imzo bo'yicha qaysi algoritm standartlashtirish uchun tanlab olindi?",
+      "options": [
+        "CRYSTALS-Dilithium",
+        "CRYSTALS-Kyber",
+        "Saber",
+        "Bike"
+      ],
+      "correct_answer": "CRYSTALS-Dilithium"
+    },
+    {
+      "id": 54,
+      "question": "NIST PQC tanlovida elektron raqamli imzo bo'yicha qaysi algoritm standartlashtirish uchun tanlab olindi?",
+      "options": [
+        "SPHINCS+.",
+        "CRYSTALS-Kyber",
+        "Saber",
+        "Bike"
+      ],
+      "correct_answer": "SPHINCS+."
+    },
+    {
+      "id": 55,
+      "question": "Kaber sxemasi qaysi LWR variantidan foydalangan?",
+      "options": [
+        "Module-LWE",
+        "Plain LWE",
+        "Simple LWE",
+        "Ring-LWE"
+      ],
+      "correct_answer": "Module-LWE"
+    },
+    {
+      "id": 56,
+      "question": "Dilithium sxemasi qaysi LWR variantidan foydalangan?",
+      "options": [
+        "Module-LWE",
+        "Plain LWE",
+        "Simple LWE",
+        "Ring-LWE"
+      ],
+      "correct_answer": "Module-LWE"
+    },
+    {
+      "id": 57,
+      "question": "Kodlarga asoslangan shifrlash sxemasini ko'rsating?",
+      "options": [
+        "Classic McEliece",
+        "Dilithium",
+        "Kaber",
+        "Saber"
+      ],
+      "correct_answer": "Classic McEliece"
+    },
+    {
+      "id": 58,
+      "question": "NTRU tuzilmasiga asoslangan algoritmni ko'rsating?",
+      "options": [
+        "Falcon",
+        "Classic McEliece",
+        "Dilithium",
+        "Kaber"
+      ],
+      "correct_answer": "Falcon"
+    },
+    {
+      "id": 59,
+      "question": "Ko‘p o‘zgaruvchili imzo sxemasiga asoslangan algoritmni ko'rsating?",
+      "options": [
+        "Rainbow",
+        "Falcon",
+        "Classic McEliece",
+        "Dilithium"
+      ],
+      "correct_answer": "Rainbow"
+    },
+    {
+      "id": 60,
+      "question": "Post kvant kriptogafiyasiga oid algoritmlar amalga oshirilgan kutubxonani ko'rsating?",
+      "options": [
+        "Liboqs",
+        "OpenSSL",
+        "Bouncy Castle",
+        "CryptoLib"
+      ],
+      "correct_answer": "Liboqs"
+    }
+  ]
+}

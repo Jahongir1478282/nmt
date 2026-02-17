@@ -8,6 +8,8 @@ import strategiyaQuestions from "../../data/strategiya.json";
 import pedQuestions from "../../data/ped.json";
 import innovationQuestions from "../../data/innovatsion.json";
 import yvkQuestions from "../../data/yvk.json";
+import lwcQuestions from "../../data/lwc.json";
+import pqcQuestions from "../../data/pqc.json";
 
 export interface Question {
   id?: number;
@@ -38,11 +40,17 @@ const shuffle = <T>(source: T[]): T[] => takeRandom(source, source.length);
 const cryptoPool = (cryptoQuestions as { questions: Question[] }).questions;
 const kmaPool = (kmaQuestions as { questions: Question[] }).questions;
 const zkuPool = (zkuQuestions as { questions: Question[] }).questions;
+const yvkPool = (yvkQuestions as { questions: Question[] }).questions;
+const lwcPool = (lwcQuestions as { questions: Question[] }).questions;
+const pqcPool = (pqcQuestions as { questions: Question[] }).questions;
 
 const mixSpecialistQuestions: Question[] = shuffle([
   ...takeRandom(cryptoPool, 20),
   ...takeRandom(kmaPool, 20),
   ...takeRandom(zkuPool, 20),
+  ...takeRandom(yvkPool, 20),
+  ...takeRandom(lwcPool, 20),
+  ...takeRandom(pqcPool, 20),
 ]);
 
 export const tests = {
@@ -82,6 +90,16 @@ export const tests = {
     title: "Kriptografik protokollar",
     questions: (cryptoQuestions as { questions: Question[] }).questions,
     durationSeconds: 60 * 60,
+  },
+  LWC: {
+    title: "Yengil vaznli kriptografiya (new)*",
+    questions: (lwcQuestions as unknown as { questions: Question[] }).questions,
+    durationSeconds: 60 * 80,
+  },
+  PQC: {
+    title: "Post-kvant kriptografiya (new)*",
+    questions: (pqcQuestions as unknown as { questions: Question[] }).questions,
+    durationSeconds: 60 * 80,
   },
   general: {
     title: "Umumiy kirish testlari",

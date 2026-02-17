@@ -1,0 +1,1326 @@
+{
+  "title": "Quiz",
+  "totalQuestions": 120,
+  "questions": [
+    {
+      "id": 1,
+      "question": "O‘zbekiston Respublikasi Prezidentining “O‘zbekiston Respublikasida kriptologiya sohasida ta’lim va ilm-fanni rivojlantirish bo‘yicha qo‘shimcha chora-tadbirlar to‘g‘risida”gi PQ-293-son Qarori qachon qabul qilingan?",
+      "options": [
+        "2024-yil 15-avgust",
+        "2024-yil 11-iyul",
+        "2019-yil 23-sentabr",
+        "2023-yil 11-sentabr"
+      ],
+      "correct_answer": "2024-yil 15-avgust"
+    },
+    {
+      "id": 2,
+      "question": "IoT qaysi sohalarda foydalanilmoqda?",
+      "options": [
+        "Barcha javoblar to‘g‘ri",
+        "uy va binolarni avtomatlashtirish",
+        "aqlli shaharlar, aqlli qishloq xo‘jaligi",
+        "aqlli tarmoqlar, sanoat 4.0"
+      ],
+      "correct_answer": "Barcha javoblar to‘g‘ri"
+    },
+    {
+      "id": 3,
+      "question": "Yorug‘lik va xonani boshqarish sohasidagi innovatsiyalar qaysi IoT ilovasiga misol bo‘ladi?",
+      "options": [
+        "uy va binolarni avtomatlashtirish",
+        "aqlli shaharlar",
+        "aqlli qishloq xo‘jaligi",
+        "sanoat 4.0"
+      ],
+      "correct_answer": "uy va binolarni avtomatlashtirish"
+    },
+    {
+      "id": 4,
+      "question": "&quot;IoT texnologiyalari shahar holati to‘g‘risidagi ma’lumotlarni to‘plash va ularni fuqarolarga tarqatish uchun muhim hisoblanadi&quot;. Bu qaysi IoT ilovasiga misol bo‘la oladi?",
+      "options": [
+        "aqlli shaharlar",
+        "uy va binolarni avtomatlashtirish",
+        "aqlli qishloq xo‘jaligi",
+        "sanoat 4.0"
+      ],
+      "correct_answer": "aqlli shaharlar"
+    },
+    {
+      "id": 5,
+      "question": "Aqlli hisoblagichlar, aqlli qurilmalar, qayta tiklanadigan energiya manbalari va energiya tejaydigan resurslarni o‘z ichiga olgan turli operatsion tizimlariga ega elektr tarmog‘i bu?",
+      "options": [
+        "aqlli energetik tarmoqlar",
+        "uy va binolarni avtomatlashtirish",
+        "aqlli shaharlar",
+        "aqlli qishloq xo‘jaligi"
+      ],
+      "correct_answer": "aqlli energetik tarmoqlar"
+    },
+    {
+      "id": 6,
+      "question": "Evropa Ittifoqi standartlari va qonunlariga ko‘ra, elektr ta’minoti kompaniyalari PLCdan qaysi chastota diapazonidan foydalanishlari mumkin?",
+      "options": [
+        "3-148 kHz",
+        "300-1480 kHz",
+        "3-148 MHz",
+        "200-400 kHz"
+      ],
+      "correct_answer": "3-148 kHz"
+    },
+    {
+      "id": 7,
+      "question": "IoTni ishlab chiqarish, logistika, neft va gaz, transport, energetika/kommunal xizmatlar, tog‘-kon sanoati va metallar, aviatsiya va boshqa sohalarda qo‘llanilishi?",
+      "options": [
+        "sanoatlashgan IoT",
+        "aqlli shaharlar",
+        "aqlli qishloq xo‘jaligi",
+        "uy va binolarni avtomatlashtirish"
+      ],
+      "correct_answer": "sanoatlashgan IoT"
+    },
+    {
+      "id": 8,
+      "question": "IoT texnologiyasida mavjud aloqa standartlarini uzatish diapazonlariga ko‘ra nechta guruhga ajratish mumkin?",
+      "options": [
+        "2",
+        "3",
+        "4",
+        "5"
+      ],
+      "correct_answer": "2"
+    },
+    {
+      "id": 9,
+      "question": "IoT texnologiyasida mavjud aloqa standartlarini uzatish diapazonlariga ko‘ra qanday guruhlarga ajratish mumkin?",
+      "options": [
+        "Qisqa va uzoq masofali",
+        "Qisqa va o‘rta masofali",
+        "O‘rta va uzoq masofali",
+        "Uzun chastotali va o‘rta chastotali"
+      ],
+      "correct_answer": "Qisqa va uzoq masofali"
+    },
+    {
+      "id": 10,
+      "question": "Qisqa masofali aloqa standartlariga qaysilar kiradi?",
+      "options": [
+        "IEEE 802.11, IEEE 802.15.1, IEEE 802.15.4",
+        "IEEE 802.11, IEEE 802.15.1, LoRA",
+        "IEEE 802.15.1, IEEE 802.15.4, LoRA",
+        "IEEE 802.11, LoRA, IEEE 802.15.4"
+      ],
+      "correct_answer": "IEEE 802.11, IEEE 802.15.1, IEEE 802.15.4"
+    },
+    {
+      "id": 11,
+      "question": "Qisqa masofali aloqa standartlariga oid qurilmalar qaysi diapazonda ishlaydi?",
+      "options": [
+        "2,400–2,4835 GGts",
+        "868–870 MGts",
+        "5,400–5,4835 GGts",
+        "7,400–7,4835 GGts"
+      ],
+      "correct_answer": "2,400–2,4835 GGts"
+    },
+    {
+      "id": 12,
+      "question": "Uzoq masofali aloqa standartlariga oid qurilmalar qaysi diapazonda ishlaydi?",
+      "options": [
+        "868–870 MGts",
+        "2,400–2,4835 GGts",
+        "5,400–5,4835 GGts",
+        "7,400–7,4835 GGts"
+      ],
+      "correct_answer": "868–870 MGts"
+    },
+    {
+      "id": 13,
+      "question": "Uzoq masofali aloqa standarti keltirilgan javobni toping?",
+      "options": [
+        "LoRA",
+        "Bluetooth",
+        "ZigBee/6LoWPAN",
+        "Wi-Fi"
+      ],
+      "correct_answer": "LoRA"
+    },
+    {
+      "id": 14,
+      "question": "IoT qurilmalariga nisbatan &quot;imkoniyati cheklangan&quot; iborasini ishlatilishi qanday ma'noda tushuniladi?",
+      "options": [
+        "Barcha javoblar to‘g‘ri",
+        "Quvvat manbasini cheklanganligi",
+        "Hisoblash imkoniyatlarini cheklanganligi",
+        "Tarmoq imkoniyatlarini cheklanganligi"
+      ],
+      "correct_answer": "Barcha javoblar to‘g‘ri"
+    },
+    {
+      "id": 15,
+      "question": "Aqlli ob'yekt qanday modullardan iborat?",
+      "options": [
+        "Barcha javoblar to‘g‘ri",
+        "Aloqa moduli",
+        "Mikrokontroller, quvvat manbai",
+        "Sensorlar yoki bajaruvchi mexanizmlar"
+      ],
+      "correct_answer": "Barcha javoblar to‘g‘ri"
+    },
+    {
+      "id": 16,
+      "question": "Faqat o‘qish uchun mo‘ljallangan xotira bu?",
+      "options": [
+        "ROM",
+        "RAM",
+        "USART",
+        "SRAM"
+      ],
+      "correct_answer": "ROM"
+    },
+    {
+      "id": 17,
+      "question": "RFC7228 hujjatida IoT aqlli ​ ob’ektlari va cheklangan qurilmalar nechta sinfga ajratilgan?",
+      "options": [
+        "3",
+        "2",
+        "4",
+        "5"
+      ],
+      "correct_answer": "3"
+    },
+    {
+      "id": 18,
+      "question": "Qurilmaning harakatini ifodalaydigan dastur kodini saqlash uchun ishlatiladigan xotira bu?",
+      "options": [
+        "ROM",
+        "RAM",
+        "USART",
+        "SRAM"
+      ],
+      "correct_answer": "ROM"
+    },
+    {
+      "id": 19,
+      "question": "Dasturiy ta’minot o‘z vazifasini bajarishi kerak bo‘lgan vaqtinchalik ma’lumotlar uchun ishlatiladigan xotira bu?",
+      "options": [
+        "RAM",
+        "ROM",
+        "USART",
+        "PROM"
+      ],
+      "correct_answer": "RAM"
+    },
+    {
+      "id": 20,
+      "question": "RFC7228da 0-sinf (Class 0) qurilmalari imkoniyati keltirilgan javobni toping?",
+      "options": [
+        "RAM (&lt;&lt;10 KiB), ROM (&lt;&lt;100 KiB)",
+        "RAM (~10 KiB), ROM (~100 KiB)",
+        "RAM (~50 KiB), ROM (~250 KiB)",
+        "RAM (&lt;&lt;10 MiB), ROM (&lt;&lt;100 MiB)"
+      ],
+      "correct_answer": "RAM (&lt;&lt;10 KiB), ROM (&lt;&lt;100 KiB)"
+    },
+    {
+      "id": 21,
+      "question": "RFC7228da 1-sinf (Class 1) qurilmalari imkoniyati keltirilgan javobni toping?",
+      "options": [
+        "RAM (~10 KiB), ROM (~100 KiB)",
+        "RAM (&lt;&lt;10 KiB), ROM (&lt;&lt;100 KiB)",
+        "RAM (~50 KiB), ROM (~250 KiB)",
+        "RAM (&lt;&lt;10 MiB), ROM (&lt;&lt;100 MiB)"
+      ],
+      "correct_answer": "RAM (~10 KiB), ROM (~100 KiB)"
+    },
+    {
+      "id": 22,
+      "question": "RFC7228da 2-sinf (Class 2) qurilmalari imkoniyati keltirilgan javobni toping?",
+      "options": [
+        "RAM (~50 KiB), ROM (~250 KiB)",
+        "RAM (~10 KiB), ROM (~100 KiB)",
+        "RAM (&lt;&lt;10 KiB), ROM (&lt;&lt;100 KiB)",
+        "RAM (&lt;&lt;10 MiB), ROM (&lt;&lt;100 MiB)"
+      ],
+      "correct_answer": "RAM (~50 KiB), ROM (~250 KiB)"
+    },
+    {
+      "id": 23,
+      "question": "Ushbu sinf qurilmalarini odatda an’anaviy ma’noda himoya qilish yoki har tomonlama boshqarish mumkin emas. Gap RFC7228ning qaysi sinfi haqida bormoqda?",
+      "options": [
+        "0-sinf",
+        "1-sinf",
+        "2-sinf",
+        "Barcha javoblar to‘g‘ri"
+      ],
+      "correct_answer": "0-sinf"
+    },
+    {
+      "id": 24,
+      "question": "Ular cheklangan tugunlar uchun maxsus mo‘ljallangan protokollar stekidan foydalanishlari mumkin (masalan, UDP orqali CoAP). Gap RFC7228ning qaysi sinfi haqida bormoqda?",
+      "options": [
+        "1-sinf",
+        "2-sinf",
+        "Barcha javoblar to‘g‘ri",
+        "0-sinf"
+      ],
+      "correct_answer": "1-sinf"
+    },
+    {
+      "id": 25,
+      "question": "Ushbu sinf qurilmalari kamroq cheklangan va asosan noutbuklar yoki serverlarda ishlatiladigan protokollar steklarining ko‘pini qo‘llab-quvvatlashga qodir. Gap RFC7228ning qaysi sinfi haqida bormoqda?",
+      "options": [
+        "2-sinf",
+        "Barcha javoblar to‘g‘ri",
+        "0-sinf",
+        "1-sinf"
+      ],
+      "correct_answer": "2-sinf"
+    },
+    {
+      "id": 26,
+      "question": "IoT bozorida mavjud apparat platformalari keltirilgan qatorni toping?",
+      "options": [
+        "TelosB, Zolertia Z1, OpenMote",
+        "Arduino, Raspberry Pi, OpenWSN",
+        "TinyOS, Zolertia Z1, OpenMote",
+        "FreeRTOS, TelosB, Zolertia Z1, Contiki OS"
+      ],
+      "correct_answer": "TelosB, Zolertia Z1, OpenMote"
+    },
+    {
+      "id": 27,
+      "question": "IoT bozorida mavjud apparat platformalari keltirilgan qatorni toping?",
+      "options": [
+        "Arduino, Raspberry Pi, OpenMote",
+        "TelosB, Zolertia Z1, Contiki OS",
+        "TinyOS, Zolertia Z1, OpenMote",
+        "FreeRTOS, TelosB, Zolertia Z1, Contiki OS"
+      ],
+      "correct_answer": "Arduino, Raspberry Pi, OpenMote"
+    },
+    {
+      "id": 28,
+      "question": "IoT bozorida mavjud dasturiy platformalari keltirilgan qatorni toping?",
+      "options": [
+        "OpenWSN, TinyOS, Contiki OS",
+        "Arduino, Raspberry Pi, OpenWSN",
+        "TinyOS, Zolertia Z1, OpenMote",
+        "FreeRTOS, TelosB, Zolertia Z1, Contiki OS"
+      ],
+      "correct_answer": "OpenWSN, TinyOS, Contiki OS"
+    },
+    {
+      "id": 29,
+      "question": "IoT bozorida mavjud dasturiy platformalari keltirilgan qatorni toping?",
+      "options": [
+        "FreeRTOS, TinyOS, Contiki OS",
+        "Arduino, Raspberry Pi, OpenWSN",
+        "TinyOS, Zolertia Z1, OpenMote",
+        "FreeRTOS, TelosB, Zolertia Z1, Contiki OS"
+      ],
+      "correct_answer": "FreeRTOS, TinyOS, Contiki OS"
+    },
+    {
+      "id": 30,
+      "question": "Nima uchun AES va DES kabi algoritmlarni IoT qurilmalarida bevosita foydalanib bo‘lmaydi??",
+      "options": [
+        "Barcha javoblar to‘g‘ri",
+        "IoT qurilmalarida resurs cheklovlari mavjud",
+        "Kechikish vaqti yuqori va real vaqt rejimida ishlash uchun ancha sekin",
+        "DES kichik kalit o‘lchami (56 bit) tufayli xavfsiz emas, AES esa ​ o‘ta muhim bo‘lmagan ma’lumotlar uchun ortiqcha xavfsizlik darajasiga ega"
+      ],
+      "correct_answer": "Barcha javoblar to‘g‘ri"
+    },
+    {
+      "id": 31,
+      "question": "DES algoritmining kalit uzunligi keltirilgan qatorni toping?",
+      "options": [
+        "56 bit",
+        "128 bit",
+        "192 bit",
+        "256 bit"
+      ],
+      "correct_answer": "56 bit"
+    },
+    {
+      "id": 32,
+      "question": "DES algoritmining blok uzunligi keltirilgan qatorni toping?",
+      "options": [
+        "64 bit",
+        "128 bit",
+        "192 bit",
+        "256 bit"
+      ],
+      "correct_answer": "64 bit"
+    },
+    {
+      "id": 33,
+      "question": "DES algoritmi qanday qurilish tuzilmasiga asoslangan?",
+      "options": [
+        "Feystel tarmog'i",
+        "SP tarmoq",
+        "Lai-Messey tarmog'i",
+        "ARX tarmog'i"
+      ],
+      "correct_answer": "Feystel tarmog'i"
+    },
+    {
+      "id": 34,
+      "question": "AES algoritmi qanday qurilish tuzilmasiga asoslangan?",
+      "options": [
+        "SP tarmoq",
+        "Lai-Messey tarmog'i",
+        "ARX tarmog'i",
+        "Feystel tarmog'i"
+      ],
+      "correct_answer": "SP tarmoq"
+    },
+    {
+      "id": 35,
+      "question": "Ananaviy tarmoqdagi HTTP protokoli vazifasini IoT protokoli stekida qaysi protokol amalga oshiradi?",
+      "options": [
+        "CoAP",
+        "HTTP",
+        "UDP",
+        "TCP"
+      ],
+      "correct_answer": "CoAP"
+    },
+    {
+      "id": 36,
+      "question": "Ananaviy tarmoqdagi TCP protokoli vazifasini IoT protokoli stekida qaysi protokol amalga oshiradi?",
+      "options": [
+        "UDP",
+        "TCP",
+        "CoAP",
+        "HTTP"
+      ],
+      "correct_answer": "UDP"
+    },
+    {
+      "id": 37,
+      "question": "Ananaviy tarmoqdagi IP protokoli vazifasini IoT protokoli stekida qaysi protokol amalga oshiradi?",
+      "options": [
+        "IPv6/6LowPAN",
+        "TCP",
+        "CoAP",
+        "HTTP"
+      ],
+      "correct_answer": "IPv6/6LowPAN"
+    },
+    {
+      "id": 38,
+      "question": "Ananaviy tarmoqdagi HTTPS protokoli vazifasini IoT protokoli stekida qaysi protokol amalga oshiradi?",
+      "options": [
+        "CoAPs",
+        "HTTPS",
+        "UDP",
+        "TCP"
+      ],
+      "correct_answer": "CoAPs"
+    },
+    {
+      "id": 39,
+      "question": "Ananaviy tarmoqdagi TLS protokoli vazifasini IoT protokoli stekida qaysi protokol amalga oshiradi?",
+      "options": [
+        "DTLS",
+        "TLS",
+        "UDP",
+        "TCP"
+      ],
+      "correct_answer": "DTLS"
+    },
+    {
+      "id": 40,
+      "question": "Lightweight Cryptography - bu?",
+      "options": [
+        "Yengil vaznli kriptografiya",
+        "Yengil kriptografiya",
+        "Noananaviy kriptografiya",
+        "Nostandart kriptografiya"
+      ],
+      "correct_answer": "Yengil vaznli kriptografiya"
+    },
+    {
+      "id": 41,
+      "question": "Tiny Encryption Algoritm (TEA) algoritmida blok uzunligi necha bit?",
+      "options": [
+        "64",
+        "32",
+        "16",
+        "8"
+      ],
+      "correct_answer": "64"
+    },
+    {
+      "id": 42,
+      "question": "Tiny Encryption Algoritm (TEA) algoritmida kalit uzunligi necha bit?",
+      "options": [
+        "128",
+        "64",
+        "80",
+        "192"
+      ],
+      "correct_answer": "128"
+    },
+    {
+      "id": 43,
+      "question": "TEA algoritmidagi ekvivalent kalitlar muammosi kalit uzunligini necha bitgacha qisqartiradi?",
+      "options": [
+        "126",
+        "127",
+        "128",
+        "192"
+      ],
+      "correct_answer": "126"
+    },
+    {
+      "id": 44,
+      "question": "Moslashuvchanlik prinsipiga asoslangan yengil vaznli simmetrik blokli shifrni ko'rsating?",
+      "options": [
+        "SEA",
+        "TEA",
+        "XTEA",
+        "PRESENT"
+      ],
+      "correct_answer": "SEA"
+    },
+    {
+      "id": 45,
+      "question": "SEA algoritmidagi blok, kalit uzunligi n bilan protsessor (yoki so‘z) o‘lchami b o'rtasidagi bog'lanishni ko'rsating?",
+      "options": [
+        "n mod 6b = 0",
+        "n mod 2b = 0",
+        "n=b",
+        "2n=b"
+      ],
+      "correct_answer": "n mod 6b = 0"
+    },
+    {
+      "id": 46,
+      "question": "SEA(n,b) algoritmida b=8 bo'lsa, blok va kalit uzunligi n uchun bo'lishi mumkin bo'lgan to'gri qiymatni ko'rsating?",
+      "options": [
+        "48",
+        "64",
+        "94",
+        "142"
+      ],
+      "correct_answer": "48"
+    },
+    {
+      "id": 47,
+      "question": "SEA(n,b) algoritmida b=8 bo'lsa, blok va kalit uzunligi n uchun bo'lishi mumkin bo'lgan to'gri qiymatni ko'rsating?",
+      "options": [
+        "96",
+        "64",
+        "94",
+        "142"
+      ],
+      "correct_answer": "96"
+    },
+    {
+      "id": 48,
+      "question": "PRESENT shifrlash algoritmi qanday qurilish tuzilmasiga asoslangan?",
+      "options": [
+        "SP tarmoq",
+        "Lai-Messey tarmog'i",
+        "ARX tarmog'i",
+        "Feystel tarmog'i"
+      ],
+      "correct_answer": "SP tarmoq"
+    },
+    {
+      "id": 49,
+      "question": "PRESENT shifrlash algoritmining blok uzunligi necha bitga teng?",
+      "options": [
+        "64",
+        "128",
+        "32",
+        "194"
+      ],
+      "correct_answer": "64"
+    },
+    {
+      "id": 50,
+      "question": "PRESENT shifrlash algoritmining kalit uzunliklari necha bitga teng?",
+      "options": [
+        "80, 128",
+        "64",
+        "256",
+        "128, 192"
+      ],
+      "correct_answer": "80, 128"
+    },
+    {
+      "id": 51,
+      "question": "PRESENT shifrlash algoritmida raundlar soni nechiga teng?",
+      "options": [
+        "31",
+        "16",
+        "14",
+        "32"
+      ],
+      "correct_answer": "31"
+    },
+    {
+      "id": 52,
+      "question": "PRESENT shifrlash algoritmida foydalanilgan S jadval o'lchamini ko'rsating?",
+      "options": [
+        "4x4",
+        "6x4",
+        "8x8",
+        "3x3"
+      ],
+      "correct_answer": "4x4"
+    },
+    {
+      "id": 53,
+      "question": "PRESENT shifrlash algoritmidagi pLayer bosqichi necha bitli bufer ustida amalga oshiriladi?",
+      "options": [
+        "64",
+        "128",
+        "80",
+        "4"
+      ],
+      "correct_answer": "64"
+    },
+    {
+      "id": 54,
+      "question": "HIGH shifrlash algoritmida kalit uzunligi necha bitga teng?",
+      "options": [
+        "128",
+        "194",
+        "256",
+        "64"
+      ],
+      "correct_answer": "128"
+    },
+    {
+      "id": 55,
+      "question": "HIGH shifrlash algoritmida raundlar soni nechiga teng?",
+      "options": [
+        "32",
+        "31",
+        "16",
+        "14"
+      ],
+      "correct_answer": "32"
+    },
+    {
+      "id": 56,
+      "question": "HIGH shifrlash algoritmida blok uzunligi necha bitga teng?",
+      "options": [
+        "64",
+        "128",
+        "80",
+        "4"
+      ],
+      "correct_answer": "64"
+    },
+    {
+      "id": 57,
+      "question": "HIGH shifrlash algoritmi qanday qurilish tuzilmasiga asoslangan?",
+      "options": [
+        "Feystel tarmog'i",
+        "Lai-Messey tarmog'i",
+        "ARX tarmog'i",
+        "SP tarmog'i"
+      ],
+      "correct_answer": "Feystel tarmog'i"
+    },
+    {
+      "id": 58,
+      "question": "Yengil vaznli algoritmlarni apparat amalga oshirishdagi samaradorlik qanday kattalik bilan xarakterlanadi?",
+      "options": [
+        "GE soni",
+        "kod hajmi",
+        "raundlar soni",
+        "blok uzunligi"
+      ],
+      "correct_answer": "GE soni"
+    },
+    {
+      "id": 59,
+      "question": "Yengil vaznli algoritmlarni dasturiy amalga oshirishdagi samaradorlik qanday kattalik bilan xarakterlanadi?",
+      "options": [
+        "kod hajmi",
+        "raundlar soni",
+        "blok uzunligi",
+        "GE soni"
+      ],
+      "correct_answer": "kod hajmi"
+    },
+    {
+      "id": 60,
+      "question": "Imkoniyati cheklangan qurilmalar uchun ochiq kalitli tizimlarning qaysi muammoga asoslangan ko'rinishlaridan keng foydalaniladi?",
+      "options": [
+        "Elliktik egri chiziqqa asoslangan",
+        "Faktorlash",
+        "Diskret logarifmlash",
+        "Parametrli algebra muammosi"
+      ],
+      "correct_answer": "Elliktik egri chiziqqa asoslangan"
+    },
+    {
+      "id": 61,
+      "question": "NIST tomonidan 80 bitli simmetrik kriptotizim kaliti necha bitli RSA kalitiga tengligi aytilgan?",
+      "options": [
+        "1024",
+        "2048",
+        "3072",
+        "4096"
+      ],
+      "correct_answer": "1024"
+    },
+    {
+      "id": 62,
+      "question": "NIST tomonidan 80 bitli simmetrik kriptotizim kaliti necha bitli ECC kalitiga tengligi aytilgan?",
+      "options": [
+        "160",
+        "224",
+        "256",
+        "384"
+      ],
+      "correct_answer": "160"
+    },
+    {
+      "id": 63,
+      "question": "Xesh qiymat h berilgan bo‘lsa, h = hash(m) bo‘ladigan m xabarini olish uchun xesh funksiyasini o‘zgartirish qiyin bo‘lishi kerak. Bu qanday hujumni anglatadi?",
+      "options": [
+        "pre-image",
+        "second pre-image",
+        "kolliziya",
+        "hisoblashli tezkor"
+      ],
+      "correct_answer": "pre-image"
+    },
+    {
+      "id": 64,
+      "question": "m1 xabari berilgan bo‘lsa, hash(m1) = hash(m2) shartni qanoatlantiruvchi boshqa m2 xabarini topish qiyin bo‘lishi kerak. Bu qanday hujumni anglatadi?",
+      "options": [
+        "second pre-image",
+        "kolliziya",
+        "hisoblashli tezkor",
+        "pre-image"
+      ],
+      "correct_answer": "second pre-image"
+    },
+    {
+      "id": 65,
+      "question": "m1 ​ ≠ m2 bo‘lgan ikkita m1 va m2 xabarlarni topish qiyin bo‘lishi kerak, bu yerda, hash(m1) = hash(m2).",
+      "options": [
+        "kolliziya",
+        "hisoblashli tezkor",
+        "pre-image",
+        "second pre-image"
+      ],
+      "correct_answer": "kolliziya"
+    },
+    {
+      "id": 66,
+      "question": "Xavfsiz, ​ n-bitli chiqishga ega xesh funksiya uchun pre-image va ikkinchi tartibli pre-image hujumiga bardoshlik nechta amalni talab etishi kerak?",
+      "options": [
+        "2^n",
+        "n^2",
+        "2^(n/2)",
+        "n!"
+      ],
+      "correct_answer": "2^n"
+    },
+    {
+      "id": 67,
+      "question": "Xavfsiz, ​ n-bitli chiqishga ega xesh funksiya uchun kolliziya hujumiga bardoshlik nechta amalni talab etishi kerak?",
+      "options": [
+        "2^(n/2)",
+        "n^2",
+        "n!",
+        "2^n"
+      ],
+      "correct_answer": "2^(n/2)"
+    },
+    {
+      "id": 68,
+      "question": "DM-PRESENT va H-PRESENT xesh funksiyalari qaysi shifrlash algoritmiga asoslangan?",
+      "options": [
+        "PRESENT",
+        "TEA",
+        "SEA",
+        "HIGH"
+      ],
+      "correct_answer": "PRESENT"
+    },
+    {
+      "id": 69,
+      "question": "DM-PRESENT xesh funksiyasida xesh qiymat uzunligi necha bitga teng?",
+      "options": [
+        "64",
+        "80",
+        "128",
+        "192"
+      ],
+      "correct_answer": "64"
+    },
+    {
+      "id": 70,
+      "question": "H-PRESENT xesh funksiyasida xesh qiymat uzunligi necha bitga teng?",
+      "options": [
+        "128",
+        "192",
+        "64",
+        "80"
+      ],
+      "correct_answer": "128"
+    },
+    {
+      "id": 71,
+      "question": "88, 128, 160, 224 va 256 bitli chiqishlarga ega yengil vaznli xesh-funksiyalar oilasi bu?",
+      "options": [
+        "SPONGENT",
+        "PRESENT",
+        "H-PRESENT",
+        "QUARK"
+      ],
+      "correct_answer": "SPONGENT"
+    },
+    {
+      "id": 72,
+      "question": "136, 176 va 256 bit xesh o‘lchamlariga ega xesh funksiya oilasi bu?",
+      "options": [
+        "QUARK",
+        "SPONGENT",
+        "PRESENT",
+        "H-PRESENT"
+      ],
+      "correct_answer": "QUARK"
+    },
+    {
+      "id": 73,
+      "question": "SHA-3 tanlovi gʻolibi sifatida tanlangan algoritm nomi?",
+      "options": [
+        "Keccak",
+        "SPONGENT",
+        "PRESENT",
+        "QUARK"
+      ],
+      "correct_answer": "Keccak"
+    },
+    {
+      "id": 74,
+      "question": "Keccak algoritmi qanday konsturksiyadan foydalangan?",
+      "options": [
+        "Sponge",
+        "Merkel-Damgard",
+        "Simmetrik blokli shifrlarga asoslangan",
+        "CBC rejimiga asoslangan"
+      ],
+      "correct_answer": "Sponge"
+    },
+    {
+      "id": 75,
+      "question": "Shifrlash kо‘rinish bо‘lib, shifrmatnlar ustida hisoblash imkonini beradi. Gap qaysi shifrlash turi haqida bormoqda?",
+      "options": [
+        "Gomomorfik",
+        "Simmetrik",
+        "Ochiq kalitli",
+        "Kvant"
+      ],
+      "correct_answer": "Gomomorfik"
+    },
+    {
+      "id": 76,
+      "question": "RSA algoritmi qaysi amalga nisbatan qisman gomomorflik xususiyatiga ega?",
+      "options": [
+        "Ko'paytiruv",
+        "Qo'shish",
+        "XOR amali",
+        "Ayiruv"
+      ],
+      "correct_answer": "Ko'paytiruv"
+    },
+    {
+      "id": 77,
+      "question": "Paillier algoritmi qaysi amalga nisbatan qisman gomomorflik xususiyatiga ega?",
+      "options": [
+        "Qo'shish",
+        "XOR amali",
+        "Ayiruv",
+        "Ko'paytiruv"
+      ],
+      "correct_answer": "Qo'shish"
+    },
+    {
+      "id": 78,
+      "question": "El-Gamal algoritmi qaysi amalga nisbatan qisman gomomorflik xususiyatiga ega?",
+      "options": [
+        "Ko'paytiruv",
+        "Qo'shish",
+        "XOR amali",
+        "Ayiruv"
+      ],
+      "correct_answer": "Ko'paytiruv"
+    },
+    {
+      "id": 79,
+      "question": "Datagramga asoslangan bog‘lanishlar uchun maxfiylik, yaxlitlik va autentifikatsiyani ta’minlash uchun mo‘ljallangan xavfsizlik protokoli bu?",
+      "options": [
+        "DTLS",
+        "CoAP",
+        "UDP",
+        "TLS"
+      ],
+      "correct_answer": "DTLS"
+    },
+    {
+      "id": 80,
+      "question": "UDP’dagi umumiy muammolar, paketlarni yo‘qotish, tartibni o‘zgartirish va xabarlarni takrorlash kabilarni hal qilish uchun ishlab chiqilgan protokol bu?",
+      "options": [
+        "DTLS",
+        "CoAP",
+        "IPSec",
+        "TLS"
+      ],
+      "correct_answer": "DTLS"
+    },
+    {
+      "id": 81,
+      "question": "DTLS protokolidagi oldindan taqsimlangan simmetrik kalitdan foydalanishga asoslangan o'zaro autentifikatsiya usuli bu?",
+      "options": [
+        "Oldindan taqsimlangan kalit (Pre-shared Key, PSK)ga asoslangan",
+        "Xom (raw) ochiq kalitga asoslangan",
+        "Sertifikatlarga asoslangan",
+        "Barcha javoblar to‘g‘ri"
+      ],
+      "correct_answer": "Oldindan taqsimlangan kalit (Pre-shared Key, PSK)ga asoslangan"
+    },
+    {
+      "id": 82,
+      "question": "DTLS protokolidagi sertifikatlarsiz ochiq kalitni almashinuvchi o'zaro autentifikatsiya usuli bu?",
+      "options": [
+        "Xom (raw) ochiq kalitga asoslangan",
+        "Sertifikatlarga asoslangan",
+        "Barcha javoblar to‘g‘ri",
+        "Oldindan taqsimlangan kalit (Pre-shared Key, PSK)ga asoslangan"
+      ],
+      "correct_answer": "Xom (raw) ochiq kalitga asoslangan"
+    },
+    {
+      "id": 83,
+      "question": "Oqimli shifrlash algoritmlarini tanlab olish maqsadida tashkil etilgan konkurs nomini ko'rsating?",
+      "options": [
+        "eSTREAM",
+        "CAESAR",
+        "NIST LWC",
+        "ISO/IEC 29192"
+      ],
+      "correct_answer": "eSTREAM"
+    },
+    {
+      "id": 84,
+      "question": "eSTREAM loyihasida dasturiy amalga oshirishga qulay va yuqori o‘tkazuvchan oqimli shifrlar uchun qanday talablar qo'yilgan?",
+      "options": [
+        "128-bitli kalit, 64 va 128 bitli boshlang‘ich vektorni (IV) qo‘llab quvvatlashi kerak",
+        "80-bitli kalit, 32 va 64 bitli IVni qo‘llab quvvatlashi kerak",
+        "80-bitli kalit, 128 va 256 bitli IVni qo‘llab quvvatlashi kerak",
+        "128-bitli kalit, 128 va 256 bitli IVni qo‘llab quvvatlashi kerak"
+      ],
+      "correct_answer": "128-bitli kalit, 64 va 128 bitli boshlang‘ich vektorni (IV) qo‘llab quvvatlashi kerak"
+    },
+    {
+      "id": 85,
+      "question": "eSTREAM loyihasida qurilmaga amalga oshirishga qulay va cheklangan imkoniyatli qurilmalarda ishlovchi oqimli shifrlar ​ uchun qanday talablar qo'yilgan?",
+      "options": [
+        "80-bitli kalit, 32 va 64 bitli IVni qo‘llab quvvatlashi kerak",
+        "80-bitli kalit, 128 va 256 bitli IVni qo‘llab quvvatlashi kerak",
+        "128-bitli kalit, 128 va 256 bitli IVni qo‘llab quvvatlashi kerak",
+        "128-bitli kalit, 64 va 128 bitli boshlang‘ich vektorni (IV) qo‘llab quvvatlashi kerak"
+      ],
+      "correct_answer": "80-bitli kalit, 32 va 64 bitli IVni qo‘llab quvvatlashi kerak"
+    },
+    {
+      "id": 86,
+      "question": "eSTREAM loyihasida jami nechta algoritm ishtirok etgan?",
+      "options": [
+        "34",
+        "10",
+        "128",
+        "256"
+      ],
+      "correct_answer": "34"
+    },
+    {
+      "id": 87,
+      "question": "eSTREAM loyihasida dasturiy amalga oshirishga mo'ljallangan shifrlar kategoriyasi bo'yicha nechta algoritm tanlab olingan?",
+      "options": [
+        "4",
+        "3",
+        "2",
+        "1"
+      ],
+      "correct_answer": "4"
+    },
+    {
+      "id": 88,
+      "question": "eSTREAM loyihasida apparat amalga oshirishga mo'ljallangan shifrlar kategoriyasi bo'yicha nechta algoritm tanlab olingan?",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correct_answer": "3"
+    },
+    {
+      "id": 89,
+      "question": "eSTREAM loyihasida dasturiy amalga oshirishga mo'ljallangan shifrlar kategoriyasi bo'yicha tanlab olingan algoritmlardan birini ko'rsating?",
+      "options": [
+        "HC-128 (HC-256)",
+        "Grain v1",
+        "MICKEY 2.0",
+        "Trivium"
+      ],
+      "correct_answer": "HC-128 (HC-256)"
+    },
+    {
+      "id": 90,
+      "question": "eSTREAM loyihasida dasturiy amalga oshirishga mo'ljallangan shifrlar kategoriyasi bo'yicha tanlab olingan algoritmlardan birini ko'rsating?",
+      "options": [
+        "Rabbit",
+        "Grain v1",
+        "MICKEY 2.0",
+        "Trivium"
+      ],
+      "correct_answer": "Rabbit"
+    },
+    {
+      "id": 91,
+      "question": "eSTREAM loyihasida dasturiy amalga oshirishga mo'ljallangan shifrlar kategoriyasi bo'yicha tanlab olingan algoritmlardan birini ko'rsating?",
+      "options": [
+        "Salsa20/12",
+        "Grain v1",
+        "MICKEY 2.0",
+        "Trivium"
+      ],
+      "correct_answer": "Salsa20/12"
+    },
+    {
+      "id": 92,
+      "question": "eSTREAM loyihasida dasturiy amalga oshirishga mo'ljallangan shifrlar kategoriyasi bo'yicha tanlab olingan algoritmlardan birini ko'rsating?",
+      "options": [
+        "SOSEMANUK",
+        "Grain v1",
+        "MICKEY 2.0",
+        "Trivium"
+      ],
+      "correct_answer": "SOSEMANUK"
+    },
+    {
+      "id": 93,
+      "question": "eSTREAM loyihasida apparat amalga oshirishga mo'ljallangan shifrlar kategoriyasi bo'yicha tanlab olingan algoritmlardan birini ko'rsating?",
+      "options": [
+        "Grain v1",
+        "SOSEMANUK",
+        "Salsa20/12",
+        "Rabbit"
+      ],
+      "correct_answer": "Grain v1"
+    },
+    {
+      "id": 94,
+      "question": "eSTREAM loyihasida apparat amalga oshirishga mo'ljallangan shifrlar kategoriyasi bo'yicha tanlab olingan algoritmlardan birini ko'rsating?",
+      "options": [
+        "MICKEY 2.0",
+        "SOSEMANUK",
+        "Salsa20/12",
+        "Rabbit"
+      ],
+      "correct_answer": "MICKEY 2.0"
+    },
+    {
+      "id": 95,
+      "question": "eSTREAM loyihasida apparat amalga oshirishga mo'ljallangan shifrlar kategoriyasi bo'yicha tanlab olingan algoritmlardan birini ko'rsating?",
+      "options": [
+        "Trivium",
+        "SOSEMANUK",
+        "Salsa20/12",
+        "Rabbit"
+      ],
+      "correct_answer": "Trivium"
+    },
+    {
+      "id": 96,
+      "question": "CAESAR (Competition for Authenticated Encryption: Security, Applicability, and Robustness) loyihasida algoritmlar nechta kategoriyada tanlab olingan?",
+      "options": [
+        "3",
+        "2",
+        "1",
+        "4"
+      ],
+      "correct_answer": "3"
+    },
+    {
+      "id": 97,
+      "question": "CAESAR loyihasining LWC turidagi algoritmlar kategoriyasi bo'yicha tanlab olingan algoritm nomini ko'rsating?",
+      "options": [
+        "Ascon",
+        "AEGIS-128",
+        "AES",
+        "DES"
+      ],
+      "correct_answer": "Ascon"
+    },
+    {
+      "id": 98,
+      "question": "CAESAR loyihasining LWC turidagi algoritmlar kategoriyasi bo'yicha tanlab olingan algoritm nomini ko'rsating?",
+      "options": [
+        "ACORN",
+        "AEGIS-128",
+        "AES",
+        "DES"
+      ],
+      "correct_answer": "ACORN"
+    },
+    {
+      "id": 99,
+      "question": "NIST LWC konkursida AEAD turidagi shifrlash algoritmi uchun kalit uzunligiga qo'yilgan minimal talab?",
+      "options": [
+        "128 bit",
+        "256 bit",
+        "192 bit",
+        "80 bit"
+      ],
+      "correct_answer": "128 bit"
+    },
+    {
+      "id": 100,
+      "question": "NIST LWC konkursida AEAD turidagi shifrlash algoritmi uchun nonce uzunligiga qo'yilgan minimal talab?",
+      "options": [
+        "96 bit",
+        "60 bit",
+        "64 bit",
+        "80 bit"
+      ],
+      "correct_answer": "96 bit"
+    },
+    {
+      "id": 101,
+      "question": "NIST LWC konkursida AEAD turidagi shifrlash algoritmi uchun autentifikatsiya tegi uzunligiga qo'yilgan minimal talab?",
+      "options": [
+        "64 bit",
+        "96 bit",
+        "60 bit",
+        "80 bit"
+      ],
+      "correct_answer": "64 bit"
+    },
+    {
+      "id": 102,
+      "question": "NIST LWC konkursi nechta bosqichda amalga oshirilgan?",
+      "options": [
+        "3",
+        "4",
+        "2",
+        "1"
+      ],
+      "correct_answer": "3"
+    },
+    {
+      "id": 103,
+      "question": "NIST LWC konkursining birinchi bosqichida nechta algoritmlar ishtirok etgan?",
+      "options": [
+        "56",
+        "34",
+        "80",
+        "96"
+      ],
+      "correct_answer": "56"
+    },
+    {
+      "id": 104,
+      "question": "NIST LWC konkursida g'olib bo'lgan algoritm nomini ko'rsating?",
+      "options": [
+        "Ascon",
+        "Acorn",
+        "AEGIS-128",
+        "AES"
+      ],
+      "correct_answer": "Ascon"
+    },
+    {
+      "id": 105,
+      "question": "ISO/IEC 29192 seriyali standartida oqimli shifrlar sifatida qaysilar tanlab olingan?",
+      "options": [
+        "Enocoro, Trivium",
+        "PRESENT, CLEFIA",
+        "SIMON va SPECK",
+        "Ascon, Acorn"
+      ],
+      "correct_answer": "Enocoro, Trivium"
+    },
+    {
+      "id": 106,
+      "question": "ISO/IEC 29192 seriyali standartida blokli shifrlar sifatida qaysilar tanlab olingan?",
+      "options": [
+        "PRESENT, CLEFIA, SIMON va SPECK , LEA.",
+        "Enocoro, Trivium",
+        "Photon, Spongent",
+        "LightMAC, Tsudik keymode"
+      ],
+      "correct_answer": "PRESENT, CLEFIA, SIMON va SPECK , LEA."
+    },
+    {
+      "id": 107,
+      "question": "ISO/IEC 29192 seriyali standartida xesh funksiyalar sifatida qaysilar tanlab olingan?",
+      "options": [
+        "Photon, Spongent, Lesamnta-LW",
+        "PRESENT, CLEFIA, SIMON va SPECK , LEA.",
+        "Enocoro, Trivium",
+        "LightMAC, Tsudik keymode"
+      ],
+      "correct_answer": "Photon, Spongent, Lesamnta-LW"
+    },
+    {
+      "id": 108,
+      "question": "CRYPTREC (Cryptography Research and Evaluation Committees) loyihasida e’lon qilingan “Cryptographic Technology Guideline (Lightweight Cryptography)” nomli qo‘llanmada blokli shifrlar sifatida qanday algoritmlar tanlab olingan?",
+      "options": [
+        "AES, Camellia, CLEFIA, TDES, LED, PRINCE, PRESENT",
+        "ACORN, AES-GCM, AES-OTR, Ascon",
+        "CLOC, SILC, JAMBU, Ketje, Minalpher",
+        "Photon, Spongent, Lesamnta-LW"
+      ],
+      "correct_answer": "AES, Camellia, CLEFIA, TDES, LED, PRINCE, PRESENT"
+    },
+    {
+      "id": 109,
+      "question": "CRYPTREC (Cryptography Research and Evaluation Committees) loyihasida e’lon qilingan “Cryptographic Technology Guideline (Lightweight Cryptography)” nomli qo‘llanmada AEAD shifrlar sifatida qanday algoritmlar tanlab olingan?",
+      "options": [
+        "ACORN, AES-GCM, AES-OTR, Ascon",
+        "AES, Camellia, CLEFIA, TDES",
+        "Enocoro, Trivium",
+        "Photon, Spongent, Lesamnta-LW"
+      ],
+      "correct_answer": "ACORN, AES-GCM, AES-OTR, Ascon"
+    },
+    {
+      "id": 110,
+      "question": "Ascon algoritmining tuzilish arxitekturasini ko'rsating?",
+      "options": [
+        "Sponge",
+        "Blokli",
+        "Oqimli",
+        "Merkel-Damgard"
+      ],
+      "correct_answer": "Sponge"
+    },
+    {
+      "id": 111,
+      "question": "Ascon algoritmining ichki holat (state) uzunligi necha bit?",
+      "options": [
+        "320",
+        "128",
+        "64",
+        "176"
+      ],
+      "correct_answer": "320"
+    },
+    {
+      "id": 112,
+      "question": "Ascon algoritmida foydalanilgan S jadvalning o'lchamini ko'rsating?",
+      "options": [
+        "5x5",
+        "4x4",
+        "8x8",
+        "6x4"
+      ],
+      "correct_answer": "5x5"
+    },
+    {
+      "id": 113,
+      "question": "Simmetrik blokli shifrlarni qurishning ARX usuliga asoslangan blokli shifrlarni ko'rsating?",
+      "options": [
+        "Hight, Simon, Speck, Lea va Chaskey",
+        "AES, Camellia, CLEFIA, TDES",
+        "CLOC, SILC, JAMBU, Ketje, Minalpher",
+        "Photon, Spongent, Lesamnta-LW"
+      ],
+      "correct_answer": "Hight, Simon, Speck, Lea va Chaskey"
+    },
+    {
+      "id": 114,
+      "question": "Simmetrik blokli shifrlarni qurishning ARX usuliga asoslangan oqimli shifrlarni ko'rsating?",
+      "options": [
+        "Salsa20, ChaCha20",
+        "AES, Camellia, CLEFIA, TDES",
+        "CLOC, SILC, JAMBU, Ketje, Minalpher",
+        "Photon, Spongent, Lesamnta-LW"
+      ],
+      "correct_answer": "Salsa20, ChaCha20"
+    },
+    {
+      "id": 115,
+      "question": "Simmetrik blokli shifrlarni qurishning WTS usuliga asoslangan shifrlarni ko'rsating?",
+      "options": [
+        "mCrypton, Present, Led, Zorro",
+        "AES, Camellia, CLEFIA, TDES",
+        "CLOC, SILC, JAMBU, Ketje, Minalpher",
+        "Photon, Spongent, Lesamnta-LW"
+      ],
+      "correct_answer": "mCrypton, Present, Led, Zorro"
+    },
+    {
+      "id": 116,
+      "question": "WTS va ARX usullari kombinatsiyasiga asoslangan simmetrik blokli shifrlarni qurish usuli bu?",
+      "options": [
+        "LTS",
+        "Bitslice",
+        "ARX+",
+        "WTS+"
+      ],
+      "correct_answer": "LTS"
+    },
+    {
+      "id": 117,
+      "question": "Simmetrik blokli shifrlarni qurishning qaysi usulida kriptototizim funksiyalari bir bitli mantiqiy amallar nuqtai nazaridan ifodalanib, keyinchalik ular bitli amallar yordamida funksiyaning bir necha nusxalarini parallel ravishda bajarish orqali amalga oshiriladi.",
+      "options": [
+        "Bitslice",
+        "ARX+",
+        "WTS+",
+        "LTS"
+      ],
+      "correct_answer": "Bitslice"
+    },
+    {
+      "id": 118,
+      "question": "SPN va Feystel tarmog‘larini mujassamlashtirgan simmetrik blokli shifrlarni qurish usuli bu?",
+      "options": [
+        "Gibrid",
+        "WTS+",
+        "LTS",
+        "Bitslice"
+      ],
+      "correct_answer": "Gibrid"
+    },
+    {
+      "id": 119,
+      "question": "f_i (f_i (x))=x kо‘rinishidagi funksiyalar tо‘plamidan foydalanishga asoslangan simmetrik blokli shifrlarni qurish usuli?",
+      "options": [
+        "Involyutiv",
+        "Gibrid",
+        "WTS",
+        "LTS"
+      ],
+      "correct_answer": "Involyutiv"
+    },
+    {
+      "id": 120,
+      "question": "Sponge konstruksiyasi nechta bosqichdan iborat?",
+      "options": [
+        "2",
+        "3",
+        "1",
+        "4"
+      ],
+      "correct_answer": "2"
+    }
+  ]
+}

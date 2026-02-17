@@ -1,12 +1,14 @@
 {
+  "title": "Quiz",
+  "totalQuestions": 88,
   "questions": [
     {
       "id": 1,
       "question": "Ma’lumot yaxlitligi",
       "options": [
         "Axborotni ruxsatsiz yoki noma’lum vositalar bilan o‘zgartirilmaganligini ta’minlash",
-        "Ma’lumot manbasini tasdiqlash",
         "Axborotni ko‘rish huquqiga ega bo‘lganlardan tashqari barchadan sir tutish",
+        "Ma’lumot manbasini tasdiqlash",
         "Axborot yoki resursdan foydalanish yoki boshqarishda avtorizatsiyani o‘z vaqtida taqdim etish"
       ],
       "correct_answer": "Axborotni ruxsatsiz yoki noma’lum vositalar bilan o‘zgartirilmaganligini ta’minlash"
@@ -15,9 +17,9 @@
       "id": 2,
       "question": "Shaxsiylik yoki konfidensiallik",
       "options": [
-        "Ma’lumot manbasini tasdiqlash",
-        "Axborotni ruxsatsiz yoki noma’lum vositalar bilan o‘zgartirilmaganligini ta’minlash",
         "Axborotni ko‘rish huquqiga ega bo‘lganlardan tashqari barchadan sir tutish",
+        "Axborotni ruxsatsiz yoki noma’lum vositalar bilan o‘zgartirilmaganligini ta’minlash",
+        "Ma’lumot manbasini tasdiqlash",
         "Axborot yoki resursdan foydalanish yoki boshqarishda avtorizatsiyani o‘z vaqtida taqdim etish"
       ],
       "correct_answer": "Axborotni ko‘rish huquqiga ega bo‘lganlardan tashqari barchadan sir tutish"
@@ -68,7 +70,7 @@
     },
     {
       "id": 7,
-      "question": "Kriptologiya qanday yo‘nalishlarga bo‘linadi?",
+      "question": "Kriptologiya qanday yo‘nalishlarga bo‘linadi",
       "options": [
         "kriptografiya va kriptotahlil",
         "kriptografiya va kriptotizim",
@@ -79,7 +81,7 @@
     },
     {
       "id": 8,
-      "question": "Kriptologiya nima bilan shug‘ullanadi?",
+      "question": "Kriptologiya nima bilan shug‘ullanadi",
       "options": [
         "maxfiy kodlarni yaratish va buzish ilmi bilan",
         "maxfiy kodlarni buzish bilan",
@@ -90,7 +92,7 @@
     },
     {
       "id": 9,
-      "question": "Kriptografiya nima bilan shug‘ullanadi?",
+      "question": "Kriptografiya nima bilan shug‘ullanadi",
       "options": [
         "maxfiy kodlarni yaratish bilan",
         "maxfiy kodlarni buzish bilan",
@@ -101,7 +103,7 @@
     },
     {
       "id": 10,
-      "question": "Kriptotahlil nima bilan shug‘ullanadi?",
+      "question": "Kriptotahlil nima bilan shug‘ullanadi",
       "options": [
         "maxfiy kodlarni buzish bilan",
         "maxfiy kodlarni yaratish bilan",
@@ -112,18 +114,18 @@
     },
     {
       "id": 11,
-      "question": "Kriptotizimlar kalitlar soni bo‘yicha qanday turga bo‘linadi?",
+      "question": "Kriptotizimlar kalitlar soni bo‘yicha qanday turga bo‘linadi",
       "options": [
         "simmetrik va assimetrik turlarga",
         "simmetrik va bir kalitli turlarga",
         "3 kalitli turlarga",
-        "assimetrik va 2 kalitli turlarga"
+        "assimetrik va 2 ​ kalitli turlarga"
       ],
       "correct_answer": "simmetrik va assimetrik turlarga"
     },
     {
       "id": 12,
-      "question": "Kerkxofs printsipi nimadan iborat?",
+      "question": "Kerkxofs printsipi nimadan iborat",
       "options": [
         "kriptografik tizim faqat kalit noma’lum bo‘lgan taqdirdagina maxfiylik ta’minlanadi",
         "kriptografik tizim faqat yopiq bo‘lgan taqdirdagina maxfiylik ta’minlanadi",
@@ -134,7 +136,7 @@
     },
     {
       "id": 13,
-      "question": "Blokli shifrlash algoritmlari arxitekturasi jihatidan qanday tarmoqlarga bo‘linadi?",
+      "question": "Blokli shifrlash algoritmlari arxitekturasi jihatidan qanday tarmoqlarga bo‘linadi",
       "options": [
         "Feystel va SP",
         "SP va Petri",
@@ -145,7 +147,7 @@
     },
     {
       "id": 14,
-      "question": "Blokli simmetrik shifrlash algoritmlari raund funksiyalarida qanday amallar bajariladi?",
+      "question": "Blokli simmetrik shifrlash algoritmlari raund funksiyalarida qanday amallar bajariladi",
       "options": ["ARX", "PRX", "RPT", "XOR"],
       "correct_answer": "ARX"
     },
@@ -155,7 +157,7 @@
       "options": [
         "Rijndael, Kuznechik",
         "Rijndael, DES",
-        "AES, ГОСТ 28147-89",
+        "AES, ​ ГОСТ 28147-89",
         "DES, Kuznechik"
       ],
       "correct_answer": "Rijndael, Kuznechik"
@@ -164,12 +166,12 @@
       "id": 16,
       "question": "Qaysi algorimtlar feystel tarmog'iga asoslangan holda ishlaydi?",
       "options": [
-        "DES, ГОСТ 28147-89",
-        "AES, ГОСТ 28147-89",
+        "DES, ​ ГОСТ 28147-89",
+        "AES, ​ ГОСТ 28147-89",
         "Rijndael, DES",
         "DES, Kuznechik"
       ],
-      "correct_answer": "DES, ГОСТ 28147-89"
+      "correct_answer": "DES, ​ ГОСТ 28147-89"
     },
     {
       "id": 17,
@@ -186,12 +188,12 @@
       "id": 18,
       "question": "ARX amali nimalardan iborat?",
       "options": [
-        "add, rotate, xor",
+        "rotate, add, xor",
         "mod, rotate, xor",
         "add, mod, xor",
         "add, rotate, mod"
       ],
-      "correct_answer": "add, rotate, xor"
+      "correct_answer": "rotate, add, xor"
     },
     {
       "id": 19,
@@ -252,60 +254,60 @@
       "id": 24,
       "question": "Ochiq kalitli kriptotizimlarga asoslangan ERI algoritmlarida kalitlar juftini qaysi tomon hosil qiladi?",
       "options": [
-        "kalitlar juftini har bir foydalanuvchining o'zi hosil qiladi",
         "kalitlar juftini ma'lumot yuboruvchi tomon hosil qiladi",
         "kalitlar juftini ma'lumot qabul qiluvchi tomon hosil qiladi",
+        "kalitlar juftini har bir foydalanuvchining o'zi hosil qiladi",
         "uchinchi ishonchli tomon hosil qiladi"
       ],
       "correct_answer": "kalitlar juftini ma'lumot yuboruvchi tomon hosil qiladi"
     },
     {
       "id": 25,
-      "question": "\"A\" va \"B\" foydalanuvchilar ma'lumot almashmoqchi, \"A\" foydalanuvchi qabul qilgan ma'lumotni imzosini tekshirishda qaysi kalitdan foydalanadi?",
+      "question": "&quot;A&quot; va &quot;B&quot; foydalanuvchilar ma'lumot almashmoqchi, &quot;A&quot; foydalanuvchi qabul qilgan ma'lumotni imzosini tekshirishda qaysi kalitdan foydalanadi?",
       "options": [
-        "\"B\" foydalanuvchining ochiq kalitidan",
-        "\"B\" foydalanuvchining maxfiy kalitidan",
-        "\"A\" foydalanuvchi o'zining ochiq kalitidan",
-        "\"A\" foydalanuvchini o'zining maxfiy kalitidan"
+        "&quot;B&quot; foydalanuvchining ochiq kalitidan",
+        "&quot;B&quot; foydalanuvchining maxfiy kalitidan",
+        "&quot;A&quot; foydalanuvchi o'zining ochiq kalitidan",
+        "&quot;A&quot; foydalanuvchini o'zining maxfiy kalitidan"
       ],
-      "correct_answer": "\"B\" foydalanuvchining ochiq kalitidan"
+      "correct_answer": "&quot;B&quot; foydalanuvchining ochiq kalitidan"
     },
     {
       "id": 26,
-      "question": "\"A\" va \"B\" foydalanuvchilar ma'lumot almashmoqchi, \"B\" foydalanuvchi qabul qilgan ma'lumotni imzosini tekshirishda qaysi kalitdan foydalanadi?",
+      "question": "&quot;A&quot; va &quot;B&quot; foydalanuvchilar ma'lumot almashmoqchi, &quot;B&quot; foydalanuvchi qabul qilgan ma'lumotni imzosini tekshirishda qaysi kalitdan foydalanadi?",
       "options": [
-        "\"A\" foydalanuvchining ochiq kalitidan",
-        "\"A\" foydalanuvchining maxfiy kalitidan",
-        "\"B\" foydalanuvchi o'zining ochiq kalitidan",
-        "\"B\" foydalanuvchini o'zining maxfiy kalitidan"
+        "&quot;A&quot; foydalanuvchining ochiq kalitidan",
+        "&quot;A&quot; foydalanuvchining maxfiy kalitidan",
+        "&quot;B&quot; foydalanuvchi o'zining ochiq kalitidan",
+        "&quot;B&quot; foydalanuvchini o'zining maxfiy kalitidan"
       ],
-      "correct_answer": "\"A\" foydalanuvchining ochiq kalitidan"
+      "correct_answer": "&quot;A&quot; foydalanuvchining ochiq kalitidan"
     },
     {
       "id": 27,
-      "question": "\"A\" va \"B\" foydalanuvchilar ma'lumot almashmoqchi, \"A\" foydalanuvchi elektron hujjatga imzo qo'yish uchun qaysi kalitdan foydalanadi?",
+      "question": "&quot;A&quot; va &quot;B&quot; foydalanuvchilar ma'lumot almashmoqchi, &quot;A&quot; foydalanuvchi elektron hujjatga imzo qo'yish uchun qaysi kalitdan foydalanadi?",
       "options": [
-        "\"A\" foydalanuvchini o'zining maxfiy kalitidan",
-        "\"B\" foydalanuvchining maxfiy kalitidan",
-        "\"A\" foydalanuvchi o'zining ochiq kalitidan",
-        "\"B\" foydalanuvchining ochiq kalitidan"
+        "&quot;A&quot; foydalanuvchini o'zining maxfiy kalitidan",
+        "&quot;B&quot; foydalanuvchining maxfiy kalitidan",
+        "&quot;A&quot; foydalanuvchi o'zining ochiq kalitidan",
+        "&quot;B&quot; foydalanuvchining ochiq kalitidan"
       ],
-      "correct_answer": "\"A\" foydalanuvchini o'zining maxfiy kalitidan"
+      "correct_answer": "&quot;A&quot; foydalanuvchini o'zining maxfiy kalitidan"
     },
     {
       "id": 28,
-      "question": "\"A\" va \"B\" foydalanuvchilar ma'lumot almashmoqchi, \"B\" foydalanuvchi elektron hujjatga imzo qo'yish uchun qaysi kalitdan foydalanadi?",
+      "question": "&quot;A&quot; va &quot;B&quot; foydalanuvchilar ma'lumot almashmoqchi, &quot;B&quot; foydalanuvchi elektron hujjatga imzo qo'yish uchun qaysi kalitdan foydalanadi?",
       "options": [
-        "\"B\" foydalanuvchini o'zining maxfiy kalitidan",
-        "\"A\" foydalanuvchining maxfiy kalitidan",
-        "\"B\" foydalanuvchi o'zining ochiq kalitidan",
-        "\"A\" foydalanuvchining ochiq kalitidan"
+        "&quot;B&quot; foydalanuvchini o'zining maxfiy kalitidan",
+        "&quot;A&quot; foydalanuvchining maxfiy kalitidan",
+        "&quot;B&quot; foydalanuvchi o'zining ochiq kalitidan",
+        "&quot;A&quot; foydalanuvchining ochiq kalitidan"
       ],
-      "correct_answer": "\"B\" foydalanuvchini o'zining maxfiy kalitidan"
+      "correct_answer": "&quot;B&quot; foydalanuvchini o'zining maxfiy kalitidan"
     },
     {
       "id": 29,
-      "question": "Qanday funksiyalarga xesh funksiya deyiladi?",
+      "question": "Qanday funksiyalarga xesh funksiya deyiladi",
       "options": [
         "ixtiyoriy uzunlikdagi ma’lumotni biror fiksirlangan uzunlikga o‘tkazuvchi funksiyaga aytiladi",
         "ixtiyoriy uzunlikdagi ma’lumotni bit yoki baytlarini zichlashtirib beruvchi funksiyaga aytiladi",
@@ -316,7 +318,7 @@
     },
     {
       "id": 30,
-      "question": "Xesh funksiyalar qanday maqsadlarda ishlatiladi?",
+      "question": "Xesh funksiyalar qanday maqsadlarda ishlatiladi",
       "options": [
         "ma’lumotni to‘liqligini nazoratlash va ma’lumot manbaini autentifikatsiyalashda",
         "ma’lumotni maxfiyligini nazoratlash va ma’lumot manbaini haqiqiyligini tekshirishda",
@@ -327,7 +329,7 @@
     },
     {
       "id": 31,
-      "question": "Quyida keltirilgan xususiyatlarning qaysilari xesh funksiyaga mos?",
+      "question": "Quyida keltirilgan xususiyatlarning qaysilari xesh funksiyaga mos",
       "options": [
         "chiqishda fiksirlangan uzunlikdagi qiymatni beradi",
         "chiqishda bir xil qiymatni beradi",
@@ -338,7 +340,7 @@
     },
     {
       "id": 32,
-      "question": "Kolliziya deb nimaga nisbatan aytiladi?",
+      "question": "Kolliziya deb nima nisbatan aytiladi",
       "options": [
         "ikkita har xil matn uchun bir xil xesh qiymat mos kelishi",
         "ikkita bir xil matn uchun bir xil xesh qiymat mos kelishi",
@@ -349,7 +351,7 @@
     },
     {
       "id": 33,
-      "question": "Rad etish qoidabuzarligi qanday amalga oshiriladi?",
+      "question": "Rad etish qoidabuzarligi qanday amalga oshiriladi",
       "options": [
         "Foydalanuvchi (A) foydalanuvchi (B) ga haqiqatan ham ma’lumot jo‘natgan bo‘lib, uzatilgan ma’lumotni rad etishi mumkin",
         "Foydalanuvchi (B) qabul qilib olingan ma’lumotni o‘zgartirib, shu o‘zgartirilgan ma’lumotni foydalanuvchi (A) yubordi, deb ta’kidlaydi (da’vo qiladi)",
@@ -360,7 +362,7 @@
     },
     {
       "id": 34,
-      "question": "Modifikatsiyalash qoidabuzarligi qanday amalga oshiriladi?",
+      "question": "Modifikatsiyalash qoidabuzarligi qanday amalga oshiriladi",
       "options": [
         "Foydalanuvchi (B) qabul qilib olingan ma’lumotni o‘zgartirib, shu o‘zgartirilgan ma’lumotni foydalanuvchi (A) yubordi, deb ta’kidlaydi (da’vo qiladi)",
         "Foydalanuvchi (B) ning o‘zi ma’lumot tayyorlab, bu sohta ma’lumotni foydalanuvchi (A) yubordi deb da’vo qiladi",
@@ -371,7 +373,7 @@
     },
     {
       "id": 35,
-      "question": "Soxtalashtirish qoidabuzarligi qanday amalga oshiriladi?",
+      "question": "Soxtalashtirish qoidabuzarligi qanday amalga oshiriladi",
       "options": [
         "Foydalanuvchi (B)ning o‘zi ma’lumot tayyorlab, bu sohta ma’lumotni foydalanuvchi (A) yubordi deb da’vo qiladi",
         "Foydalanuvchi (A) foydalanuvchi (B) ga haqiqatan ham ma’lumot jo‘natgan bo‘lib, uzatilgan ma’lumotni rad etishi mumkin",
@@ -382,7 +384,7 @@
     },
     {
       "id": 36,
-      "question": "Faol modifikasiyalash qoidabuzarligi qanday amalga oshiriladi?",
+      "question": "Faol modifikasiyalash ​ qoidabuzarligi qanday amalga oshiriladi",
       "options": [
         "(A) va (B) foydalanuvchilarning o‘zaro aloqa tarmog‘iga uchinchi bir (V) foydalanuvchi noqonuniy tarzda bog‘lanib, ularning o‘zaro uzatayotgan ma’lumotlarini o‘zgartirgan holda deyarli uzluksiz uzatib turadi.",
         "Foydalanuvchi (B)ning o‘zi ma’lumot tayyorlab, bu sohta ma’lumotni foydalanuvchi (A) yubordi deb da’vo qiladi.",
@@ -393,7 +395,7 @@
     },
     {
       "id": 37,
-      "question": "Niqoblash qoidabuzarligi qanday amalga oshiriladi?",
+      "question": "Niqoblash ​ ​ qoidabuzarligi qanday amalga oshiriladi",
       "options": [
         "Uchinchi foydalanuvchi (B) foydalanuvchi (B)ga foydalanuvchi (A) nomidan ma’lumot jo‘natadi.",
         "Foydalanuvchi (B)ning o‘zi ma’lumot tayyorlab, bu sohta ma’lumotni foydalanuvchi (A) yubordi deb da’vo qiladi.",
@@ -404,7 +406,7 @@
     },
     {
       "id": 38,
-      "question": "Takrorlash qoidabuzarligi qanday amalga oshiriladi?",
+      "question": "Takrorlash ​ ​ qoidabuzarligi qanday amalga oshiriladi",
       "options": [
         "Foydalanuvchi (B) foydalanuvchi (A) tomonidan foydalanuvchi (B)ga jo‘natilgan ma’lumotni takroran (B)ga jo‘natadi",
         "Uchinchi foydalanuvchi (B) foydalanuvchi (B)ga foydalanuvchi (A) nomidan ma’lumot jo‘natadi.",
@@ -415,7 +417,7 @@
     },
     {
       "id": 39,
-      "question": "a soni b soniga bo‘linishi qanday ifodalanadi?",
+      "question": "a soni b soniga bo‘linishi qanday ifodalanadi",
       "options": [
         "b | a orqali idodalanadi",
         "b ∤ a orqali ifodalanadi",
@@ -426,18 +428,18 @@
     },
     {
       "id": 40,
-      "question": "a soni b soniga bo‘linmasligi qanday ifodalanadi?",
+      "question": "a soni b soniga bo‘linmasligi qanday ifodalanadi",
       "options": [
-        "b ∤ a orqali ifodalanadi",
+        "​ b ∤ a orqali ifodalanadi",
         "a ∤ b orqali ifodalanadi",
         "b | a orqali idodalanadi",
         "a | b orqali idodalanadi"
       ],
-      "correct_answer": "b ∤ a orqali ifodalanadi"
+      "correct_answer": "​ b ∤ a orqali ifodalanadi"
     },
     {
       "id": 41,
-      "question": "Agar gcd(a,b)=1 shart o‘rinli bo‘lsa, u holda ikki a va b sonlar haqida nima deyish mumkin?",
+      "question": "Agar gcd(a,b)=1 shart o‘rinli bo‘lsa, u holda ikki a va b sonlar haqida nima deyish mumkin",
       "options": [
         "a va b sonlar o‘zaro tub sonlar",
         "a va b sonlar murakkab sonlar",
@@ -460,7 +462,7 @@
     },
     {
       "id": 44,
-      "question": "a* x + b*y = d chiziqli diafont tenglama qanday shartlarda yechimga ega bo'ladi?",
+      "question": "​ ​ a* x + ​ b*y = d chiziqli diafont tenglama qanday shartlarda yechimga ega bo'ladi",
       "options": [
         "gcd(a,b)=c va c | d bo'lsa",
         "gcd(a,b)=c va d | c bo'lsa",
@@ -471,7 +473,7 @@
     },
     {
       "id": 45,
-      "question": "a≡b mod n chiziqli moslik qanday shartlarda yechimga ega bo'ladi?",
+      "question": "a≡b mod n chiziqli moslik qanday shartlarda yechimga ega bo'ladi",
       "options": [
         "gcd(a,n)=c va c | b bo'lsa",
         "gcd(a,n)=c va b | c bo'lsa",
@@ -482,7 +484,7 @@
     },
     {
       "id": 46,
-      "question": "a≡b mod n chiziqli moslik qanday shartlarda yagona yechimga ega bo'ladi?",
+      "question": "a≡b mod n chiziqli moslik qanday shartlarda yagona yechimga ega bo'ladi",
       "options": [
         "gcd(a,n)=1",
         "gcd(a,n)=c va c=b bo'lsa",
@@ -493,7 +495,7 @@
     },
     {
       "id": 47,
-      "question": "a≡b mod n chiziqli moslik qanday shartlarda yechimga ega bo'lmaydi?",
+      "question": "a≡b mod n chiziqli moslik qanday shartlarda yechimga ega bo'lmaydi",
       "options": [
         "gcd(a,b)=c va c ∤ b bo'lsa",
         "gcd(a,b)=c va b ∤ c bo'lsa",
@@ -504,7 +506,7 @@
     },
     {
       "id": 48,
-      "question": "a va b sonlarning EKUB qaysi algoritm yordamida topiladi?",
+      "question": "a va b sonlarning EKUB qaysi algoritm yordamida topiladi",
       "options": [
         "Evklid algoritmi yordamida",
         "Kengaytirilgan Evkldi algoritmi yordamida",
@@ -515,7 +517,7 @@
     },
     {
       "id": 49,
-      "question": "Berilgan modul bo'yicha sonni teskarisi qaysi algoritm yordamida topiladi?",
+      "question": "Berilgan modul bo'yicha sonni teskarisi qaysi algoritm yordamida topiladi",
       "options": [
         "Kengaytirilgan Evkldi algoritmi yordamida",
         "Evklid algoritmi yordamida",
@@ -538,7 +540,7 @@
     },
     {
       "id": 52,
-      "question": "Ikki o‘zaro tub sonlar n∙m uchun Eyler funksiyasining qiymati nimaga teng?",
+      "question": "Ikki o‘zaro tub sonlar n∙m uchun Eyler funksiyasining qiymati nimaga teng",
       "options": [
         "φ(n∙m)=φ(n)∙φ(m)",
         "φ(n∙m)=(n-1)∙(m-1)",
@@ -549,7 +551,7 @@
     },
     {
       "id": 53,
-      "question": "Eyler teoremasi ifodasi qanday?",
+      "question": "Eyler teoremasi ifodasi qanday",
       "options": [
         "a^(φ(n))≡1 (mod n)",
         "a^(n-1)≡1 (mod n)",
@@ -562,28 +564,28 @@
       "id": 54,
       "question": "Berilgan mod n modul bo‘yicha birlamchi ildiz deb shunday g- butun songa aytiladi u quyidagi shartlarni bajaradi",
       "options": [
-        "g^(φ(n))≡1 (mod n) va g^l≢1 (mod n), 1≤l<φ(n)",
-        "g^(φ(n))≢1 (mod n) va g^l≡1 (mod n), 1≤l<φ(n)",
-        "g^l≡1 (mod n), 1≤l<φ(n)",
+        "g^(φ(n))≡1 (mod n) va g^l≢1 (mod n), 1≤l&lt;φ(n)",
+        "g^(φ(n))≢1 (mod n) va g^l≡1 (mod n), 1≤l&lt;φ(n)",
+        "g^l≡1 (mod n), 1≤l&lt;φ(n)",
         "g^(φ(n))≡1 (mod n)"
       ],
-      "correct_answer": "g^(φ(n))≡1 (mod n) va g^l≢1 (mod n), 1≤l<φ(n)"
+      "correct_answer": "g^(φ(n))≡1 (mod n) va g^l≢1 (mod n), 1≤l&lt;φ(n)"
     },
     {
       "id": 55,
-      "question": "Berilgan modul n bo‘yicha birlamchi ildizlar soni qanday aniqlanadi?",
+      "question": "Berilgan modul n bo‘yicha birlamchi ildizlar soni qanday aniqlanadi",
       "options": ["φ(φ(n))", "φ(n)", "φ(φ(n-1))", "φ(n-1)"],
       "correct_answer": "φ(φ(n))"
     },
     {
       "id": 56,
-      "question": "Berilgan 11 modul bo‘yicha birlamchi ildizlar soni nechta bo'ladi?",
+      "question": "Berilgan 11 modul bo‘yicha birlamchi ildizlar soni nechta bo'ladi",
       "options": ["4", "10", "2", "1"],
       "correct_answer": "4"
     },
     {
       "id": 57,
-      "question": "Berilgan 13 modul bo‘yicha birlamchi ildizlar soni nechta bo'ladi?",
+      "question": "Berilgan 13 modul bo‘yicha birlamchi ildizlar soni nechta bo'ladi",
       "options": ["4", "12", "10", "6"],
       "correct_answer": "4"
     },
@@ -613,7 +615,7 @@
     },
     {
       "id": 62,
-      "question": "x^2≡a (mod p) kvadrat chegirma qanday hollarda yechimga ega bo'ladi?",
+      "question": "x^2≡a (mod p) kvadrat chegirma qanday hollarda yechimga ega bo'ladi",
       "options": [
         "a^((p-1)/2)≡1 (mod p) shart bajarilsa",
         "a^(p-1)≡1 (mod p)",
@@ -624,7 +626,7 @@
     },
     {
       "id": 63,
-      "question": "Eyler kriteriyaasi sharti qanday?",
+      "question": "Eyler kriteriyaasi sharti qanday",
       "options": [
         "a^((p-1)/2)≡1 (mod p)",
         "a^(p-1)≡1 (mod p)",
@@ -635,7 +637,7 @@
     },
     {
       "id": 64,
-      "question": "x^2≡a (mod p) kvadrat chegirma qanday hollarda yechimga ega bo'ladi?",
+      "question": "x^2≡a (mod p) kvadrat chegirma qanday hollarda yechimga ega bo'ladi",
       "options": [
         "(a/p) Lejandr simvoli qiymati 1 ga teng bo'lganda",
         "(a/p) Lejandr simvoli qiymati (-1) ga teng bo'lganda",
@@ -647,18 +649,18 @@
     {
       "id": 65,
       "question": "2⋅x^2+3⋅x+1≡0(mod 7) kvadrat moslik yechimini toping",
-      "options": ["3,6", "3,5", "4,6", "2,3"],
-      "correct_answer": "3,6"
+      "options": ["3.6", "3.5", "4.6", "2.3"],
+      "correct_answer": "3.6"
     },
     {
       "id": 66,
       "question": "x^2 +x+1≡0(mod 7) kvadrat moslik yechimini toping",
-      "options": ["2,4", "2,3", "3,4", "2,5"],
-      "correct_answer": "2,4"
+      "options": ["2.4", "2.3", "3.4", "2.5"],
+      "correct_answer": "2.4"
     },
     {
       "id": 67,
-      "question": "(a/p) Lejandr simvoli qiymati qachon 1 ga teng bo'ladi?",
+      "question": "(a/p) Lejandr simvoli qiymati qachon 1 ga teng bo'ladi",
       "options": [
         "agar a soni p-modul bo'yicha kvadratik chegirma bo'lsa",
         "agar a soni p-modul bo'yicha kvadratik chegirma bo'lmasa",
@@ -669,54 +671,54 @@
     },
     {
       "id": 68,
-      "question": "(-1/p) ning qiymati qachon 1 ga teng bo'ladi?",
+      "question": "(-1/p) ning qiymati qachon 1 ga teng bo'ladi",
       "options": [
-        "agar p≡1 (mod 4) bo'lsa",
-        "agar p≡3 (mod 4) bo'lsa",
+        "agar ​ p≡1 (mod 4) bo'lsa",
+        "​ agar p≡3 (mod 4) bo'lsa",
         "agar p≡1,7 (mod 8) bo'lsa",
         "agar p≡3,5 (mod 8) bo'lsa"
       ],
-      "correct_answer": "agar p≡1 (mod 4) bo'lsa"
+      "correct_answer": "agar ​ p≡1 (mod 4) bo'lsa"
     },
     {
       "id": 69,
-      "question": "(q/p) ni qanday hollarda (p/q) orqali ifodalash mumkin?",
+      "question": "(q/p) ni qanday hollarda (p/q) orqali ifodalash mumkin",
       "options": [
-        "agar p yoki q hech bo'lmaganda bittasi 1 (mod 4) bo'lsa",
-        "agar p≡q≡3 (mod 4) bo'lsa",
-        "agar p≡3,5 (mod 8) bo'lsa",
-        "agar p≡1,7 (mod 8) bo'lsa"
+        "agar p yoki q ​ hech bo'lmaganda bittasi 1 (mod p) bo'lsa",
+        "​ agar p≡q≡3 (mod 4) bo'lsa",
+        "​ agar p≡3,5 (mod 8) bo'lsa",
+        "​ agar p≡1,7 (mod 8) bo'lsa"
       ],
-      "correct_answer": "agar p yoki q hech bo'lmaganda bittasi 1 (mod 4) bo'lsa"
+      "correct_answer": "agar p yoki q ​ hech bo'lmaganda bittasi 1 (mod p) bo'lsa"
     },
     {
       "id": 70,
-      "question": "(2/p) ning qiymati qachon 1 ga teng bo'ladi?",
+      "question": "(2/p) ning qiymati qachon 1 ga teng bo'ladi",
       "options": [
         "agar p≡1,7 (mod 8) bo'lsa",
-        "agar p≡3,5 (mod 8) bo'lsa",
-        "agar p≡q≡3 (mod 4) bo'lsa",
-        "agar p yoki q hech bo'lmaganda bittasi 1 (mod p) bo'lsa"
+        "​ agar p≡3,5 (mod 8) bo'lsa",
+        "​ agar p≡q≡3 (mod 4) bo'lsa",
+        "​ agar p yoki q ​ hech bo'lmaganda bittasi 1 (mod p) ​ bo'lsa"
       ],
       "correct_answer": "agar p≡1,7 (mod 8) bo'lsa"
     },
     {
       "id": 71,
-      "question": "(2/p) ning qiymati qachon (-1) ga teng bo'ladi?",
+      "question": "(2/p) ning qiymati qachon (-1) ga teng bo'ladi",
       "options": [
-        "agar p≡3,5 (mod 8) bo'lsa",
+        "​ agar p≡3,5 (mod 8) bo'lsa",
         "agar p≡1,7 (mod 8) bo'lsa",
-        "agar p yoki q hech bo'lmaganda bittasi 1 (mod p) bo'lsa",
-        "agar p≡q≡3 (mod 4) bo'lsa"
+        "agar p yoki q ​ hech bo'lmaganda bittasi 1 (mod p) ​ bo'lsa",
+        "​ agar p≡q≡3 (mod 4) bo'lsa"
       ],
-      "correct_answer": "agar p≡3,5 (mod 8) bo'lsa"
+      "correct_answer": "​ agar p≡3,5 (mod 8) bo'lsa"
     },
     {
       "id": 72,
-      "question": "(-1/p) ning qiymati qachon (-1) ga teng bo'ladi?",
+      "question": "(-1/p) ning qiymati qachon (-1) ga teng bo'ladi",
       "options": [
         "agar p≡3 (mod 4) bo'lsa",
-        "agar p≡1 (mod 4) bo'lsa",
+        "agar ​ p≡1 (mod 4) bo'lsa",
         "agar p≡1,7 (mod 8) bo'lsa",
         "agar p≡3,5 (mod 8) bo'lsa"
       ],
@@ -724,7 +726,7 @@
     },
     {
       "id": 73,
-      "question": "a va b sonlarni R parametr bo'yicha ko'paytirish qoidasi qanday?",
+      "question": "a va b sonlarni R parametr bo'yicha ko'paytirish qoidasi qanday",
       "options": [
         "a®b = a + b + a*R*b (mod n)",
         "a®b = a * b + a+R+b (mod n)",
@@ -735,25 +737,25 @@
     },
     {
       "id": 74,
-      "question": "a sonning R parametr bo'yicha teskari elementi qanday hisoblanadi?",
+      "question": "​ a sonning R parametr bo'yicha teskari elementi qanday hisoblanadi",
       "options": [
-        "a ^(-1)= - a(1+ aR)^(-1) (mod n)",
-        "a ^(-1)= a(1+ aR)^(-1) (mod n)",
+        "a ^(\\-1)= - a(1+ aR)^(-1) (mod n)",
+        "a ^(-1)= ​ a(1+ aR)^(-1) (mod n)",
         "a ^(-1)= - a(1- aR)^(-1) (mod n)",
-        "a ^(-1)= a(1- aR)^(-1) (mod n)"
+        "a ^(-1)= ​ a(1- aR)^(-1) (mod n)"
       ],
-      "correct_answer": "a ^(-1)= - a(1+ aR)^(-1) (mod n)"
+      "correct_answer": "a ^(\\-1)= - a(1+ aR)^(-1) (mod n)"
     },
     {
       "id": 75,
-      "question": "a sonning R parametr bo'yicha kavadrati qanday hisoblanadi?",
+      "question": "a sonning R parametr bo'yicha kavadrati qanday hisoblanadi",
       "options": [
-        "a^2≡2*a+R*a^2 (mod n).",
-        "a^2≡a+R*a^2 (mod n).",
-        "a^2≡2*a+R*a (mod n).",
-        "a^2≡R*a+R*a^2 (mod n)."
+        "a^(\\2)≡2*a+R*a^2 ​ (mod n).",
+        "a^(\\2)≡a+R*a^2 ​ (mod n).",
+        "a^(\\2)≡2*a+R*a ​ (mod n).",
+        "a^(\\2)≡R*a+R*a^2 ​ (mod n)."
       ],
-      "correct_answer": "a^2≡2*a+R*a^2 (mod n)."
+      "correct_answer": "a^(\\2)≡2*a+R*a^2 ​ (mod n)."
     },
     {
       "id": 76,
@@ -769,13 +771,13 @@
     },
     {
       "id": 78,
-      "question": "a=3 sonning R=2 parametr bo'yicha teskari elementi qiymatini toping, n=5",
+      "question": "​ a=3 sonning R=2 parametr bo'yicha teskari elementi qiymatini toping, n=5",
       "options": ["1", "2", "3", "4"],
       "correct_answer": "1"
     },
     {
       "id": 79,
-      "question": "a=2 sonning R=3 parametr bo'yicha teskari elementi qiymatini toping, n=7",
+      "question": "​ a=2 sonning R=3 parametr bo'yicha teskari elementi qiymatini toping, n=7",
       "options": ["0", "1", "4", "5"],
       "correct_answer": "0"
     },
@@ -790,6 +792,83 @@
       "question": "a=4 sonning R=3 parametr bo'yicha kavadratini hisoblang, n=11",
       "options": ["1", "0", "4", "9"],
       "correct_answer": "1"
+    },
+    {
+      "id": 82,
+      "question": "y^2=x^3+ax^2+bx+c mod n elliptik egri chiziq tenglamasida ​ a va b koefisentlar qanday shart asosida tanlanadi",
+      "options": [
+        "4a^3+27b^2≠0",
+        "27a^3+4b^3≠0",
+        "27a^2+4b^3≠0",
+        "4a^2+27b^3≠0"
+      ],
+      "correct_answer": "4a^3+27b^2≠0"
+    },
+    {
+      "id": 83,
+      "question": "y^2=x^3+ax^2+bx+c mod n elliptik egri chiziqda nuqtalarni qo'shish qoidasida burchak koefisenti qiymati qanday topiladi",
+      "options": [
+        "m=(y(1)−y(2))/(x(1)−x(2) ) mod n",
+        "m=(y(1)−y(2))/(x(2)−x(1) ) ​ mod n",
+        "m=(y(2)−y(1))/(x(1)−x(2) ) ​ mod n",
+        "m=(x(2)−x(1))/(y(2)−y(1) ) ​ mod n"
+      ],
+      "correct_answer": "m=(y(1)−y(2))/(x(1)−x(2) ) mod n"
+    },
+    {
+      "id": 84,
+      "question": "y^2=x^3+ax^2+bx+c mod n elliptik egri chiziqda nuqtalarni qo'shish qoidasida hosil bo'lgan nuqtaning x kordonatasi qiymati qanday hisoblanadi",
+      "options": [
+        "x(3)=m^2−x(1)−x(2) ​ mod n",
+        "x(3)=m^2+x(1)−x(2) ​ mod n",
+        "x(3)=m^2+x(2)−x(1) ​ mod n",
+        "x(3)=m^2+x(1)+x(2) ​ mod n"
+      ],
+      "correct_answer": "x(3)=m^2−x(1)−x(2) ​ mod n"
+    },
+    {
+      "id": 85,
+      "question": "y^2=x^3+ax^2+bx+c mod n elliptik egri chiziqda nuqtalarni qo'shish qoidasida hosil bo'lgan nuqtaning y kordonatasi qiymati qanday hisoblanadi",
+      "options": [
+        "y(3)=m(x(1)−x(3))-y(1) ​ mod n",
+        "y(3)=m(x(3)−x(1))+y(1) ​ mod n",
+        "y(3)=m(x(3)−x(1))-y(1) ​ mod n",
+        "y(3)=m(x(3)−x(1))+y(1) ​ mod n"
+      ],
+      "correct_answer": "y(3)=m(x(1)−x(3))-y(1) ​ mod n"
+    },
+    {
+      "id": 86,
+      "question": "y^2=x^3+ax^2+bx+c mod n elliptik egri chiziqda nuqtalarni ikkilantirish qoidasida burchak koefisenti qiymati qanday topiladi",
+      "options": [
+        "m=(3x^2+a)/(2y ) ​ mod n",
+        "m=(3y^2+a)/(2x ) ​ mod n",
+        "m=(2y^2+a)/(3x ) ​ mod n",
+        "m=(2x^2+a)/(3y ) ​ mod n"
+      ],
+      "correct_answer": "m=(3x^2+a)/(2y ) ​ mod n"
+    },
+    {
+      "id": 87,
+      "question": "y^2=x^3+ax^2+bx+c mod n elliptik egri chiziqda nuqtalarni ikkilantirish qoidasida hosil bo'lgan nuqtaning x kordonatasi qiymati qanday hisoblanadi",
+      "options": [
+        "x(3)=m^2−x(1)−x(1) ​ mod n",
+        "x(3)=m^2-x(1)−x(2) ​ mod n",
+        "x(3)=m^2+x(2)−x(1) ​ mod n",
+        "x(3)=m^2+x(1)+x(2) ​ mod n"
+      ],
+      "correct_answer": "x(3)=m^2−x(1)−x(1) ​ mod n"
+    },
+    {
+      "id": 88,
+      "question": "y^2=x^3+ax^2+bx+c mod n elliptik egri chiziqda nuqtalarni ikkilantirish qoidasida hosil bo'lgan nuqtaning y kordonatasi qiymati qanday hisoblanadi",
+      "options": [
+        "y(3)=m(x(1)−x(3))-y(1) ​ mod n",
+        "y(3)=m(x(3)−x(1))+y(1) ​ mod n",
+        "y(3)=m(x(3)−x(1))-y(1) ​ mod n",
+        "y(3)=m(x(3)−x(1))+y(1) ​ mod n"
+      ],
+      "correct_answer": "y(3)=m(x(1)−x(3))-y(1) ​ mod n"
     }
   ]
 }
