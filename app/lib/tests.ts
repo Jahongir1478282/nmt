@@ -76,11 +76,11 @@ export const tests = {
     questions: (kmaQuestions as { questions: Question[] }).questions,
     durationSeconds: 60 * 60,
   },
-  YVK: {
-    title: "Yengil vaznli kriptografiya va Post-kvant kriptografiya",
-    questions: (yvkQuestions as unknown as { questions: Question[] }).questions,
-    durationSeconds: 60 * 80,
-  },
+  // YVK: {
+  //   title: "Yengil vaznli kriptografiya va Post-kvant kriptografiya",
+  //   questions: (yvkQuestions as unknown as { questions: Question[] }).questions,
+  //   durationSeconds: 60 * 80,
+  // },
   ZKU: {
     title: "Zamonaviy kriptotahlil usullari",
     questions: (zkuQuestions as { questions: Question[] }).questions,

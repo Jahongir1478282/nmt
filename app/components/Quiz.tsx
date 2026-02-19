@@ -6,6 +6,11 @@ import { useEffect, useMemo, useRef, useState, useCallback } from "react";
 import Link from "next/link";
 import { Clock, ChevronLeft, ChevronRight, Flag, Shuffle } from "lucide-react";
 import type { Question, TestConfig } from "../lib/tests";
+import {
+  buildInitials,
+  findAnswerByInitials,
+  findAnswerByPartialInitials,
+} from "../lib/xsearch";
 
 const shuffleAndTake = <T,>(arr: T[], take: number): T[] =>
   [...arr]
@@ -42,6 +47,10 @@ function QuizContent({ test }: { test: TestConfig }) {
   const [finishStage, setFinishStage] = useState<FinishStage>("quiz");
   const [autoRedirectSeconds, setAutoRedirectSeconds] = useState(5);
   const [showReview, setShowReview] = useState(false);
+  const [showOnlyIncorrect, setShowOnlyIncorrect] = useState(false);
+  const [xQuery, setXQuery] = useState("");
+  const [xAnswer, setXAnswer] = useState<string | null>(null);
+  const [xKey, setXKey] = useState("");
 
   const nextQuestionTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(
     null,
@@ -81,6 +90,41 @@ function QuizContent({ test }: { test: TestConfig }) {
   const [questionPool, setQuestionPool] = useState<Question[]>(() =>
     buildPool(false),
   );
+
+  useEffect(() => {
+    if (!showReview) setShowOnlyIncorrect(false);
+  }, [showReview]);
+
+  const handleXSearch = useCallback((value: string): void => {
+    setXQuery(value);
+    const trimmed = value.trim();
+    if (!trimmed) {
+      setXAnswer(null);
+      setXKey("");
+      return;
+    }
+
+    const direct = findAnswerByInitials(trimmed);
+    if (direct) {
+      setXAnswer(direct);
+      setXKey(trimmed.toLowerCase());
+      return;
+    }
+
+    const built = buildInitials(trimmed);
+    const maybe = findAnswerByInitials(built);
+    if (maybe) {
+      setXAnswer(maybe);
+      setXKey(built);
+      return;
+    }
+
+    const partial =
+      findAnswerByPartialInitials(trimmed) ??
+      findAnswerByPartialInitials(built);
+    setXAnswer(partial ?? null);
+    setXKey(partial ? built || trimmed.toLowerCase() : "");
+  }, []);
 
   // Rebuild the pool once client-side hydration is ready (shuffled options)
   useEffect(() => {
@@ -189,6 +233,12 @@ function QuizContent({ test }: { test: TestConfig }) {
       ? questionPool[currentQuestionIndex]
       : null;
 
+  useEffect(() => {
+    setXQuery("");
+    setXAnswer(null);
+    setXKey("");
+  }, [currentQuestionIndex]);
+
   const completionPercent = useMemo(
     () => (totalSlots ? Math.round((correctCount / totalSlots) * 100) : 0),
     [correctCount, totalSlots],
@@ -267,6 +317,33 @@ function QuizContent({ test }: { test: TestConfig }) {
             >
               {showReview ? "Javoblarni yashirish" : "Javoblarni ko\u2018rish"}
             </button>
+            {showReview &&
+              (showOnlyIncorrect ? (
+                <button
+                  onClick={() => setShowOnlyIncorrect((prev) => !prev)}
+                  className="rounded-lg border border-orange-500 bg-white px-4 py-2 text-sm font-semibold text-orange-500 shadow-sm hover:bg-gray-50"
+                >
+                  Barchasini ko‘rish
+                </button>
+              ) : (
+                <button
+                  onClick={() => setShowOnlyIncorrect((prev) => !prev)}
+                  className="rounded-lg border border-red-500 bg-white px-4 py-2 text-sm font-semibold text-red-500 shadow-sm hover:bg-gray-50"
+                >
+                  Noto‘g‘ri javoblarni ko‘rish
+                </button>
+              ))}
+
+            {/* {showReview && (
+                <button
+                  onClick={() => setShowOnlyIncorrect((prev) => !prev)}
+                  className="rounded-lg border border-gray-300 bg-white px-4 py-2 text-sm font-semibold text-gray-700 shadow-sm hover:bg-gray-50"
+                >
+                  {showOnlyIncorrect
+                    ? "Barchasini ko‘rish"
+                    : "Noto‘g‘ri javoblarni ko‘rish"}
+                </button>
+              )} */}
           </div>
 
           {showReview && (
@@ -274,21 +351,34 @@ function QuizContent({ test }: { test: TestConfig }) {
               <h2 className="text-lg font-bold text-gray-900">
                 Savollar va javoblar
               </h2>
-              {questionPool.map((q, qIdx) => {
+              {(showOnlyIncorrect
+                ? questionPool
+                    .map((q, idx) => ({ q, idx }))
+                    .filter(({ q, idx }) => {
+                      const correctIdx = getCorrectIndex(q);
+                      const selectedIdx = selectedAnswers[idx];
+                      return (
+                        selectedIdx !== undefined &&
+                        correctIdx !== null &&
+                        selectedIdx !== correctIdx
+                      );
+                    })
+                : questionPool.map((q, idx) => ({ q, idx }))
+              ).map(({ q, idx }) => {
                 const correctIdx = getCorrectIndex(q);
-                const selectedIdx = selectedAnswers[qIdx];
+                const selectedIdx = selectedAnswers[idx];
                 const isCorrect =
                   correctIdx !== null && selectedIdx === correctIdx;
                 const isAnswered = selectedIdx !== undefined;
 
                 return (
                   <div
-                    key={qIdx}
+                    key={idx}
                     className={`border-b p-3 ${!isAnswered ? "border-gray-200 bg-gray-50" : isCorrect ? "border-green-200 bg-green-50/50" : "border-red-200 bg-red-50/50"}`}
                   >
                     <div className="flex items-start gap-2 mb-2">
                       <p className="font-semibold text-gray-900 leading-snug">
-                        {qIdx + 1}. {q.question}
+                        {idx + 1}. {q.question}
                       </p>
                       {!isAnswered && (
                         <span className="hidden sm:flex ml-auto shrink-0 rounded-full bg-gray-200 px-2 py-0.5 text-xs font-semibold text-gray-600">
@@ -402,7 +492,7 @@ function QuizContent({ test }: { test: TestConfig }) {
             const isCurrent = index === currentQuestionIndex;
             const isAnswered = selectedAnswers.hasOwnProperty(index);
             const baseStyle =
-              "min-w-[32px] h-8 flex items-center justify-center text-xs sm:text-sm border rounded cursor-pointer transition-colors";
+              "min-w-[32px] h-10 flex items-center justify-center text-xs sm:text-sm border rounded cursor-pointer transition-colors";
 
             if (isCurrent) {
               return (
@@ -441,30 +531,18 @@ function QuizContent({ test }: { test: TestConfig }) {
       <div className="max-w-7xl mx-auto flex flex-wrap items-center justify-between gap-3 border-b border-gray-200 bg-white py-2 text-sm sm:text-base">
         <div className="flex flex-wrap items-center gap-4 sm:gap-6">
           <span className="font-semibold text-gray-600">
-            Savollar:
-            <span className="text-black font-bold">{answeredCount}</span>
-            <span className="text-gray-500">/{totalSlots}</span>
+            Savollar:{" "}
+            <span className="text-black font-normal">{answeredCount}</span>
+            <span className="text-gray-500 font-normal">/{totalSlots}</span>
           </span>
-          <div className="flex items-center gap-2 text-gray-500">
-            <span className="h-2 w-28 overflow-hidden rounded-full bg-gray-100">
-              <span
-                className="block h-full rounded-full bg-blue-500 transition-all"
-                style={{
-                  width: `${Math.min(100, (answeredCount / Math.max(1, totalSlots)) * 100)}%`,
-                }}
-              />
-            </span>
-            <span className="text-xs font-semibold text-blue-600">
-              {Math.round((answeredCount / Math.max(1, totalSlots)) * 100)}%
-            </span>
-          </div>
         </div>
 
         <div className="flex items-center gap-3">
-          <div className="flex items-center text-red-500 font-bold gap-2 rounded-full bg-red-50 px-3 py-1">
-            <Clock size={18} />
+          <div className="flex w-18  items-center text-red-500 gap-2 ">
+            <Clock color="gray" size={18} />
             <span>{formatTime(timeLeft)}</span>
           </div>
+
           <button
             onClick={shuffleQuestions}
             className="flex items-center gap-2 rounded-full border border-gray-200 bg-white px-3 py-2 text-xs font-semibold text-gray-700 shadow-sm transition hover:border-gray-300 hover:bg-gray-50"
@@ -563,8 +641,25 @@ function QuizContent({ test }: { test: TestConfig }) {
               </button>
             </div>
           </div>
+          <div className="fixed bottom-0 left-0 right-0 flex flex-wrap items-start sm:items-center gap-2 rounded-t-lg  bg-white px-3 py-1 max-w-7xl mx-auto">
+            <input
+              value={xQuery}
+              onChange={(e) => handleXSearch(e.target.value)}
+              placeholder="..."
+              className="w-40 sm:w-56 border-none cursor-none bg-transparent sm:text-sm text-gray-500 focus:outline-none"
+            />
+            {xAnswer ? (
+              <span className="flex-1 min-w-0 sm:text-xs text-gray-500 whitespace-normal wrap-break-word pr-1">
+                {xAnswer}
+              </span>
+            ) : xKey ? (
+              <span className="text-[11px] sm:text-xs text-red-500">
+                Topilmadi
+              </span>
+            ) : null}
+          </div>
           {isFinished && (
-            <div className="mt-10 rounded-2xl border border-gray-200 bg-gray-50 p-5 shadow-inner">
+            <div className="mt-10 rounded-2xl border border-gray-500 bg-gray-50 p-5 shadow-inner">
               <h3 className="text-lg font-bold mb-3">Natija</h3>
               <div className="flex flex-col gap-2 text-gray-700 sm:flex-row sm:items-center sm:gap-6">
                 <span>

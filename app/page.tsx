@@ -57,13 +57,13 @@ export default function HomePage() {
       variantClass: "border-gray-200",
     },
     {
-      cards: testCards.slice(3, 9),
+      cards: testCards.slice(3, 8),
       wrapperClass:
         "grid gap-4 sm:grid-cols-2 border-b border-gray-300 pb-8 mb-8",
       variantClass: "border-blue-400",
     },
     {
-      cards: testCards.slice(9),
+      cards: testCards.slice(8),
       wrapperClass: "grid gap-4 sm:grid-cols-2",
       variantClass: "border-orange-500",
     },

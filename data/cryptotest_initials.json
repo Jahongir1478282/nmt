@@ -1,0 +1,308 @@
+{
+  "questions": [
+    {
+      "Xquestion": "kpttkjt",
+      "correct_answer": "Ikki yoki undan ortiq tomonlar bajaradigan, biror-bir masalani yechish uchun loyihalashtirilgan harakatlar ketma-ketligi"
+    },
+    {
+      "Xquestion": "kpvk",
+      "correct_answer": "Protokolni bajarilishini yakuniga yetkazishga ishonch bildirilgan manfaatdor boʻlmagan uchinchi tomon"
+    },
+    {
+      "Xquestion": "kpaqkvq",
+      "correct_answer": "Sudya"
+    },
+    {
+      "Xquestion": "apaqvit",
+      "correct_answer": "kelishmovchilik kelib chiqqanda"
+    },
+    {
+      "Xquestion": "oypttbjt",
+      "correct_answer": "Tomonlar toʻgʻriligi protokollarning oʻzi bilan kafolatlanadi"
+    },
+    {
+      "Xquestion": "iskpqsb",
+      "correct_answer": "ikki tomonlama, uch tomonlama, koʻp tomonlama"
+    },
+    {
+      "Xquestion": "yxskpqsa",
+      "correct_answer": "interaktiv, nointeraktiv"
+    },
+    {
+      "Xquestion": "kpbavqqsam",
+      "correct_answer": "shifrlash/deshifrlash, elektronraqamli imzo, identifikatsiya/autentifikat-siya, kalitlarni taqsimlash protokollari"
+    },
+    {
+      "Xquestion": "kpsknvb",
+      "correct_answer": "Joriy sessiya uchun ishlatiladigan maxfiy kalit"
+    },
+    {
+      "Xquestion": "nqnui",
+      "correct_answer": "takrorlash hujumining oldini olishi uchun"
+    },
+    {
+      "Xquestion": "skyanqnusu",
+      "correct_answer": "Ikkinchi tomonni autentifikatsiyalash uchun"
+    },
+    {
+      "Xquestion": "skyayqavb",
+      "correct_answer": "Sessiya kaliti almashiladi"
+    },
+    {
+      "Xquestion": "skytntaao",
+      "correct_answer": "ikki tomonlama"
+    },
+    {
+      "Xquestion": "m",
+      "correct_answer": "M"
+    },
+    {
+      "Xquestion": "m",
+      "correct_answer": "M"
+    },
+    {
+      "Xquestion": "kpvbnuu",
+      "correct_answer": "takrorlash hujumining oldini olishi uchun"
+    },
+    {
+      "Xquestion": "npqtpok",
+      "correct_answer": "Arbitrli"
+    },
+    {
+      "Xquestion": "erifkxam",
+      "correct_answer": "Mumkin"
+    },
+    {
+      "Xquestion": "sdnmi",
+      "correct_answer": "Maʼlumotning xavfsizligini taʼminlash uchun"
+    },
+    {
+      "Xquestion": "mpqptvh",
+      "correct_answer": "Diffi-Helman"
+    },
+    {
+      "Xquestion": "dpqtpok",
+      "correct_answer": "vositachi"
+    },
+    {
+      "Xquestion": "pkiavn",
+      "correct_answer": "Ochiq kalitning kimga tegishligini aniqlash"
+    },
+    {
+      "Xquestion": "msnussakf",
+      "correct_answer": "Shirfrlash tezligi yuqori"
+    },
+    {
+      "Xquestion": "agtqtq",
+      "correct_answer": "Malumotlarni shifrlashda simmetrik, kalitlarni almashishda asimmetrik algoritmlardan foydalaniladi"
+    },
+    {
+      "Xquestion": "rskti",
+      "correct_answer": "certificate authority tomonidan"
+    },
+    {
+      "Xquestion": "stktao",
+      "correct_answer": "Qabul qiluvchi tomonidan"
+    },
+    {
+      "Xquestion": "spqssf",
+      "correct_answer": "X.509"
+    },
+    {
+      "Xquestion": "okkqtpaf",
+      "correct_answer": "Yagona CA ga asoslangan arxitektura; Tashkilot PKI ga asoslangan arxitektura; Gibrid PKI arxitektura."
+    },
+    {
+      "Xquestion": "spqph",
+      "correct_answer": "Xavfsiz pochta protokoli"
+    },
+    {
+      "Xquestion": "spmsuqaf",
+      "correct_answer": "DES; Triple−DES; RC2"
+    },
+    {
+      "Xquestion": "spmmbtuqaf",
+      "correct_answer": "SHA1"
+    },
+    {
+      "Xquestion": "xlbbaoibpk",
+      "correct_answer": "SSH"
+    },
+    {
+      "Xquestion": "sppfxvn",
+      "correct_answer": "Xavfsiz kanal hosil qilish"
+    },
+    {
+      "Xquestion": "spnpfi",
+      "correct_answer": "22"
+    },
+    {
+      "Xquestion": "mknvb",
+      "correct_answer": "Ma'lumot butunligini ta'minlaydi"
+    },
+    {
+      "Xquestion": "ccrctvk",
+      "correct_answer": "Ma'lumot butunligini ta'minlaydi"
+    },
+    {
+      "Xquestion": "fpnpfi",
+      "correct_answer": "21"
+    },
+    {
+      "Xquestion": "fpzbqxpb",
+      "correct_answer": "SFTP"
+    },
+    {
+      "Xquestion": "hpnpfi",
+      "correct_answer": "443"
+    },
+    {
+      "Xquestion": "spqvb",
+      "correct_answer": "Xavfsiz tarmoq orqali masofadan boshqarishni ta’minlash"
+    },
+    {
+      "Xquestion": "spnui",
+      "correct_answer": "Xavfsiz fayl almashish"
+    },
+    {
+      "Xquestion": "fpmxqpat",
+      "correct_answer": "TLS/SSL"
+    },
+    {
+      "Xquestion": "spmsqaf",
+      "correct_answer": "DES, AES, Blowfish"
+    },
+    {
+      "Xquestion": "ipqsi",
+      "correct_answer": "Tarmoq sathida"
+    },
+    {
+      "Xquestion": "spsgnaan",
+      "correct_answer": "Ko‘p darajali xavfsizlikni ta'minlashi"
+    },
+    {
+      "Xquestion": "scsfnui",
+      "correct_answer": "Buyruqlarni xavfsiz bajarish"
+    },
+    {
+      "Xquestion": "tpxsvn",
+      "correct_answer": "Sertifikatni autentifikatsiya qilish"
+    },
+    {
+      "Xquestion": "ipfefnuk",
+      "correct_answer": "Ma’lumotni konfidensialligini ta’minlash uchun"
+    },
+    {
+      "Xquestion": "ppatuqaf",
+      "correct_answer": "RSA"
+    },
+    {
+      "Xquestion": "mfakn",
+      "correct_answer": "Matnni shifrlash imkoniyatining yo‘qligi"
+    },
+    {
+      "Xquestion": "sxsqksa",
+      "correct_answer": "X.509"
+    },
+    {
+      "Xquestion": "pskqhq",
+      "correct_answer": "Tasodifiy sonlar generatori orqali"
+    },
+    {
+      "Xquestion": "ppraqmi",
+      "correct_answer": "Sessiya kalitini shifrlashda"
+    },
+    {
+      "Xquestion": "pxqfu",
+      "correct_answer": "ASCII belgilari shaklida"
+    },
+    {
+      "Xquestion": "spqxukiok",
+      "correct_answer": "Turli e-mail ilovalari bilan moslashuvchanligi"
+    },
+    {
+      "Xquestion": "ppfsatq",
+      "correct_answer": "DES, Triple-DES, CAST, IDEA"
+    },
+    {
+      "Xquestion": "spqsi",
+      "correct_answer": "Ilova"
+    },
+    {
+      "Xquestion": "spromna",
+      "correct_answer": "PKI xizmati"
+    },
+    {
+      "Xquestion": "spikaq",
+      "correct_answer": "RSA"
+    },
+    {
+      "Xquestion": "sptabbnda",
+      "correct_answer": "Merchant Authorization Request"
+    },
+    {
+      "Xquestion": "sptobn",
+      "correct_answer": "Toʻlovni olish"
+    },
+    {
+      "Xquestion": "spiteydnj",
+      "correct_answer": "Root Certificate Authority"
+    },
+    {
+      "Xquestion": "sptisnuk",
+      "correct_answer": "Xabarlarni bir-biriga bog‘lash uchun"
+    },
+    {
+      "Xquestion": "spsuqki",
+      "correct_answer": "Sessiya kaliti"
+    },
+    {
+      "Xquestion": "spstqao",
+      "correct_answer": "Iyerarxik tizim orqali"
+    },
+    {
+      "Xquestion": "fpqkma",
+      "correct_answer": "Faktorlash muammosi"
+    },
+    {
+      "Xquestion": "fpznb",
+      "correct_answer": "Tasodifiy \"e\" ning tanlanishiga"
+    },
+    {
+      "Xquestion": "fpnqh",
+      "correct_answer": "N=p×q"
+    },
+    {
+      "Xquestion": "spqaf",
+      "correct_answer": "Modul bo‘yicha darajaga ko‘tarish"
+    },
+    {
+      "Xquestion": "spztn",
+      "correct_answer": "Avtorizatsiya masalasining hal qilinmagani"
+    },
+    {
+      "Xquestion": "fptqeqbk",
+      "correct_answer": "Tasodifiy ravishda 0 yoki 1"
+    },
+    {
+      "Xquestion": "zapqjt",
+      "correct_answer": "Tomonlarning anonimligini"
+    },
+    {
+      "Xquestion": "spkna",
+      "correct_answer": "Diskret logorifmlash muammosiga"
+    },
+    {
+      "Xquestion": "nbapqvb",
+      "correct_answer": "Maxfiy ma’lumotlarni oshkor etmasdan tasdiqlashni ta’minlaydi"
+    },
+    {
+      "Xquestion": "zdisonok",
+      "correct_answer": "Xavfsizlikni oshiradi"
+    },
+    {
+      "Xquestion": "fpnbpvqqsbk",
+      "correct_answer": "Tub sonlar"
+    }
+  ]
+}
