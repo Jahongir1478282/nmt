@@ -74,24 +74,26 @@ export default function HomePage() {
   return (
     <div className="min-h-screen bg-white p-6 font-sans text-gray-800">
       <div className="max-w-7xl mx-auto">
-        <h1 className="text-2xl font-bold">Asosiy menu</h1>
-        <p className="text-sm text-gray-600 mb-6">
-          Umumiy kirish testlari soni:
-          <span className="ml-1 font-semibold text-gray-900">
-            {generalCount}
-          </span>
-        </p>
-        <div className="mb-8 flex flex-wrap items-center gap-3">
-          <a
-            href={ZIP_DOWNLOAD_PATH}
-            download
-            className="inline-flex items-center gap-2 rounded-lg bg-green-600 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-green-700"
-          >
-            ZIP faylni yuklab olish
-          </a>
-          <span className="text-xs text-gray-500">
-            ZIP faylni public papkada /public/MyExtension.zip nomi bilan saqlang.
-          </span>
+        <div className="flex items-center justify-between"> 
+          <div>
+            <h1 className="text-2xl font-bold">Asosiy menu</h1>
+            <p className="text-sm text-gray-600 mb-6">
+              Umumiy kirish testlari soni:
+              <span className="ml-1 font-semibold text-gray-900">
+                {generalCount}
+              </span>
+            </p>
+          </div>
+          <div className="mb-8 flex flex-wrap items-center gap-3">
+            <a
+              href={ZIP_DOWNLOAD_PATH}
+              download
+              className="inline-flex items-center gap-2 rounded-lg bg-blue-500 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-blue-700"
+            >
+              ZIP faylni yuklab olish
+            </a>
+            
+          </div>
         </div>
         {sections.map(
           ({ cards, wrapperClass, variantClass }, sectionIndex) =>
