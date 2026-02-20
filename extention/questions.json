@@ -1,0 +1,2810 @@
+[
+  {
+    "Xquestion": "kpttkjt",
+    "correct_answer": "Ikki yoki undan ortiq tomonlar bajaradigan, biror-bir masalani yechish uchun loyihalashtirilgan harakatlar ketma-ketligi"
+  },
+  {
+    "Xquestion": "kpvk",
+    "correct_answer": "Protokolni bajarilishini yakuniga yetkazishga ishonch bildirilgan manfaatdor boʻlmagan uchinchi tomon"
+  },
+  {
+    "Xquestion": "kpaqkvq",
+    "correct_answer": "Sudya"
+  },
+  {
+    "Xquestion": "apaqvit",
+    "correct_answer": "kelishmovchilik kelib chiqqanda"
+  },
+  {
+    "Xquestion": "oypttbjt",
+    "correct_answer": "Tomonlar toʻgʻriligi protokollarning oʻzi bilan kafolatlanadi"
+  },
+  {
+    "Xquestion": "iskpqsb",
+    "correct_answer": "ikki tomonlama, uch tomonlama, koʻp tomonlama"
+  },
+  {
+    "Xquestion": "yxskpqsa",
+    "correct_answer": "interaktiv, nointeraktiv"
+  },
+  {
+    "Xquestion": "kpbavqqsam",
+    "correct_answer": "shifrlash/deshifrlash, elektronraqamli imzo, identifikatsiya/autentifikat-siya, kalitlarni taqsimlash protokollari"
+  },
+  {
+    "Xquestion": "kpsknvb",
+    "correct_answer": "Joriy sessiya uchun ishlatiladigan maxfiy kalit"
+  },
+  {
+    "Xquestion": "nqnui",
+    "correct_answer": "takrorlash hujumining oldini olishi uchun"
+  },
+  {
+    "Xquestion": "skyanqnusu",
+    "correct_answer": "Ikkinchi tomonni autentifikatsiyalash uchun"
+  },
+  {
+    "Xquestion": "skyayqavb",
+    "correct_answer": "Sessiya kaliti almashiladi"
+  },
+  {
+    "Xquestion": "skytntaao",
+    "correct_answer": "ikki tomonlama"
+  },
+  {
+    "Xquestion": "m",
+    "correct_answer": "M"
+  },
+  {
+    "Xquestion": "m",
+    "correct_answer": "M"
+  },
+  {
+    "Xquestion": "kpvbnuu",
+    "correct_answer": "takrorlash hujumining oldini olishi uchun"
+  },
+  {
+    "Xquestion": "npqtpok",
+    "correct_answer": "Arbitrli"
+  },
+  {
+    "Xquestion": "erifkxam",
+    "correct_answer": "Mumkin"
+  },
+  {
+    "Xquestion": "sdnmi",
+    "correct_answer": "Maʼlumotning xavfsizligini taʼminlash uchun"
+  },
+  {
+    "Xquestion": "mpqptvh",
+    "correct_answer": "Diffi-Helman"
+  },
+  {
+    "Xquestion": "dpqtpok",
+    "correct_answer": "vositachi"
+  },
+  {
+    "Xquestion": "pkiavn",
+    "correct_answer": "Ochiq kalitning kimga tegishligini aniqlash"
+  },
+  {
+    "Xquestion": "msnussakf",
+    "correct_answer": "Shirfrlash tezligi yuqori"
+  },
+  {
+    "Xquestion": "agtqtq",
+    "correct_answer": "Malumotlarni shifrlashda simmetrik, kalitlarni almashishda asimmetrik algoritmlardan foydalaniladi"
+  },
+  {
+    "Xquestion": "rskti",
+    "correct_answer": "certificate authority tomonidan"
+  },
+  {
+    "Xquestion": "stktao",
+    "correct_answer": "Qabul qiluvchi tomonidan"
+  },
+  {
+    "Xquestion": "spqssf",
+    "correct_answer": "X.509"
+  },
+  {
+    "Xquestion": "okkqtpaf",
+    "correct_answer": "Yagona CA ga asoslangan arxitektura; Tashkilot PKI ga asoslangan arxitektura; Gibrid PKI arxitektura."
+  },
+  {
+    "Xquestion": "spqph",
+    "correct_answer": "Xavfsiz pochta protokoli"
+  },
+  {
+    "Xquestion": "spmsuqaf",
+    "correct_answer": "DES; Triple−DES; RC2"
+  },
+  {
+    "Xquestion": "spmmbtuqaf",
+    "correct_answer": "SHA1"
+  },
+  {
+    "Xquestion": "xlbbaoibpk",
+    "correct_answer": "SSH"
+  },
+  {
+    "Xquestion": "sppfxvn",
+    "correct_answer": "Xavfsiz kanal hosil qilish"
+  },
+  {
+    "Xquestion": "spnpfi",
+    "correct_answer": "22"
+  },
+  {
+    "Xquestion": "mknvb",
+    "correct_answer": "Ma'lumot butunligini ta'minlaydi"
+  },
+  {
+    "Xquestion": "ccrctvk",
+    "correct_answer": "Ma'lumot butunligini ta'minlaydi"
+  },
+  {
+    "Xquestion": "fpnpfi",
+    "correct_answer": "21"
+  },
+  {
+    "Xquestion": "fpzbqxpb",
+    "correct_answer": "SFTP"
+  },
+  {
+    "Xquestion": "hpnpfi",
+    "correct_answer": "443"
+  },
+  {
+    "Xquestion": "spqvb",
+    "correct_answer": "Xavfsiz tarmoq orqali masofadan boshqarishni ta’minlash"
+  },
+  {
+    "Xquestion": "spnui",
+    "correct_answer": "Xavfsiz fayl almashish"
+  },
+  {
+    "Xquestion": "fpmxqpat",
+    "correct_answer": "TLS/SSL"
+  },
+  {
+    "Xquestion": "spmsqaf",
+    "correct_answer": "DES, AES, Blowfish"
+  },
+  {
+    "Xquestion": "ipqsi",
+    "correct_answer": "Tarmoq sathida"
+  },
+  {
+    "Xquestion": "spsgnaan",
+    "correct_answer": "Ko‘p darajali xavfsizlikni ta'minlashi"
+  },
+  {
+    "Xquestion": "scsfnui",
+    "correct_answer": "Buyruqlarni xavfsiz bajarish"
+  },
+  {
+    "Xquestion": "tpxsvn",
+    "correct_answer": "Sertifikatni autentifikatsiya qilish"
+  },
+  {
+    "Xquestion": "ipfefnuk",
+    "correct_answer": "Ma’lumotni konfidensialligini ta’minlash uchun"
+  },
+  {
+    "Xquestion": "ppatuqaf",
+    "correct_answer": "RSA"
+  },
+  {
+    "Xquestion": "mfakn",
+    "correct_answer": "Matnni shifrlash imkoniyatining yo‘qligi"
+  },
+  {
+    "Xquestion": "sxsqksa",
+    "correct_answer": "X.509"
+  },
+  {
+    "Xquestion": "pskqhq",
+    "correct_answer": "Tasodifiy sonlar generatori orqali"
+  },
+  {
+    "Xquestion": "ppraqmi",
+    "correct_answer": "Sessiya kalitini shifrlashda"
+  },
+  {
+    "Xquestion": "pxqfu",
+    "correct_answer": "ASCII belgilari shaklida"
+  },
+  {
+    "Xquestion": "spqxukiok",
+    "correct_answer": "Turli e-mail ilovalari bilan moslashuvchanligi"
+  },
+  {
+    "Xquestion": "ppfsatq",
+    "correct_answer": "DES, Triple-DES, CAST, IDEA"
+  },
+  {
+    "Xquestion": "spqsi",
+    "correct_answer": "Ilova"
+  },
+  {
+    "Xquestion": "spromna",
+    "correct_answer": "PKI xizmati"
+  },
+  {
+    "Xquestion": "spikaq",
+    "correct_answer": "RSA"
+  },
+  {
+    "Xquestion": "sptabbnda",
+    "correct_answer": "Merchant Authorization Request"
+  },
+  {
+    "Xquestion": "sptobn",
+    "correct_answer": "Toʻlovni olish"
+  },
+  {
+    "Xquestion": "spiteydnj",
+    "correct_answer": "Root Certificate Authority"
+  },
+  {
+    "Xquestion": "sptisnuk",
+    "correct_answer": "Xabarlarni bir-biriga bog‘lash uchun"
+  },
+  {
+    "Xquestion": "spsuqki",
+    "correct_answer": "Sessiya kaliti"
+  },
+  {
+    "Xquestion": "spstqao",
+    "correct_answer": "Iyerarxik tizim orqali"
+  },
+  {
+    "Xquestion": "fpqkma",
+    "correct_answer": "Faktorlash muammosi"
+  },
+  {
+    "Xquestion": "fpznb",
+    "correct_answer": "Tasodifiy \"e\" ning tanlanishiga"
+  },
+  {
+    "Xquestion": "fpnqh",
+    "correct_answer": "N=p×q"
+  },
+  {
+    "Xquestion": "spqaf",
+    "correct_answer": "Modul bo‘yicha darajaga ko‘tarish"
+  },
+  {
+    "Xquestion": "spztn",
+    "correct_answer": "Avtorizatsiya masalasining hal qilinmagani"
+  },
+  {
+    "Xquestion": "fptqeqbk",
+    "correct_answer": "Tasodifiy ravishda 0 yoki 1"
+  },
+  {
+    "Xquestion": "zapqjt",
+    "correct_answer": "Tomonlarning anonimligini"
+  },
+  {
+    "Xquestion": "spkna",
+    "correct_answer": "Diskret logorifmlash muammosiga"
+  },
+  {
+    "Xquestion": "nbapqvb",
+    "correct_answer": "Maxfiy ma’lumotlarni oshkor etmasdan tasdiqlashni ta’minlaydi"
+  },
+  {
+    "Xquestion": "zdisonok",
+    "correct_answer": "Xavfsizlikni oshiradi"
+  },
+  {
+    "Xquestion": "fpnbpvqqsbk",
+    "correct_answer": "Tub sonlar"
+  },
+  {
+    "Xquestion": "yqiumhivatixstamunfykt",
+    "correct_answer": "30"
+  },
+  {
+    "Xquestion": "yiyjmyimnunbokt",
+    "correct_answer": "10"
+  },
+  {
+    "Xquestion": "yrotmndentottrker",
+    "correct_answer": "10"
+  },
+  {
+    "Xquestion": "atana",
+    "correct_answer": "bu tadqiqotchilar va olimlarning o'z ishlanmalarini tijoratlashtirishda ishtirok etishini anglatadi"
+  },
+  {
+    "Xquestion": "aomiimmvaheiyhicyt",
+    "correct_answer": "Innovatsion loyihalar"
+  },
+  {
+    "Xquestion": "aoxybsymyxtyiiqkvatosbfybl",
+    "correct_answer": "Startaplar loyihalari"
+  },
+  {
+    "Xquestion": "amehavheuaybvaftnqyt",
+    "correct_answer": "Amaliy tadqiqotlar"
+  },
+  {
+    "Xquestion": "apppopmag",
+    "correct_answer": "universitetga yuqori texnologiyaga asoslangan firmalarni yaratgan xodimlarni jalb etish"
+  },
+  {
+    "Xquestion": "afbyvaktytbibm",
+    "correct_answer": "Universitet 1.0"
+  },
+  {
+    "Xquestion": "bb",
+    "correct_answer": "O'z tashkiloti(o'z mamlakatida yoki xorijda faoliyat ko'rsatayotgan tarmog'iga yoki tarmoqqa taalluqligidan qat'iy nazar jarayonlari o'xshash tashkilotlardan) faoliyatini yaxshilash uchun boshqa tashkilotlarning ilg'or tajribasini o'rganish, amaliyotiga moslashish jarayoni."
+  },
+  {
+    "Xquestion": "bvarbbvaincqmmkbuv",
+    "correct_answer": "Scopus"
+  },
+  {
+    "Xquestion": "batoqrb",
+    "correct_answer": "1862 y."
+  },
+  {
+    "Xquestion": "bmtuiiktq",
+    "correct_answer": "amerikalik tadqiqotchi Genri Itskovits"
+  },
+  {
+    "Xquestion": "btuamqubbohoh",
+    "correct_answer": "Massachuseta texnologik universiteti bilan"
+  },
+  {
+    "Xquestion": "btnyvaqduqo",
+    "correct_answer": "1951 yilda AQShning Kaliforniya shtatidagi Stenford universitetida"
+  },
+  {
+    "Xquestion": "bdqyydvti",
+    "correct_answer": "1999 yilda"
+  },
+  {
+    "Xquestion": "bdyindvii",
+    "correct_answer": "29 ta"
+  },
+  {
+    "Xquestion": "bdqi",
+    "correct_answer": "1999 yil, 19 iyun"
+  },
+  {
+    "Xquestion": "buonqqq",
+    "correct_answer": "1158 y."
+  },
+  {
+    "Xquestion": "buqtt",
+    "correct_answer": "1088 y."
+  },
+  {
+    "Xquestion": "bkunasa",
+    "correct_answer": "3 ta"
+  },
+  {
+    "Xquestion": "bkqunakom",
+    "correct_answer": "O'rta asrlar, birinchi avlod universitetlari, Tadqiqot universitetlari hamda Uchinchi avlod universitetlari."
+  },
+  {
+    "Xquestion": "dbvamdhootmhemicvaao",
+    "correct_answer": "Maqsadli loyihalar"
+  },
+  {
+    "Xquestion": "fvakafbmtootm",
+    "correct_answer": "Universitet"
+  },
+  {
+    "Xquestion": "gtqtumlvamtobyuta",
+    "correct_answer": "ingliz"
+  },
+  {
+    "Xquestion": "gfib",
+    "correct_answer": "Birinchi navbatda yangi ijtimoy .... paydo bol"
+  },
+  {
+    "Xquestion": "iatxabvaogfyqquo",
+    "correct_answer": "Stenfordga"
+  },
+  {
+    "Xquestion": "ivaiftqnmivatubq",
+    "correct_answer": "21-moddasida"
+  },
+  {
+    "Xquestion": "ivaiftqnmidktq",
+    "correct_answer": "23-moddasida"
+  },
+  {
+    "Xquestion": "ivaiftqnmyivaifjeq",
+    "correct_answer": "11-moddasida"
+  },
+  {
+    "Xquestion": "ivaiftqnmivaifsayk",
+    "correct_answer": "4-moddasida"
+  },
+  {
+    "Xquestion": "iyrknbvapi",
+    "correct_answer": "5 bob, 5 §"
+  },
+  {
+    "Xquestion": "iyrkisbttqby",
+    "correct_answer": "4- bobda"
+  },
+  {
+    "Xquestion": "iyrkyaobyxdilxsvattbtsmkkqym",
+    "correct_answer": "2020-2022 yillarga"
+  },
+  {
+    "Xquestion": "iyrkibqn",
+    "correct_answer": "Ilm-fanni rivojlantirish zarurati, uning joriy holati va mavjud muammolar"
+  },
+  {
+    "Xquestion": "iyrkmkvaitoyynytqb",
+    "correct_answer": "49 yosh"
+  },
+  {
+    "Xquestion": "iyrknbiruyaoq",
+    "correct_answer": "4-moddasida"
+  },
+  {
+    "Xquestion": "iyrktbqn",
+    "correct_answer": "Ilm-fanni rivojlantirishning ustuvor yo'nalishlarini amalga oshirish mexanizmlari"
+  },
+  {
+    "Xquestion": "iyrkubqn",
+    "correct_answer": "Ilm-fanni rivojlantirishning ustuvor yo'nalishlari"
+  },
+  {
+    "Xquestion": "ifumbt",
+    "correct_answer": "Mendeley"
+  },
+  {
+    "Xquestion": "ibfhovaoeuybslbsbmhttjs",
+    "correct_answer": "texnologiyalarni tijoratlashtirish"
+  },
+  {
+    "Xquestion": "ivalnkiusmueoxa",
+    "correct_answer": "fundamental tadqiqotlar bilan shug'ullanuvchi universitetlar, tijorat tovarlarini ishlab chiqaruvchi tarmoqlar va bozorni tartibga soluvchi hukumat."
+  },
+  {
+    "Xquestion": "ivaitf",
+    "correct_answer": "ixtiro faqat texnika olamida yaratilsa, innovatsiya ham texnika va ham biznes olamida yaratiladi hamda amalda joriy etiladi."
+  },
+  {
+    "Xquestion": "ktagjkbk",
+    "correct_answer": "o'qituvchining bajargan o'quv yuklamasi"
+  },
+  {
+    "Xquestion": "ktosirkbk",
+    "correct_answer": "o'quv ishlari, ilmiy-uslubiy, ilmiy-tadqiqot va \"ustoz-shogird\" yuklamalari"
+  },
+  {
+    "Xquestion": "nyborgiirbjimqkamq",
+    "correct_answer": "2030 yilga"
+  },
+  {
+    "Xquestion": "otmojbktovqnhk",
+    "correct_answer": "Oliy ta'lim tizimini 2030 yilgacha rivojlantirish konsepsiyasida"
+  },
+  {
+    "Xquestion": "otmtfivaintfubntukbjevnhk",
+    "correct_answer": "Oliy ta'lim tizimini 2030 yilgacha rivojlantirish konsepsiyasida"
+  },
+  {
+    "Xquestion": "orovaomtvgekbhqdic",
+    "correct_answer": "ilm-fanni 2030 yilgacha rivojlantirish"
+  },
+  {
+    "Xquestion": "orpiyrkttgfqqq",
+    "correct_answer": "2020 yil 29 oktabr"
+  },
+  {
+    "Xquestion": "orporottyrkttgfqqq",
+    "correct_answer": "2019 yil 8 oktabr"
+  },
+  {
+    "Xquestion": "orpyofbtifyrk",
+    "correct_answer": "mazkur yo'nalishni rivojlantirish yo'lidagi 19 ta muammo alohida belgilandi"
+  },
+  {
+    "Xquestion": "orivaiftgqqqq",
+    "correct_answer": "2019 yil 29 oktabr"
+  },
+  {
+    "Xquestion": "oriftgqqqq",
+    "correct_answer": "2020 yil 24 iyul"
+  },
+  {
+    "Xquestion": "orybgiirbjimqkevqnhk",
+    "correct_answer": "Oliy ta'lim tizimini 2030 yilgacha rivojlantirish konsepsiyasida"
+  },
+  {
+    "Xquestion": "psyiyndn",
+    "correct_answer": "O'qituvchining innovatsion faoliyati"
+  },
+  {
+    "Xquestion": "qbiuenmmmq",
+    "correct_answer": "XX asrning oxirlaridan boshlab"
+  },
+  {
+    "Xquestion": "qumftxvaiitebcittq",
+    "correct_answer": "Universitet-2.0"
+  },
+  {
+    "Xquestion": "quomdtii",
+    "correct_answer": "Universitet 3.0"
+  },
+  {
+    "Xquestion": "qimheumvavivabmmvavkhscm",
+    "correct_answer": "Ilmiy loyihalar"
+  },
+  {
+    "Xquestion": "rmutiktbuyronne",
+    "correct_answer": "akademik va biznes-elementlarni namoyon etadi."
+  },
+  {
+    "Xquestion": "stntqm",
+    "correct_answer": "2 ta"
+  },
+  {
+    "Xquestion": "stqtb",
+    "correct_answer": "oddiy va murakkab turlari"
+  },
+  {
+    "Xquestion": "sktntbi",
+    "correct_answer": "24"
+  },
+  {
+    "Xquestion": "smbasq",
+    "correct_answer": "kengaytirilgan qidiruv"
+  },
+  {
+    "Xquestion": "smbasq",
+    "correct_answer": "tashkilot bo'yicha qidiruv"
+  },
+  {
+    "Xquestion": "smbaiyqna",
+    "correct_answer": "2 ta so'zdan tarkib topgan maqolani qidirish uchun"
+  },
+  {
+    "Xquestion": "smbasq",
+    "correct_answer": "muallif bo'yicha qidiruv"
+  },
+  {
+    "Xquestion": "smbbsq",
+    "correct_answer": "oddiy qidiruv"
+  },
+  {
+    "Xquestion": "smbfqyqna",
+    "correct_answer": "Aniq farazlarni qidirish"
+  },
+  {
+    "Xquestion": "smbitoqqboao",
+    "correct_answer": "View citation"
+  },
+  {
+    "Xquestion": "smboiyqna",
+    "correct_answer": "hech bo'lmaganda 2 ta so'zdan bittasi bo'yicha maqolani qidirish uchun"
+  },
+  {
+    "Xquestion": "smbqihyo",
+    "correct_answer": "1 tadan ko'p maqola chop etganlar uchun"
+  },
+  {
+    "Xquestion": "sikbvaimbshqvb",
+    "correct_answer": "Mendeley"
+  },
+  {
+    "Xquestion": "syiqudrboetub",
+    "correct_answer": "Massachusets texnologiya instituti"
+  },
+  {
+    "Xquestion": "sltdnyktok",
+    "correct_answer": "1976 yili Forbes"
+  },
+  {
+    "Xquestion": "tjvaitsvaroaqhybouoobbtoqt",
+    "correct_answer": "Fundamental tadqiqotlar"
+  },
+  {
+    "Xquestion": "tukrtstgyu",
+    "correct_answer": "davlat, biznes va texnoparklar (iste'molchi buyurtmachilarning manfaatlarini ifodlovchi sifatidagi) bilan hamkorligi rivojlanmoqda."
+  },
+  {
+    "Xquestion": "tukmbkh",
+    "correct_answer": "Stenford universiteti professori Genri Itskovits hisoblanadi"
+  },
+  {
+    "Xquestion": "tukmk",
+    "correct_answer": "Genri Itskovits"
+  },
+  {
+    "Xquestion": "turonsuaqobqbi",
+    "correct_answer": "bilimlarni \"generatsiyalash\" mexanizmni shakllantirish"
+  },
+  {
+    "Xquestion": "tutqvaqb",
+    "correct_answer": "Kaliforniyada (XX asrning 40 yillarining oxiri 50 yillarning boshlarida) Silikova (Kremli) vodiysida"
+  },
+  {
+    "Xquestion": "tutm",
+    "correct_answer": "madaniy-ta'lim; ilmiy-tadqiqot; innovatsion-tadbirkorlik."
+  },
+  {
+    "Xquestion": "tuhbktoxkustokcmbhu",
+    "correct_answer": "G.Itskovitsning"
+  },
+  {
+    "Xquestion": "tum",
+    "correct_answer": "Tadbirkor, Innovator, integrator"
+  },
+  {
+    "Xquestion": "tbslusmro",
+    "correct_answer": "Gipotezasi"
+  },
+  {
+    "Xquestion": "txvaiitebcittqatvaiibbvaom",
+    "correct_answer": "Universitet 2.0"
+  },
+  {
+    "Xquestion": "tvaiffpvapfivahfiatfybaolqmsvaaote",
+    "correct_answer": "3 yil muddatgacha"
+  },
+  {
+    "Xquestion": "ttb",
+    "correct_answer": "iste'molchi (xaridor) bilimlardan foydalanish huquqini olgan va o'z egasiga (texnologiyalarni ishlab chiquvchisiga) u yoki bu shaklda litsenziya (yoki boshqa) bitim shartlarida belgilangan miqdorda haq to'laydigan texnologik uzatish shakli"
+  },
+  {
+    "Xquestion": "tttb",
+    "correct_answer": "ilmiy-tadqiqot natijalari o'z vaqtida bozorda mahsulot va xizmatlarga aylantiriladigan jarayondir"
+  },
+  {
+    "Xquestion": "tuqxktb",
+    "correct_answer": "shartnoma, hajmi, almashuv darjasi va texnologiyalar transferi turi bo'yicha"
+  },
+  {
+    "Xquestion": "traquqo",
+    "correct_answer": "yuqori kurs talabalarini o'qitmaydiganlar, tor mutaxassisliklar tayyorlaydigan, besh yil ichida 1000 ta ilmiy ishlar, shu jumladan bir yilda 200 tadan kam nashr ettirganlar"
+  },
+  {
+    "Xquestion": "trk",
+    "correct_answer": "Ingliz tilidagi mamlakatlar uchun ustuvorlik yuqori. Reyting faqat ingliz tilidagi ilmiy nashrlarni tahlil qiladi. Bundan aksariyat uchinchi mamalatlarning OTMlari o'z ulushini yo'qotishadi"
+  },
+  {
+    "Xquestion": "ub",
+    "correct_answer": "fundamental va ko'pgina amaliy fanlar bo'yicha mutaxassislar tahsil olishadigan oliy ta'lim muassasi"
+  },
+  {
+    "Xquestion": "ubnuonluskc",
+    "correct_answer": "fundamental va ko'pgina amaliy fanlar bo'yicha mutaxassislar tahsil olishadigan oliy ta'lim muassasi"
+  },
+  {
+    "Xquestion": "umybqvaqpb",
+    "correct_answer": "XX asrning 50-60 yillarida AQSh va Kanadada"
+  },
+  {
+    "Xquestion": "uuhbooxu",
+    "correct_answer": "Universitet professorlari tomonidan talabalarni ilmga jalb etish orqali erishiladigan tadqiqot faoliyati hisoblangan"
+  },
+  {
+    "Xquestion": "uyunbtmna",
+    "correct_answer": "Gumboldt"
+  },
+  {
+    "Xquestion": "ubmm",
+    "correct_answer": "bank tarmog'i rivojlanmagan mintaqalarida moliyaviy xizmatlarni kengaytirishni yengillashtirish"
+  },
+  {
+    "Xquestion": "vnikababvaejkdyyl",
+    "correct_answer": "Ijodiy loyihalar"
+  },
+  {
+    "Xquestion": "wosximbiqxijceumsouynfykt",
+    "correct_answer": "0, 2"
+  },
+  {
+    "Xquestion": "wosximbiqxijhnootcemsyqokt",
+    "correct_answer": "10"
+  },
+  {
+    "Xquestion": "wosximbiqxijootcebmnxhsyqokt",
+    "correct_answer": "2"
+  },
+  {
+    "Xquestion": "xyikbhynvjtqkt",
+    "correct_answer": "2"
+  },
+  {
+    "Xquestion": "yokmktvaqtspyttkifn",
+    "correct_answer": "Ta'limdagi innovatsiyalar"
+  },
+  {
+    "Xquestion": "ytyjmmixnvabytmkifn",
+    "correct_answer": "Ilmiy va texnologik innovatsiyalar"
+  },
+  {
+    "Xquestion": "ybtsua",
+    "correct_answer": "Xalmers universiteti (Geteborg)"
+  },
+  {
+    "Xquestion": "ybub",
+    "correct_answer": "Bolonya universiteti"
+  },
+  {
+    "Xquestion": "zginkut",
+    "correct_answer": "Uchta: bilim; texnologiya; tadbirkorlik tashabbuskorligi."
+  },
+  {
+    "Xquestion": "zubf",
+    "correct_answer": "innovatorlarni tayyorlash"
+  },
+  {
+    "Xquestion": "Knvuaiaiyq",
+    "correct_answer": "Kriptologiya - ma'lumotlarni himoya qilish va tahlil qilishni o'rganadigan ilmiy soha"
+  },
+  {
+    "Xquestion": "Kvkoafn",
+    "correct_answer": "Kriptografiya ma'lumotlarni shifrlash, kriptoanaliz esa shifrni buzish bilan shug'ullanadi"
+  },
+  {
+    "Xquestion": "Ksqxe",
+    "correct_answer": "Oddiy algoritmlar bo'lib, har xil tahlil usullariga qarshi zaif"
+  },
+  {
+    "Xquestion": "Kskamn",
+    "correct_answer": "Shifrni buzish va asl matnni tiklash"
+  },
+  {
+    "Xquestion": "Kabn",
+    "correct_answer": "Algoritmning turli xil hujumlarga nisbatan chidamliligi"
+  },
+  {
+    "Xquestion": "Hmnn",
+    "correct_answer": "Algoritmning bajarilishi uchun kerak bo'ladigan vaqt va xotira resurslari"
+  },
+  {
+    "Xquestion": "Kbbqhoho",
+    "correct_answer": "Algoritmga nisbatan hujum usullari va tizimning chidamliligi"
+  },
+  {
+    "Xquestion": "Kabbuqmf",
+    "correct_answer": "Algoritmga qarshi hujumlarning samaradorligi"
+  },
+  {
+    "Xquestion": "Svaktpafn",
+    "correct_answer": "Simmetrik tizimda bitta kalit, asimmetrik tizimda ikkita kalit ishlatiladi"
+  },
+  {
+    "Xquestion": "Kstqqsui",
+    "correct_answer": "Harf chastotasini tahlil qilish va brute-force usuli"
+  },
+  {
+    "Xquestion": "Ssmqsm",
+    "correct_answer": "Shifrlash kaliti yordamida harflarni almashtirish"
+  },
+  {
+    "Xquestion": "Ksmhcqtqm",
+    "correct_answer": "Eng ko'p uchraydigan harflarni aniqlash"
+  },
+  {
+    "Xquestion": "Msbqsui",
+    "correct_answer": "Harf chastotasi tahlili"
+  },
+  {
+    "Xquestion": "Vstqqui",
+    "correct_answer": "Kasiski testi"
+  },
+  {
+    "Xquestion": "Bqkuaq",
+    "correct_answer": "Kichik o'lchamli kalitlarda shifrni tezda buzishga yordam beradi"
+  },
+  {
+    "Xquestion": "Sbsdkqqm",
+    "correct_answer": "Matnni tahlil qilish va farqlarni aniqlash"
+  },
+  {
+    "Xquestion": "Puqim",
+    "correct_answer": "Xesh funktsiyasining kolliziyasini topish"
+  },
+  {
+    "Xquestion": "Dlmqym",
+    "correct_answer": "Pollard rho usulini qo'llash orqali"
+  },
+  {
+    "Xquestion": "Skbttqqbq",
+    "correct_answer": "Chiziqli kriptoanaliz"
+  },
+  {
+    "Xquestion": "Ksbuqstum",
+    "correct_answer": "Brute-force va harf chastotasini tahlil qilish"
+  },
+  {
+    "Xquestion": "Susbstqqro",
+    "correct_answer": "Shifrlangan matnning statistik xususiyatlarini tahlil qilish orqali shifrni buzish"
+  },
+  {
+    "Xquestion": "Dkqqao",
+    "correct_answer": "Shifrlangan matnlar orasidagi farqlarni tahlil qilish orqali kalitni topish"
+  },
+  {
+    "Xquestion": "Ckapni",
+    "correct_answer": "Chiziqli munosabatlar orqali shifrlash kalitini aniqlash"
+  },
+  {
+    "Xquestion": "Cdkqqao",
+    "correct_answer": "Chiziqli va differensial usullarning birikmasi orqali shifrlarni buzish"
+  },
+  {
+    "Xquestion": "Dkamni",
+    "correct_answer": "Kiruvchi va chiquvchi bloklar orasidagi farqlarni tahlil qilish"
+  },
+  {
+    "Xquestion": "Suqsqs",
+    "correct_answer": "Oddiy va blokli shifrlarga qarshi"
+  },
+  {
+    "Xquestion": "Ckqui",
+    "correct_answer": "Ma'lum chiziqli munosabatlarni kuzatish"
+  },
+  {
+    "Xquestion": "Cdkqsb",
+    "correct_answer": "Shifrlash algoritmi kam himoyalangan bo'lsa"
+  },
+  {
+    "Xquestion": "Stqasi",
+    "correct_answer": "Statistik o'zgaruvchanlikni saqlamaydigan algoritmlarda"
+  },
+  {
+    "Xquestion": "Dkuqmz",
+    "correct_answer": "Kiruvchi va chiquvchi bloklarning farqlari"
+  },
+  {
+    "Xquestion": "Suybsqtqm",
+    "correct_answer": "Shifrlangan matnning tarqalishini kuzatish"
+  },
+  {
+    "Xquestion": "Dkbstqabq",
+    "correct_answer": "Farqlarni aniqlash va kalitni aniqlash"
+  },
+  {
+    "Xquestion": "Ckstqao",
+    "correct_answer": "Chiziqli bog'liqliklarni aniqlash orqali"
+  },
+  {
+    "Xquestion": "Dkqans",
+    "correct_answer": "DES kabi blokli algoritmlarga"
+  },
+  {
+    "Xquestion": "Cdkamn",
+    "correct_answer": "Shifrlash kalitini aniqlash uchun chiziqli va differensial usullarni birlashtirish"
+  },
+  {
+    "Xquestion": "Cknqo",
+    "correct_answer": "Chiziqli tenglamalar orqali kalitni topish"
+  },
+  {
+    "Xquestion": "Dkjquq",
+    "correct_answer": "Kiruvchi va chiquvchi bloklar o'rtasidagi farqlarni tahlil qilish"
+  },
+  {
+    "Xquestion": "Bsstqao",
+    "correct_answer": "Shifrlangan matnning xususiyatlarini tahlil qilish"
+  },
+  {
+    "Xquestion": "Cdksuqi",
+    "correct_answer": "Bloklar orasidagi bog'liqlikni aniqlash orqali"
+  },
+  {
+    "Xquestion": "Dkuqdmk",
+    "correct_answer": "Kiruvchi va chiquvchi bloklarning statistik farqlari"
+  },
+  {
+    "Xquestion": "Akamni",
+    "correct_answer": "Shifrlash algoritmining matematik tenglamalarini yechish"
+  },
+  {
+    "Xquestion": "Ikqsh",
+    "correct_answer": "Ma'lum shifrlash bloklarida bitlarning umumiy yig'indisi kuzatilganda"
+  },
+  {
+    "Xquestion": "Shusanq",
+    "correct_answer": "Iterativ shifrlash algoritmlariga"
+  },
+  {
+    "Xquestion": "Axgakmni",
+    "correct_answer": "Shifrlash jarayonida yuzaga kelgan apparat xatolaridan foydalanib shifrni buzish"
+  },
+  {
+    "Xquestion": "Ikqtq",
+    "correct_answer": "Shifr bloklaridagi bitlarning o'zgarishi kuzatiladi"
+  },
+  {
+    "Xquestion": "Akqvq",
+    "correct_answer": "Matematik tenglamalar tizimlarini yechish usullari"
+  },
+  {
+    "Xquestion": "Shustsb",
+    "correct_answer": "Kam iteratsiyali shifrlash tizimlarida"
+  },
+  {
+    "Xquestion": "Axakuqmz",
+    "correct_answer": "Xatolik paydo bo'lgan kiruvchi va chiquvchi bloklar"
+  },
+  {
+    "Xquestion": "Ikayq",
+    "correct_answer": "Bloklar yig'indisi yoki bitlarning tahliliga asoslangan"
+  },
+  {
+    "Xquestion": "Akqazh",
+    "correct_answer": "Matematik modellarga asoslangan murakkablik darajasi past algoritmlar"
+  },
+  {
+    "Xquestion": "Akqmush",
+    "correct_answer": "Matematik tenglamalarni yechish usullari"
+  },
+  {
+    "Xquestion": "Ikbsqtq",
+    "correct_answer": "Shifr bitlarining umumiy yig'indisini kuzatib borish"
+  },
+  {
+    "Xquestion": "Shqao",
+    "correct_answer": "Shifrlash algoritmidagi iteratsiyalar orasidagi bog'liqlikni kuzatish orqali"
+  },
+  {
+    "Xquestion": "Axgahqvq",
+    "correct_answer": "Shifrlash algoritmidagi apparat muammolarini tahlil qilish"
+  },
+  {
+    "Xquestion": "Atjqufk",
+    "correct_answer": "Tenglamalar tizimini yechish uchun algoritmik yondashuvlar"
+  },
+  {
+    "Xquestion": "Ikanqo",
+    "correct_answer": "Bitlar yig'indisi yoki blok o'zgarishlari orqali"
+  },
+  {
+    "Xquestion": "Shuqsbk",
+    "correct_answer": "Iteratsiyali shifrlash algoritmi mavjud bo'lishi"
+  },
+  {
+    "Xquestion": "Axgjno",
+    "correct_answer": "Xatoliklardan foydalanib shifrlash kalitini topish"
+  },
+  {
+    "Xquestion": "Atqans",
+    "correct_answer": "Murakkab bo'lmagan iterativ algoritmlarga"
+  },
+  {
+    "Xquestion": "Ikqmaro",
+    "correct_answer": "Shifr bitlarining umumiy yig'indisi"
+  },
+  {
+    "Xquestion": "Akaxn",
+    "correct_answer": "Ochiq va yopiq kalitlardan foydalanishi"
+  },
+  {
+    "Xquestion": "Fmqh",
+    "correct_answer": "Ikkita katta sonni ko'paytuvchilarga ajratish murakkabligi"
+  },
+  {
+    "Xquestion": "Dlmqoa",
+    "correct_answer": "Modular eksponentatsiya"
+  },
+  {
+    "Xquestion": "Raxqmb",
+    "correct_answer": "Faktorlash muammosi murakkabligiga"
+  },
+  {
+    "Xquestion": "DXaqkukit",
+    "correct_answer": "Diskret logarifmlash muammosini yechishga asoslangan hujum"
+  },
+  {
+    "Xquestion": "Akqkob",
+    "correct_answer": "Ochiq kalit"
+  },
+  {
+    "Xquestion": "Fmhquqaq",
+    "correct_answer": "Kvadrat elak algoritmi va generalizatsiyalangan elak usuli"
+  },
+  {
+    "Xquestion": "Akqmhqa",
+    "correct_answer": "Faktorlash va diskret logarifmlash muammolari"
+  },
+  {
+    "Xquestion": "Dlmamnb",
+    "correct_answer": "Katta sondagi eksponentatsiya operatsiyalarining qayta tahliliga"
+  },
+  {
+    "Xquestion": "Fvdlaqtbqhp",
+    "correct_answer": "Kvant kompyuterlari bilan ishlaganda"
+  },
+  {
+    "Xquestion": "Raykqhl",
+    "correct_answer": "Yopiq kalit faqat egasi tomonidan ishlatilishi kerak"
+  },
+  {
+    "Xquestion": "DXaztqa",
+    "correct_answer": "Diskret logarifmlash muammosi bo'yicha tahlil qilish orqali"
+  },
+  {
+    "Xquestion": "Fmyqtesh",
+    "correct_answer": "Kvant kompyuterlar"
+  },
+  {
+    "Xquestion": "Dlmshqqyi",
+    "correct_answer": "Indeksli kvadrat usuli"
+  },
+  {
+    "Xquestion": "Raovykubk",
+    "correct_answer": "2048 bit yoki undan yuqori"
+  },
+  {
+    "Xquestion": "DXaqmq",
+    "correct_answer": "Modular eksponentatsiya maydonlarida"
+  },
+  {
+    "Xquestion": "Akxqom",
+    "correct_answer": "Kalit uzunligini oshirish orqali"
+  },
+  {
+    "Xquestion": "Fmaituquex",
+    "correct_answer": "Kvant kompyuterlarga asoslangan hujumlar"
+  },
+  {
+    "Xquestion": "Dlmmpoq",
+    "correct_answer": "Kichik eksponent va modul qiymatlarining ishlatilishi"
+  },
+  {
+    "Xquestion": "KkRaqtk",
+    "correct_answer": "Faktorlash muammosini samarali hal qiladi"
+  },
+  {
+    "Xquestion": "Xfavn",
+    "correct_answer": "Ma'lumotlarning ixcham xesh qiymatini yaratish"
+  },
+  {
+    "Xquestion": "Tkmna",
+    "correct_answer": "Xesh funksiyalarida ikkita bir xil xesh qiymatni topish ehtimoli"
+  },
+  {
+    "Xquestion": "Mxaztn",
+    "correct_answer": "Kolliziya zaifligi"
+  },
+  {
+    "Xquestion": "NvDttqmi",
+    "correct_answer": "Tasodifiy sonlar generatorlarini tekshirish uchun"
+  },
+  {
+    "Xquestion": "MvMakxqob",
+    "correct_answer": "XOR va ADD operatsiyalari"
+  },
+  {
+    "Xquestion": "Xfkktna",
+    "correct_answer": "Ikki xil ma'lumot uchun bir xil xesh qiymatni topish"
+  },
+  {
+    "Xquestion": "Tsgxnb",
+    "correct_answer": "Deterministik bo'lmagan usullardan foydalanish"
+  },
+  {
+    "Xquestion": "Tkpoamn",
+    "correct_answer": "Tasodifiy hodisalar orasida bog‘liqlikni aniqlash"
+  },
+  {
+    "Xquestion": "Makutq",
+    "correct_answer": "Kolliziya hujumlari"
+  },
+  {
+    "Xquestion": "Nttntm",
+    "correct_answer": "Tasodifiy sonlar generatorining sifati va xavfsizligi"
+  },
+  {
+    "Xquestion": "Xfxqom",
+    "correct_answer": "Kalit uzunligini oshirish va tasodifiylikni ta'minlash"
+  },
+  {
+    "Xquestion": "Tkmqjxt",
+    "correct_answer": "Raqamli imzo va sertifikatlar tizimida"
+  },
+  {
+    "Xquestion": "Maztix",
+    "correct_answer": "Yo'q, kolliziya zaifligi mavjud"
+  },
+  {
+    "Xquestion": "Tsgtqqtq",
+    "correct_answer": "DIEHARD va NIST testlari"
+  },
+  {
+    "Xquestion": "Nttqtmf",
+    "correct_answer": "Generatorning tasodifiy sonlar hosil qilish qobiliyatini baholash"
+  },
+  {
+    "Xquestion": "Makxkunql",
+    "correct_answer": "Zamonaviy xesh algoritmlariga o'tish"
+  },
+  {
+    "Xquestion": "Dtqsq",
+    "correct_answer": "Tasodifiy sonlar generatorlarining tasodifiyligini baholashda"
+  },
+  {
+    "Xquestion": "Mauqukxt",
+    "correct_answer": "Kolliziya hujumlari"
+  },
+  {
+    "Xquestion": "Tsgqeqam",
+    "correct_answer": "Statistik testlarni qo‘llash orqali"
+  },
+  {
+    "Xquestion": "MvMaoqtate",
+    "correct_answer": "SHA-2 yoki SHA-3"
+  },
+  {
+    "Xquestion": "Osaatn",
+    "correct_answer": "Ma'lumotlarni bitma-bit shifrlash"
+  },
+  {
+    "Xquestion": "Ckuqi",
+    "correct_answer": "Shifrlash jarayonidagi chiziqli bog‘liqliklarni tahlil qiladi"
+  },
+  {
+    "Xquestion": "Osadkqtq",
+    "correct_answer": "Kirish va chiqish ma'lumotlari o‘rtasidagi o‘zgarishlarni tahlil qilish"
+  },
+  {
+    "Xquestion": "Qkakn",
+    "correct_answer": "Kriptotizimning energiya iste'moli, vaqt yoki elektromagnit nurlanish kabi tashqi ko‘rsatkichlarini tahlil qilish"
+  },
+  {
+    "Xquestion": "Akqja",
+    "correct_answer": "Algoritmlarni matematik tenglamalar sifatida ifodalash va yechish"
+  },
+  {
+    "Xquestion": "Qkfuztn",
+    "correct_answer": "Faqat maxsus uskunalar yordamida amalga oshiriladi"
+  },
+  {
+    "Xquestion": "Kytfqsq",
+    "correct_answer": "Katta ma’lumotlarni qayta ishlash va mashinaviy o‘qitishda"
+  },
+  {
+    "Xquestion": "Osaxtuqck",
+    "correct_answer": "Tasodifiy kalit oqimini yaratish uchun yuqori sifatli generatorlardan foydalanish"
+  },
+  {
+    "Xquestion": "Dkqaukxt",
+    "correct_answer": "Simmetrik shifrlash algoritmlari uchun"
+  },
+  {
+    "Xquestion": "Cdkqmq",
+    "correct_answer": "Shifrlash algoritmlaridagi chiziqli va differensial bog‘liqliklarni birgalikda tahlil qilish"
+  },
+  {
+    "Xquestion": "Qkakqaom",
+    "correct_answer": "Shifrlash algoritmining elektromagnit nurlanishini tahlil qilish orqali"
+  },
+  {
+    "Xquestion": "Osadtqta",
+    "correct_answer": "Kirish va chiqish ma'lumotlaridagi o‘zgarishlarni kuzatish orqali"
+  },
+  {
+    "Xquestion": "Ckqsb",
+    "correct_answer": "Oqimli shifrlash algoritmlarining statistik zaifligi mavjud bo‘lganda"
+  },
+  {
+    "Xquestion": "Qkakqmtq",
+    "correct_answer": "Energiya iste’moli, vaqt va elektromagnit nurlanish"
+  },
+  {
+    "Xquestion": "Ytfkjk",
+    "correct_answer": "Mashinaviy o‘qitish orqali zaifliklarni tezroq topish"
+  },
+  {
+    "Xquestion": "Dtqno",
+    "correct_answer": "Shifrlash algoritmidagi ma’lumotlarning o‘zgarish farqlari"
+  },
+  {
+    "Xquestion": "Osacduqna",
+    "correct_answer": "Chiziqli va differensial bog‘liqliklarni birgalikda tahlil qilish"
+  },
+  {
+    "Xquestion": "Qfkfaukamn",
+    "correct_answer": "Kriptotizimning tashqi zaifliklarini aniqlash"
+  },
+  {
+    "Xquestion": "Motkqf",
+    "correct_answer": "Shifrlash algoritmlarining zaif tomonlarini avtomatik aniqlashda"
+  },
+  {
+    "Xquestion": "Atosatq",
+    "correct_answer": "Matematik tenglamalar orqali algoritmlarning zaif tomonlarini aniqlash"
+  },
+  {
+    "Xquestion": "ORPORkstvifrbqctP293sQqq",
+    "correct_answer": "2024-yil 15-avgust"
+  },
+  {
+    "Xquestion": "Iqsf",
+    "correct_answer": "Barcha javoblar to‘g‘ri"
+  },
+  {
+    "Xquestion": "YvxbsiqIimb",
+    "correct_answer": "uy va binolarni avtomatlashtirish"
+  },
+  {
+    "Xquestion": "ItshtmtvlftumhBqIimb",
+    "correct_answer": "aqlli shaharlar"
+  },
+  {
+    "Xquestion": "Ahaqqtemsvetrfoitsoetb",
+    "correct_answer": "aqlli energetik tarmoqlar"
+  },
+  {
+    "Xquestion": "EISvqketkPqcdfm",
+    "correct_answer": "3-148 kHz"
+  },
+  {
+    "Xquestion": "Iiqlngtekxtksvmavbsq",
+    "correct_answer": "sanoatlashgan IoT"
+  },
+  {
+    "Xquestion": "Itmaqszdknigam",
+    "correct_answer": "2"
+  },
+  {
+    "Xquestion": "Itmaqszdknigqgam",
+    "correct_answer": "Qisqa va uzoq masofali"
+  },
+  {
+    "Xquestion": "Qmasqkik",
+    "correct_answer": "IEEE 802.11, IEEE 802.15.1, IEEE 802.15.4"
+  },
+  {
+    "Xquestion": "Qmasqoiqqdi",
+    "correct_answer": "2,400–2,4835 GGts"
+  },
+  {
+    "Xquestion": "Umasqoiqqdi",
+    "correct_answer": "868–870 MGts"
+  },
+  {
+    "Xquestion": "Umasqkjt",
+    "correct_answer": "LoRA"
+  },
+  {
+    "Xquestion": "Iqniiciiqmt",
+    "correct_answer": "Barcha javoblar to‘g‘ri"
+  },
+  {
+    "Xquestion": "Aoqmi",
+    "correct_answer": "Barcha javoblar to‘g‘ri"
+  },
+  {
+    "Xquestion": "Foumxtb",
+    "correct_answer": "ROM"
+  },
+  {
+    "Xquestion": "RHiaIoqaovcdnsa",
+    "correct_answer": "3"
+  },
+  {
+    "Xquestion": "Qhidsksuixb",
+    "correct_answer": "ROM"
+  },
+  {
+    "Xquestion": "DTovbkbvmuixb",
+    "correct_answer": "RAM"
+  },
+  {
+    "Xquestion": "r0sqikt",
+    "correct_answer": "RAM (<<10 KiB), ROM (<<100 KiB)"
+  },
+  {
+    "Xquestion": "R1sqikt",
+    "correct_answer": "RAM (~10 KiB), ROM (~100 KiB)"
+  },
+  {
+    "Xquestion": "R2sqikt",
+    "correct_answer": "RAM (~50 KiB), ROM (~250 KiB)"
+  },
+  {
+    "Xquestion": "UsqoamhqhbmmeGRqsha",
+    "correct_answer": "0-sinf"
+  },
+  {
+    "Xquestion": "UctunmpsfmkmUoCGRqsha",
+    "correct_answer": "1-sinf"
+  },
+  {
+    "Xquestion": "UsqkcvaanvsippskqvqdGRqsha",
+    "correct_answer": "2-sinf"
+  },
+  {
+    "Xquestion": "Ibmaptkqt",
+    "correct_answer": "TelosB, Zolertia Z1, OpenMote"
+  },
+  {
+    "Xquestion": "Ibmaptkqt",
+    "correct_answer": "Arduino, Raspberry Pi, OpenMote"
+  },
+  {
+    "Xquestion": "Ibmadptkqt",
+    "correct_answer": "OpenWSN, TinyOS, Contiki OS"
+  },
+  {
+    "Xquestion": "Ibmadptkqt",
+    "correct_answer": "FreeRTOS, TinyOS, Contiki OS"
+  },
+  {
+    "Xquestion": "NuaADkalyIqbfb",
+    "correct_answer": "Barcha javoblar to‘g‘ri"
+  },
+  {
+    "Xquestion": "DAkuktq",
+    "correct_answer": "56 bit"
+  },
+  {
+    "Xquestion": "DAbtq",
+    "correct_answer": "64 bit"
+  },
+  {
+    "Xquestion": "DAqqtsa",
+    "correct_answer": "Feystel tarmog'i"
+  },
+  {
+    "Xquestion": "AAqqtsa",
+    "correct_answer": "SP tarmoq"
+  },
+  {
+    "Xquestion": "AtHPviIpsqpao",
+    "correct_answer": "CoAP"
+  },
+  {
+    "Xquestion": "AtTPviIpsqpao",
+    "correct_answer": "UDP"
+  },
+  {
+    "Xquestion": "AtIviIpsqpao",
+    "correct_answer": "IPv6/6LowPAN"
+  },
+  {
+    "Xquestion": "AtHSviIpsqpao",
+    "correct_answer": "CoAPs"
+  },
+  {
+    "Xquestion": "AtTviIpsqpao",
+    "correct_answer": "DTLS"
+  },
+  {
+    "Xquestion": "LCb",
+    "correct_answer": "Yengil vaznli kriptografiya"
+  },
+  {
+    "Xquestion": "TEATabunb",
+    "correct_answer": "64"
+  },
+  {
+    "Xquestion": "TEATakunb",
+    "correct_answer": "128"
+  },
+  {
+    "Xquestion": "TAekmqknbq",
+    "correct_answer": "126"
+  },
+  {
+    "Xquestion": "Mpavybsbshk",
+    "correct_answer": "SEA"
+  },
+  {
+    "Xquestion": "SAbkunpysobqk",
+    "correct_answer": "n mod 6b = 0"
+  },
+  {
+    "Xquestion": "Snbab8bbvknubmtqi",
+    "correct_answer": "48"
+  },
+  {
+    "Xquestion": "Snbab8bbvknubmtqi",
+    "correct_answer": "96"
+  },
+  {
+    "Xquestion": "Psaqqtsa",
+    "correct_answer": "SP tarmoq"
+  },
+  {
+    "Xquestion": "Psabunbt",
+    "correct_answer": "64"
+  },
+  {
+    "Xquestion": "Psakunbt",
+    "correct_answer": "80, 128"
+  },
+  {
+    "Xquestion": "Psarsnt",
+    "correct_answer": "31"
+  },
+  {
+    "Xquestion": "PsafSjok",
+    "correct_answer": "4x4"
+  },
+  {
+    "Xquestion": "Psapbnbuqaao",
+    "correct_answer": "64"
+  },
+  {
+    "Xquestion": "Hsakunbt",
+    "correct_answer": "128"
+  },
+  {
+    "Xquestion": "Hsarsnt",
+    "correct_answer": "32"
+  },
+  {
+    "Xquestion": "Hsabunbt",
+    "correct_answer": "64"
+  },
+  {
+    "Xquestion": "Hsaqqtsa",
+    "correct_answer": "Feystel tarmog'i"
+  },
+  {
+    "Xquestion": "Yvaaaasqkxt",
+    "correct_answer": "GE soni"
+  },
+  {
+    "Xquestion": "Yvadaasqkxt",
+    "correct_answer": "kod hajmi"
+  },
+  {
+    "Xquestion": "Icqoktqmabkuf",
+    "correct_answer": "Elliktik egri chiziqqa asoslangan"
+  },
+  {
+    "Xquestion": "Nt80bskknbRKta",
+    "correct_answer": "1024"
+  },
+  {
+    "Xquestion": "Nt80bskknbEKta",
+    "correct_answer": "160"
+  },
+  {
+    "Xquestion": "XqhbhhmbmxyoxfoqbBqha",
+    "correct_answer": "pre-image"
+  },
+  {
+    "Xquestion": "m1xbhm1hm2sqbm2xtqbBqha",
+    "correct_answer": "second pre-image"
+  },
+  {
+    "Xquestion": "m1m2bim1vm2xtqbbyhm1hm2",
+    "correct_answer": "kolliziya"
+  },
+  {
+    "Xquestion": "Xnbcxfpviittpbnetq",
+    "correct_answer": "2^n"
+  },
+  {
+    "Xquestion": "Xnbcxfkhbnetq",
+    "correct_answer": "2^(n/2)"
+  },
+  {
+    "Xquestion": "DPvHPxfqsakb",
+    "correct_answer": "PRESENT"
+  },
+  {
+    "Xquestion": "DPxfxqut",
+    "correct_answer": "64"
+  },
+  {
+    "Xquestion": "HPxfxqut",
+    "correct_answer": "128"
+  },
+  {
+    "Xquestion": "88128160224v256bcxyvxfob",
+    "correct_answer": "SPONGENT"
+  },
+  {
+    "Xquestion": "136176v256bxoxfob",
+    "correct_answer": "QUARK"
+  },
+  {
+    "Xquestion": "S3tgsttan",
+    "correct_answer": "Keccak"
+  },
+  {
+    "Xquestion": "Kaqkf",
+    "correct_answer": "Sponge"
+  },
+  {
+    "Xquestion": "SkbsuhibGqsthb",
+    "correct_answer": "Gomomorfik"
+  },
+  {
+    "Xquestion": "Raqanqgxe",
+    "correct_answer": "Ko'paytiruv"
+  },
+  {
+    "Xquestion": "Paqanqgxe",
+    "correct_answer": "Qo'shish"
+  },
+  {
+    "Xquestion": "EGaqanqgxe",
+    "correct_answer": "Ko'paytiruv"
+  },
+  {
+    "Xquestion": "Dabmyvataxpb",
+    "correct_answer": "DTLS"
+  },
+  {
+    "Xquestion": "Uumpytovxmtkbhiqipb",
+    "correct_answer": "DTLS"
+  },
+  {
+    "Xquestion": "Dpotskfoau",
+    "correct_answer": "Oldindan taqsimlangan kalit (Pre-shared Key, PSK)ga asoslangan"
+  },
+  {
+    "Xquestion": "Dpsokaoau",
+    "correct_answer": "Xom (raw) ochiq kalitga asoslangan"
+  },
+  {
+    "Xquestion": "Osaatmoqlknk",
+    "correct_answer": "eSTREAM"
+  },
+  {
+    "Xquestion": "eLdaaqvyosqtq",
+    "correct_answer": "128-bitli kalit, 64 va 128 bitli boshlang‘ich vektorni (IV) qo‘llab quvvatlashi kerak"
+  },
+  {
+    "Xquestion": "eLqaaqvciqiosqtq",
+    "correct_answer": "80-bitli kalit, 32 va 64 bitli IVni qo‘llab quvvatlashi kerak"
+  },
+  {
+    "Xquestion": "eLjnait",
+    "correct_answer": "34"
+  },
+  {
+    "Xquestion": "eLdaaqmshkbnatq",
+    "correct_answer": "4"
+  },
+  {
+    "Xquestion": "eLaaaqmshkbnatq",
+    "correct_answer": "3"
+  },
+  {
+    "Xquestion": "eLdaaqmshkbtaok",
+    "correct_answer": "HC-128 (HC-256)"
+  },
+  {
+    "Xquestion": "eLdaaqmshkbtaok",
+    "correct_answer": "Rabbit"
+  },
+  {
+    "Xquestion": "eLdaaqmshkbtaok",
+    "correct_answer": "Salsa20/12"
+  },
+  {
+    "Xquestion": "eLdaaqmshkbtaok",
+    "correct_answer": "SOSEMANUK"
+  },
+  {
+    "Xquestion": "eLaaaqmshkbtaok",
+    "correct_answer": "Grain v1"
+  },
+  {
+    "Xquestion": "eLaaaqmshkbtaok",
+    "correct_answer": "MICKEY 2.0"
+  },
+  {
+    "Xquestion": "eLaaaqmshkbtaok",
+    "correct_answer": "Trivium"
+  },
+  {
+    "Xquestion": "CCfAESAaRlnktq",
+    "correct_answer": "3"
+  },
+  {
+    "Xquestion": "CLtaktqtaonk",
+    "correct_answer": "Ascon"
+  },
+  {
+    "Xquestion": "CLtaktqtaonk",
+    "correct_answer": "ACORN"
+  },
+  {
+    "Xquestion": "NLkAtksakutmqt",
+    "correct_answer": "128 bit"
+  },
+  {
+    "Xquestion": "NLkAtksanutmqt",
+    "correct_answer": "96 bit"
+  },
+  {
+    "Xquestion": "NLkAtksaatlutmqt",
+    "correct_answer": "64 bit"
+  },
+  {
+    "Xquestion": "NLknbaao",
+    "correct_answer": "3"
+  },
+  {
+    "Xquestion": "NLkbbnai",
+    "correct_answer": "56"
+  },
+  {
+    "Xquestion": "NLkgbaonk",
+    "correct_answer": "Ascon"
+  },
+  {
+    "Xquestion": "II29192ssosqkta",
+    "correct_answer": "Enocoro, Trivium"
+  },
+  {
+    "Xquestion": "II29192ssosqkta",
+    "correct_answer": "PRESENT, CLEFIA, SIMON va SPECK , LEA."
+  },
+  {
+    "Xquestion": "II29192ssosxfsqkta",
+    "correct_answer": "Photon, Spongent, Lesamnta-LW"
+  },
+  {
+    "Xquestion": "CCRAECleCTGLCnqbsqta",
+    "correct_answer": "AES, Camellia, CLEFIA, TDES, LED, PRINCE, PRESENT"
+  },
+  {
+    "Xquestion": "CCRAECleCTGLCnqAsqta",
+    "correct_answer": "ACORN, AES-GCM, AES-OTR, Ascon"
+  },
+  {
+    "Xquestion": "Aatako",
+    "correct_answer": "Sponge"
+  },
+  {
+    "Xquestion": "Aaihsunb",
+    "correct_answer": "320"
+  },
+  {
+    "Xquestion": "AafSjok",
+    "correct_answer": "5x5"
+  },
+  {
+    "Xquestion": "SbshqAuaabsbk",
+    "correct_answer": "Hight, Simon, Speck, Lea va Chaskey"
+  },
+  {
+    "Xquestion": "SbshqAuaabsok",
+    "correct_answer": "Salsa20, ChaCha20"
+  },
+  {
+    "Xquestion": "SbshqWuaabsbk",
+    "correct_answer": "mCrypton, Present, Led, Zorro"
+  },
+  {
+    "Xquestion": "WvAukashsbqub",
+    "correct_answer": "LTS"
+  },
+  {
+    "Xquestion": "Sbshqqsukfbbmaneyikkubayhfnnbpbrao",
+    "correct_answer": "Bitslice"
+  },
+  {
+    "Xquestion": "SvFtmshsbqub",
+    "correct_answer": "Gibrid"
+  },
+  {
+    "Xquestion": "fifixxkufmufashsbqu",
+    "correct_answer": "Involyutiv"
+  },
+  {
+    "Xquestion": "Sknbi",
+    "correct_answer": "2"
+  },
+  {
+    "question": "yqiumhivatixstamunfykt",
+    "correct_answer": "30"
+  },
+  {
+    "question": "yiyjmyimnunbokt",
+    "correct_answer": "10"
+  },
+  {
+    "question": "yrotmndentottrker",
+    "correct_answer": "10"
+  },
+  {
+    "question": "atana",
+    "correct_answer": "bu tadqiqotchilar va olimlarning o'z ishlanmalarini tijoratlashtirishda ishtirok etishini anglatadi"
+  },
+  {
+    "question": "aomiimmvaheiyhicyt",
+    "correct_answer": "Innovatsion loyihalar"
+  },
+  {
+    "question": "aoxybsymyxtyiiqkvatosbfybl",
+    "correct_answer": "Startaplar loyihalari"
+  },
+  {
+    "question": "amehavheuaybvaftnqyt",
+    "correct_answer": "Amaliy tadqiqotlar"
+  },
+  {
+    "question": "apppopmag",
+    "correct_answer": "universitetga yuqori texnologiyaga asoslangan firmalarni yaratgan xodimlarni jalb etish"
+  },
+  {
+    "question": "afbyvaktytbibm",
+    "correct_answer": "Universitet 1.0"
+  },
+  {
+    "question": "bb",
+    "correct_answer": "O'z tashkiloti(o'z mamlakatida yoki xorijda faoliyat ko'rsatayotgan tarmog'iga yoki tarmoqqa taalluqligidan qat'iy nazar jarayonlari o'xshash tashkilotlardan) faoliyatini yaxshilash uchun boshqa tashkilotlarning ilg'or tajribasini o'rganish, amaliyotiga moslashish jarayoni."
+  },
+  {
+    "question": "bvarbbvaincqmmkbuv",
+    "correct_answer": "Scopus"
+  },
+  {
+    "question": "batoqrb",
+    "correct_answer": "1862 y."
+  },
+  {
+    "question": "bmtuiiktq",
+    "correct_answer": "amerikalik tadqiqotchi Genri Itskovits"
+  },
+  {
+    "question": "btuamqubbohoh",
+    "correct_answer": "Massachuseta texnologik universiteti bilan"
+  },
+  {
+    "question": "btnyvaqduqo",
+    "correct_answer": "1951 yilda AQShning Kaliforniya shtatidagi Stenford universitetida"
+  },
+  {
+    "question": "bdqyydvti",
+    "correct_answer": "1999 yilda"
+  },
+  {
+    "question": "bdyindvii",
+    "correct_answer": "29 ta"
+  },
+  {
+    "question": "bdqi",
+    "correct_answer": "1999 yil, 19 iyun"
+  },
+  {
+    "question": "buonqqq",
+    "correct_answer": "1158 y."
+  },
+  {
+    "question": "buqtt",
+    "correct_answer": "1088 y."
+  },
+  {
+    "question": "bkunasa",
+    "correct_answer": "3 ta"
+  },
+  {
+    "question": "bkqunakom",
+    "correct_answer": "O'rta asrlar, birinchi avlod universitetlari, Tadqiqot universitetlari hamda Uchinchi avlod universitetlari."
+  },
+  {
+    "question": "dbvamdhootmhemicvaao",
+    "correct_answer": "Maqsadli loyihalar"
+  },
+  {
+    "question": "fvakafbmtootm",
+    "correct_answer": "Universitet"
+  },
+  {
+    "question": "gtqtumlvamtobyuta",
+    "correct_answer": "ingliz"
+  },
+  {
+    "question": "gfib",
+    "correct_answer": "Birinchi navbatda yangi ijtimoy .... paydo bol"
+  },
+  {
+    "question": "iatxabvaogfyqquo",
+    "correct_answer": "Stenfordga"
+  },
+  {
+    "question": "ivaiftqnmivatubq",
+    "correct_answer": "21-moddasida"
+  },
+  {
+    "question": "ivaiftqnmidktq",
+    "correct_answer": "23-moddasida"
+  },
+  {
+    "question": "ivaiftqnmyivaifjeq",
+    "correct_answer": "11-moddasida"
+  },
+  {
+    "question": "ivaiftqnmivaifsayk",
+    "correct_answer": "4-moddasida"
+  },
+  {
+    "question": "iyrknbvapi",
+    "correct_answer": "5 bob, 5 §"
+  },
+  {
+    "question": "iyrkisbttqby",
+    "correct_answer": "4- bobda"
+  },
+  {
+    "question": "iyrkyaobyxdilxsvattbtsmkkqym",
+    "correct_answer": "2020-2022 yillarga"
+  },
+  {
+    "question": "iyrkibqn",
+    "correct_answer": "Ilm-fanni rivojlantirish zarurati, uning joriy holati va mavjud muammolar"
+  },
+  {
+    "question": "iyrkmkvaitoyynytqb",
+    "correct_answer": "49 yosh"
+  },
+  {
+    "question": "iyrknbiruyaoq",
+    "correct_answer": "4-moddasida"
+  },
+  {
+    "question": "iyrktbqn",
+    "correct_answer": "Ilm-fanni rivojlantirishning ustuvor yo'nalishlarini amalga oshirish mexanizmlari"
+  },
+  {
+    "question": "iyrkubqn",
+    "correct_answer": "Ilm-fanni rivojlantirishning ustuvor yo'nalishlari"
+  },
+  {
+    "question": "ifumbt",
+    "correct_answer": "Mendeley"
+  },
+  {
+    "question": "ibfhovaoeuybslbsbmhttjs",
+    "correct_answer": "texnologiyalarni tijoratlashtirish"
+  },
+  {
+    "question": "ivalnkiusmueoxa",
+    "correct_answer": "fundamental tadqiqotlar bilan shug'ullanuvchi universitetlar, tijorat tovarlarini ishlab chiqaruvchi tarmoqlar va bozorni tartibga soluvchi hukumat."
+  },
+  {
+    "question": "ivaitf",
+    "correct_answer": "ixtiro faqat texnika olamida yaratilsa, innovatsiya ham texnika va ham biznes olamida yaratiladi hamda amalda joriy etiladi."
+  },
+  {
+    "question": "ktagjkbk",
+    "correct_answer": "o'qituvchining bajargan o'quv yuklamasi"
+  },
+  {
+    "question": "ktosirkbk",
+    "correct_answer": "o'quv ishlari, ilmiy-uslubiy, ilmiy-tadqiqot va \"ustoz-shogird\" yuklamalari"
+  },
+  {
+    "question": "nyborgiirbjimqkamq",
+    "correct_answer": "2030 yilga"
+  },
+  {
+    "question": "otmojbktovqnhk",
+    "correct_answer": "Oliy ta'lim tizimini 2030 yilgacha rivojlantirish konsepsiyasida"
+  },
+  {
+    "question": "otmtfivaintfubntukbjevnhk",
+    "correct_answer": "Oliy ta'lim tizimini 2030 yilgacha rivojlantirish konsepsiyasida"
+  },
+  {
+    "question": "orovaomtvgekbhqdic",
+    "correct_answer": "ilm-fanni 2030 yilgacha rivojlantirish"
+  },
+  {
+    "question": "orpiyrkttgfqqq",
+    "correct_answer": "2020 yil 29 oktabr"
+  },
+  {
+    "question": "orporottyrkttgfqqq",
+    "correct_answer": "2019 yil 8 oktabr"
+  },
+  {
+    "question": "orpyofbtifyrk",
+    "correct_answer": "mazkur yo'nalishni rivojlantirish yo'lidagi 19 ta muammo alohida belgilandi"
+  },
+  {
+    "question": "orivaiftgqqqq",
+    "correct_answer": "2019 yil 29 oktabr"
+  },
+  {
+    "question": "oriftgqqqq",
+    "correct_answer": "2020 yil 24 iyul"
+  },
+  {
+    "question": "orybgiirbjimqkevqnhk",
+    "correct_answer": "Oliy ta'lim tizimini 2030 yilgacha rivojlantirish konsepsiyasida"
+  },
+  {
+    "question": "psyiyndn",
+    "correct_answer": "O'qituvchining innovatsion faoliyati"
+  },
+  {
+    "question": "qbiuenmmmq",
+    "correct_answer": "XX asrning oxirlaridan boshlab"
+  },
+  {
+    "question": "qumftxvaiitebcittq",
+    "correct_answer": "Universitet-2.0"
+  },
+  {
+    "question": "quomdtii",
+    "correct_answer": "Universitet 3.0"
+  },
+  {
+    "question": "qimheumvavivabmmvavkhscm",
+    "correct_answer": "Ilmiy loyihalar"
+  },
+  {
+    "question": "rmutiktbuyronne",
+    "correct_answer": "akademik va biznes-elementlarni namoyon etadi."
+  },
+  {
+    "question": "stntqm",
+    "correct_answer": "2 ta"
+  },
+  {
+    "question": "stqtb",
+    "correct_answer": "oddiy va murakkab turlari"
+  },
+  {
+    "question": "sktntbi",
+    "correct_answer": "24"
+  },
+  {
+    "question": "smbasq",
+    "correct_answer": "kengaytirilgan qidiruv"
+  },
+  {
+    "question": "smbasq",
+    "correct_answer": "tashkilot bo'yicha qidiruv"
+  },
+  {
+    "question": "smbaiyqna",
+    "correct_answer": "2 ta so'zdan tarkib topgan maqolani qidirish uchun"
+  },
+  {
+    "question": "smbasq",
+    "correct_answer": "muallif bo'yicha qidiruv"
+  },
+  {
+    "question": "smbbsq",
+    "correct_answer": "oddiy qidiruv"
+  },
+  {
+    "question": "smbfqyqna",
+    "correct_answer": "Aniq farazlarni qidirish"
+  },
+  {
+    "question": "smbitoqqboao",
+    "correct_answer": "View citation"
+  },
+  {
+    "question": "smboiyqna",
+    "correct_answer": "hech bo'lmaganda 2 ta so'zdan bittasi bo'yicha maqolani qidirish uchun"
+  },
+  {
+    "question": "smbqihyo",
+    "correct_answer": "1 tadan ko'p maqola chop etganlar uchun"
+  },
+  {
+    "question": "sikbvaimbshqvb",
+    "correct_answer": "Mendeley"
+  },
+  {
+    "question": "syiqudrboetub",
+    "correct_answer": "Massachusets texnologiya instituti"
+  },
+  {
+    "question": "sltdnyktok",
+    "correct_answer": "1976 yili Forbes"
+  },
+  {
+    "question": "tjvaitsvaroaqhybouoobbtoqt",
+    "correct_answer": "Fundamental tadqiqotlar"
+  },
+  {
+    "question": "tukrtstgyu",
+    "correct_answer": "davlat, biznes va texnoparklar (iste'molchi buyurtmachilarning manfaatlarini ifodlovchi sifatidagi) bilan hamkorligi rivojlanmoqda."
+  },
+  {
+    "question": "tukmbkh",
+    "correct_answer": "Stenford universiteti professori Genri Itskovits hisoblanadi"
+  },
+  {
+    "question": "tukmk",
+    "correct_answer": "Genri Itskovits"
+  },
+  {
+    "question": "turonsuaqobqbi",
+    "correct_answer": "bilimlarni \"generatsiyalash\" mexanizmni shakllantirish"
+  },
+  {
+    "question": "tutqvaqb",
+    "correct_answer": "Kaliforniyada (XX asrning 40 yillarining oxiri 50 yillarning boshlarida) Silikova (Kremli) vodiysida"
+  },
+  {
+    "question": "tutm",
+    "correct_answer": "madaniy-ta'lim; ilmiy-tadqiqot; innovatsion-tadbirkorlik."
+  },
+  {
+    "question": "tuhbktoxkustokcmbhu",
+    "correct_answer": "G.Itskovitsning"
+  },
+  {
+    "question": "tum",
+    "correct_answer": "Tadbirkor, Innovator, integrator"
+  },
+  {
+    "question": "tbslusmro",
+    "correct_answer": "Gipotezasi"
+  },
+  {
+    "question": "txvaiitebcittqatvaiibbvaom",
+    "correct_answer": "Universitet 2.0"
+  },
+  {
+    "question": "tvaiffpvapfivahfiatfybaolqmsvaaote",
+    "correct_answer": "3 yil muddatgacha"
+  },
+  {
+    "question": "ttb",
+    "correct_answer": "iste'molchi (xaridor) bilimlardan foydalanish huquqini olgan va o'z egasiga (texnologiyalarni ishlab chiquvchisiga) u yoki bu shaklda litsenziya (yoki boshqa) bitim shartlarida belgilangan miqdorda haq to'laydigan texnologik uzatish shakli"
+  },
+  {
+    "question": "tttb",
+    "correct_answer": "ilmiy-tadqiqot natijalari o'z vaqtida bozorda mahsulot va xizmatlarga aylantiriladigan jarayondir"
+  },
+  {
+    "question": "tuqxktb",
+    "correct_answer": "shartnoma, hajmi, almashuv darjasi va texnologiyalar transferi turi bo'yicha"
+  },
+  {
+    "question": "traquqo",
+    "correct_answer": "yuqori kurs talabalarini o'qitmaydiganlar, tor mutaxassisliklar tayyorlaydigan, besh yil ichida 1000 ta ilmiy ishlar, shu jumladan bir yilda 200 tadan kam nashr ettirganlar"
+  },
+  {
+    "question": "trk",
+    "correct_answer": "Ingliz tilidagi mamlakatlar uchun ustuvorlik yuqori. Reyting faqat ingliz tilidagi ilmiy nashrlarni tahlil qiladi. Bundan aksariyat uchinchi mamalatlarning OTMlari o'z ulushini yo'qotishadi"
+  },
+  {
+    "question": "ub",
+    "correct_answer": "fundamental va ko'pgina amaliy fanlar bo'yicha mutaxassislar tahsil olishadigan oliy ta'lim muassasi"
+  },
+  {
+    "question": "ubnuonluskc",
+    "correct_answer": "fundamental va ko'pgina amaliy fanlar bo'yicha mutaxassislar tahsil olishadigan oliy ta'lim muassasi"
+  },
+  {
+    "question": "umybqvaqpb",
+    "correct_answer": "XX asrning 50-60 yillarida AQSh va Kanadada"
+  },
+  {
+    "question": "uuhbooxu",
+    "correct_answer": "Universitet professorlari tomonidan talabalarni ilmga jalb etish orqali erishiladigan tadqiqot faoliyati hisoblangan"
+  },
+  {
+    "question": "uyunbtmna",
+    "correct_answer": "Gumboldt"
+  },
+  {
+    "question": "ubmm",
+    "correct_answer": "bank tarmog'i rivojlanmagan mintaqalarida moliyaviy xizmatlarni kengaytirishni yengillashtirish"
+  },
+  {
+    "question": "vnikababvaejkdyyl",
+    "correct_answer": "Ijodiy loyihalar"
+  },
+  {
+    "question": "wosximbiqxijceumsouynfykt",
+    "correct_answer": "0, 2"
+  },
+  {
+    "question": "wosximbiqxijhnootcemsyqokt",
+    "correct_answer": "10"
+  },
+  {
+    "question": "wosximbiqxijootcebmnxhsyqokt",
+    "correct_answer": "2"
+  },
+  {
+    "question": "xyikbhynvjtqkt",
+    "correct_answer": "2"
+  },
+  {
+    "question": "yokmktvaqtspyttkifn",
+    "correct_answer": "Ta'limdagi innovatsiyalar"
+  },
+  {
+    "question": "ytyjmmixnvabytmkifn",
+    "correct_answer": "Ilmiy va texnologik innovatsiyalar"
+  },
+  {
+    "question": "ybtsua",
+    "correct_answer": "Xalmers universiteti (Geteborg)"
+  },
+  {
+    "question": "ybub",
+    "correct_answer": "Bolonya universiteti"
+  },
+  {
+    "question": "zginkut",
+    "correct_answer": "Uchta: bilim; texnologiya; tadbirkorlik tashabbuskorligi."
+  },
+  {
+    "question": "zubf",
+    "correct_answer": "innovatorlarni tayyorlash"
+  },
+  {
+    "Xquestion": "ftsbtahisvfmkcoio",
+    "correct_answer": "Kompyuter etikasi"
+  },
+  {
+    "Xquestion": "Amitovbjybmomokicbuuqhtb",
+    "correct_answer": "shaxsiy nomulkiy huquqlar muallifga, mutlaq huquqlar esa ish beruvchiga"
+  },
+  {
+    "Xquestion": "AirtrDknnt",
+    "correct_answer": "dasturiy ta'minotni loyihalash va ishlab chiqishga qaratilgan dasturlar uchun asosiy komponent hisoblanadi."
+  },
+  {
+    "Xquestion": "Airtriknnt",
+    "correct_answer": "o'quv faoliyatini amalga oshirish uchun vositalar manbaidan foydalanishni o'z ichiga oladi"
+  },
+  {
+    "Xquestion": "AirtrKsknnt",
+    "correct_answer": "Raqamli ta'lim resurslari kompyuter simulyatsiyasi uchun dastur yoki tayyor muhit ekanligini anglatadi."
+  },
+  {
+    "Xquestion": "AirtrNqknnt",
+    "correct_answer": "o'z-o'zini nazorat qilish, baholash, aks ettirishga qaratilgan RTR uchun etakchi hisoblanadi."
+  },
+  {
+    "Xquestion": "Airtrtknnt",
+    "correct_answer": "Hamkorlikdagi ta'lim faoliyatini nazarda tutadi"
+  },
+  {
+    "Xquestion": "dsyibkbtcmstkjk",
+    "correct_answer": "WordPress, Drupal, Joomla, Magento, Umbraco, Shopify, Sitecore, Kentico, Sitefinity, DNN, SharePoint, Typo3, Alfresco, DotCMS, Django CMS"
+  },
+  {
+    "Xquestion": "didtn",
+    "correct_answer": "Dasturiy ta'minotni tarqatish shaklidir."
+  },
+  {
+    "Xquestion": "eabmtpktas",
+    "correct_answer": "Garvard universiteti, Massachuset texnologiya instituti va Berklidagi Kaliforniya universiteti tomonidan"
+  },
+  {
+    "Xquestion": "eoryibpdttkjk",
+    "correct_answer": "LearnWorlds, Articulate Storyline 360, Elucidat, Adobe Captivate, Lectora Online, iSpring Suite, EasyGenerator, isEazy, Evolve, H5P"
+  },
+  {
+    "Xquestion": "ettd",
+    "correct_answer": "Prezi, ClearSlide, VoiceThread, TopHat"
+  },
+  {
+    "Xquestion": "Gm",
+    "correct_answer": "... grafik tasvirlarni yaratish, grafik hujjatlarni, shu jumladan diagrammalar, rasmlar, chizmalar, jadvallarni qayta ishlash uchun mo'ljallangan."
+  },
+  {
+    "Xquestion": "Giyv",
+    "correct_answer": "Canva, PosterMyWall, Piktochart, DesignCap, Visme"
+  },
+  {
+    "Xquestion": "Hv",
+    "correct_answer": "https://"
+  },
+  {
+    "Xquestion": "Imttqth",
+    "correct_answer": "forumlar va shaxsiy bloglar yaratish imkoniyatiga ega bepul platforma."
+  },
+  {
+    "Xquestion": "Idots",
+    "correct_answer": "... tadqiqotlar taklif qilingan voqealarni o'rganishga emas, balki o'z voqealarini ishlab chiqarishga asoslanadi."
+  },
+  {
+    "Xquestion": "iLmttqth",
+    "correct_answer": "Korporativ sektorga yo'naltirilgan platforma."
+  },
+  {
+    "Xquestion": "Jm",
+    "correct_answer": "... bu ma'lumotlarni jadvallar ko'rinishida taqdim etish, matematik ma'lumotlarni qayta ishlash, ma'lumotlarni vizuallashtirish va diagrammalar yaratish uchun mo'ljallangan dasturlar."
+  },
+  {
+    "Xquestion": "Kmtqhivrtbbfat",
+    "correct_answer": "... murakkab hisob-kitoblarni avtomatlashtirish talabaning diqqatini o'rganilayotgan hodisa yoki jarayonning mohiyatini tushunishga qaratish imkonini beradi."
+  },
+  {
+    "Xquestion": "Mbbt",
+    "correct_answer": "... murakkab tuzilishga ega bo'lgan ma'lumotlar bilan ishlash uchun mo'ljallangan bo'lib, ular ma'lumotlar bazasini yaratish, uni dastlabki ma'lumotlar bilan to'ldirish, keyinchalik ma'lumotlarni to'ldirish va o'zgartirish, shuningdek ma'lumotlar bazalarida qidirishni tashkil qilish uchun xizmat qiladi."
+  },
+  {
+    "Xquestion": "Mojnk",
+    "correct_answer": "an'anaviy bilimlar nazorati usullari"
+  },
+  {
+    "Xquestion": "Motuicsvstqn",
+    "correct_answer": "SCORM"
+  },
+  {
+    "Xquestion": "Mttqma",
+    "correct_answer": "talaba va o'qituvchi odatda auditoriyada emas, balki bir-biridan masofadan turib ta'lim jarayonini tashkil etilishini anglatadi."
+  },
+  {
+    "Xquestion": "Mm",
+    "correct_answer": "... matnli hujjatlarni yaratish, tahrirlash va formatlash uchun dasturlar hisoblanadi. Misollar: Microsoft Word, Word Perfect, ChiWriter, Multi-Edit, Open Office va boshqalar."
+  },
+  {
+    "Xquestion": "Mittkqb",
+    "correct_answer": "Onlayn kurs bo'yicha bilimlar tinglovchilarning faoliyatiga singib ketishi, amalda qo'llanilishi kerak."
+  },
+  {
+    "Xquestion": "Momtxttkqb",
+    "correct_answer": "Onlayn kurs tinglovchilari e'tiborini jalb qilishi va ma'lumotni yaxshiroq eslab qolishlari uchun yangi bilimlarni taqdim etishning turli usullaridan (ma'ruzalar, hikoyalar, videofilmlar, infografika) foydalanishi kerak."
+  },
+  {
+    "Xquestion": "MQttkqb",
+    "correct_answer": "Tinglovchilar mashg'ulot jarayonida yangi bilimlarni mustaqil ravishda qo'llashlari kerak."
+  },
+  {
+    "Xquestion": "MTbmttkqb",
+    "correct_answer": "Onlayn kurs tinglovchilarning mavjud bilimlarini yangi ma'lumotlar bilan bog'lashga yordam beradi."
+  },
+  {
+    "Xquestion": "Mvyttkqb",
+    "correct_answer": "O'quv kontentlari tinglovchilarning faoliyatida duch keladigan aniq vazifalarni yengishga yordam berishi kerak."
+  },
+  {
+    "Xquestion": "MMOOCoookaqtmi",
+    "correct_answer": "Videma'ruzalar"
+  },
+  {
+    "Xquestion": "Mmttqth",
+    "correct_answer": "Keng xususiylashtirish imkoniyatlariga ega bepul platforma"
+  },
+  {
+    "Xquestion": "Mhqyk",
+    "correct_answer": "mualliflik huquqi asar yaratilganda yuzaga keladi"
+  },
+  {
+    "Xquestion": "Mhqha",
+    "correct_answer": "shaxsiy-nomulkiy mualliflik huquqi va mutlaq mualliflik huquqi"
+  },
+  {
+    "Xquestion": "Mmbiudv",
+    "correct_answer": "... o'quv videolarini yaratish, audio va video ma'lumotlar bilan ishlash, videolarni tahrirlash va ko'rish uchun mo'ljallangan."
+  },
+  {
+    "Xquestion": "Ptmyetrmhqrm",
+    "correct_answer": "mustaqil ravishda rasmiylashtirishi mumkin"
+  },
+  {
+    "Xquestion": "Pdb",
+    "correct_answer": "... onlayn ta'limni tashkil etishning asosiy usullaridan biri hisoblanib, kontentni aniq strategiyali, maqsadli va natijalarni tahlil qilish imkoniyatiga ega bo'lgan kursga aylantirish imkoniyatini beradi."
+  },
+  {
+    "Xquestion": "rdttqqtk",
+    "correct_answer": "Raqamli didaktika - pedagogikaning bir qismi hisoblanib, raqamli ta'lim muhitida o'quv jarayonini tashkil etish bo'yicha fan sifatida qaraladi."
+  },
+  {
+    "Xquestion": "Reb",
+    "correct_answer": "onlayn muhitda o'zini tutish qoidalari va tamoyillari to'plamidir."
+  },
+  {
+    "Xquestion": "Reattkqb",
+    "correct_answer": "Xavfsizlik. Maxfiylik. Hurmat. Ishonchlilik. Mualliflik huquqi. Ko'p madaniyatlilik. Shaxsiy javobgarlik."
+  },
+  {
+    "Xquestion": "Ribrk",
+    "correct_answer": "turli xil so'rovnomalar va sotsiologik tadqiqotlar natijalaridan kelib chiqadi."
+  },
+  {
+    "Xquestion": "RtjAyt",
+    "correct_answer": "ta'limni hayot bilan bog'lashning an'anaviy didaktik tamoyili bilan bevosita bog'liq bo'lib, aniq maqsad va aniq natijalarni belgilashni talab qiladi."
+  },
+  {
+    "Xquestion": "RtjHot",
+    "correct_answer": "o'qituvchi va talaba o'rtasidagi faol ko'p tomonlama - real va tarmoqli aloqa asosida o'quv jarayonini qurishni talab qiladi hamda tarmoqni o'rganishning guruh shakllaridan foydalanishni o'z ichiga oladi."
+  },
+  {
+    "Xquestion": "RtjMt",
+    "correct_answer": "raqamli ta'lim jarayonining shartlariga qarab individual yondashuvni ishlab chiqish, shuningdek, o'quv materialini taqdim etish tartibi, usuli va sur'ati kabi jihatlarni hisobga olgan holda har bir talaba uchun dasturni avtomatik ravishda sozlash imkonini beradi."
+  },
+  {
+    "Xquestion": "RtjMt",
+    "correct_answer": "maqsadlarga erishishni, bilim, ko'nikma va malakalarni to'liq o'zlashtirishni talab qiladi \"tushuntirish - mustahkamlash - nazorat\" didaktik zanjirining yakuniy elementi hisoblanadi."
+  },
+  {
+    "Xquestion": "RtjTmtt",
+    "correct_answer": "individual ta'lim strategiyasini yaratish uchun ortiqcha axborot resurslarini talab qiladi. Bunday ortiqchalik tarmoq ta'lim resursi - yagona axborot ta'lim muhiti yordamida amalga oshirilishi mumkin."
+  },
+  {
+    "Xquestion": "RtjUt",
+    "correct_answer": "raqamli ta'lim muhitida talabaning mustaqil ta'lim faoliyatiga qaratilgan bo'lib, o'quv jarayonini tashkil etish, o'quv jarayonida talabani qo'llab-quvvatlash va yordam berish lozimligin ko'rsatadi."
+  },
+  {
+    "Xquestion": "Rtr",
+    "correct_answer": "raqamli shaklda taqdim etiladigan ta'lim resursi bo'lib, mavzu tuzilmasi, mazmuni va metama'lumotlarni o'z ichiga oladi."
+  },
+  {
+    "Xquestion": "RtricBomdttkqb",
+    "correct_answer": "Raqamli ta'lim resurslari yordamida muayyan harakatlarning takrorlanishini tashkil qilish, individual o'quv topshiriqlarining o'zgaruvchanligini oshirish mumkin bo'ladi."
+  },
+  {
+    "Xquestion": "RtricFvodttkqb",
+    "correct_answer": "O'quv jarayoni faolligini oshirish uchun RTR turli xil o'quv vaziyatlarini yaratishi, turli xil savollarni shakllantirishi, talabaga u yoki bu ta'lim trayektoriyasini tanlash imkoniyatini, hodisalarning borishini nazorat qilish qobiliyatini ta'minlashi kerak."
+  },
+  {
+    "Xquestion": "RtricIdttkqb",
+    "correct_answer": "Bu talab eng yangi ilmiy yutuqlarini hisobga olgan holda materialni yetarlicha chuqur va to'g'ri taqdim etish zarurligini bildiradi."
+  },
+  {
+    "Xquestion": "RtricKdttkqb",
+    "correct_answer": "O'rganilayotgan obyektlar va jarayonlarni hissiy idrok etish qonuniyatlarini hisobga olish zarurligini anglatadi."
+  },
+  {
+    "Xquestion": "RtricMydttkqb",
+    "correct_answer": "Bu talab o'quv va kognitiv faoliyatning tabiati bilan bog'liq. Hal qilinishi kerak bo'lgan muammoli vaziyatga duch kelganda, ta'lim oluvchilarning idrok etish faolligini oshiradi."
+  },
+  {
+    "Xquestion": "RtricOdttkqb",
+    "correct_answer": "Ta'lim oluvchining yoshi va individual xususiyatlariga muvofiq materialni taqdim etishning kognitiv murakkablik darajasini aniqlash zarurligini anglatadi."
+  },
+  {
+    "Xquestion": "RtricRdttkqb",
+    "correct_answer": "Raqamli ta'lim resurslari faqatgina ta'lim funksiyasi bilan cheklanib qolmasligi kerak, ular o'quvchilarning aqliy qobiliyatlarini rivojlantirishi, o'quv faoliyati uchun motivatsiyani ta'minlashi va bir qator tarbiyaviy funksiyalarni bajarishi kerak."
+  },
+  {
+    "Xquestion": "RtricTdttkqb",
+    "correct_answer": "Talabalar tomonidan o'rganilayotgan fan sohasidagi ma'lum bir bilim tizimini izchil o'zlashtirish zaruratidir."
+  },
+  {
+    "Xquestion": "Rtrdvqoio",
+    "correct_answer": "Barcha javoblar to'g'ri"
+  },
+  {
+    "Xquestion": "Rmoaefqbuqlbb",
+    "correct_answer": "Creative Commons litsenziyasi bilan"
+  },
+  {
+    "Xquestion": "ttd",
+    "correct_answer": "... bu MS PowerPoint, Prezi, SlideRocet, VoiceThread va boshqalar kabi taqdimotlarini yaratish va qo'llash uchun keng miqyosda qo'llaniladi."
+  },
+  {
+    "Xquestion": "tgkgnt",
+    "correct_answer": "Tarmoqdagi xavfsizlikni yaxshilash va tizimning ishlashini ta'minlash uchun har qanday qurilma foydalanuvchilari bajaradigan harakatlar to'plamidir."
+  },
+  {
+    "Xquestion": "Ulmni",
+    "correct_answer": "ta'limni demokratlashtirish"
+  },
+  {
+    "Xquestion": "UnMkas",
+    "correct_answer": "Stenford professori Sebastyan Tran"
+  },
+  {
+    "Xquestion": "VtjbtLLMStkjk",
+    "correct_answer": "Moodle, e-khool, Atutor, Captivate Prime, G-Cube, iSpring, ProProfs, TBS, TalentLMS, GoToTraining, Coassemble, Teamie, eFront, Lessonly, Mindflash, Litmos LMS"
+  },
+  {
+    "Xquestion": "Vstvmd",
+    "correct_answer": "... turli manbalardan ovoz yozish, musiqani tahrirlash, raqs mikslarini yaratish, audio treklarni yozib olish va ijro etish imkonini beradi."
+  },
+  {
+    "question": "tsyqn",
+    "correct_answer": "Milliy iqtisodiyotni jadal rivojlantirish va yuqori o'sish sur'atlarini ta'minlash."
+  },
+  {
+    "question": "osqdtusaic",
+    "correct_answer": "Germaniya, Fransiya, Koreya"
+  },
+  {
+    "question": "qqhqsyebdikt",
+    "correct_answer": "Amir Temur"
+  },
+  {
+    "question": "sslmn",
+    "correct_answer": "Sarkardaning san'ati"
+  },
+  {
+    "question": "yqrtsrbqctvkomivamsyobqdao",
+    "correct_answer": "Orol orzusi dasturi"
+  },
+  {
+    "question": "ymyotsnuyoio",
+    "correct_answer": "7"
+  },
+  {
+    "question": "ymyotsqtaic",
+    "correct_answer": "“Harakatlar strategiyasidan — Taraqqiyot strategiyasi sari”"
+  },
+  {
+    "question": "ymyotstorpfqeq",
+    "correct_answer": "2022-yil 28-yanvar"
+  },
+  {
+    "question": "ymyotsqymttvasybocmae",
+    "correct_answer": "5-ustuvor yo'nalishda"
+  },
+  {
+    "question": "ymyotsmquvb",
+    "correct_answer": "Tasviriy va amaliy san'at hamda dizayn yo'nalishlarini rivojlantirish, aholining badiiy-estetik didini yuksaltirish."
+  },
+  {
+    "question": "yypfbqq",
+    "correct_answer": "yangi o'zbekiston taraqqiyot strategiyasi"
+  },
+  {
+    "question": "myoqvaomddmtqtsb",
+    "correct_answer": "jamoatchilik fikri asosida \"Ochiq byudjet\" axborot portali orqali ovoz berish yo'li bilan aniqlanadi"
+  },
+  {
+    "question": "ysorpostgfqqsnuyb",
+    "correct_answer": "5 ta"
+  },
+  {
+    "question": "ybmkdbkktm",
+    "correct_answer": "Ikki"
+  },
+  {
+    "question": "avaqutteavazsauyaock",
+    "correct_answer": "2022 yil 29 iyunda O'zbekiston Respublikasi Prezidentining \"Ozodlikdan mahrum etish jazosini o'tab bo'lgan fuqarolarning ijtimoiy moslashuviga ko'maklashish tizimini takomillashtirish chora-tadbirlari to'g'risida\"gi qarori qabul qilindi"
+  },
+  {
+    "question": "aihqtrbybduyvakcbbnhqn",
+    "correct_answer": "O'zbekiston Respublikasi Prezidentining 2022-yil 25-iyuldagi \"O'zbekiston Respublikasi aholisini ijtimoiy himoya qilish strategiyasini tasdiqlash to'g'risida\"gi PF-175-son Farmoni"
+  },
+  {
+    "question": "btvautbbmbabsmkqjt",
+    "correct_answer": "Jarima"
+  },
+  {
+    "question": "dbnb",
+    "correct_answer": "davlat xizmatlarini ko'rsatishda turli boshqaruv darajalari o'rtasida mas'uliyat, vakolat va resurslarni qayta taqsimlash hisoblanadi"
+  },
+  {
+    "question": "doiyromtovabjaqlaaob",
+    "correct_answer": "Raqamli idora loyihasi"
+  },
+  {
+    "question": "dtskorqhh",
+    "correct_answer": "Oliy ta'limning muayyan bakalavriat ta'lim yo'nalishi yoki magistratura mutaxassisligi bo'yicha o'quv faoliyati turlari, o'quv fanlari va kurslarining tarkibi, ularni o'rganishning izchilligi, soatlar va kreditlardagi hajmini ta'lim davrining to'liq muddati uchun belgilaydigan hujjat.."
+  },
+  {
+    "question": "dtmtn",
+    "correct_answer": "Dual ta'lim ta'lim oluvchilar tomonidan zarur bilim, malaka va ko'nikmalarni olishga qaratilgan bo'lib, ularning nazariy qismi ta'lim tashkiloti negizida, amaliy qismi esa ta'lim oluvchining ish joyida amalga oshiriladi."
+  },
+  {
+    "question": "fjttkjk",
+    "correct_answer": "insonga uning iqtisodiy, siyosiy va madaniy hayoti shakllarini erkin tanlash kafolatlanadigan, qonun ustuvorligi va inson huquqlari hamda erkinliklari qaror topadigan, ko'p partiyaviylik, siyosiy institutlar, mafkura va fikrlarning xilma-xilligi ta?minlanadigan hamda o'zini-o'zi boshqarish organlarining mavqei baland bo'lgan ijtimoiy tuzum"
+  },
+  {
+    "question": "giioroyvayqqrqkr",
+    "correct_answer": "top-50"
+  },
+  {
+    "question": "hcn",
+    "correct_answer": "jinoiy ta'qibga uchragan fuqaroning adolatli sud muhokamasiga bo'lgan huquqi"
+  },
+  {
+    "question": "hbtbnffbddataedmystqb",
+    "correct_answer": "kamida 5 foizini"
+  },
+  {
+    "question": "hqmikrobttmob",
+    "correct_answer": "ta'lim"
+  },
+  {
+    "question": "idmn",
+    "correct_answer": "Davlat har bir inson uchun farovon turmush darajasi, xususan, sifatli ta'lim, kafolatli tibbiy xizmat, munosib mehnat sharoiti va adolatli ish haqi, pensiya va nafaqalar, ijtimoiy yordam va xizmatlar tizimi yaratilgan, uy-joyli bo'lish sharoiti mavjud bo'lgan, ijtimoiy tafovutlar yumshatilgan, muvozanatlashgan, hech bir fuqaro o'z muammolari bilan yolg'iz qolmaydigan adolatli davlatdir."
+  },
+  {
+    "question": "irmbbsovatsy",
+    "correct_answer": "Alohida sharoitlarda o'qitish va tarbiyalanishga muhtoj bo'lgan bolalar (shaxslar) uchun ularning ta'lim olishini, kasbiy tayyorgarligini va ijtimoiy reabilitatsiya qilinishini ta'minlaydigan ixtisoslashtirilgan o'quv-tarbiya muassasalari tashkil etiladi. Ozodlikdan mahrum qilish tarzida jazoni ijro etish muassasalarida saqlanayotgan bolalarning (shaxslarning) ta'lim olishi, tarbiyalanishi va mustaqil ta'lim olishi uchun sharoitlar yaratiladi."
+  },
+  {
+    "question": "isb",
+    "correct_answer": "Davlat organlarining NNT va fuqarolik jamiyatining boshqa institutlari bilan mamlakatni ijtimoiy-iqtisodiy rivojlantirish dasturlarini, shu jumladan tarmoq, hududiy dasturlarni, shuningdek normativ-huquqiy hujjatlarni hamda fuqarolarning huquqlari va qonuniy manfaatlariga daxldor bo'lgan boshqa qarorlarni ishlab chiqish hamda amalga oshirish borasidagi hamkorligi"
+  },
+  {
+    "question": "ivauotlbv",
+    "correct_answer": "Tanlov o'tkazilmaydi. VM 2006 yil 10 fevraldagi 20-son Qarori bilan tasdiqlangan \"Oliy talim muassasalariga pedagog xodimlarni tanlov asosida ishga qabul qilish tartibi to'g'risida\"gi Nizomga ko'ra"
+  },
+  {
+    "question": "itmtn",
+    "correct_answer": "Inklyuziv ta'lim alohida ta'lim ehtiyojlari va individual imkoniyatlarning xilma-xilligini hisobga olgan holda barcha ta'lim oluvchilar uchun ta'lim tashkilotlarida ta'lim olishga bo'lgan teng imkoniyatlarni ta'minlashga qaratilgan."
+  },
+  {
+    "question": "ikn",
+    "correct_answer": "bu odamning mehnatni iqtisodiy qiymatini oshiradigan tarzda bajarishi uchun yordam beradigan bilim, ko'nikma, tajriba va ijtimoiy fazilatlar yig'indisi"
+  },
+  {
+    "question": "jbnk",
+    "correct_answer": "kasaba uyushmalari, siyosiy partiyalar, olimlarning jamiyatlari, xotin-qizlar tashkilotlari, faxriylar, yoshlar va nogironligi bo'lgan shaxslar tashkilotlari, ijodiy uyushmalar, ommaviy harakatlar hamda fuqarolarning boshqa birlashmalari"
+  },
+  {
+    "question": "jbdna",
+    "correct_answer": "O'z huquqlari, erkinliklarini hamda siyosat, iqtisodiyot, ijtimoiy rivojlanish, fan, madaniyat, ekologiya va hayotning boshqa sohalaridagi qonuniy manfaatlarini birgalikda ro'yobga chiqarish uchun birlashgan fuqarolarning xohish-irodalarini erkin bildirishlari natijasida vujudga kelgan ixtiyoriy tuzilma"
+  },
+  {
+    "question": "jnsb",
+    "correct_answer": "O'zbekiston Respublikasi fuqarolari, fuqarolarning o'zini o'zi boshqarish organlari, shuningdek qonunchilikda belgilangan tartibda ro'yxatga olingan nodavlat notijorat tashkilotlari, ommaviy axborot vositalari"
+  },
+  {
+    "question": "jassyrnbbsohtoqtb",
+    "correct_answer": "Davlat jismoniy, aqliy, sensor (sezgi) yoki ruhiy nuqsonlari bo'lgan bolalarning (shaxslarning) davlat ixtisoslashtirilgan ta'lim muassasalarida, umumiy o'rta, o'rta maxsus, professional ta'lim muassasalarida inklyuziv shaklda bepul umumiy o'rta, o'rta maxsus, professional va maktabdan tashqari ta'lim olishini ta'minlaydi."
+  },
+  {
+    "question": "kpfbshe",
+    "correct_answer": "Hammasi to'g'ri"
+  },
+  {
+    "question": "ksqma",
+    "correct_answer": "lotincha so'z bo'lib, tartib, qoida, tuzish"
+  },
+  {
+    "question": "kmaedqbaemk",
+    "correct_answer": "O'z fikrini erkin bildirish huquqining tarkibiy qismi bo'lib, oliy ta'lim tashkilotlarida ta'lim berish va ilmiy-tadqiqot o'tkazish erkinligidir. Ushbu erkinlik o'quv jarayonini mustaqil shakllantirish, professor-o'qituvchilarni dars o'tish erkinligida, ilmiy-tadqiqot mavzularini mustaqil tanlash va tadqiq etish, uning natijalarini nashr etish va tarqatish, professor-o'qituvchilar va ilmiy xodimlar akademik erkinligining cheklanmasligida va boshqalarda namoyon bo'ladi."
+  },
+  {
+    "question": "ltpn",
+    "correct_answer": "Tadbirkorlar va aholi, ayniqsa uning kam ta'minlangan qatlamlari uchun huquqiy hujjatlarni yurist ishtirokisiz tayyorlash imkonini beruvchi tizim"
+  },
+  {
+    "question": "mtbiaiicquymb",
+    "correct_answer": "ma'naviy taraqqiyotni ta'minlash va sohani yangi bosqichga olib chiqish"
+  },
+  {
+    "question": "mb",
+    "correct_answer": "inson axloqi va odobi, bilimlari, iste'dodi, amaliy malakalari, vijdoni, iymoni, e'tiqodi, dunyoqarashi, mafkuraviy qarashlarning bir-biri bilan uzviy bog'langan, jamiyat taraqqiyotiga ijobiy ta'sir etadigan mushtarak tizimidir"
+  },
+  {
+    "question": "mmiuvaidebptozhqtb",
+    "correct_answer": "Zarur hollarda (ma'ruza mashg'ulotlari hajmi ko'p bo'lganda yoki professor, dotsent va katta o'qituvchilar yetarli bo'lmaganda) oliy ta'lim muassasasi Kengashining qaroriga asosan kamida 3 yillik ilmiy-pedagogik ish stajiga ega bo'lgan, biroq ilmiy unvon va ilmiy darajasi bo'lmagan o'qituvchilarga bir o'quv yilida 250 soatgacha hajmda ma'ruza mashg'ulotlarini o'tishga ruxsat beriladi."
+  },
+  {
+    "question": "mxvamskopvaftsobsuyaock",
+    "correct_answer": "Kiberxavfsizlik to'g'risidagi 15.04.2022 yildagi O'RQ-764-sonli qonun qabul qilindi"
+  },
+  {
+    "question": "mijrvayostuyaock",
+    "correct_answer": "2022 yil 27 yanvarda O'zbekiston Respublikasi Prezidentining \"Xizmatlar sohasini rivojlantirishga oid qo'shimcha chora-tadbirlar to'g'risida\"gi qarori qabul qilindi."
+  },
+  {
+    "question": "mqb",
+    "correct_answer": "fuqaroni birinchi marta davlat organlari tomonidan biron bir ishga gumon qilinuvchi sifatida jalb qilayotganda, unga birlamchi huquqlari tushuntirib berilishi"
+  },
+  {
+    "question": "nijmqqhqitmbqkicb",
+    "correct_answer": "O'zbekiston Respublikasi qonunchiligini rivojlantirish konsepsiyasini ishlab chiqish"
+  },
+  {
+    "question": "orkqmorojtnb",
+    "correct_answer": "25-moddasida"
+  },
+  {
+    "question": "orihqpar",
+    "correct_answer": "siyosiy institutlar, mafkuralar va fikrlarning xilma-xilligi asosida"
+  },
+  {
+    "question": "oxnfkiobm",
+    "correct_answer": "u saylagan O'zbekiston Respublikasi Oliy Majlisi va Prezidenti"
+  },
+  {
+    "question": "sucuttuhvautatsorkmuqxhqa",
+    "correct_answer": "Miranda qoidasi\""
+  },
+  {
+    "question": "stm",
+    "correct_answer": "yunon tilidan - sarkardaning san'ati"
+  },
+  {
+    "question": "ttqmdtstan",
+    "correct_answer": "Davlat ta'lim standartlarini va (yoki) davlat ta'lim talablarini bajarish barcha ta'lim tashkilotlari uchun majburiydir, bunda nodavlat ta'lim tashkilotlari mustaqil ishlab chiqilgan va litsenziyada yoki xabarnomada ko'rsatilgan o'quv dasturlari asosida ta'lim faoliyatini amalga oshirishlari mumkin."
+  },
+  {
+    "question": "ttqm",
+    "correct_answer": "Ta'lim sohasidagi munosabatlarni tartibga solishdan iborat"
+  },
+  {
+    "question": "tiuqoqtmmvammoant",
+    "correct_answer": "maktablarni"
+  },
+  {
+    "question": "tsastbhbtxqtayqb",
+    "correct_answer": "bir qadam tamoyili"
+  },
+  {
+    "question": "tskdqbyjqtqmyqbb",
+    "correct_answer": "4,5 milliard AQSh dollaridan oshib ketmasligini"
+  },
+  {
+    "question": "tsmqxmicyskuteqsao",
+    "correct_answer": "Chirchiq shahrida"
+  },
+  {
+    "question": "tsmijrvayostnynmoio",
+    "correct_answer": "16 ta maqsaddan iborat"
+  },
+  {
+    "question": "tsyqn",
+    "correct_answer": "Inson qadrini yuksaltirish va erkin fuqarolik jamiyatini yanada rivojlantirish orqali xalqparvar davlat barpo etish."
+  },
+  {
+    "question": "tsyqn",
+    "correct_answer": "Mamlakatimizda adolat va qonun ustuvorligi tamoyillarini taraqqiyotning eng asosiy va zarur shartiga aylantirish."
+  },
+  {
+    "question": "tsyqn",
+    "correct_answer": "Adolatli ijtimoiy siyosat yuritish, inson kapitalini rivojlantirish"
+  },
+  {
+    "question": "tsyqn",
+    "correct_answer": "ma'naviy taraqqiyotni ta'minlash va sohani yangi bosqichga olib chiqish."
+  },
+  {
+    "question": "tsyqn",
+    "correct_answer": "Milliy manfaatlardan kelib chiqqan holda umumbashariy muammolarga yondashish"
+  },
+  {
+    "question": "titvagsiivaodybsqvodhtiefjiq",
+    "correct_answer": "Siyosiy partiyalar"
+  },
+  {
+    "question": "xdmdateqgaic",
+    "correct_answer": "Davlat xalqqa xizmat ko'rsatishi shart g'oyasi"
+  },
+  {
+    "question": "xvatdtasideosnuysb",
+    "correct_answer": "5-ustuvor yo'nalish"
+  },
+  {
+    "question": "yotsqym",
+    "correct_answer": "2022-2026 yillarga mo'ljallangan"
+  },
+  {
+    "question": "yib",
+    "correct_answer": "inson hayoti va sog'lig'i uchun zarur bo'lgan resurslarni, atrof-muhit va ekologiyani bir butun holda saqlab qolib ishlab chiqarish va xizmat ko'rsatish sohalari bilan bog'liq iqtisodiyotni yanada rivojlantirish"
+  },
+  {
+    "question": "ybvaoybqvqmbboqtaao",
+    "correct_answer": "Yetim bolalarni va ota-onasining yoki boshqa qonuniy vakillarining qaramog'idan mahrum bo'lgan bolalarni o'qitish va ularning to'liq ta'minoti O'zbekiston Respublikasi Davlat budjeti mablag'lari hisobidan amalga oshiriladi."
+  },
+  {
+    "question": "ybimshtqmhaje",
+    "correct_answer": "O'zbekiston Respublikasi Prezidentining \"Mahallalarda yoshlar bilan ishlash tizimini tubdan takomillashtirish chora-tadbirlari to'g'risida\"gi qarori asosida"
+  },
+  {
+    "question": "ybtfihqvassftmvasstymhiircaomqy",
+    "correct_answer": "Ijtimoiy sohani rivojlantirish"
+  },
+  {
+    "Xquestion": "Ktkyobvobnhmbmb",
+    "correct_answer": "Superpozitsiya tamoyili"
+  },
+  {
+    "Xquestion": "KnevfyzkzuqkqhzhtshqmBqt",
+    "correct_answer": "To‘lqin-zarralar ikkiligi tamoyili"
+  },
+  { "Xquestion": "Smftqttuf", "correct_answer": "Superpozitsiya tamoyili" },
+  {
+    "Xquestion": "Zbqubqnbzhbhbdbhbhb",
+    "correct_answer": "Chalkashlik tamoyili"
+  },
+  { "Xquestion": "Uqhsaaadhb", "correct_answer": "Chalkashlik tamoyili" },
+  {
+    "Xquestion": "ZpvikmbjxbvoaomeBqt",
+    "correct_answer": "Geyzenbergning noaniqlik printsipi"
+  },
+  {
+    "Xquestion": "qIkhmttbqB",
+    "correct_answer": "Kvantni klonlash mumkin emasligi to‘g‘risida teorema"
+  },
+  {
+    "Xquestion": "Khb0y1gtKhe",
+    "correct_answer": "kubit bir vaqtning o‘zida 0 va 1 ning superpozitsiyasida mavjud bo‘lishi mumkin."
+  },
+  { "Xquestion": "Kktkqkr", "correct_answer": "Barcha javoblar to'g'ri" },
+  { "Xquestion": "Kkikqkr", "correct_answer": "Barcha javoblar to'g'ri" },
+  { "Xquestion": "Khdmkjkr", "correct_answer": "Barcha javoblar to'g'ri" },
+  { "Xquestion": "KkKFtqate", "correct_answer": "O(n^2)" },
+  { "Xquestion": "2nolmlukdFtqate", "correct_answer": "O((2^n)log(2^n))" },
+  {
+    "Xquestion": "Kkkpqtkatskr",
+    "correct_answer": "RSA, ECC (Elliptic Curve Cryptography) va Diffie-Hellman"
+  },
+  {
+    "Xquestion": "Skaqmsyml",
+    "correct_answer": "Butun sonni faktorlash, diskret logarifmlash muammolarini"
+  },
+  { "Xquestion": "Saqy", "correct_answer": "1994" },
+  { "Xquestion": "Gaqy", "correct_answer": "1996" },
+  { "Xquestion": "Gaqtkajtsot", "correct_answer": "Simmetrik kalitli" },
+  { "Xquestion": "Gask2128hqq", "correct_answer": "2^64" },
+  { "Xquestion": "Gask2256hqq", "correct_answer": "2^128" },
+  { "Xquestion": "Kkykaqtkptsq", "correct_answer": "Ochiq kalitli" },
+  {
+    "Xquestion": "qDkkmbsmonhsmqBqhkr",
+    "correct_answer": "Harvest Now, Decrypt Later"
+  },
+  { "Xquestion": "Pkkaamsb", "correct_answer": "Panjara" },
+  { "Xquestion": "Pkqvdovttbb", "correct_answer": "yaxshi bazis" },
+  { "Xquestion": "Pksksqbt", "correct_answer": "yaxshi bazis" },
+  { "Xquestion": "Pkoksqbt", "correct_answer": "yomon bazis" },
+  {
+    "Xquestion": "bvb121b213gtz10z20gtblz1b1z2b2pnh",
+    "correct_answer": "(0,0)"
+  },
+  {
+    "Xquestion": "bvb121b213gtz11z20gtblz1b1z2b2pnh",
+    "correct_answer": "(2,1)"
+  },
+  {
+    "Xquestion": "bvb121b213gtz10z21gtblz1b1z2b2pnh",
+    "correct_answer": "(1,3)"
+  },
+  {
+    "Xquestion": "bvb121b213gtz11z21gtblz1b1z2b2pnh",
+    "correct_answer": "(3,4)"
+  },
+  {
+    "Xquestion": "FqqdntbeqvulsqlLntvb",
+    "correct_answer": "Eng qisqa vektor muammosi"
+  },
+  {
+    "Xquestion": "PbqEnnulqembtlLntvb",
+    "correct_answer": "Eng yaqin vektor muammosi"
+  },
+  { "Xquestion": "Pkxboikr", "correct_answer": "A∙s+e=b" },
+  { "Xquestion": "2VLKPvORttqLv", "correct_answer": "Ring-LWE" },
+  { "Xquestion": "2ALvDSttqLv", "correct_answer": "Module-LWE" },
+  { "Xquestion": "Lqvukpukpaql", "correct_answer": "Ring-LWE" },
+  { "Xquestion": "SsqLvf", "correct_answer": "Module-LWE" },
+  { "Xquestion": "1HPvSticpatb", "correct_answer": "NTRU" },
+  {
+    "Xquestion": "Udstykmbaxavtusyb",
+    "correct_answer": "Xatolarni tuzatuvchi kodlar"
+  },
+  { "Xquestion": "Pkkaymskr", "correct_answer": "Barcha javoblar to'g'ri" },
+  { "Xquestion": "Pkomkr", "correct_answer": "Eng yaqin vektor muammosi" },
+  {
+    "Xquestion": "Ckohmkqkr",
+    "correct_answer": "Sindromni dekodlash muammosi"
+  },
+  {
+    "Xquestion": "Kokomkr",
+    "correct_answer": "MQ (multivariate quadratic) muammosi"
+  },
+  {
+    "Xquestion": "Kokomkr",
+    "correct_answer": "(Isomorphism of Polynomials, IP) muammosini"
+  },
+  { "Xquestion": "NtPkslqb", "correct_answer": "2016-yil" },
+  { "Xquestion": "NRkkqktnykkktbmhhelq", "correct_answer": "2030" },
+  {
+    "Xquestion": "NtelqPktqkmqo",
+    "correct_answer": "Elektron raqamli imzo va kalit inkapsulyatsiyasi"
+  },
+  { "Xquestion": "NtelqPktbbnato", "correct_answer": "69" },
+  { "Xquestion": "NtelqPktibnato", "correct_answer": "26" },
+  { "Xquestion": "NtelqPktubnato", "correct_answer": "7" },
+  { "Xquestion": "NtelqPktubnaasto", "correct_answer": "8" },
+  { "Xquestion": "NPtokskibyqasuto", "correct_answer": "CRYSTALS-Kyber" },
+  { "Xquestion": "NPteribyqasuto", "correct_answer": "CRYSTALS-Dilithium" },
+  { "Xquestion": "NPteribyqasuto", "correct_answer": "SPHINCS+." },
+  { "Xquestion": "KsqLvf", "correct_answer": "Module-LWE" },
+  { "Xquestion": "DsqLvf", "correct_answer": "Module-LWE" },
+  { "Xquestion": "Kasskr", "correct_answer": "Classic McEliece" },
+  { "Xquestion": "Ntaakr", "correct_answer": "Falcon" },
+  { "Xquestion": "Koisaakr", "correct_answer": "Rainbow" },
+  { "Xquestion": "Pkkoaaokkr", "correct_answer": "Liboqs" }
+]
