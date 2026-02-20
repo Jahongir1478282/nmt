@@ -263,47 +263,47 @@
     },
     {
       "id": 25,
-      "question": "&quot;A&quot; va &quot;B&quot; foydalanuvchilar ma'lumot almashmoqchi, &quot;A&quot; foydalanuvchi qabul qilgan ma'lumotni imzosini tekshirishda qaysi kalitdan foydalanadi?",
+      "question": "\"A\" va \"B\" foydalanuvchilar ma'lumot almashmoqchi, \"A\" foydalanuvchi qabul qilgan ma'lumotni imzosini tekshirishda qaysi kalitdan foydalanadi?",
       "options": [
-        "&quot;B&quot; foydalanuvchining ochiq kalitidan",
-        "&quot;B&quot; foydalanuvchining maxfiy kalitidan",
-        "&quot;A&quot; foydalanuvchi o'zining ochiq kalitidan",
-        "&quot;A&quot; foydalanuvchini o'zining maxfiy kalitidan"
+        "\"B\" foydalanuvchining ochiq kalitidan",
+        "\"B\" foydalanuvchining maxfiy kalitidan",
+        "\"A\" foydalanuvchi o'zining ochiq kalitidan",
+        "\"A\" foydalanuvchini o'zining maxfiy kalitidan"
       ],
-      "correct_answer": "&quot;B&quot; foydalanuvchining ochiq kalitidan"
+      "correct_answer": "\"B\" foydalanuvchining ochiq kalitidan"
     },
     {
       "id": 26,
-      "question": "&quot;A&quot; va &quot;B&quot; foydalanuvchilar ma'lumot almashmoqchi, &quot;B&quot; foydalanuvchi qabul qilgan ma'lumotni imzosini tekshirishda qaysi kalitdan foydalanadi?",
+      "question": "\"A\" va \"B\" foydalanuvchilar ma'lumot almashmoqchi, \"B\" foydalanuvchi qabul qilgan ma'lumotni imzosini tekshirishda qaysi kalitdan foydalanadi?",
       "options": [
-        "&quot;A&quot; foydalanuvchining ochiq kalitidan",
-        "&quot;A&quot; foydalanuvchining maxfiy kalitidan",
-        "&quot;B&quot; foydalanuvchi o'zining ochiq kalitidan",
-        "&quot;B&quot; foydalanuvchini o'zining maxfiy kalitidan"
+        "\"A\" foydalanuvchining ochiq kalitidan",
+        "\"A\" foydalanuvchining maxfiy kalitidan",
+        "\"B\" foydalanuvchi o'zining ochiq kalitidan",
+        "\"B\" foydalanuvchini o'zining maxfiy kalitidan"
       ],
-      "correct_answer": "&quot;A&quot; foydalanuvchining ochiq kalitidan"
+      "correct_answer": "\"A\" foydalanuvchining ochiq kalitidan"
     },
     {
       "id": 27,
-      "question": "&quot;A&quot; va &quot;B&quot; foydalanuvchilar ma'lumot almashmoqchi, &quot;A&quot; foydalanuvchi elektron hujjatga imzo qo'yish uchun qaysi kalitdan foydalanadi?",
+      "question": "\"A\" va \"B\" foydalanuvchilar ma'lumot almashmoqchi, \"A\" foydalanuvchi elektron hujjatga imzo qo'yish uchun qaysi kalitdan foydalanadi?",
       "options": [
-        "&quot;A&quot; foydalanuvchini o'zining maxfiy kalitidan",
-        "&quot;B&quot; foydalanuvchining maxfiy kalitidan",
-        "&quot;A&quot; foydalanuvchi o'zining ochiq kalitidan",
-        "&quot;B&quot; foydalanuvchining ochiq kalitidan"
+        "\"A\" foydalanuvchini o'zining maxfiy kalitidan",
+        "\"B\" foydalanuvchining maxfiy kalitidan",
+        "\"A\" foydalanuvchi o'zining ochiq kalitidan",
+        "\"B\" foydalanuvchining ochiq kalitidan"
       ],
-      "correct_answer": "&quot;A&quot; foydalanuvchini o'zining maxfiy kalitidan"
+      "correct_answer": "\"A\" foydalanuvchini o'zining maxfiy kalitidan"
     },
     {
       "id": 28,
-      "question": "&quot;A&quot; va &quot;B&quot; foydalanuvchilar ma'lumot almashmoqchi, &quot;B&quot; foydalanuvchi elektron hujjatga imzo qo'yish uchun qaysi kalitdan foydalanadi?",
+      "question": "\"A\" va \"B\" foydalanuvchilar ma'lumot almashmoqchi, \"B\" foydalanuvchi elektron hujjatga imzo qo'yish uchun qaysi kalitdan foydalanadi?",
       "options": [
-        "&quot;B&quot; foydalanuvchini o'zining maxfiy kalitidan",
-        "&quot;A&quot; foydalanuvchining maxfiy kalitidan",
-        "&quot;B&quot; foydalanuvchi o'zining ochiq kalitidan",
-        "&quot;A&quot; foydalanuvchining ochiq kalitidan"
+        "\"B\" foydalanuvchini o'zining maxfiy kalitidan",
+        "\"A\" foydalanuvchining maxfiy kalitidan",
+        "\"B\" foydalanuvchi o'zining ochiq kalitidan",
+        "\"A\" foydalanuvchining ochiq kalitidan"
       ],
-      "correct_answer": "&quot;B&quot; foydalanuvchini o'zining maxfiy kalitidan"
+      "correct_answer": "\"B\" foydalanuvchini o'zining maxfiy kalitidan"
     },
     {
       "id": 29,
@@ -395,7 +395,7 @@
     },
     {
       "id": 37,
-      "question": "Niqoblash ​ ​ qoidabuzarligi qanday amalga oshiriladi",
+      "question": "Niqoblash qoidabuzarligi qanday amalga oshiriladi",
       "options": [
         "Uchinchi foydalanuvchi (B) foydalanuvchi (B)ga foydalanuvchi (A) nomidan ma’lumot jo‘natadi.",
         "Foydalanuvchi (B)ning o‘zi ma’lumot tayyorlab, bu sohta ma’lumotni foydalanuvchi (A) yubordi deb da’vo qiladi.",
