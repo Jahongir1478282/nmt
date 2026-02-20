@@ -5,7 +5,7 @@
 import Link from "next/link";
 import { tests, type TestConfig } from "./lib/tests";
 
-const ZIP_DOWNLOAD_PATH = "/public/MyExtension.zip";
+const ZIP_DOWNLOAD_PATH = "/MyExtension.zip";
 
 const formatQuestionLabel = (test: TestConfig): string => {
   const hasRandomCount =
@@ -90,7 +90,7 @@ export default function HomePage() {
             ZIP faylni yuklab olish
           </a>
           <span className="text-xs text-gray-500">
-            ZIP faylni public papkada {ZIP_DOWNLOAD_PATH} nomi bilan saqlang.
+            ZIP faylni public papkada /public/MyExtension.zip nomi bilan saqlang.
           </span>
         </div>
         {sections.map(
