@@ -55,6 +55,8 @@ function QuizContent({ test }: { test: TestConfig }) {
   const nextQuestionTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(
     null,
   );
+  const xSearchTimeoutRef = useRef<ReturnType<typeof setTimeout> | null>(null);
+  const xLastQueryRef = useRef<string>("");
   const resultRef = useRef<HTMLDivElement | null>(null);
 
   useEffect(() => {
@@ -63,6 +65,7 @@ function QuizContent({ test }: { test: TestConfig }) {
       cancelAnimationFrame(rafId);
       if (nextQuestionTimeoutRef.current)
         clearTimeout(nextQuestionTimeoutRef.current);
+      if (xSearchTimeoutRef.current) clearTimeout(xSearchTimeoutRef.current);
     };
   }, []);
 
@@ -95,9 +98,8 @@ function QuizContent({ test }: { test: TestConfig }) {
     if (!showReview) setShowOnlyIncorrect(false);
   }, [showReview]);
 
-  const handleXSearch = useCallback((value: string): void => {
-    setXQuery(value);
-    const trimmed = value.trim();
+  const runXSearch = useCallback((raw: string): void => {
+    const trimmed = raw.trim();
     if (!trimmed) {
       setXAnswer(null);
       setXKey("");
@@ -112,7 +114,7 @@ function QuizContent({ test }: { test: TestConfig }) {
     }
 
     const built = buildInitials(trimmed);
-    const maybe = findAnswerByInitials(built);
+    const maybe = built ? findAnswerByInitials(built) : null;
     if (maybe) {
       setXAnswer(maybe);
       setXKey(built);
@@ -121,10 +123,30 @@ function QuizContent({ test }: { test: TestConfig }) {
 
     const partial =
       findAnswerByPartialInitials(trimmed) ??
-      findAnswerByPartialInitials(built);
+      (built ? findAnswerByPartialInitials(built) : null);
     setXAnswer(partial ?? null);
     setXKey(partial ? built || trimmed.toLowerCase() : "");
   }, []);
+
+  const handleXSearch = useCallback(
+    (value: string): void => {
+      setXQuery(value);
+      const normalized = value.trim().toLowerCase();
+      if (!normalized) {
+        xLastQueryRef.current = "";
+        if (xSearchTimeoutRef.current)
+          clearTimeout(xSearchTimeoutRef.current);
+        runXSearch("");
+        return;
+      }
+
+      if (xSearchTimeoutRef.current)
+        clearTimeout(xSearchTimeoutRef.current);
+      xLastQueryRef.current = normalized;
+      runXSearch(value);
+    },
+    [runXSearch],
+  );
 
   // Rebuild the pool once client-side hydration is ready (shuffled options)
   useEffect(() => {
@@ -214,7 +236,7 @@ function QuizContent({ test }: { test: TestConfig }) {
       clearTimeout(nextQuestionTimeoutRef.current);
     nextQuestionTimeoutRef.current = setTimeout(() => {
       setCurrentQuestionIndex((prev) => Math.min(totalSlots - 1, prev + 1));
-    }, 2000);
+    }, 800);
   };
 
   const correctCount = useMemo(
@@ -243,6 +265,13 @@ function QuizContent({ test }: { test: TestConfig }) {
     () => (totalSlots ? Math.round((correctCount / totalSlots) * 100) : 0),
     [correctCount, totalSlots],
   );
+
+  const xResultText = xAnswer ?? (xKey ? "Topilmadi" : "");
+  const xResultClass = xAnswer
+    ? "text-gray-700"
+    : xKey
+      ? "text-red-500"
+      : "text-transparent";
 
   const finishReasonLabel = useMemo(() => {
     switch (finishReason) {
@@ -535,6 +564,21 @@ function QuizContent({ test }: { test: TestConfig }) {
             <span className="text-black font-normal">{answeredCount}</span>
             <span className="text-gray-500 font-normal">/{totalSlots}</span>
           </span>
+          <div className="flex items-center gap-2">
+            <div className="flex-none rounded-full border border-gray-200 bg-white/80 px-3 py-2 shadow-sm ring-1 ring-transparent transition focus-within:border-blue-300 focus-within:ring-blue-200">
+              <input
+                value={xQuery}
+                onChange={(e) => handleXSearch(e.target.value)}
+                placeholder="Qidirish..."
+                className="w-30 bg-transparent text-sm text-gray-800 placeholder:text-gray-400 focus:outline-none"
+              />
+            </div>
+            <span
+              className={`w-160 text-[11px] sm:text-xs whitespace-normal wrap-break-word pr-1 ${xResultClass}`}
+            >
+              {xResultText}
+            </span>
+          </div>
         </div>
 
         <div className="flex items-center gap-3">
@@ -641,23 +685,7 @@ function QuizContent({ test }: { test: TestConfig }) {
               </button>
             </div>
           </div>
-          <div className="fixed bottom-0 left-0 right-0 flex flex-wrap items-start sm:items-center gap-2 rounded-t-lg  bg-white px-3 py-1 max-w-7xl mx-auto">
-            <input
-              value={xQuery}
-              onChange={(e) => handleXSearch(e.target.value)}
-              placeholder="..."
-              className="w-40 sm:w-56 border-none cursor-none bg-transparent sm:text-sm text-gray-500 focus:outline-none"
-            />
-            {xAnswer ? (
-              <span className="flex-1 min-w-0 sm:text-xs text-gray-500 whitespace-normal wrap-break-word pr-1">
-                {xAnswer}
-              </span>
-            ) : xKey ? (
-              <span className="text-[11px] sm:text-xs text-red-500">
-                Topilmadi
-              </span>
-            ) : null}
-          </div>
+          
           {isFinished && (
             <div className="mt-10 rounded-2xl border border-gray-500 bg-gray-50 p-5 shadow-inner">
               <h3 className="text-lg font-bold mb-3">Natija</h3>

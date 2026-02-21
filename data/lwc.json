@@ -37,7 +37,7 @@
     },
     {
       "id": 4,
-      "question": "&quot;IoT texnologiyalari shahar holati to‘g‘risidagi ma’lumotlarni to‘plash va ularni fuqarolarga tarqatish uchun muhim hisoblanadi&quot;. Bu qaysi IoT ilovasiga misol bo‘la oladi?",
+      "question": "\"IoT texnologiyalari shahar holati to‘g‘risidagi ma’lumotlarni to‘plash va ularni fuqarolarga tarqatish uchun muhim hisoblanadi\". Bu qaysi IoT ilovasiga misol bo‘la oladi?",
       "options": [
         "aqlli shaharlar",
         "uy va binolarni avtomatlashtirish",
@@ -147,7 +147,7 @@
     },
     {
       "id": 14,
-      "question": "IoT qurilmalariga nisbatan &quot;imkoniyati cheklangan&quot; iborasini ishlatilishi qanday ma'noda tushuniladi?",
+      "question": "IoT qurilmalariga nisbatan \"imkoniyati cheklangan\" iborasini ishlatilishi qanday ma'noda tushuniladi?",
       "options": [
         "Barcha javoblar to‘g‘ri",
         "Quvvat manbasini cheklanganligi",

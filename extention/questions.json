@@ -1224,485 +1224,486 @@
     "correct_answer": "Matematik tenglamalar orqali algoritmlarning zaif tomonlarini aniqlash"
   },
   {
-    "Xquestion": "ORPORkstvifrbqctP293sQqq",
+    "question": "ORPORkstvirbqctPQqqq",
     "correct_answer": "2024-yil 15-avgust"
   },
   {
-    "Xquestion": "Iqsf",
+    "question": "Iqsf",
     "correct_answer": "Barcha javoblar to‘g‘ri"
   },
   {
-    "Xquestion": "YvxbsiqIimb",
+    "question": "YvxbsiqIimb",
     "correct_answer": "uy va binolarni avtomatlashtirish"
   },
   {
-    "Xquestion": "ItshtmtvlftumhBqIimb",
+    "question": "ItshtmtvuftumhBqIimbo",
     "correct_answer": "aqlli shaharlar"
   },
   {
-    "Xquestion": "Ahaqqtemsvetrfoitsoetb",
+    "question": "Ahaqqtemvetroioteteetb",
     "correct_answer": "aqlli energetik tarmoqlar"
   },
   {
-    "Xquestion": "EISvqketkPqcdfm",
+    "question": "EIsvqketkPqcdfm",
     "correct_answer": "3-148 kHz"
   },
   {
-    "Xquestion": "Iiqlngtekxtksvmavbsq",
+    "question": "Iiclnvgtextsvmavbsq",
     "correct_answer": "sanoatlashgan IoT"
   },
   {
-    "Xquestion": "Itmaqszdknigam",
+    "question": "Itmasudkngam",
     "correct_answer": "2"
   },
   {
-    "Xquestion": "Itmaqszdknigqgam",
+    "question": "Itmasudkqgam",
     "correct_answer": "Qisqa va uzoq masofali"
   },
   {
-    "Xquestion": "Qmasqkik",
+    "question": "Qmasqk",
     "correct_answer": "IEEE 802.11, IEEE 802.15.1, IEEE 802.15.4"
   },
   {
-    "Xquestion": "Qmasqoiqqdi",
+    "question": "Qmasoqqdi",
     "correct_answer": "2,400–2,4835 GGts"
   },
   {
-    "Xquestion": "Umasqoiqqdi",
+    "question": "Umasoqqdi",
     "correct_answer": "868–870 MGts"
   },
   {
-    "Xquestion": "Umasqkjt",
+    "question": "Umaskjt",
     "correct_answer": "LoRA"
   },
   {
-    "Xquestion": "Iqniiciiqmt",
+    "question": "Iqniciiqmt",
     "correct_answer": "Barcha javoblar to‘g‘ri"
   },
   {
-    "Xquestion": "Aoqmi",
+    "question": "Aoqmi",
     "correct_answer": "Barcha javoblar to‘g‘ri"
   },
   {
-    "Xquestion": "Foumxtb",
+    "question": "Foumxb",
     "correct_answer": "ROM"
   },
   {
-    "Xquestion": "RHiaIoqaovcdnsa",
+    "question": "RhIaovcqnsa",
     "correct_answer": "3"
   },
   {
-    "Xquestion": "Qhidsksuixb",
+    "question": "Qhidksuixb",
     "correct_answer": "ROM"
   },
   {
-    "Xquestion": "DTovbkbvmuixb",
+    "question": "Dtovbkbvmuixb",
     "correct_answer": "RAM"
   },
   {
-    "Xquestion": "r0sqikt",
+    "question": "RsCqikjt",
     "correct_answer": "RAM (<<10 KiB), ROM (<<100 KiB)"
   },
   {
-    "Xquestion": "R1sqikt",
+    "question": "RsCqikjt",
     "correct_answer": "RAM (~10 KiB), ROM (~100 KiB)"
   },
   {
-    "Xquestion": "R2sqikt",
+    "question": "RsCqikjt",
     "correct_answer": "RAM (~50 KiB), ROM (~250 KiB)"
   },
   {
-    "Xquestion": "UsqoamhqhbmmeGRqsha",
+    "question": "UsqoamhqyhtbmeGRqshb",
     "correct_answer": "0-sinf"
   },
   {
-    "Xquestion": "UctunmpsfmkmUoCGRqsha",
+    "question": "UctummpsfmUoCGRqshb",
     "correct_answer": "1-sinf"
   },
   {
-    "Xquestion": "UsqkcvaanvsippskqvqdGRqsha",
+    "question": "UsqkcvanysipskqqGRqshb",
     "correct_answer": "2-sinf"
   },
   {
-    "Xquestion": "Ibmaptkqt",
+    "question": "Ibmapkqt",
     "correct_answer": "TelosB, Zolertia Z1, OpenMote"
   },
   {
-    "Xquestion": "Ibmaptkqt",
+    "question": "Ibmapkqt",
     "correct_answer": "Arduino, Raspberry Pi, OpenMote"
   },
   {
-    "Xquestion": "Ibmadptkqt",
+    "question": "Ibmdpkqt",
     "correct_answer": "OpenWSN, TinyOS, Contiki OS"
   },
   {
-    "Xquestion": "Ibmadptkqt",
+    "question": "Ibmdpkqt",
     "correct_answer": "FreeRTOS, TinyOS, Contiki OS"
   },
   {
-    "Xquestion": "NuaADkalyIqbfb",
+    "question": "NuAvDkaIqbfb",
     "correct_answer": "Barcha javoblar to‘g‘ri"
   },
   {
-    "Xquestion": "DAkuktq",
+    "question": "Dakukqt",
     "correct_answer": "56 bit"
   },
   {
-    "Xquestion": "DAbtq",
+    "question": "Dabukqt",
     "correct_answer": "64 bit"
   },
   {
-    "Xquestion": "DAqqtsa",
+    "question": "Daqqta",
     "correct_answer": "Feystel tarmog'i"
   },
   {
-    "Xquestion": "AAqqtsa",
+    "question": "Aaqqta",
     "correct_answer": "SP tarmoq"
   },
   {
-    "Xquestion": "AtHPviIpsqpao",
+    "question": "AtHpvIpsqpao",
     "correct_answer": "CoAP"
   },
   {
-    "Xquestion": "AtTPviIpsqpao",
+    "question": "AtTpvIpsqpao",
     "correct_answer": "UDP"
   },
   {
-    "Xquestion": "AtIviIpsqpao",
+    "question": "AtIpvIpsqpao",
     "correct_answer": "IPv6/6LowPAN"
   },
   {
-    "Xquestion": "AtHSviIpsqpao",
+    "question": "AtHpvIpsqpao",
     "correct_answer": "CoAPs"
   },
   {
-    "Xquestion": "AtTviIpsqpao",
+    "question": "AtTpvIpsqpao",
     "correct_answer": "DTLS"
   },
   {
-    "Xquestion": "LCb",
+    "question": "LCb",
     "correct_answer": "Yengil vaznli kriptografiya"
   },
   {
-    "Xquestion": "TEATabunb",
+    "question": "TEATaabunb",
     "correct_answer": "64"
   },
   {
-    "Xquestion": "TEATakunb",
+    "question": "TEATaakunb",
     "correct_answer": "128"
   },
   {
-    "Xquestion": "TAekmqknbq",
+    "question": "Taekmkunbq",
     "correct_answer": "126"
   },
   {
-    "Xquestion": "Mpavybsbshk",
+    "question": "Mpayvsbsk",
     "correct_answer": "SEA"
   },
   {
-    "Xquestion": "SAbkunpysobqk",
+    "question": "Sabkunbpysbobok",
     "correct_answer": "n mod 6b = 0"
   },
   {
-    "Xquestion": "Snbab8bbvknubmtqi",
+    "question": "Sabbbvkunubmbtqk",
     "correct_answer": "48"
   },
   {
-    "Xquestion": "Snbab8bbvknubmtqi",
+    "question": "Sabbbvkunubmbtqk",
     "correct_answer": "96"
   },
   {
-    "Xquestion": "Psaqqtsa",
+    "question": "Psaqqta",
     "correct_answer": "SP tarmoq"
   },
   {
-    "Xquestion": "Psabunbt",
+    "question": "Psabunbt",
     "correct_answer": "64"
   },
   {
-    "Xquestion": "Psakunbt",
+    "question": "Psakunbt",
     "correct_answer": "80, 128"
   },
   {
-    "Xquestion": "Psarsnt",
+    "question": "Psarsnt",
     "correct_answer": "31"
   },
   {
-    "Xquestion": "PsafSjok",
+    "question": "PsafSjok",
     "correct_answer": "4x4"
   },
   {
-    "Xquestion": "Psapbnbuqaao",
+    "question": "Psapbnbbuao",
     "correct_answer": "64"
   },
   {
-    "Xquestion": "Hsakunbt",
+    "question": "Hsakunbt",
     "correct_answer": "128"
   },
   {
-    "Xquestion": "Hsarsnt",
+    "question": "Hsarsnt",
     "correct_answer": "32"
   },
   {
-    "Xquestion": "Hsabunbt",
+    "question": "Hsabunbt",
     "correct_answer": "64"
   },
   {
-    "Xquestion": "Hsaqqtsa",
+    "question": "Hsaqqta",
     "correct_answer": "Feystel tarmog'i"
   },
   {
-    "Xquestion": "Yvaaaasqkxt",
+    "question": "Yvaaaosqkbx",
     "correct_answer": "GE soni"
   },
   {
-    "Xquestion": "Yvadaasqkxt",
+    "question": "Yvadaosqkbx",
     "correct_answer": "kod hajmi"
   },
   {
-    "Xquestion": "Icqoktqmabkuf",
+    "question": "Icquoktqmakf",
     "correct_answer": "Elliktik egri chiziqqa asoslangan"
   },
   {
-    "Xquestion": "Nt80bskknbRKta",
+    "question": "NtbbskknbRkta",
     "correct_answer": "1024"
   },
   {
-    "Xquestion": "Nt80bskknbEKta",
+    "question": "NtbbskknbEkta",
     "correct_answer": "160"
   },
   {
-    "Xquestion": "XqhbhhmbmxyoxfoqbBqha",
+    "question": "XqhbbhhmxouxfoqbkBqha",
     "correct_answer": "pre-image"
   },
   {
-    "Xquestion": "m1xbhm1hm2sqbm2xtqbBqha",
+    "question": "mxbbhhmhsmqmxtqbkBqha",
     "correct_answer": "second pre-image"
   },
   {
-    "Xquestion": "m1m2bim1vm2xtqbbyhm1hm2",
+    "question": "mmbimvmxtqbkbyhh",
     "correct_answer": "kolliziya"
   },
   {
-    "Xquestion": "Xnbcxfpviittpbnetq",
+    "question": "Xncexfupvitphbnatek",
     "correct_answer": "2^n"
   },
   {
-    "Xquestion": "Xnbcxfkhbnetq",
+    "question": "Xncexfukhbnatek",
     "correct_answer": "2^(n/2)"
   },
   {
-    "Xquestion": "DPvHPxfqsakb",
+    "question": "DvHxfqsaa",
     "correct_answer": "PRESENT"
   },
   {
-    "Xquestion": "DPxfxqut",
+    "question": "Dxfxqunbt",
     "correct_answer": "64"
   },
   {
-    "Xquestion": "HPxfxqut",
+    "question": "Hxfxqunbt",
     "correct_answer": "128"
   },
   {
-    "Xquestion": "88128160224v256bcxyvxfob",
+    "question": "vbceyvxob",
     "correct_answer": "SPONGENT"
   },
   {
-    "Xquestion": "136176v256bxoxfob",
+    "question": "vbxoexfob",
     "correct_answer": "QUARK"
   },
   {
-    "Xquestion": "S3tgsttan",
+    "question": "Stgstan",
     "correct_answer": "Keccak"
   },
   {
-    "Xquestion": "Kaqkf",
+    "question": "Kaqkf",
     "correct_answer": "Sponge"
   },
   {
-    "Xquestion": "SkbsuhibGqsthb",
+    "question": "SkbsuhibGqsthb",
     "correct_answer": "Gomomorfik"
   },
   {
-    "Xquestion": "Raqanqgxe",
+    "question": "Raqanqgxe",
     "correct_answer": "Ko'paytiruv"
   },
   {
-    "Xquestion": "Paqanqgxe",
+    "question": "Paqanqgxe",
     "correct_answer": "Qo'shish"
   },
   {
-    "Xquestion": "EGaqanqgxe",
+    "question": "Eaqanqgxe",
     "correct_answer": "Ko'paytiruv"
   },
   {
-    "Xquestion": "Dabmyvataxpb",
+    "question": "Dabumyvatumxpb",
     "correct_answer": "DTLS"
   },
   {
-    "Xquestion": "Uumpytovxmtkbhiqipb",
+    "question": "Uumpytoovxtkhquicpb",
     "correct_answer": "DTLS"
   },
   {
-    "Xquestion": "Dpotskfoau",
+    "question": "Dpotskfaoaub",
     "correct_answer": "Oldindan taqsimlangan kalit (Pre-shared Key, PSK)ga asoslangan"
   },
   {
-    "Xquestion": "Dpsokaoau",
+    "question": "Dpsokaoaub",
     "correct_answer": "Xom (raw) ochiq kalitga asoslangan"
   },
   {
-    "Xquestion": "Osaatmoqlknk",
+    "question": "Osatomteknk",
     "correct_answer": "eSTREAM"
   },
   {
-    "Xquestion": "eLdaaqvyosqtq",
+    "question": "eldaoqvyooosuqtq",
     "correct_answer": "128-bitli kalit, 64 va 128 bitli boshlang‘ich vektorni (IV) qo‘llab quvvatlashi kerak"
   },
   {
-    "Xquestion": "eLqaaqvciqiosqtq",
+    "question": "elqaoqvciqiosuqtq",
     "correct_answer": "80-bitli kalit, 32 va 64 bitli IVni qo‘llab quvvatlashi kerak"
   },
   {
-    "Xquestion": "eLjnait",
+    "question": "eljnaie",
     "correct_answer": "34"
   },
   {
-    "Xquestion": "eLdaaqmshkbnatq",
+    "question": "eldaomskbnato",
     "correct_answer": "4"
   },
   {
-    "Xquestion": "eLaaaqmshkbnatq",
+    "question": "elaaomskbnato",
     "correct_answer": "3"
   },
   {
-    "Xquestion": "eLdaaqmshkbtaok",
+    "question": "eldaomskbtoabk",
     "correct_answer": "HC-128 (HC-256)"
   },
   {
-    "Xquestion": "eLdaaqmshkbtaok",
+    "question": "eldaomskbtoabk",
     "correct_answer": "Rabbit"
   },
   {
-    "Xquestion": "eLdaaqmshkbtaok",
+    "question": "eldaomskbtoabk",
     "correct_answer": "Salsa20/12"
   },
   {
-    "Xquestion": "eLdaaqmshkbtaok",
+    "question": "eldaomskbtoabk",
     "correct_answer": "SOSEMANUK"
   },
   {
-    "Xquestion": "eLaaaqmshkbtaok",
+    "question": "elaaomskbtoabk",
     "correct_answer": "Grain v1"
   },
   {
-    "Xquestion": "eLaaaqmshkbtaok",
+    "question": "elaaomskbtoabk",
     "correct_answer": "MICKEY 2.0"
   },
   {
-    "Xquestion": "eLaaaqmshkbtaok",
+    "question": "elaaomskbtoabk",
     "correct_answer": "Trivium"
   },
   {
-    "Xquestion": "CCfAESAaRlnktq",
+    "question": "CfAESAaRlankto",
     "correct_answer": "3"
   },
   {
-    "Xquestion": "CLtaktqtaonk",
+    "question": "ClLtakbtoank",
     "correct_answer": "Ascon"
   },
   {
-    "Xquestion": "CLtaktqtaonk",
+    "question": "ClLtakbtoank",
     "correct_answer": "ACORN"
   },
   {
-    "Xquestion": "NLkAtksakutmqt",
+    "question": "NLkAtsaukuqmt",
     "correct_answer": "128 bit"
   },
   {
-    "Xquestion": "NLkAtksanutmqt",
+    "question": "NLkAtsaunuqmt",
     "correct_answer": "96 bit"
   },
   {
-    "Xquestion": "NLkAtksaatlutmqt",
+    "question": "NLkAtsauatuqmt",
     "correct_answer": "64 bit"
   },
   {
-    "Xquestion": "NLknbaao",
+    "question": "NLknbao",
     "correct_answer": "3"
   },
   {
-    "Xquestion": "NLkbbnai",
+    "question": "NLkbbnaie",
     "correct_answer": "56"
   },
   {
-    "Xquestion": "NLkgbaonk",
+    "question": "NLkgbank",
     "correct_answer": "Ascon"
   },
   {
-    "Xquestion": "II29192ssosqkta",
+    "question": "Issossqto",
     "correct_answer": "Enocoro, Trivium"
   },
   {
-    "Xquestion": "II29192ssosqkta",
+    "question": "Issbssqto",
     "correct_answer": "PRESENT, CLEFIA, SIMON va SPECK , LEA."
   },
   {
-    "Xquestion": "II29192ssosxfsqkta",
+    "question": "Issxfsqto",
     "correct_answer": "Photon, Spongent, Lesamnta-LW"
   },
   {
-    "Xquestion": "CCRAECleCTGLCnqbsqta",
+    "question": "CCRaEClqCTGnqbssqato",
     "correct_answer": "AES, Camellia, CLEFIA, TDES, LED, PRINCE, PRESENT"
   },
   {
-    "Xquestion": "CCRAECleCTGLCnqAsqta",
+    "question": "CCRaEClqCTGLCnqAssqato",
     "correct_answer": "ACORN, AES-GCM, AES-OTR, Ascon"
   },
   {
-    "Xquestion": "Aatako",
+    "question": "Aatak",
     "correct_answer": "Sponge"
   },
   {
-    "Xquestion": "Aaihsunb",
+    "question": "Aaihsunb",
     "correct_answer": "320"
   },
   {
-    "Xquestion": "AafSjok",
+    "question": "AafSjok",
     "correct_answer": "5x5"
   },
   {
-    "Xquestion": "SbshqAuaabsbk",
+    "question": "SbsqAuaabsk",
     "correct_answer": "Hight, Simon, Speck, Lea va Chaskey"
   },
   {
-    "Xquestion": "SbshqAuaabsok",
+    "question": "SbsqAuaaosk",
     "correct_answer": "Salsa20, ChaCha20"
   },
   {
-    "Xquestion": "SbshqWuaabsbk",
+    "question": "SbsqWuaask",
     "correct_answer": "mCrypton, Present, Led, Zorro"
   },
   {
-    "Xquestion": "WvAukashsbqub",
+    "question": "WvAukassbsqub",
     "correct_answer": "LTS"
   },
   {
-    "Xquestion": "Sbshqqsukfbbmaneyikkubayhfnnbpbrao",
+    "question": "Sbsqqukfbbmannikubayfbnnprboao",
     "correct_answer": "Bitslice"
   },
   {
-    "Xquestion": "SvFtmshsbqub",
+    "question": "SvFtmsbsqub",
     "correct_answer": "Gibrid"
   },
   {
-    "Xquestion": "fifixxkufmufashsbqu",
+    "question": "ffxkfstfasbsqu",
     "correct_answer": "Involyutiv"
   },
   {
-    "Xquestion": "Sknbi",
+    "question": "Sknbi",
     "correct_answer": "2"
   },
+
   {
     "question": "yqiumhivatixstamunfykt",
     "correct_answer": "30"
@@ -2806,5 +2807,124 @@
   { "Xquestion": "Kasskr", "correct_answer": "Classic McEliece" },
   { "Xquestion": "Ntaakr", "correct_answer": "Falcon" },
   { "Xquestion": "Koisaakr", "correct_answer": "Rainbow" },
-  { "Xquestion": "Pkkoaaokkr", "correct_answer": "Liboqs" }
+  { "Xquestion": "Pkkoaaokkr", "correct_answer": "Liboqs" },
+  
+  {
+    "question": "My",
+    "correct_answer": "Axborotni ruxsatsiz yoki noma’lum vositalar bilan o‘zgartirilmaganligini ta’minlash"
+  },
+  {
+    "question": "Syk",
+    "correct_answer": "Axborotni ko‘rish huquqiga ega bo‘lganlardan tashqari barchadan sir tutish"
+  },
+  {
+    "question": "Sayi",
+    "correct_answer": "Subyektning shaxsini tasdiqlash"
+  },
+  {
+    "question": "Xa",
+    "correct_answer": "Ma’lumot manbasini tasdiqlash"
+  },
+  {
+    "question": "A",
+    "correct_answer": "Bir narsani qilish uchun subyektga ruxsatni yetkazish"
+  },
+  {
+    "question": "S",
+    "correct_answer": "Axborotni ishonchli tashkilot tomonidan tasdiqlash"
+  },
+  {
+    "question": "Kqyb",
+    "correct_answer": "kriptografiya va kriptotahlil"
+  },
+  {
+    "question": "Knbs",
+    "correct_answer": "maxfiy kodlarni yaratish va buzish ilmi bilan"
+  },
+  {
+    "question": "Knbs",
+    "correct_answer": "maxfiy kodlarni yaratish bilan"
+  },
+  {
+    "question": "Knbs",
+    "correct_answer": "maxfiy kodlarni buzish bilan"
+  },
+  {
+    "question": "Kksbqtb",
+    "correct_answer": "simmetrik va assimetrik turlarga"
+  },
+  {
+    "question": "Kpni",
+    "correct_answer": "kriptografik tizim faqat kalit noma’lum bo‘lgan taqdirdagina maxfiylik ta’minlanadi"
+  },
+  {
+    "question": "Bsaajqtb",
+    "correct_answer": "Feystel va SP"
+  },
+  {
+    "question": "Bssarfqab",
+    "correct_answer": "ARX"
+  },
+  {
+    "question": "QaStahi",
+    "correct_answer": "Rijndael, Kuznechik"
+  },
+  {
+    "question": "Qaftahi",
+    "correct_answer": "DES, ​ ГОСТ 28147-89"
+  },
+  {
+    "question": "QaLtahi",
+    "correct_answer": "IDEA, MESH"
+  },
+  {
+    "question": "Aani",
+    "correct_answer": "rotate, add, xor"
+  },
+  {
+    "question": "Skqmokkbe",
+    "correct_answer": "maxfiy kalitni uzatish muammosini"
+  },
+  {
+    "question": "Okkqtkf",
+    "correct_answer": "ochiq va maxfiy kalitlardan"
+  },
+  {
+    "question": "Okkqkomr",
+    "correct_answer": "maxfiy kalit orqali"
+  },
+  {
+    "question": "Erimk",
+    "correct_answer": "imzoni shakllantirish va imkoni tekshirish"
+  },
+  {
+    "question": "Eaqtmyib",
+    "correct_answer": "yaxlitligini tekshirish, manbani haqiyqiyligini aniqlash, rad etishdan himoyalash"
+  },
+  {
+    "question": "OkkaEakjqthq",
+    "correct_answer": "kalitlar juftini ma'lumot yuboruvchi tomon hosil qiladi"
+  },
+
+
+  {
+      "question": "Afqqmitqkf",
+      "correct_answer": "\"B\" foydalanuvchining ochiq kalitidan"
+    },
+    {
+      "question": "Bfqqmitqkf",
+      "correct_answer": "\"A\" foydalanuvchining ochiq kalitidan"
+    },
+    {
+      "question": "Afehiquqkf",
+      "correct_answer": "\"A\" foydalanuvchini o'zining maxfiy kalitidan"
+    },
+    {
+      "question": "Bfehiquqkf",
+      "correct_answer": "\"B\" foydalanuvchini o'zining maxfiy kalitidan"
+    },
+    {
+      "question": "Qfxfd",
+      "correct_answer": "ixtiyoriy uzunlikdagi ma’lumotni biror fiksirlangan uzunlikga o‘tkazuvchi funksiyaga aytiladi"
+    }
 ]

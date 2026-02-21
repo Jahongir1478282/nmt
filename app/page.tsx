@@ -5,7 +5,7 @@
 import Link from "next/link";
 import { tests, type TestConfig } from "./lib/tests";
 
-const ZIP_DOWNLOAD_PATH = "/MyExtension.zip";
+const ZIP_DOWNLOAD_PATH = "/api/download-extension";
 
 const formatQuestionLabel = (test: TestConfig): string => {
   const hasRandomCount =
