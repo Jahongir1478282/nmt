@@ -1,6 +1,9 @@
+/** @format */
+
 import fs from "node:fs";
 import path from "node:path";
 import { PassThrough } from "node:stream";
+// @ts-ignore
 import archiver from "archiver";
 import { NextResponse } from "next/server";
 
@@ -22,7 +25,11 @@ export async function GET() {
   const passthrough = new PassThrough();
   const archive = archiver("zip", { zlib: { level: 9 } });
 
-  archive.on("error", (err) => {
+  interface ArchiveError extends Error {
+    code?: string;
+  }
+
+  archive.on("error", (err: ArchiveError): void => {
     passthrough.destroy(err);
   });
 
