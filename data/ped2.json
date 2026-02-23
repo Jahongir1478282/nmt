@@ -1,0 +1,914 @@
+{
+  "questions": [
+    {
+      "question": "2022-2026-yillarga mo‘ljallangan Yangi O‘zbekistonning taraqqiyot strategiyasistrategiyasining iqtisodiy sohadagi asosiy maqsadi nimadan iborat?",
+      "options": [
+        "Ishlab chiqarish quvvatini oshirish va raqobatbardoshlikni kuchaytirish",
+        "Eksportni cheklash va importni oshirish",
+        "Soliq stavkalarini oshirish",
+        "Kichik va o‘rta biznesni yo‘q qilish"
+      ],
+      "correct_answer": "Ishlab chiqarish quvvatini oshirish va raqobatbardoshlikni kuchaytirish"
+    },
+    {
+      "question": "Markaziy Osiyo mintaqasida amaliy hamkorlikni sifat jihatidan yangi bosqichga olib chiqish bo‘yicha qanday islohotlar rejalashtirilgan?",
+      "options": [
+        "Umumiy sayyohlik makonini tashkil qilish",
+        "“Umumiy til” loyihasini ishlab chiqish",
+        "Turli sayyohlik loyihalarini tashkil qilish",
+        "Hamkorlikda kinofilmlarni yaratish"
+      ],
+      "correct_answer": "Umumiy sayyohlik makonini tashkil qilish"
+    },
+    {
+      "question": "Qaysi muhim hujjatda yalpi ichki mahsulot hajmini 2 barobar oshirib, 160 milliard dollarga, aholi jon boshiga daromad miqdorini esa o‘rtacha 4 ming dollarga yetkazish reja qilingan?",
+      "options": [
+        "“O‘zbekiston-2030” strategiyasida",
+        "“Yangi O‘zbekiston taraqqiyot” strategiyasida",
+        "2022-2026-yillarga mo‘ljallangan “Yangi O‘zbekiston taraqqiyot” strategiyasida",
+        "“O‘zbekiston Respublikasini rivojlantirishning harakatlar” strategiyasida"
+      ],
+      "correct_answer": "“O‘zbekiston-2030” strategiyasida"
+    },
+    {
+      "question": "Yangi O‘zbekiston taraqqiyot strategiyasida yillar davomida amal qilib kelgan “davlat – jamiyat – inson” tamoyili qaysi tamoyilga o‘zgartirildi?",
+      "options": [
+        "“inson – jamiyat – davlat”",
+        "“inson – davlat – jamiyat”",
+        "“jamiyat – inson – davlat”",
+        "“davlat – jamiyat – inson”"
+      ],
+      "correct_answer": "“inson – jamiyat – davlat”"
+    },
+    {
+      "question": "“2022-2026 yillarga mo‘ljallangan Yangi O‘zbekistonning taraqqiyot” va “O‘zbekiston-2030” strategiyalarida Maktabgacha ta’limdagi qamrov darajasini necha foizga yetkazish ko‘zda tutilgan?",
+      "options": [
+        "2026-yilga qadar 80 foiz va 2030-yilga qadar 100 foiz",
+        "2026-yilga qadar 65 foiz va 2030-yilga qadar 80 foiz",
+        "2026-yilga qadar 80 foiz va 2030-yilga qadar 90 foiz",
+        "2026-yilga qadar 70 foiz va 2030-yilga qadar 100 foiz"
+      ],
+      "correct_answer": "2026-yilga qadar 80 foiz va 2030-yilga qadar 100 foiz"
+    },
+    {
+      "question": "“Turizm darvozasi”ga aylantirilishi ko‘zda tutilayotgan viloyatni aniqlang?",
+      "options": [
+        "Samarqand",
+        "Xorazm",
+        "Toshkent",
+        "Buxoro"
+      ],
+      "correct_answer": "Samarqand"
+    },
+    {
+      "question": "“2022-2026-yillarga mo‘ljallangan Yangi O‘zbekistonning taraqqiyot strategiyasi” to‘rtinchi ustuvor yo‘nalishi qanday nomlanadi?",
+      "options": [
+        "Adolatli ijtimoiy siyosat yuritish, inson kapitalini rivojlantirish",
+        "Milliy manfaatlardan kelib chiqqan holda umumbashariy muammolarga yondashish",
+        "Mamlakatimiz xavfsizligi va mudofaa salohiyatini kuchaytirish, ochiq, pragmatik va faol tashqi siyosat olib borish",
+        "Ma’naviy taraqqiyotni ta’minlash va sohani yangi bosqichga olib chiqish"
+      ],
+      "correct_answer": "Adolatli ijtimoiy siyosat yuritish, inson kapitalini rivojlantirish"
+    },
+    {
+      "question": "Global innovatsion indeksda O‘zbekiston Respublikasining o‘rnini yaxshilash va 2030-yilga qadar qanday reyting qatoriga kirish rejalashtirilgan?",
+      "options": [
+        "top-50",
+        "top-70",
+        "top-100",
+        "top-30"
+      ],
+      "correct_answer": "top-50"
+    },
+    {
+      "question": "O‘zbekistonning “Yashil iqtisodiyot” strategiyasida qayta tiklanadigan energiya manbalarining ulushini oshirish bo‘yicha qanday maqsadlar belgilangan?",
+      "options": [
+        "Qayta tiklanadigan energiya manbalarini 25 ming megavattga yetkazish va ulushini 40 foizga oshirish",
+        "Qayta tiklanadigan energiyadan foydalanishni 50 foizga yetkazish",
+        "Elektr energiyasining ishlab chiqarilishini kamaytirish",
+        "Faqat quyosh energiyasiga tayanish va gazdan foydalanishni to‘xtatish"
+      ],
+      "correct_answer": "Qayta tiklanadigan energiya manbalarini 25 ming megavattga yetkazish va ulushini 40 foizga oshirish"
+    },
+    {
+      "question": "\"O‘zbekiston – 2030\" strategiyasining bir qismi sifatida qaysi sohalar takomillashtiriladi?",
+      "options": [
+        "Ta’lim, tibbiyot va ijtimoiy himoya tizimlari",
+        "Harbiy soha va siyosiy tizim",
+        "Faqat transport infratuzilmasi",
+        "Qishloq xo‘jaligi va suv xo‘jaligi"
+      ],
+      "correct_answer": "Ta’lim, tibbiyot va ijtimoiy himoya tizimlari"
+    },
+    {
+      "question": "“2022 - 2026-yillarga mo‘ljallangan Yangi O‘zbekistonning taraqqiyot strategiyasi” beshinchi ustuvor yo‘nalishi qanday nomlanadi?",
+      "options": [
+        "Ma’naviy taraqqiyotni ta’minlash va sohani yangi bosqichga olib chiqish",
+        "Inson qadrini yuksaltirish va erkin fuqarolik jamiyatini yanada rivojlantirish orqali xalqparvar davlat barpo etish",
+        "Mamlakatimiz xavfsizligi va mudofaa salohiyatini kuchaytirish, ochiq, pragmatik va faol tashqi siyosat olib borish",
+        "Milliy manfaatlardan kelib chiqqan holda umumbashariy muammolarga yondashish"
+      ],
+      "correct_answer": "Ma’naviy taraqqiyotni ta’minlash va sohani yangi bosqichga olib chiqish"
+    },
+    {
+      "question": "2022-2026-yillarga mo‘ljallangan Yangi O‘zbekistonning taraqqiyot strategiyasistrategiyasining iqtisodiy sohadagi asosiy maqsadi nimadan iborat?",
+      "options": [
+        "Ishlab chiqarish quvvatini oshirish va raqobatbardoshlikni kuchaytirish",
+        "Kichik va o‘rta biznesni yo‘q qilish",
+        "Eksportni cheklash va importni oshirish",
+        "Soliq stavkalarini oshirish"
+      ],
+      "correct_answer": "Ishlab chiqarish quvvatini oshirish va raqobatbardoshlikni kuchaytirish"
+    },
+    {
+      "question": "“2022-2026-yillarga mo‘ljallangan Yangi O‘zbekistonning taraqqiyot strategiyasi” birinchi ustuvor yo‘nalishi qanday nomlanadi?",
+      "options": [
+        "Inson qadrini yuksaltirish va erkin fuqarolik jamiyatini yanada rivojlantirish orqali xalqparvar davlat barpo etish",
+        "Mamlakatimizda adolat va qonun ustuvorligi tamoyillarini taraqqiyotning eng asosiy va zarur shartiga aylantirish",
+        "Milliy iqtisodiyotni jadal rivojlantirish va yuqori o‘sish sur’atlarini ta’minlash",
+        "Adolatli ijtimoiy siyosat yuritish, inson kapitalini rivojlantirish"
+      ],
+      "correct_answer": "Inson qadrini yuksaltirish va erkin fuqarolik jamiyatini yanada rivojlantirish orqali xalqparvar davlat barpo etish"
+    },
+    {
+      "question": "Qaysi strategiyadagi asosiy g‘oyalar tarkibida quyidagi masalalar aks ettirilgan: barqaror iqtisodiy o‘sish orqali daromadi o‘rtachadan yuqori bo‘lgan davlatlar qatoridan o‘rin olish;aholi talablariga va xalqaro standartlarga to‘liq javob beradigan ta’lim, tibbiyot va ijtimoiy himoya tizimini tashkil qilish;aholi uchun qulay ekologik sharoitlarni yaratish; xalq xizmatidagi adolatli va zamonaviy davlatni barpo etish; mamlakatning suvereniteti va xavfsizligini kafolatli ta’minlash.",
+      "options": [
+        "“O‘zbekiston-2030” strategiyasida",
+        "“O‘zbekiston Respublikasini rivojlantirishning harakatlar” strategiyasida",
+        "2022-2026-yillarga mo‘ljallangan “Yangi O‘zbekiston taraqqiyot” strategiyasida",
+        "“Yangi O‘zbekiston taraqqiyot” strategiyasida"
+      ],
+      "correct_answer": "“O‘zbekiston-2030” strategiyasida"
+    },
+    {
+      "question": "“Xavfsiz va tinchliksevar davlat” tamoyiliga asoslangan siyosatni izchil davom ettirish “O‘zbekiston-2030” Strategiyasining nechinchi ustuvor yo‘nalishi sifatida belgilangan?",
+      "options": [
+        "5-ustuvor yo‘nalish",
+        "6-ustuvor yo‘nalish",
+        "4-ustuvor yo‘nalish",
+        "7-ustuvor yo‘nalish"
+      ],
+      "correct_answer": "5-ustuvor yo‘nalish"
+    },
+    {
+      "question": "Xorijda istiqomat qilayotgan vatandoshlarni qo‘llab-quvvatlash, ular bilan doimiy muloqot tizimini joriy etish bo‘yicha rejalashtirilgan ishlarni belgilang.",
+      "options": [
+        "Vatandoshlar jamoat birlashmalariga yetkazib beriladigan badiiy adabiyotlar sonini 100 mingtaga yetkazish",
+        "Ularning huquqiy bilimlarini rivojlantirish uchun darslar tashkil qilish",
+        "Yurtimizga ularni qaytadan jalb qilish loyihalarini ishlab chiqish",
+        "Ularga moddiy yordam ko‘rsatish bo‘yicha chora-tadbirlarni ko‘rish"
+      ],
+      "correct_answer": "Vatandoshlar jamoat birlashmalariga yetkazib beriladigan badiiy adabiyotlar sonini 100 mingtaga yetkazish"
+    },
+    {
+      "question": "Aholiga axborot-kutubxona xizmati ko‘rsatishni yanada rivojlantirishga oid chora-tadbirlar ko‘zda tutilgan maqsad “2022-2026 yillarga mo‘ljallangan Yangi O‘zbekistonning taraqqiyot strategiyasi”ning qaysi ustuvor yo‘nalishida nazarda tutilgan?",
+      "options": [
+        "Ma’naviy taraqqiyotni ta’minlash va sohani yangi bosqichga olib chiqish",
+        "Adolatli ijtimoiy siyosat yuritish, inson kapitalini rivojlantirish",
+        "Inson qadrini yuksaltirish va erkin fuqarolik jamiyatini yanada rivojlantirish orqali xalqparvar davlat barpo etish",
+        "Mamlakatimizda adolat va qonun ustuvorligi tamoyillarini taraqqiyotning eng asosiy va zarur shartiga aylantirish"
+      ],
+      "correct_answer": "Ma’naviy taraqqiyotni ta’minlash va sohani yangi bosqichga olib chiqish"
+    },
+    {
+      "question": "Yangi O‘zbekistonning taraqqiyot strategiyasida davlat boshqaruvi tizimini isloh qilishning qanday asosiy maqsadlari bor?",
+      "options": [
+        "Davlat boshqaruvini raqamlashtirish va samaradorlikni oshirish",
+        "Hukumatning vakolatlarini cheklash",
+        "Xalqaro tashkilotlar ko‘magisiz mustaqil siyosat yuritish",
+        "Mahalliy hokimliklarning rolini kamaytirish"
+      ],
+      "correct_answer": "Davlat boshqaruvini raqamlashtirish va samaradorlikni oshirish"
+    },
+    {
+      "question": "Strategiya doirasida qaysi soha uchun yangi ish o‘rinlari yaratish ko‘zda tutilgan?",
+      "options": [
+        "IT sohasi",
+        "Sog‘liqni saqlash",
+        "Madaniyat",
+        "Qishloq xo‘jaligi"
+      ],
+      "correct_answer": "IT sohasi"
+    },
+    {
+      "question": "Jamoatchilik nazorati subektlari bu?",
+      "options": [
+        "O‘zbekiston Respublikasi fuqarolari, fuqarolarning o‘zini o‘zi boshqarish organlari, shuningdek qonunchilikda belgilangan tartibda ro‘yxatga olingan nodavlat notijorat tashkilotlari, ommaviy axborot vositalari",
+        "O‘zbekiston Respublikasi fuqarolari, fuqaroligi bo‘lmagan shaxslar va chet el fuqarolari, jurnalistlar va blogerlar",
+        "O‘zbekiston Respublikasi fuqarolari, ommaviy axborot vositalari, hokimiyat organlari, jurnalistlar va blogerlar",
+        "O‘zbekiston Respublikasi fuqarolari, jamoat birlashmalari va siyosiy partiyalar"
+      ],
+      "correct_answer": "O‘zbekiston Respublikasi fuqarolari, fuqarolarning o‘zini o‘zi boshqarish organlari, shuningdek qonunchilikda belgilangan tartibda ro‘yxatga olingan nodavlat notijorat tashkilotlari, ommaviy axborot vositalari"
+    },
+    {
+      "question": "Taraqqiyot strategiyasida buyuk ajdodlarimizning boy ilmiy merosini chuqur o‘rganish va keng targ‘ib etish masalasi qaysi yo‘nalishda ko‘rsatilgan?",
+      "options": [
+        "Ma’naviy yuksalishni ta’minlash, bu sohani yangi bosqichga olib chiqish",
+        "Umuminsoniy muammolarga milliy manfaatlardan kelib chiqib yondashish",
+        "Mamlakat xavfsizligi va mudofaa qobiliyatini mustahkamlash, ochiq, pragmatik va faol tashqi siyosat yuritish",
+        "Inson manfaatlarini ta’minlash, erkin fuqarolik jamiyatini yanada rivojlantirish orqali xalq davlatini barpo etish"
+      ],
+      "correct_answer": "Ma’naviy yuksalishni ta’minlash, bu sohani yangi bosqichga olib chiqish"
+    },
+    {
+      "question": "Iqtisodiyotning eng tez o‘sib borayotgan yo‘nalishlarida ilmiy tadqiqotlarni kuchaytirish, “korxona – oliygoh – ilmiy tashkilot” klaster tizimini joriy etish “O‘zbekiston-2030” stretegiyasi qaysi tizimining bir qismi hisoblanadi?",
+      "options": [
+        "Yoshlarga oid davlat siyosati va sportga oid islohotlar",
+        "Har bir insonga o‘z salohoyatini ro‘yobga chiqarish uchun munosib sharoitlar yaratish",
+        "Qonun ustuvorligini ta’minlash, xalq xizmatidagi davlat boshqaruvini tashkil qilish",
+        "Barqaror iqtisodiy o‘sish orqali aholi farovonligini ta’minlash"
+      ],
+      "correct_answer": "Barqaror iqtisodiy o‘sish orqali aholi farovonligini ta’minlash"
+    },
+    {
+      "question": "“Yashil makon” loyihasining asosiy maqsadi nima?",
+      "options": [
+        "Qishloq hududlarini butunlay ko‘kalamzor qilish",
+        "Yashil hududlarni 30 foizga oshirish va ekologik muvozanatni tiklashga yordam berish",
+        "Sanoat hududlarini kengaytirish va daraxtlarni kamaytirish",
+        "Faqat markaziy shaharlarda o‘rmonzorlar barpo etish"
+      ],
+      "correct_answer": "Yashil hududlarni 30 foizga oshirish va ekologik muvozanatni tiklashga yordam berish"
+    },
+    {
+      "question": "Jamoat birlashmasi deb nimaga aytiladi?",
+      "options": [
+        "Fuqarolarning o‘z faoliyati yoki o‘qishi turi bo‘yicha umumiy kasbiy manfaatlari bilan bog‘liq bo‘lgan, ularning mehnatga oid, boshqa ijtimoiy-iqtisodiy huquq va manfaatlarini ifodalash hamda himoya qilish maqsadida tuziladigan, o‘z ustavi asosida faoliyat ko‘rsatadigan ixtiyoriy jamoat birlashmasi",
+        "O‘z huquqlari, erkinliklarini hamda siyosat, iqtisodiyot, ijtimoiy rivojlanish, fan, madaniyat, ekologiya va hayotning boshqa sohalaridagi qonuniy manfaatlarini birgalikda ro‘yobga chiqarish uchun birlashgan fuqarolarning xohish-irodalarini erkin bildirishlari natijasida vujudga kelgan ixtiyoriy tuzilma",
+        "Fuqarolarining qarashlar, manfaatlar va maqsadlar mushtarakligi asosida tuzilgan, davlat hokimiyati organlarini shakllantirishda jamiyat muayyan qismining siyosiy irodasini ro‘yobga chiqarishga intiluvchi hamda o‘z vakillari orqali davlat va jamoat ishlarini idora etishda qatnashuvchi ko‘ngilli birlashma",
+        "Jismoniy va (yoki) yuridik shaxslar tomonidan ixtiyoriylik asosida tashkil etilgan, daromad (foyda) olishni o‘z faoliyatining asosiy maqsadi qilib olmagan hamda olingan daromadlarni (foydani) o‘z qatnashchilari (a’zolari) o‘rtasida taqsimlamaydigan o‘zini o‘zi boshqarish birlashmasi"
+      ],
+      "correct_answer": "Fuqarolarning o‘z faoliyati yoki o‘qishi turi bo‘yicha umumiy kasbiy manfaatlari bilan bog‘liq bo‘lgan, ularning mehnatga oid, boshqa ijtimoiy-iqtisodiy huquq va manfaatlarini ifodalash hamda himoya qilish maqsadida tuziladigan, o‘z ustavi asosida faoliyat ko‘rsatadigan ixtiyoriy jamoat birlashmasi"
+    },
+    {
+      "question": "Mafkuraviy immunitetni kuchaytirishning asosiy yo‘nalishi nima?",
+      "options": [
+        "Yoshlarni kitobxonlikka rag‘batlantirish",
+        "Diniy tarbiyaga e'tibor qaratish",
+        "Sport bilan muntazam shug‘ullanishni ta'minlash",
+        "Milliy va umuminsoniy qadriyatlarga hurmatni shakllantirish"
+      ],
+      "correct_answer": "Milliy va umuminsoniy qadriyatlarga hurmatni shakllantirish"
+    },
+    {
+      "question": "Yangi O‘zbekistonning taraqqiyot strategiyasida davlat boshqaruvi tizimini isloh qilishning qanday asosiy maqsadlari bor?",
+      "options": [
+        "Hukumatning vakolatlarini cheklash",
+        "Xalqaro tashkilotlar ko‘magisiz mustaqil siyosat yuritish",
+        "Mahalliy hokimliklarning rolini kamaytirish",
+        "Davlat boshqaruvini raqamlashtirish va samaradorlikni oshirish"
+      ],
+      "correct_answer": "Davlat boshqaruvini raqamlashtirish va samaradorlikni oshirish"
+    },
+    {
+      "question": "“Taraqqiyotning o‘zbek modeli” nechta tamoyildan iborat?",
+      "options": [
+        "To‘rtta",
+        "beshta",
+        "Ikkita",
+        "Uchta"
+      ],
+      "correct_answer": "beshta"
+    },
+    {
+      "question": "Strategiya doirasida qaysi soha uchun yangi ish o‘rinlari yaratish ko‘zda tutilgan?",
+      "options": [
+        "IT sohasi",
+        "Sog‘liqni saqlash",
+        "Madaniyat",
+        "Qishloq xo‘jaligi"
+      ],
+      "correct_answer": "IT sohasi"
+    },
+    {
+      "question": "Yangilangan Konstitutsiyaga ko‘ra O‘zbekiston qanday davlat deb belgilanmoqda?",
+      "options": [
+        "Ijtimoiy davlat",
+        "Huquqiy davlat",
+        "Siyosiy davlat",
+        "Iqtisodiy davlat"
+      ],
+      "correct_answer": "Ijtimoiy davlat"
+    },
+    {
+      "question": "Jamoatchilik nazorati subektlari bu?",
+      "options": [
+        "O‘zbekiston Respublikasi fuqarolari, fuqaroligi bo‘lmagan shaxslar va chet el fuqarolari, jurnalistlar va blogerlar",
+        "O‘zbekiston Respublikasi fuqarolari, fuqarolarning o‘zini o‘zi boshqarish organlari, shuningdek qonunchilikda belgilangan tartibda ro‘yxatga olingan nodavlat notijorat tashkilotlari, ommaviy axborot vositalari",
+        "O‘zbekiston Respublikasi fuqarolari, ommaviy axborot vositalari, hokimiyat organlari, jurnalistlar va blogerlar",
+        "O‘zbekiston Respublikasi fuqarolari, jamoat birlashmalari va siyosiy partiyalar"
+      ],
+      "correct_answer": "O‘zbekiston Respublikasi fuqarolari, fuqarolarning o‘zini o‘zi boshqarish organlari, shuningdek qonunchilikda belgilangan tartibda ro‘yxatga olingan nodavlat notijorat tashkilotlari, ommaviy axborot vositalari"
+    },
+    {
+      "question": "Taraqqiyot strategiyasida buyuk ajdodlarimizning boy ilmiy merosini chuqur o‘rganish va keng targ‘ib etish masalasi qaysi yo‘nalishda ko‘rsatilgan?",
+      "options": [
+        "Umuminsoniy muammolarga milliy manfaatlardan kelib chiqib yondashish",
+        "Mamlakat xavfsizligi va mudofaa qobiliyatini mustahkamlash, ochiq, pragmatik va faol tashqi siyosat yuritish",
+        "Inson manfaatlarini ta’minlash, erkin fuqarolik jamiyatini yanada rivojlantirish orqali xalq davlatini barpo etish",
+        "Ma’naviy yuksalishni ta’minlash, bu sohani yangi bosqichga olib chiqish"
+      ],
+      "correct_answer": "Ma’naviy yuksalishni ta’minlash, bu sohani yangi bosqichga olib chiqish"
+    },
+    {
+      "question": "Yoshlarning ta'lim-tarbiyasida asosiy e'tibor qaratilishi lozim bo‘lgan jihat nima?",
+      "options": [
+        "Innovatsion texnologiyalarga kirish imkoniyatini yaratish",
+        "Ularni axloqiy va ma'naviy tarbiyaga yo‘naltirish",
+        "Turli urf-odatlarni ulashishga rag‘batlantirish",
+        "Ommaviy madaniyat elementlarini qabul qilishni ta'minlash"
+      ],
+      "correct_answer": "Ularni axloqiy va ma'naviy tarbiyaga yo‘naltirish"
+    },
+    {
+      "question": "“2022-2026-yillarga mo‘ljallangan Yangi O‘zbekistonning taraqqiyot strategiyasi” to‘rtinchi ustuvor yo‘nalishi qanday nomlanadi?",
+      "options": [
+        "Mamlakatimiz xavfsizligi va mudofaa salohiyatini kuchaytirish, ochiq, pragmatik va faol tashqi siyosat olib borish",
+        "Milliy manfaatlardan kelib chiqqan holda umumbashariy muammolarga yondashish",
+        "Ma’naviy taraqqiyotni ta’minlash va sohani yangi bosqichga olib chiqish",
+        "Adolatli ijtimoiy siyosat yuritish, inson kapitalini rivojlantirish"
+      ],
+      "correct_answer": "Adolatli ijtimoiy siyosat yuritish, inson kapitalini rivojlantirish"
+    },
+    {
+      "question": "Konstitutsiya so‘zi qanday ma’noni anglatadi?",
+      "options": [
+        "Maqsadni aytmoq degan ma’noni anglatadi",
+        "Yunoncha so‘z bo‘lib gapirmoq degan ma’noni anglatadi",
+        "Tartib, qoida, tuzish degan ma’nolarni anglatadi",
+        "Tartib-taomil degan ma’nolarni anglatadi"
+      ],
+      "correct_answer": "Tartib, qoida, tuzish degan ma’nolarni anglatadi"
+    },
+    {
+      "question": "Qaysi tashkilot «O‘zbekiston — 2030» strategiyasi va uni tegishli yillarda amalga oshirish bo‘yicha chora-tadbirlar bajarilishini tizimli monitoring qilib, uning natijalarini har oyda Respublika komissiyasiga kiritib boradi?",
+      "options": [
+        "Adliya vazirligi Hisob palatasi, «Taraqqiyot stratеgiyasi» markazi va «Yuksalish» umummilliy harakati",
+        "Adliya vazirligi Hisob palatasi, «Taraqqiyot stratеgiyasi» markazi va Sеnat",
+        "Vazirlar mahkamasi va Adliya vazirligi, «Taraqqiyot stratеgiyasi» markazi",
+        "Vazirlar mahkamasi, Adliya vazirlig,i «Taraqqiyot stratеgiyasi» markazi va mutasaddi idoralar"
+      ],
+      "correct_answer": "Vazirlar mahkamasi, Adliya vazirlig,i «Taraqqiyot stratеgiyasi» markazi va mutasaddi idoralar"
+    },
+    {
+      "question": "Milliy ma'naviyatning inqirozi qaysi oqibatga olib kelishi mumkin?",
+      "options": [
+        "Xalqning iqtisodiy rivojlanishiga hissa qo‘shadi",
+        "Xalqning o‘zligidan uzoqlashishiga sabab bo‘ladi",
+        "Davlat siyosatining mustahkamlanishiga yordam beradi",
+        "Globallashuvning ijobiy jihatlarini kuchaytiradi"
+      ],
+      "correct_answer": "Xalqning o‘zligidan uzoqlashishiga sabab bo‘ladi"
+    },
+    {
+      "question": "Davlatimizda demokratiya va adolat prinsiplarini mustahkamlashga qaratilgan reformalar qanday gʻoya asosida amalga oshirilmoqda?",
+      "options": [
+        "«Elektron hukumatni shakllantirish»",
+        "«Mahallalar tizimini takomillashtirish»",
+        "«Inson qadri va manfaatlari uchun»",
+        "«Sonli iqtisodiyotni rivojlantirish»"
+      ],
+      "correct_answer": "«Inson qadri va manfaatlari uchun»"
+    },
+    {
+      "question": "“2022-2026-yillarga mo‘ljallangan Yangi O‘zbekistonning taraqqiyot strategiyasi” ikkinchi ustuvor yo‘nalishi qanday nomlanadi?",
+      "options": [
+        "Mamlakatimizda adolat va qonun ustuvorligi tamoyillarini taraqqiyotning eng asosiy va zarur shartiga aylantirish",
+        "Adolatli ijtimoiy siyosat yuritish, inson kapitalini rivojlantirish",
+        "Milliy iqtisodiyotni jadal rivojlantirish va yuqori o‘sish sur’atlarini ta’minlash",
+        "Ma’naviy taraqqiyotni ta’minlash va sohani yangi bosqichga olib chiqish"
+      ],
+      "correct_answer": "Mamlakatimizda adolat va qonun ustuvorligi tamoyillarini taraqqiyotning eng asosiy va zarur shartiga aylantirish"
+    },
+    {
+      "question": "“2022-2026-yillarga mo‘ljallangan Yangi O‘zbekistonning taraqqiyot strategiyasi” uchinchi ustuvor yo‘nalishi qanday nomlanadi?",
+      "options": [
+        "Milliy iqtisodiyotni jadal rivojlantirish va yuqori o‘sish sur’atlarini ta’minlash",
+        "Adolatli ijtimoiy siyosat yuritish, inson kapitalini rivojlantirish",
+        "Milliy manfaatlardan kelib chiqqan holda umumbashariy muammolarga yondashish",
+        "Ma’naviy taraqqiyotni ta’minlash va sohani yangi bosqichga olib chiqish"
+      ],
+      "correct_answer": "Milliy iqtisodiyotni jadal rivojlantirish va yuqori o‘sish sur’atlarini ta’minlash"
+    },
+    {
+      "question": "Yashil texnologiyalarni kengaytirish natijasida qanday energetik natijalarga erishiladi?",
+      "options": [
+        "Energiya manbalarining ulushi kamayadi",
+        "50 milliard kilovatt-soat energiya tejab qolinadi va uglerod emissiyasi kamayadi",
+        "Yalpi energiya ishlab chiqarish kamayadi",
+        "Faqat elektr energiyasi ishlab chiqarish ko‘payadi"
+      ],
+      "correct_answer": "50 milliard kilovatt-soat energiya tejab qolinadi va uglerod emissiyasi kamayadi"
+    },
+    {
+      "question": "2022-2026-yillarga mo‘ljallangan Yangi O‘zbekistonning taraqqiyot strategiyasistrategiyasining iqtisodiy sohadagi asosiy maqsadi nimadan iborat?",
+      "options": [
+        "Ishlab chiqarish quvvatini oshirish va raqobatbardoshlikni kuchaytirish",
+        "Eksportni cheklash va importni oshirish",
+        "Soliq stavkalarini oshirish",
+        "Kichik va o‘rta biznesni yo‘q qilish"
+      ],
+      "correct_answer": "Ishlab chiqarish quvvatini oshirish va raqobatbardoshlikni kuchaytirish"
+    },
+    {
+      "question": "Mafkuraviy immunitetni kuchaytirishning asosiy yo‘nalishi nima?",
+      "options": [
+        "Yoshlarni kitobxonlikka rag‘batlantirish",
+        "Milliy va umuminsoniy qadriyatlarga hurmatni shakllantirish",
+        "Sport bilan muntazam shug‘ullanishni ta'minlash",
+        "Diniy tarbiyaga e'tibor qaratish"
+      ],
+      "correct_answer": "Milliy va umuminsoniy qadriyatlarga hurmatni shakllantirish"
+    },
+    {
+      "question": "Markaziy Osiyo mintaqasida amaliy hamkorlikni sifat jihatidan yangi bosqichga olib chiqish bo‘yicha qanday islohotlar rejalashtirilgan?",
+      "options": [
+        "Turli sayyohlik loyihalarini tashkil qilish",
+        "“Umumiy til” loyihasini ishlab chiqish",
+        "Umumiy sayyohlik makonini tashkil qilish",
+        "Hamkorlikda kinofilmlarni yaratish"
+      ],
+      "correct_answer": "Umumiy sayyohlik makonini tashkil qilish"
+    },
+    {
+      "question": "Qaysi muhim hujjatda yalpi ichki mahsulot hajmini 2 barobar oshirib, 160 milliard dollarga, aholi jon boshiga daromad miqdorini esa o‘rtacha 4 ming dollarga yetkazish reja qilingan?",
+      "options": [
+        "“O‘zbekiston-2030” strategiyasida",
+        "“Yangi O‘zbekiston taraqqiyot” strategiyasida",
+        "2022-2026-yillarga mo‘ljallangan “Yangi O‘zbekiston taraqqiyot” strategiyasida",
+        "“O‘zbekiston Respublikasini rivojlantirishning harakatlar” strategiyasida"
+      ],
+      "correct_answer": "2022-2026-yillarga mo‘ljallangan “Yangi O‘zbekiston taraqqiyot” strategiyasida"
+    },
+    {
+      "question": "Yangi O‘zbekiston taraqqiyot strategiyasida yillar davomida amal qilib kelgan “davlat – jamiyat – inson” tamoyili qaysi tamoyilga o‘zgartirildi?",
+      "options": [
+        "“inson – jamiyat – davlat”",
+        "“inson – davlat – jamiyat”",
+        "“jamiyat – inson – davlat”",
+        "“davlat – jamiyat – inson”"
+      ],
+      "correct_answer": "“inson – jamiyat – davlat”"
+    },
+    {
+      "question": "Milliy ma'naviyatning inqirozi qaysi oqibatga olib kelishi mumkin?",
+      "options": [
+        "Xalqning o‘zligidan uzoqlashishiga sabab bo‘ladi",
+        "Globallashuvning ijobiy jihatlarini kuchaytiradi",
+        "Davlat siyosatining mustahkamlanishiga yordam beradi",
+        "Xalqning iqtisodiy rivojlanishiga hissa qo‘shadi"
+      ],
+      "correct_answer": "Xalqning o‘zligidan uzoqlashishiga sabab bo‘ladi"
+    },
+    {
+      "question": "“2022-2026 yillarga mo‘ljallangan Yangi O‘zbekistonning taraqqiyot” va “O‘zbekiston-2030” strategiyalarida Maktabgacha ta’limdagi qamrov darajasini necha foizga yetkazish ko‘zda tutilgan?",
+      "options": [
+        "2026-yilga qadar 65 foiz va 2030-yilga qadar 80 foiz",
+        "2026-yilga qadar 80 foiz va 2030-yilga qadar 90 foiz",
+        "2026-yilga qadar 70 foiz va 2030-yilga qadar 100 foiz",
+        "2026-yilga qadar 80 foiz va 2030-yilga qadar 100 foiz"
+      ],
+      "correct_answer": "2026-yilga qadar 80 foiz va 2030-yilga qadar 100 foiz"
+    },
+    {
+      "question": "“2022-2026-yillarga mo‘ljallangan Yangi O‘zbekistonning taraqqiyot strategiyasi” to‘rtinchi ustuvor yo‘nalishi qanday nomlanadi?",
+      "options": [
+        "Adolatli ijtimoiy siyosat yuritish, inson kapitalini rivojlantirish",
+        "Milliy manfaatlardan kelib chiqqan holda umumbashariy muammolarga yondashish",
+        "Mamlakatimiz xavfsizligi va mudofaa salohiyatini kuchaytirish, ochiq, pragmatik va faol tashqi siyosat olib borish",
+        "Ma’naviy taraqqiyotni ta’minlash va sohani yangi bosqichga olib chiqish"
+      ],
+      "correct_answer": "Adolatli ijtimoiy siyosat yuritish, inson kapitalini rivojlantirish"
+    },
+    {
+      "question": "Oʻrta Osiyoda vujudga kelgan \"Ikkinchi Renessans\" davri qaysi asrlarga toʻgʻri keladi?",
+      "options": [
+        "VI asr",
+        "XIV-XVI asrlar",
+        "VII asr",
+        "X asr"
+      ],
+      "correct_answer": "XIV-XVI asrlar"
+    },
+    {
+      "question": "Konstitutsiya so‘zi qanday ma’noni anglatadi?",
+      "options": [
+        "Tartib, qoida, tuzish degan ma’nolarni anglatadi",
+        "Tartib-taomil degan ma’nolarni anglatadi",
+        "Maqsadni aytmoq degan ma’noni anglatadi",
+        "Yunoncha so‘z bo‘lib gapirmoq degan ma’noni anglatadi"
+      ],
+      "correct_answer": "Tartib, qoida, tuzish degan ma’nolarni anglatadi"
+    },
+    {
+      "question": "Davlat organlarida ish yurituvini raqamlashtirish orqali ma’muriy tartib-taomillarni optimallashtirish va boshqaruv jarayonini avtomatlashtirish qaysi loyiha asosida amalga oshirish belgilangan?",
+      "options": [
+        "“Elektron hukumat” loyihasi",
+        "“Raqamli idora” loyihasi",
+        "“Raqamli parlament” loyihasi",
+        "“Fuqarolarning raqamli pasporti” loyihasi"
+      ],
+      "correct_answer": "“Elektron hukumat” loyihasi"
+    },
+    {
+      "question": "Mustaqillikning dastlabki kunlarida O‘zbekiston oldida qanday asosiy masalalar turgan edi?",
+      "options": [
+        "Diniy qadriyatlarni tiklash",
+        "Ijtimoiy-siyosiy va iqtisodiy masalalarni mustaqil hal qilish",
+        "Harbiy qudratni oshirish",
+        "Qishloq xo‘jaligini isloh qilish"
+      ],
+      "correct_answer": "Ijtimoiy-siyosiy va iqtisodiy masalalarni mustaqil hal qilish"
+    },
+    {
+      "question": "…...mamlakat yoki muhim tarmoqlarni o‘rta va uzoq muddatli istiqbolda rivojlantirishning eng asosiy yo‘nalishlarini belgilaydi",
+      "options": [
+        "Strategiya",
+        "Doktrina",
+        "Konsepsiya",
+        "Reglament"
+      ],
+      "correct_answer": "Strategiya"
+    },
+    {
+      "question": "2022 — 2026-yillarga moʻljallangan Yangi Oʻzbekistonning taraqqiyot strategiyasi qaysi tamoyilga asoslanib ishlab chiqilgan?",
+      "options": [
+        "“Harakatlar strategiyasidan — Taraqqiyot strategiyasi sari”",
+        "Iqtisodiy taraqqiyot va kambag‘allikni qisqartirish",
+        "Milliy manfaatlardan kelib chiqqan holda umumbashariy muammolarga yondashish",
+        "“Inson qadri uchun”"
+      ],
+      "correct_answer": "“Harakatlar strategiyasidan — Taraqqiyot strategiyasi sari”"
+    },
+    {
+      "question": "Davlat organlarida ish yurituvini raqamlashtirish orqali ma'muriy tartib-taomillarni optimallashtirish va boshqaruv jarayonini avtomatlashtirish qaysi loyiha asosida amalga oshirish belgilangan?",
+      "options": [
+        "Fuqarolarning raqamli pasporti loyihasi",
+        "Raqamli parlament loyihasi",
+        "Raqamli idora loyihasi",
+        "Elektron hukumat lloyihasi"
+      ],
+      "correct_answer": "Raqamli idora loyihasi"
+    },
+    {
+      "question": "“Xalqparvar davlat” milliy dasturi amalga tatbiq etish qaysi g'oya asosida ishlab chiqilgan?",
+      "options": [
+        "Xalq bilan muloqot g'oyasi",
+        "Davlat xalqqa xizmat ko'rsatishi shart g'oyasi",
+        "aqlli tartibga solish modeli",
+        "Qonun ustuvorligi va konstitutsiyaviy qonuniylikni ta'minlash g'oyasi"
+      ],
+      "correct_answer": "Davlat xalqqa xizmat ko'rsatishi shart g'oyasi"
+    },
+    {
+      "question": "Norma ijodkorligi jarayonini modernizatsiya qilish, qonunchilik hujjatlarining qat'iy ijrosini ta'minlash maqsadi bo'yicha qanday konsepsiyani ishlab chiqilishi belgilangan?",
+      "options": [
+        "Sohalarda \"tartibga solish yuki\"ni kamaytirish konsepsiyasini ishlab chiqish",
+        "O'zbekiston Respublikasi qonunchiligini rivojlantirish konsepsiyasini ishlab chiqish",
+        "Ijtimoiy munosabatlarni huquqiy tartibga solish konsepsiyasini ishlab chiqish",
+        "Qonunchilik palatasi boshqaruv tizimining samaradorligini oshirish konsepsiyasini ishlab chiqish"
+      ],
+      "correct_answer": "O'zbekiston Respublikasi qonunchiligini rivojlantirish konsepsiyasini ishlab chiqish"
+    },
+    {
+      "question": "Legal Tech platformasi nima?",
+      "options": [
+        "Huquqni muhofaza qiluvchi organlarda jinoyatlar haqida xabarlarni hisobga olish tizimi",
+        "Sudlar, huquqni muhofaza qiluvchi organlar va boshqa davlat organlari bilan elektron hujjatlar almashinuvi tizimi",
+        "Advokatlar palatasi boshqaruv organlarining tizimi",
+        "Tadbirkorlar va aholi, ayniqsa uning kam ta'minlangan qatlamlari uchun huquqiy hujjatlarni yurist ishtirokisiz tayyorlash imkonini beruvchi tizim"
+      ],
+      "correct_answer": "Tadbirkorlar va aholi, ayniqsa uning kam ta'minlangan qatlamlari uchun huquqiy hujjatlarni yurist ishtirokisiz tayyorlash imkonini beruvchi tizim"
+    },
+    {
+      "question": "Taraqqiyot strategiyasida aholi salomatligini ta'minlash bo'yicha hududlarda birlamchi tibbiy xizmati qanday tamoyil asosida yo'lga qo'yish belgilangan",
+      "options": [
+        "bir mahalla-bir poliklinika",
+        "mahalla va tibbiy xizmatlar birligi",
+        "bir qadam tamoyili",
+        "maktab va poliklinika hamkorligi"
+      ],
+      "correct_answer": "bir qadam tamoyili"
+    },
+    {
+      "question": "Har bir tuman budjetining necha foizini \"Fuqarolar budjeti\" dasturi doirasida aholining takliflari asosida eng dolzarb muammolarni yechishga sarflashni tashkil qilish belgilangan?",
+      "options": [
+        "kamida 10 foizini",
+        "kamida 15 foizini",
+        "kamida 20 foizini",
+        "kamida 5 foizini"
+      ],
+      "correct_answer": "kamida 5 foizini"
+    },
+    {
+      "question": "Taraqqiyot strategiyasiga ko'ra davlat qarzini boshqarishda yangi jalb qilingan tashqi qarz miqdori yiliga qancha bo'lishi belgilangan?",
+      "options": [
+        "7,5 milliard AQSh dollaridan oshib ketmasligini",
+        "3,5 milliard AQSh dollaridan kam bo'lmasligi",
+        "4,5 milliard AQSh dollaridan oshib ketmasligini",
+        "5 milliard AQSh dollaridan oshib ketmasligini"
+      ],
+      "correct_answer": "4,5 milliard AQSh dollaridan oshib ketmasligini"
+    },
+    {
+      "question": "Taraqqiyot strategiyasiga muvofiq qishloq xo'jaligi mashinasozligi ishlab chiqarishini yagona sanoat klasteri usulida tashkil etish qaysi shaharda amalga oshiriladi?",
+      "options": [
+        "Farg'ona shahrida",
+        "Samarqand shahrida",
+        "Nurafshon shahrida",
+        "Chirchiq shahrida"
+      ],
+      "correct_answer": "Chirchiq shahrida"
+    },
+    {
+      "question": "Ta'lim-tarbiyaning interaktiv usullarini qo'llash orqali qaysi ta'lim muassasasini ma'naviyat va ma'rifat, madaniyat o'chog'iga aylantirish nazarda tutilgan?",
+      "options": [
+        "Oliy ta'lim muassasalarini",
+        "maktablarni",
+        "prezident va ixtisoslashtirilgan maktablarni",
+        "professional ta'lim muassasalarini"
+      ],
+      "correct_answer": "maktablarni"
+    },
+    {
+      "question": "Davlat boshqaruvini nomarkazlashtirish bu?",
+      "options": [
+        "vakillik institutlarining kuchayishi va turli jamoaviy manfaat guruhlarining rag'batlantirilishi",
+        "Fuqarolar o'zlarining kundalik hayotlariga ta'sir qiladigan har qanday boshqaruv jarayonlarida ishtirok etishidir",
+        "davlat xizmatlarini ko'rsatishda turli boshqaruv darajalari o'rtasida mas'uliyat, vakolat va resurslarni qayta taqsimlash hisoblanadi",
+        "markaziy idoralarning hokimiyatni taqdim etmasligi va mahalliy institutlarning boshqaruv jarayonida ishtirok etishini cheklanishi"
+      ],
+      "correct_answer": "davlat xizmatlarini ko'rsatishda turli boshqaruv darajalari o'rtasida mas'uliyat, vakolat va resurslarni qayta taqsimlash hisoblanadi"
+    },
+    {
+      "question": "Global innovatsion indeksda O'zbekiston Respublikasining o'rnini yaxshilash va 2030-yilga qadar qanday reyting qatoriga kirish rejalashtirilgan?",
+      "options": [
+        "top-50",
+        "top-30",
+        "top-100",
+        "top-10"
+      ],
+      "correct_answer": "top-50"
+    },
+    {
+      "question": "Ma'naviy tarbiyani baholashning ilmiy asoslangan indikatorlarini ishlab chiqish qaysi ustuvor yo'nalish maqsadlarida belgilangan?",
+      "options": [
+        "ma'naviy taraqqiyotni ta'minlash va sohani yangi bosqichga olib chiqish",
+        "adolatli ijtimoiy siyosat yuritish, inson kapitalini rivojlantirish",
+        "milliy iqtisodiyotni jadal rivojlantirish va yuqori o'sish sur'atlarini ta'minlash",
+        "mamlakatimizda adolat va qonun ustuvorligi tamoyillarini taraqqiyotning eng asosiy va zarur shartiga aylantirish"
+      ],
+      "correct_answer": "ma'naviy taraqqiyotni ta'minlash va sohani yangi bosqichga olib chiqish"
+    },
+    {
+      "question": "Inson kapitali nima?",
+      "options": [
+        "sarflanadigan pul vositalarini ifoda etadi",
+        "ishlab chiqarish vositalari ko'rinishidagi ishga qo'yilgan, ishlab turgan daromad manbai",
+        "bu odamning mehnatni iqtisodiy qiymatini oshiradigan tarzda bajarishi uchun yordam beradigan bilim, ko'nikma, tajriba va ijtimoiy fazilatlar yig'indisi",
+        "o'z egasiga daromad keltirish xususiyatiga ega bo'lgan jami vositalar va mablag'lar; yangi qiymat keltiruvchi, o'zini o'zi ko'paytiruvchi qiymat"
+      ],
+      "correct_answer": "bu odamning mehnatni iqtisodiy qiymatini oshiradigan tarzda bajarishi uchun yordam beradigan bilim, ko'nikma, tajriba va ijtimoiy fazilatlar yig'indisi"
+    },
+    {
+      "question": "Yashil iqtisodiyot bu?",
+      "options": [
+        "aholining doimiy o'sib borayotgan ehtiyojlarini qondirish uchun qancha ishlab chiqarish, qanday ishlab chiqarish",
+        "bu ekologik xavflarni hisobga olmasdan, tadbirkorlikni har tomonlama rivojlantirishga qaratilgan va atrof-muhitni buzilishiga olib keladigan iqtisodiyot",
+        "inson hayoti va sog'lig'i uchun zarur bo'lgan resurslarni, atrof-muhit va ekologiyani bir butun holda saqlab qolib ishlab chiqarish va xizmat ko'rsatish sohalari bilan bog'liq iqtisodiyotni yanada rivojlantirish",
+        "atrof muhitga zararli gazlarni chiqarmaydigan, atrof-muhitni asraydigan, ekologik toza texnologiyalarni yaratish"
+      ],
+      "correct_answer": "inson hayoti va sog'lig'i uchun zarur bo'lgan resurslarni, atrof-muhit va ekologiyani bir butun holda saqlab qolib ishlab chiqarish va xizmat ko'rsatish sohalari bilan bog'liq iqtisodiyotni yanada rivojlantirish"
+    },
+    {
+      "question": "Ijtimoiy sheriklik bu?",
+      "options": [
+        "loyihani amalga oshirish va / yoki aholiga xizmat ko'rsatish uchun birgalikda ishlaydigan hukumat va bizneslarni o'z ichiga oladi",
+        "ijtimoiy sheriklik subyektlari tomonidan birgalikda tadbirlar, maslahatlashuvlar va muzokaralar o'tkazish",
+        "Davlat organlarining NNT va fuqarolik jamiyatining boshqa institutlari bilan mamlakatni ijtimoiy-iqtisodiy rivojlantirish dasturlarini, shu jumladan tarmoq, hududiy dasturlarni, shuningdek normativ-huquqiy hujjatlarni hamda fuqarolarning huquqlari va qonuniy manfaatlariga daxldor bo'lgan boshqa qarorlarni ishlab chiqish hamda amalga oshirish borasidagi hamkorligi",
+        "nodavlat notijorat tashkilotlari va fuqarolik jamiyati boshqa institutlari vakillarining davlat organlari huzuridagi ishchi guruhlar, komissiyalar va jamoatchilik-maslahat organlari faoliyatida ishtirok etishi"
+      ],
+      "correct_answer": "Davlat organlarining NNT va fuqarolik jamiyatining boshqa institutlari bilan mamlakatni ijtimoiy-iqtisodiy rivojlantirish dasturlarini, shu jumladan tarmoq, hududiy dasturlarni, shuningdek normativ-huquqiy hujjatlarni hamda fuqarolarning huquqlari va qonuniy manfaatlariga daxldor bo'lgan boshqa qarorlarni ishlab chiqish hamda amalga oshirish borasidagi hamkorligi"
+    },
+    {
+      "question": "Adolat va qonun ustuvorligi tamoyillarini taraqqiyotning eng asosiy va zarur shartiga aylantirishning ustuvor yo'nalishlarida amalga oshirilgan chora-tadbirlarni ko'rsating",
+      "options": [
+        "2022 yil 27 yanvarda O'zbekiston Respublikasi Prezidentining \"Xizmatlar sohasini rivojlantirishga oid qo'shimcha chora-tadbirlar to'g'risida\"gi qarori qabul qilindi.",
+        "2022 yil 29 iyunda O'zbekiston Respublikasi Prezidentining \"Ozodlikdan mahrum etish jazosini o'tab bo'lgan fuqarolarning ijtimoiy moslashuviga ko'maklashish tizimini takomillashtirish chora-tadbirlari to'g'risida\"gi qarori qabul qilindi",
+        "2022 yil 13 oktyabrda Vazirlar Mahkamasining \"O'zbekiston Respublikasi Mudofaa vazirligi qo'shinlarida xotin-qizlar va harbiy xizmatchilarning oila a'zolari bilan ishlash tizimining samaradorligini oshirish chora-tadbirlari to'g'risida\"gi 590-sonli qarori qabul qilindi.",
+        "2022 yil 9 sentyabrda O'zbekiston Respublikasi Prezidentining \"Energiya tejovchi texnologiyalarni joriy qilish va kichik quvvatli qayta tiklanuvchi energiya manbalarini rivojlantirish bo'yicha qo'shimcha chora-tadbirlar to'g'risida\"gi Farmoni qabul qilindi."
+      ],
+      "correct_answer": "2022 yil 29 iyunda O'zbekiston Respublikasi Prezidentining \"Ozodlikdan mahrum etish jazosini o'tab bo'lgan fuqarolarning ijtimoiy moslashuviga ko'maklashish tizimini takomillashtirish chora-tadbirlari to'g'risida\"gi qarori qabul qilindi"
+    },
+    {
+      "question": "2023 moliya yilidan \"Obod qishloq\" va \"Obod mahalla\" dasturlari doirasida moliyalashtiriladigan tadbirlar qanday tartibda shakllantirilishi belgilangan?",
+      "options": [
+        "jamoatchilik fikri asosida \"Ochiq byudjet\" axborot portali orqali ovoz berish yo'li bilan aniqlanadi",
+        "Raqamli ma'lumotlar platformasi orqali aniqlanadi",
+        "Elektorat bilan maslahatlashuvlar instituti orqali aniqlanadi",
+        "Hokim yordamchilari+mahalla instituti orqali aniqlanadi"
+      ],
+      "correct_answer": "jamoatchilik fikri asosida \"Ochiq byudjet\" axborot portali orqali ovoz berish yo'li bilan aniqlanadi"
+    },
+    {
+      "question": "Milliy iqtisodiyotni jadal rivojlantirish va yuqori o'sish sur'atlarini ta'minlashning ustuvor yo'nalishlarida amalga oshirilgan chora-tadbirlarni ko'rsating",
+      "options": [
+        "2022 yil 27 yanvarda O'zbekiston Respublikasi Prezidentining \"Xizmatlar sohasini rivojlantirishga oid qo'shimcha chora-tadbirlar to'g'risida\"gi qarori qabul qilindi.",
+        "2022 yil 29 iyunda O'zbekiston Respublikasi Prezidentining \"Ozodlikdan mahrum etish jazosini o'tab bo'lgan fuqarolarning ijtimoiy moslashuviga ko'maklashish tizimini takomillashtirish chora-tadbirlari to'g'risida\"gi qarori qabul qilindi",
+        "2022 yil 11 mayda O'zbekiston Respublikasi Prezidentining \"2022-2026 yillarda xalq ta'limini rivojlantirish bo'yicha milliy dasturni tasdiqlash to'g'risida\"gi Farmoni qabul qilindi.",
+        "2022 yil 13 oktyabrda Vazirlar Mahkamasining \"O'zbekiston Respublikasi Mudofaa vazirligi qo'shinlarida xotin-qizlar va harbiy xizmatchilarning oila a'zolari bilan ishlash tizimining samaradorligini oshirish chora-tadbirlari to'g'risida\"gi 590-sonli qarori qabul qilindi."
+      ],
+      "correct_answer": "2022 yil 27 yanvarda O'zbekiston Respublikasi Prezidentining \"Xizmatlar sohasini rivojlantirishga oid qo'shimcha chora-tadbirlar to'g'risida\"gi qarori qabul qilindi."
+    },
+    {
+      "question": "Yoshlar bilan ishlashning \"mahalla-sektor-tuman (shahar)-hudud-respublika\" tizimi qaysi me'yoriy-huquqiy hujjatga asosan joriy etildi?",
+      "options": [
+        "2022 yil 11 maydagi \"Xalq ta'limini rivojlantirishga oid qo'shimcha chora-tadbirlar to'g'risida\"gi Prezident qarori asosida",
+        "Yoshlarga oid davlat siyosati to'g'risidagi O'RQ-406-son qonuni asosida",
+        "O'zbekiston Respublikasi Prezidentining \"Mahallalarda yoshlar bilan ishlash tizimini tubdan takomillashtirish chora-tadbirlari to'g'risida\"gi qarori asosida",
+        "O'zbekiston Respublikasida milliy multiplikatsiya sohasini rivojlantirish chora-tadbirlari to'g'risidagi qarori asosida"
+      ],
+      "correct_answer": "O'zbekiston Respublikasi Prezidentining \"Mahallalarda yoshlar bilan ishlash tizimini tubdan takomillashtirish chora-tadbirlari to'g'risida\"gi qarori asosida"
+    },
+    {
+      "question": "Habeas corpus nima?",
+      "options": [
+        "insonning davlat bilan munosabatidagi huquqiy maqomini, iqtisodiy, ijtimoiy, siyosiy va madaniy sohalardagi imkoni-yatlari hamda daʼvolarini tavsiflovchi tushuncha",
+        "Insonning oʻz erkinliklari, huquqlari va manfaatlari uchun davom etgan uzoq kurashi umuminsoniy ahamiyat darajasiga koʻtarilgan meʼyoriy-huquqiy tartib",
+        "fuqaroni birinchi marta davlat organlari tomonidan biron bir ishga gumon qilinuvchi sifatida jalb qilayotganda, unga birlamchi huquqlari tushuntirib berilishi",
+        "jinoiy ta‘qibga uchragan fuqaroning adolatli sud muhokamasiga bo‘lgan huquqi"
+      ],
+      "correct_answer": "jinoiy ta‘qibga uchragan fuqaroning adolatli sud muhokamasiga bo‘lgan huquqi"
+    },
+    {
+      "question": "Turli ijtimoiy tabaqa va guruhlarning siyosiy irodasini ifodalaydilar va o'zlarining demokratik yo'l bilan saylab qo'yilgan vakillari orqali davlat hokimiyatini tuzishda ishtirok etadigan fuqarolik jamiyati instituti qaysi?",
+      "options": [
+        "Nodavlat notijorat tashkilotlari",
+        "Siyosiy partiyalar",
+        "Xotin-qizlar tashkilotlari",
+        "Kasaba uyushmalari"
+      ],
+      "correct_answer": "Siyosiy partiyalar"
+    },
+    {
+      "question": "O'zbekiston xalqi nomidan faqat kim ish olib borishi mumkin?",
+      "options": [
+        "u saylagan O'zbekiston Respublikasi Prezidenti",
+        "u saylagan O'zbekiston Respublikasi Oliy Majlisi va Prezidenti",
+        "u saylagan O'zbekiston Respublikasi Oliy Majlisi Qonunchilik palatasi",
+        "u saylagan O'zbekiston Respublikasi Oliy Majlisi"
+      ],
+      "correct_answer": "u saylagan O'zbekiston Respublikasi Oliy Majlisi va Prezidenti"
+    },
+    {
+      "question": "Miranda qoidasi bu",
+      "options": [
+        "fuqaroni birinchi marta davlat organlari tomonidan biron bir ishga gumon qilinuvchi sifatida jalb qilayotganda, unga birlamchi huquqlari tushuntirib berilishi",
+        "insonning davlat bilan munosabatidagi huquqiy maqomini, iqtisodiy, ijtimoiy, siyosiy va madaniy sohalardagi imkoni-yatlari hamda daʼvolarini tavsiflovchi tushuncha",
+        "“tanani sudga keltirish”, ya‘ni jinoiy ta‘qibga uchragan fuqaroning adolatli sud muhokamasiga bo‘lgan huquqining tarixan eng qadimiy e‘tiroflaridan biri",
+        "Insonning oʻz erkinliklari, huquqlari va manfaatlari uchun davom etgan uzoq kurashi umuminsoniy ahamiyat darajasiga koʻtarilgan meʼyoriy-huquqiy tartib"
+      ],
+      "correct_answer": "fuqaroni birinchi marta davlat organlari tomonidan biron bir ishga gumon qilinuvchi sifatida jalb qilayotganda, unga birlamchi huquqlari tushuntirib berilishi"
+    },
+    {
+      "question": "Jamoatchilik nazorati subyektlari bu",
+      "options": [
+        "O'zbekiston Respublikasi fuqarolari, fuqaroligi bo'lmagan shaxslar va chet el fuqarolari",
+        "Jamoat birlashmalari va siyosiy partiyalar",
+        "O'zbekiston Respublikasi fuqarolari, fuqarolarning o'zini o'zi boshqarish organlari, shuningdek qonunchilikda belgilangan tartibda ro'yxatga olingan nodavlat notijorat tashkilotlari, ommaviy axborot vositalari",
+        "Ommaviy axborot vositalari, jurnalistlar va blogerlar"
+      ],
+      "correct_answer": "O'zbekiston Respublikasi fuqarolari, fuqarolarning o'zini o'zi boshqarish organlari, shuningdek qonunchilikda belgilangan tartibda ro'yxatga olingan nodavlat notijorat tashkilotlari, ommaviy axborot vositalari"
+    },
+    {
+      "question": "Shaxsni ushlash chog'ida unga tushunarli tilda uning huquqlari va ushlab turilishi asoslari tushuntirilishi shart. O'zbekiston Respublikasi Konstitutsiyasi 27-modda. Ushbu qoida xalqaro huquqda qanday ataladi?",
+      "options": [
+        "Habeas corpus",
+        "qadr-qimmati daxlsizligi huquqi",
+        "'Miranda qoidasi\"",
+        "shaxsiy daxlsizlik huquqi"
+      ],
+      "correct_answer": "'Miranda qoidasi\""
+    },
+    {
+      "question": "Xavfsiz va tinchliksevar davlat tamoyiliga asoslangan siyosatni izchil davom ettirish \"O'zbekiston - 2030\" Strategiyasining nechinchi ustuvor yo'nalishi sifatida belgilangan?",
+      "options": [
+        "5-ustuvor yo'nalish",
+        "2-ustuvor yo'nalish",
+        "3-ustuvor yo'nalish",
+        "4-ustuvor yo'nalish"
+      ],
+      "correct_answer": "5-ustuvor yo'nalish"
+    },
+    {
+      "question": "O'zbekiston Respublikasida ijtimoiy hayot qaysi prinsip asosida rivojlanadi?",
+      "options": [
+        "umuminsoniy prinsiplarga asoslanadi, ularga ko'ra inson, uning hayoti, erkinligi, sha'ni, qadr-qimmati va boshqa ajralmas huquqlari oliy qadriyat hisoblanadi",
+        "hokimiyatning qonun chiqaruvchi, ijro etuvchi va sud hokimiyatiga bo'linishi prinsipi asosida",
+        "siyosiy institutlar, mafkuralar va fikrlarning xilma-xilligi asosida",
+        "xalqaro huquqning umume'tirof etilgan prinsip va normalariga asosan"
+      ],
+      "correct_answer": "siyosiy institutlar, mafkuralar va fikrlarning xilma-xilligi asosida"
+    },
+    {
+      "question": "Fuqarolik jamiyati ta'rifi to'g'ri keltirilgan javobni ko'rsating",
+      "options": [
+        "jismoniy va (yoki) yuridik shaxslar tomonidan ixtiyoriylik asosida tashkil etilgan, daromad (foyda) olishni o'z faoliyatining asosiy maqsadi qilib olmagan hamda olingan daromadlarni (foydani) o'z qatnashchilari (a'zolari) o'rtasida taqsimlamaydigan o'zini o'zi boshqarish tashkilotidir",
+        "fuqarolarining qarashlar, manfaatlar va maqsadlar mushtarakligi asosida tuzilgan, davlat hokimiyati organlarini shakllantirishda jamiyat muayyan qismining siyosiy irodasini ro'yobga chiqarishga intiluvchi hamda o'z vakillari orqali davlat va jamoat ishlarini idora etishda qatnashuvchi ko'ngilli birlashmasidir",
+        "insonga uning iqtisodiy, siyosiy va madaniy hayoti shakllarini erkin tanlash kafolatlanadigan, qonun ustuvorligi va inson huquqlari hamda erkinliklari qaror topadigan, ko?p partiyaviylik, siyosiy institutlar, mafkura va fikrlarning xilma-xilligi ta?minlanadigan hamda o?zini-o?zi boshqarish organlarining mavqei baland bo?lgan ijtimoiy tuzum",
+        "O'z huquqlari, erkinliklarini hamda siyosat, iqtisodiyot, ijtimoiy rivojlanish, fan, madaniyat, ekologiya va hayotning boshqa sohalaridagi qonuniy manfaatlarini birgalikda ro'yobga chiqarish uchun birlashgan fuqarolarning xohish-irodalarini erkin bildirishlari natijasida vujudga kelgan ixtiyoriy tuzilma"
+      ],
+      "correct_answer": "insonga uning iqtisodiy, siyosiy va madaniy hayoti shakllarini erkin tanlash kafolatlanadigan, qonun ustuvorligi va inson huquqlari hamda erkinliklari qaror topadigan, ko?p partiyaviylik, siyosiy institutlar, mafkura va fikrlarning xilma-xilligi ta?minlanadigan hamda o?zini-o?zi boshqarish organlarining mavqei baland bo?lgan ijtimoiy tuzum"
+    },
+    {
+      "question": "Jamoat birlashmasi deb nimaga aytiladi?",
+      "options": [
+        "O'z huquqlari, erkinliklarini hamda siyosat, iqtisodiyot, ijtimoiy rivojlanish, fan, madaniyat, ekologiya va hayotning boshqa sohalaridagi qonuniy manfaatlarini birgalikda ro'yobga chiqarish uchun birlashgan fuqarolarning xohish-irodalarini erkin bildirishlari natijasida vujudga kelgan ixtiyoriy tuzilma",
+        "fuqarolarining qarashlar, manfaatlar va maqsadlar mushtarakligi asosida tuzilgan, davlat hokimiyati organlarini shakllantirishda jamiyat muayyan qismining siyosiy irodasini ro'yobga chiqarishga intiluvchi hamda o'z vakillari orqali davlat va jamoat ishlarini idora etishda qatnashuvchi ko'ngilli birlashmasidir",
+        "fuqarolarning o'z faoliyati yoki o'qishi turi bo'yicha umumiy kasbiy manfaatlari bilan bog'liq bo'lgan, ularning mehnatga oid, boshqa ijtimoiy-iqtisodiy huquq va manfaatlarini ifodalash hamda himoya qilish maqsadida tuziladigan, o'z ustavi asosida faoliyat ko'rsatadigan ixtiyoriy jamoat birlashmasi",
+        "jismoniy va (yoki) yuridik shaxslar tomonidan ixtiyoriylik asosida tashkil etilgan, daromad (foyda) olishni o'z faoliyatining asosiy maqsadi qilib olmagan hamda olingan daromadlarni (foydani) o'z qatnashchilari (a'zolari) o'rtasida taqsimlamaydigan o'zini o'zi boshqarish tashkilotidir"
+      ],
+      "correct_answer": "O'z huquqlari, erkinliklarini hamda siyosat, iqtisodiyot, ijtimoiy rivojlanish, fan, madaniyat, ekologiya va hayotning boshqa sohalaridagi qonuniy manfaatlarini birgalikda ro'yobga chiqarish uchun birlashgan fuqarolarning xohish-irodalarini erkin bildirishlari natijasida vujudga kelgan ixtiyoriy tuzilma"
+    },
+    {
+      "question": "Jamoat birlashmalariga nimalar kiradi?",
+      "options": [
+        "ilmiy-texnikaviy, madaniy-ma'rifiy, jismoniy tarbiya-sport va boshqa ko'ngilli jamiyatlar",
+        "kasaba uyushmalari, siyosiy partiyalar, olimlarning jamiyatlari, xotin-qizlar tashkilotlari, faxriylar, yoshlar va nogironligi bo'lgan shaxslar tashkilotlari, ijodiy uyushmalar, ommaviy harakatlar hamda fuqarolarning boshqa birlashmalari",
+        "ijodiy uyushmalar, yurtdoshlar uyushmalari, assotsiatsiyalar",
+        "ommaviy harakatlar, kasaba uyushmalari, xotin-qizlar, yoshlar va bolalar tashkilotlari"
+      ],
+      "correct_answer": "kasaba uyushmalari, siyosiy partiyalar, olimlarning jamiyatlari, xotin-qizlar tashkilotlari, faxriylar, yoshlar va nogironligi bo'lgan shaxslar tashkilotlari, ijodiy uyushmalar, ommaviy harakatlar hamda fuqarolarning boshqa birlashmalari"
+    },
+    {
+      "question": "O'zbekiston Respublikasi Konstitutsiyasining qaysi moddasida \"O'zbekiston Respublikasida o'lim jazosi taqiqlanadi\" normasi belgilangan?",
+      "options": [
+        "35-moddasida",
+        "46-moddasida",
+        "31-moddasida",
+        "25-moddasida"
+      ],
+      "correct_answer": "25-moddasida"
+    },
+    {
+      "question": "Konstitutsiya so'zi qanday ma'noni anglatadi?",
+      "options": [
+        "ingliz tilidan constitute - gapirmoq",
+        "yunon tilidan - maqsadni aytmoq",
+        "fransuz tilidan tartib-taomil",
+        "lotincha so'z bo'lib, tartib, qoida, tuzish"
+      ],
+      "correct_answer": "lotincha so'z bo'lib, tartib, qoida, tuzish"
+    },
+    {
+      "question": "Ma'naviyat bu",
+      "options": [
+        "shaxsda muayyan jismoniy, ruhiy, axloqiy, ma?naviy sifatlarni shakllantirishga qaratilgan amaliy pedagogik jarayon; insonning jamiyatda yashashi uchun zarur bo?lgan xususiyatlarga ega bo?lishini ta?minlash yo?lida ko?riladigan chora tadbirlar yigindisi",
+        "inson axloqi va odobi, bilimlari, iste'dodi, amaliy malakalari, vijdoni, iymoni, e'tiqodi, dunyoqarashi, mafkuraviy qarashlarning bir-biri bilan uzviy bog'langan, jamiyat taraqqiyotiga ijobiy ta'sir etadigan mushtarak tizimidir",
+        "kishilarning ongini, bilimini, madaniyatini oshirishga qaratilgan ta?lim-tarbiya tizimi",
+        "inson faoliyati va shu faolliyatning ahamiyatini belgilovchi ramziy qurilmalar va asarlar majmuidir"
+      ],
+      "correct_answer": "inson axloqi va odobi, bilimlari, iste'dodi, amaliy malakalari, vijdoni, iymoni, e'tiqodi, dunyoqarashi, mafkuraviy qarashlarning bir-biri bilan uzviy bog'langan, jamiyat taraqqiyotiga ijobiy ta'sir etadigan mushtarak tizimidir"
+    },
+    {
+      "question": "«Strategiya» soʻznining lugʻaviy maʼnosi nima?",
+      "options": [
+        "Maqsadli boshqaruv",
+        "Sarkardaning sanʼati",
+        "Boshqaruv sanʼati",
+        "Samarali mudofaa"
+      ],
+      "correct_answer": "Sarkardaning sanʼati"
+    },
+    {
+      "question": "Aholini ijtimoiy himoya qilish tizimini rivojlantirish bo'yicha 2030-yilgacha bo'lgan davrda ustuvor yo'nalishlarni va kompleks chora-tadbirlarni belgilab bergan normativ-huquqiy hujjat qanday nomlanadi?",
+      "options": [
+        "O'zbekiston Respublikasi Prezidentining \"Ipoteka krediti mexanizmlarini takomillashtirishga oid qo'shimcha chora-tadbirlar to'g'risida\" 28.11.2019 yildagi PF-5886-son qarori",
+        "Yoshlarga oid davlat siyosati to'g'risidagi O'RQ-406-son qonuni asosida",
+        "O'zbekiston Respublikasi Prezidentining 2022-yil 25-iyuldagi \"O'zbekiston Respublikasi aholisini ijtimoiy himoya qilish strategiyasini tasdiqlash to'g'risida\"gi PF-175-son Farmoni",
+        "O'zbekiston Respublikasi Vazirlar Mahkamasining \"Ijtimoiy himoyaga muhtoj aholining uy-joy sharoitlarini yaxshilash bo'yicha qo'shimcha chora-tadbirlar to'g'risida\"gi 24.07.2021 yildagi 459-son qarori"
+      ],
+      "correct_answer": "O'zbekiston Respublikasi Prezidentining 2022-yil 25-iyuldagi \"O'zbekiston Respublikasi aholisini ijtimoiy himoya qilish strategiyasini tasdiqlash to'g'risida\"gi PF-175-son Farmoni"
+    },
+    {
+      "question": "Mamlakatimiz xavfsizligi va mudofaa salohiyatini kuchaytirish, ochiq, pragmatik va faol tashqi siyosat olib borish sohasidagi ustuvor yo'nalishlarda amalga oshirilgan chora-tadbirlarni ko'rsating",
+      "options": [
+        "29.03.2022 yildagi \"O'zbekiston Respublikasining Fuqarolik kodeksiga qiynoqqa solishdan jabrlanganlarga yetkazilgan zararni qoplash tartibini takomillashtirishga qaratilgan qo'shimchalar kiritish to'g'risida\"gi qonun qabul qilindi",
+        "Inson a'zolari va to'qimalarining transplantatsiyasi to'g'risida 11.05.2022 yildagi O'RQ-768-son qonun qabul qilindi.",
+        "Kiberxavfsizlik to'g'risidagi 15.04.2022 yildagi O'RQ-764-sonli qonun qabul qilindi",
+        "2022 yil 27 yanvarda O'zbekiston Respublikasi Prezidentining \"Xizmatlar sohasini rivojlantirishga oid qo'shimcha chora-tadbirlar to'g'risida\"gi qarori qabul qilindi."
+      ],
+      "correct_answer": "Kiberxavfsizlik to'g'risidagi 15.04.2022 yildagi O'RQ-764-sonli qonun qabul qilindi"
+    },
+    {
+      "question": "2022 - 2026-yillarda Qoraqalpog'iston Respublikasining turizm salohiyatini rivojlantirish bo'yicha qo'shimcha chora-tadbirlar to'g'risidagi VM-qaroriga ko'ra Orolbo'yi mintaqasining ijtimoiy va madaniy-ma'rifiy salohiyatini yanada oshirish bo'yicha qanday dastur amalga oshirilmoqda?",
+      "options": [
+        "Amudaryo xazinasi dasturi",
+        "Yashil makon umummilliy dasturi",
+        "Orol orzusi dasturi",
+        "O'tov (qora uy) dasturi"
+      ],
+      "correct_answer": "Orol orzusi dasturi"
+    }
+  ]
+}

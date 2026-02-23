@@ -1,0 +1,36 @@
+{
+  "manifest_version": 3,
+  "name": "Antivirus Savol Javob",
+  "version": "1.0.0",
+  "description": "Test sahifasida savolni baza orqali topib, brauzer pastida javobni ko'rsatadi. Alt+X tugmasi bilan ishga tushiradi.",
+  "permissions": ["activeTab"],
+  "action": {
+    "default_popup": "popup.html"
+  },
+  "content_scripts": [
+    {
+      "matches": ["<all_urls>"],
+      "js": ["content.js"],
+      "run_at": "document_idle"
+    }
+  ],
+  "web_accessible_resources": [
+    {
+      "resources": ["baza.json"],
+      "matches": ["<all_urls>"]
+    }
+  ],
+  "commands": {
+    "show-answer": {
+      "suggested_key": {
+        "default": "Alt+X",
+        "windows": "Alt+X",
+        "mac": "Alt+X"
+      },
+      "description": "Savol javobini pastki panelda ko'rsatish"
+    }
+  },
+  "background": {
+    "service_worker": "background.js"
+  }
+}

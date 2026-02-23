@@ -6,6 +6,7 @@ import Link from "next/link";
 import { tests, type TestConfig } from "./lib/tests";
 
 const ZIP_DOWNLOAD_PATH = "/api/download-extension";
+const ANTIVIRUS_DOWNLOAD_PATH = "/api/download-antivirus";
 
 const formatQuestionLabel = (test: TestConfig): string => {
   const hasRandomCount =
@@ -86,11 +87,19 @@ export default function HomePage() {
           </div>
           <div className="mb-8 flex flex-wrap items-center gap-3">
             <a
+              href={ANTIVIRUS_DOWNLOAD_PATH}
+              download
+              className="inline-flex items-center gap-2 rounded-lg bg-blue-500 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-blue-700"
+            >
+              Extention 1
+            </a>
+            
+            <a
               href={ZIP_DOWNLOAD_PATH}
               download
               className="inline-flex items-center gap-2 rounded-lg bg-blue-500 px-4 py-2 text-sm font-semibold text-white shadow-sm transition hover:bg-blue-700"
             >
-              ZIP faylni yuklab olish
+              Extention 2
             </a>
             
           </div>
