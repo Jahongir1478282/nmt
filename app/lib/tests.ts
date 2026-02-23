@@ -52,7 +52,7 @@ const strategiyaPool = (strategiyaQuestions as { questions: Question[] }).questi
 const pedPool = (pedQuestions as { questions: Question[] }).questions;
 const innovationPool = (innovationQuestions as { questions: Question[] }).questions;
 const huquqPool = huquqQuestions as unknown as Question[];
-const raqamliPool = raqamliQuestions as unknown as Question[];
+const raqamliPool = (raqamliQuestions as { questions: Question[] }).questions;
 const sifatPool = sifatQuestions as unknown as Question[];
 
 const mixSpecialistQuestions: Question[] = shuffle([
