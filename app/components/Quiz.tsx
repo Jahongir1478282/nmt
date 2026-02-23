@@ -61,11 +61,12 @@ function QuizContent({ test }: { test: TestConfig }) {
 
   useEffect(() => {
     const rafId = requestAnimationFrame(() => setIsReady(true));
+    const nextQuestionTimeout = nextQuestionTimeoutRef.current;
+    const xSearchTimeout = xSearchTimeoutRef.current;
     return () => {
       cancelAnimationFrame(rafId);
-      if (nextQuestionTimeoutRef.current)
-        clearTimeout(nextQuestionTimeoutRef.current);
-      if (xSearchTimeoutRef.current) clearTimeout(xSearchTimeoutRef.current);
+      if (nextQuestionTimeout) clearTimeout(nextQuestionTimeout);
+      if (xSearchTimeout) clearTimeout(xSearchTimeout);
     };
   }, []);
 
