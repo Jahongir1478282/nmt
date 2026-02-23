@@ -5,11 +5,16 @@ import cryptoQuestions from "../../data/cryptotest.json";
 import kmaQuestions from "../../data/kma.json";
 import zkuQuestions from "../../data/zku.json";
 import strategiyaQuestions from "../../data/strategiya.json";
-import pedQuestions from "../../data/ped.json";
+import pedQuestions from "../../data/ped2.json";
 import innovationQuestions from "../../data/innovatsion.json";
 import yvkQuestions from "../../data/yvk.json";
 import lwcQuestions from "../../data/lwc.json";
 import pqcQuestions from "../../data/pqc.json";
+
+import huquqQuestions from "../../data/huquq.json";
+import raqamliQuestions from "../../data/raqamli.json";
+import sifatQuestions from "../../data/sifat.json";
+
 
 export interface Question {
   id?: number;
@@ -43,14 +48,25 @@ const zkuPool = (zkuQuestions as { questions: Question[] }).questions;
 const yvkPool = (yvkQuestions as { questions: Question[] }).questions;
 const lwcPool = (lwcQuestions as { questions: Question[] }).questions;
 const pqcPool = (pqcQuestions as { questions: Question[] }).questions;
+const strategiyaPool = (strategiyaQuestions as { questions: Question[] }).questions;
+const pedPool = (pedQuestions as { questions: Question[] }).questions;
+const innovationPool = (innovationQuestions as { questions: Question[] }).questions;
+const huquqPool = huquqQuestions as unknown as Question[];
+const raqamliPool = raqamliQuestions as unknown as Question[];
+const sifatPool = sifatQuestions as unknown as Question[];
 
 const mixSpecialistQuestions: Question[] = shuffle([
-  ...takeRandom(cryptoPool, 20),
-  ...takeRandom(kmaPool, 20),
-  ...takeRandom(zkuPool, 20),
-  ...takeRandom(yvkPool, 20),
-  ...takeRandom(lwcPool, 20),
-  ...takeRandom(pqcPool, 20),
+  ...takeRandom(cryptoPool, 9),
+  ...takeRandom(kmaPool, 9),
+  ...takeRandom(zkuPool, 9),
+  ...takeRandom(strategiyaPool, 9),
+  ...takeRandom(pedPool, 9),
+  ...takeRandom(innovationPool, 9),
+  ...takeRandom(lwcPool, 9),
+  ...takeRandom(pqcPool, 10),
+  ...takeRandom(huquqPool, 9),
+  ...takeRandom(raqamliPool, 9),
+  ...takeRandom(sifatPool, 9),
 ]);
 
 export const tests = {
@@ -69,6 +85,21 @@ export const tests = {
     title: "Ilmiy va innovatsion faoliyatni rivojlantirish",
     questions: (innovationQuestions as unknown as { questions: Question[] })
       .questions,
+    durationSeconds: 60 * 80,
+  },
+  huquq: {
+    title: "Huquqiy",
+    questions: huquqPool,
+    durationSeconds: 60 * 80,
+  },
+  raqamli: {
+    title: "Raqamli kompetensiyalar",
+    questions: raqamliPool,
+    durationSeconds: 60 * 80,
+  },
+  sifat: {
+    title: "Ta'lim sifati",
+    questions: sifatPool,
     durationSeconds: 60 * 80,
   },
   KMA: {
@@ -108,7 +139,7 @@ export const tests = {
     durationSeconds: 60 * 80,
   },
   mix: {
-    title: "Umumiy mutaxassisliklar",
+    title: "Umumiy va mutaxassislik testlari aralashmasi",
     questions: mixSpecialistQuestions,
     durationSeconds: 60 * 90,
   },

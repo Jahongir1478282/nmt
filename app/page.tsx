@@ -54,19 +54,19 @@ export default function HomePage() {
 
   const sections = [
     {
-      cards: testCards.slice(0, 3),
+      cards: testCards.slice(0, 6),
       wrapperClass:
-        "grid gap-4 sm:grid-cols-2 border-b border-gray-300 pb-8 mb-8",
+        "grid gap-4 sm:grid-cols-3 border-b border-gray-300 pb-8 mb-8",
       variantClass: "border-gray-200",
     },
     {
-      cards: testCards.slice(3, 8),
+      cards: testCards.slice(6, 11),
       wrapperClass:
-        "grid gap-4 sm:grid-cols-2 border-b border-gray-300 pb-8 mb-8",
+        "grid gap-4 sm:grid-cols-3 border-b border-gray-300 pb-8 mb-8",
       variantClass: "border-blue-400",
     },
     {
-      cards: testCards.slice(8),
+      cards: testCards.slice(11),
       wrapperClass: "grid gap-4 sm:grid-cols-2",
       variantClass: "border-orange-500",
     },
