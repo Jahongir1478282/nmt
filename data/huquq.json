@@ -7,7 +7,7 @@
       "Qonunlar",
       "O'zbekiston Respublikasi Oliy sudi plenumi qarorlari"
     ],
-    "correct": "Qonunlar"
+    "correct_answer": "Qonunlar"
   },
   {
     "question": ".......... davlat va jamiyat qurilishining tub asoslarini, shaxs va tashkilotlarning huquqiy maqomini belgilab beradi.",
@@ -17,7 +17,7 @@
       "normalar",
       "xalqaro qonunlar"
     ],
-    "correct": "Konstitutsiyaviy qonunlar"
+    "correct_answer": "Konstitutsiyaviy qonunlar"
   },
   {
     "question": "«O'zbekiston Respublikasi oliy ta'lim tizimini 2030 yilgacha rivojlantirish konsepsiyasi\"...",
@@ -27,7 +27,7 @@
       "O'zbekiston Respublikasi Prezidentining 2019 yil 8 oktabrdagi PF-5847-sonli Farmoni",
       "Vazirlar Mahkamasining qarorlari bilan"
     ],
-    "correct": "O'zbekiston Respublikasi Prezidentining 2019 yil 8 oktabrdagi PF-5847-sonli Farmoni"
+    "correct_answer": "O'zbekiston Respublikasi Prezidentining 2019 yil 8 oktabrdagi PF-5847-sonli Farmoni"
   },
   {
     "question": "«Ta'lim to'g'risida”gi Qonunning maqsadi?",
@@ -37,17 +37,17 @@
       "Har kimning bilim olishdan iborat konstitutsiyaviy huquqini ta'minlashga qaratilgan.",
       "Fuqarolarga ta'lim, tarbiya berishga qaratilgan."
     ],
-    "correct": "Ta'lim sohasidagi munosabatlarni tartibga solishdan iborat"
+    "correct_answer": "Ta'lim sohasidagi munosabatlarni tartibga solishdan iborat"
   },
   {
     "question": "… o'qitishning maqsadi va natijalariga erishish (amalga oshirish) yo'llari tizimi",
     "options": ["Mustahkamlash", "Mashq", "Takrorlash", "Metod"],
-    "correct": "Metod"
+    "correct_answer": "Metod"
   },
   {
     "question": "15 yoshli o'quvchilar uchun o'tkaziladigan Xalqaro baholash dasturi PISA mezonining birinchi darajasi Blum taksonomiyasining qaysi o'quv maqsadiga mosligini toping",
     "options": ["Amalda qo'llash", "Tushinish", "Bilish", "tahlil sintez."],
-    "correct": "Bilish"
+    "correct_answer": "Bilish"
   },
   {
     "question": "15 yoshli o'quvchilar uchun o'tkaziladigan Xalqaro baholash dasturi PISA mezonining ikkinchi darajasi Blum taksonomiyasining qaysi o'quv maqsadiga mosligini toping",
@@ -57,7 +57,7 @@
       "Amalda qo'llash",
       "tahlil sintez."
     ],
-    "correct": "Bilish, tushunish"
+    "correct_answer": "Bilish, tushunish"
   },
   {
     "question": "15 yoshli o'quvchilar uchun o'tkaziladigan Xalqaro baholash dasturi PISA mezonining oltinchi darajasi Blum taksonomiyasining qaysi o'quv maqsadiga mosligini toping",
@@ -67,12 +67,12 @@
       "Bilish, tushunish, amalda qo'llash, tahlil, sintez, xulosa",
       "tushunish, xulosa tahlil sintez."
     ],
-    "correct": "Bilish, tushunish, amalda qo'llash, tahlil, sintez, xulosa"
+    "correct_answer": "Bilish, tushunish, amalda qo'llash, tahlil, sintez, xulosa"
   },
   {
     "question": "2018-2021 yillarda ilmiy-innovatsion faoliyat sohasida nechta qonun ishlab chiqildi",
     "options": ["3", "ishlab chiqilmagan", "1", "2"],
-    "correct": "2"
+    "correct_answer": "2"
   },
   {
     "question": "2023 yilda «Oliy ta'lim yo'nalishlari va mutaxassisliklari klassifikatori”da necha bilim va ta'lim sohasi mavjud?",
@@ -82,12 +82,12 @@
       "6 ta bilim, 25 ta ta'lim sohasi",
       "10 ta bilim, 26 ta ta'lim sohasi"
     ],
-    "correct": "10 ta bilim, 26 ta ta'lim sohasi"
+    "correct_answer": "10 ta bilim, 26 ta ta'lim sohasi"
   },
   {
     "question": "2023-yil 30-aprel kuni o'tkazilgan OzR referendumida umumxalq ovoz berish orqali qabul qilingan O'zR Konstitutsiyasi nechta bo'limdan iborat",
     "options": ["12", "4", "8", "6"],
-    "correct": "6"
+    "correct_answer": "6"
   },
   {
     "question": "2024 yilgacha Respubkamizninig qancha davlat oliy o'quv yurtlariga akademik va moliyaviy mustaqillik berilgan?",
@@ -97,7 +97,7 @@
       "41 ta davlat oliy o'quv yurtlariga",
       "24 ta davlat oliy o'quv yurtlariga"
     ],
-    "correct": "41 ta davlat oliy o'quv yurtlariga"
+    "correct_answer": "41 ta davlat oliy o'quv yurtlariga"
   },
   {
     "question": "4K kompetensiyalari asosida talabalarni rivojlantirish bu -",
@@ -107,7 +107,7 @@
       "kreativlik, tanqidiy fikrlash, kommunikativlik, kooperatsiya",
       "kompetensiya, qiziquvchanlik, dialog, kommunikativlik"
     ],
-    "correct": "kreativlik, tanqidiy fikrlash, kommunikativlik, kooperatsiya"
+    "correct_answer": "kreativlik, tanqidiy fikrlash, kommunikativlik, kooperatsiya"
   },
   {
     "question": "Adabiyotlarda va muomalada oxirgi paytlarda \"tadbirkorlik universiteti\" qanday nom bilan atalmoqda?",
@@ -117,7 +117,7 @@
       "universitet 3.0",
       "univsitet 4.0"
     ],
-    "correct": "universitet 3.0"
+    "correct_answer": "universitet 3.0"
   },
   {
     "question": "Akademik spin-off- bu:",
@@ -127,7 +127,7 @@
       "universitetga taalluqli bo'lgan texnologiyalar asosida faqat universitet xodimlari tomonidan yaratiladigan shu'ba tashkilot.",
       "universitetga taalluqli bo'lgan texnologiyalar asosida faqat universitet bitiruvchilari tomonidan yaratiladigan shu'ba tashkilot."
     ],
-    "correct": "universitetga taalluqli bo'lgan texnologiyalar asosida universitet xodimlari yoki bitiruvchilari tomonidan yaratiladigan shu'ba tashkilot."
+    "correct_answer": "universitetga taalluqli bo'lgan texnologiyalar asosida universitet xodimlari yoki bitiruvchilari tomonidan yaratiladigan shu'ba tashkilot."
   },
   {
     "question": "Akademik tadbirkorlik -",
@@ -137,7 +137,7 @@
       "bu o'qituvchi-tadqiqotchilarning rivojlanishini innovatsiyada ishtirok etishini anglatadi (o'z ishlanmalarini ilmiy jarayonga joriy etishini anglatadi).",
       "bu o'qituvchi-tadqiqotchilarning rivojlanishini ilmiy-tadqiqotda ishtirok etishini anglatadi (o'z ishlanmalarini tijoratlashtirishda ishtirok etishini anglatadi)."
     ],
-    "correct": "bu tadqiqotchilar va olimlarning rivojlanishini tijoratlashtirishda ishtirok etishini anglatadi (o'z ishlanmalarini tijoratlashtirishda ishtirok etishini anglatadi)."
+    "correct_answer": "bu tadqiqotchilar va olimlarning rivojlanishini tijoratlashtirishda ishtirok etishini anglatadi (o'z ishlanmalarini tijoratlashtirishda ishtirok etishini anglatadi)."
   },
   {
     "question": "Akkreditatsiya qilingan ta'lim tashkilotlarining davlat ta'lim standartlariga va davlat ta'lim talablariga muvofiq ta'lim olgan bitiruvchilariga davlat tomonidan tasdiqlangan namunadagi ma'lumot to'g'risidagi qanday hujjat beriladi?",
@@ -147,7 +147,7 @@
       "Oliy ma'lumot to'g'risidagi hujjat «Guvohnoma»",
       "Oliy ma'lumot to'g'risidagi hujjat «Attestat»"
     ],
-    "correct": "Oliy ma'lumot to'g'risidagi hujjat «Diplom»"
+    "correct_answer": "Oliy ma'lumot to'g'risidagi hujjat «Diplom»"
   },
   {
     "question": "Aksiologiyaning lug'aviy ma'nosi to'g'ri ko'rsatilgan javobni toping.",
@@ -157,7 +157,7 @@
       "yunoncha axio - bola va logos - fan, ta'limot",
       "yunoncha axio - o'tmish va logos - fan, ta'limot"
     ],
-    "correct": "yunoncha axio - qadriyat va logos - fan, ta'limot"
+    "correct_answer": "yunoncha axio - qadriyat va logos - fan, ta'limot"
   },
   {
     "question": "Andragogika tushunchasi qaysi olim tomonidan fan sifatida amaliyotga kiritilgan",
@@ -167,17 +167,17 @@
       "Aleksandr Kapp",
       "V.V Kraevskiy"
     ],
-    "correct": "Aleksandr Kapp"
+    "correct_answer": "Aleksandr Kapp"
   },
   {
     "question": "Aqliy yoki amaliy (jismoniy) harakatlarni bajarish ko'nikmalarini egallash yo'lidagi ko'p marta takrorlanish bu-...",
     "options": ["Suhbat", "Masala yechish", "Faoliyat", "Mashq"],
-    "correct": "Mashq"
+    "correct_answer": "Mashq"
   },
   {
     "question": "Ayrim so'z va bo'g'inlarning aytilish muddati va to'xtalishi, nutq va ifodalarning navbat bilan o'z o'rnida ishlatilishi nimani bildiradi?",
     "options": ["Ritmika", "Artikulyatsiya", "Diksiya", "Takt"],
-    "correct": "Ritmika"
+    "correct_answer": "Ritmika"
   },
   {
     "question": "Bakalavriat ta'lim yo'nalishi namunaviy o'quv rejasidan o'rin olgan o'quv modulidan auditoriyadan tashqari tashkil etiladigan o'qitish shakllarini toping",
@@ -187,7 +187,7 @@
       "ma'ruza, laboratoriya, amaliy mashg'ulotlar, fan to'garagi",
       "kurs ishi, bitiruv-loyiha ishi, mustaqil ta'lim, fan to'garagi"
     ],
-    "correct": "kurs ishi, bitiruv-loyiha ishi, mustaqil ta'lim, fan to'garagi"
+    "correct_answer": "kurs ishi, bitiruv-loyiha ishi, mustaqil ta'lim, fan to'garagi"
   },
   {
     "question": "Bilimga berilgan to'liq javobni toping.",
@@ -197,22 +197,22 @@
       "narsa va hodisalarning muhim belgi va xususiyatlari, jarayonlar to'g'risida fan tomonidan aniqlangan tushunchalardan tarkib topadi.",
       "narsa va hodisalarning muhim belgi va xususiyatlari, jarayonlar to'g'risida fan tomonidan aniqlangan qonunlardan tarkib topadi."
     ],
-    "correct": "narsa va hodisalarning muhim belgi va xususiyatlari, jarayonlar to'g'risida fan tomonidan aniqlangan tushunchalardan tarkib topadi."
+    "correct_answer": "narsa va hodisalarning muhim belgi va xususiyatlari, jarayonlar to'g'risida fan tomonidan aniqlangan tushunchalardan tarkib topadi."
   },
   {
     "question": "Birinchi akademik tadbirkorlikka o'tish qaysi texnologiya institutida ro'y berdi",
     "options": ["Sarbona", "Kembridj", "Massachusets", "Berlin"],
-    "correct": "Massachusets"
+    "correct_answer": "Massachusets"
   },
   {
     "question": "Blum taksonomiyasi bo'yicha o'quv maqsadlarini shakllantirishda amaliyotga qo'llash maqsadidan keyin keladigan maqsad berilgan javobni toping",
     "options": ["tahlil", "sintez", "tushinish", "xulosa"],
-    "correct": "tahlil"
+    "correct_answer": "tahlil"
   },
   {
     "question": "Blum taksonomiyasi bo'yicha o'quv maqsadlarini shakllantirishda tahlil maqsadidan keyin keladigan maqsad berilgan javobni toping",
     "options": ["Amaliyotga qo'llash", "Bilish", "Tahlil", "Sintez"],
-    "correct": "Sintez"
+    "correct_answer": "Sintez"
   },
   {
     "question": "Bugungi kundagi tadbirkorlik universitetini shakllantirishda barcha darajalardagi boshqaruvchilarning innovatsion va loyihali dastaklardan foydalana oladigan, innovatsion fikrlaydigan yangi turini tayyorlash masalasining yechimi nima hisoblanadi?",
@@ -222,7 +222,7 @@
       "yangi institut - \"tadbirkor-ilmiy-pedagogik kadrlar\" (faunderlar) klubini yaratish hisoblanadi.",
       "yangi institut - \"professor-tadbirkor\" (faunderlar) klubini yaratish hisoblanadi."
     ],
-    "correct": "yangi institut - \"professor-tadbirkor\" (faunderlar) klubini yaratish hisoblanadi."
+    "correct_answer": "yangi institut - \"professor-tadbirkor\" (faunderlar) klubini yaratish hisoblanadi."
   },
   {
     "question": "Davlat ta'lim standartlari nimalarni belgilaydi?",
@@ -232,7 +232,7 @@
       "Oliy ta'lim mazmuni va sifatiga oid talablar majmui",
       "Davlat tomonidan umimiy o'rta ta'lim mazmuni va sifatiga oid talablar majmui"
     ],
-    "correct": "Davlat tomonidan ta'limning mazmuni va sifatiga nisbatan belgilanadigan talablar majmui"
+    "correct_answer": "Davlat tomonidan ta'limning mazmuni va sifatiga nisbatan belgilanadigan talablar majmui"
   },
   {
     "question": "Davlat ta'lim standartlariga ko'ra, o'quv reja qanday hujjat hisoblanadi?",
@@ -242,7 +242,7 @@
       "Oliy ta'limning tarkibi, ularni o'rganishning izchilligi, soatlar va kreditlardagi hajmini ta'lim davrining to'liq muddati uchun belgilaydigan hujjat.",
       "Oliy ta'limning izchilligi, soatlar va kreditlardagi hajmini ta'lim davrining to'liq muddati uchun belgilaydigan hujjat."
     ],
-    "correct": "Oliy ta'limning muayyan bakalavriat ta'lim yo'nalishi yoki magistratura mutaxassisligi bo'yicha o'quv faoliyati turlari, o'quv fanlari va kurslarining tarkibi, ularni o'rganishning izchilligi, soatlar va kreditlardagi hajmini ta'lim davrining to'liq muddati uchun belgilaydigan hujjat.."
+    "correct_answer": "Oliy ta'limning muayyan bakalavriat ta'lim yo'nalishi yoki magistratura mutaxassisligi bo'yicha o'quv faoliyati turlari, o'quv fanlari va kurslarining tarkibi, ularni o'rganishning izchilligi, soatlar va kreditlardagi hajmini ta'lim davrining to'liq muddati uchun belgilaydigan hujjat.."
   },
   {
     "question": "Diksiya bu-…",
@@ -252,7 +252,7 @@
       "Bir maromda talaffuz qilish",
       "So'zlarni aniq talaffuz qilish"
     ],
-    "correct": "So'zlarni aniq talaffuz qilish"
+    "correct_answer": "So'zlarni aniq talaffuz qilish"
   },
   {
     "question": "Dinamik o'zgarayotgan jamiyatda uzluksiz ta'lim uning rivojlanishining ajralmas omili bo'lishi natijasida -",
@@ -262,7 +262,7 @@
       "uzluksiz va yoshlikda ta'lim-tarbiya olish trendga aylanmoqda.",
       "uzluksiz va umr davomida ta'lim olish trendga aylanmoqda."
     ],
-    "correct": "uzluksiz va umr davomida ta'lim olish trendga aylanmoqda."
+    "correct_answer": "uzluksiz va umr davomida ta'lim olish trendga aylanmoqda."
   },
   {
     "question": "DTS ga oid to'g'ri bandni ko'rsating.",
@@ -272,7 +272,7 @@
       "DTS mudofaa, xavfsizlik va huquqni muhofaza qilish faoliyati sohasida kadrlar tayyorlovchi davlat oliy ta'lim muassasalari uchun majburiy emas",
       "DTS O'zbekiston Respublikasi hududida joylashgan barcha ta'lim muassasalari uchun majburiydir"
     ],
-    "correct": "DTS O'zbekiston Respublikasi hududida joylashgan barcha ta'lim muassasalari uchun majburiydir"
+    "correct_answer": "DTS O'zbekiston Respublikasi hududida joylashgan barcha ta'lim muassasalari uchun majburiydir"
   },
   {
     "question": "Eksternat tartibidagi ta'lim olish.....?",
@@ -282,7 +282,7 @@
       "alohida ta'lim ehtiyojlari va individual imkoniyatlarning xilma-xilligini hisobga olgan holda barcha ta'lim oluvchilar uchun ta'lim tashkilotlarida ta'lim olishga bo'lgan teng imkoniyatlarni ta'minlashga qaratilgan",
       "o'quv dasturlarini mustaqil ravishda o'zlashtirishni o'z ichiga olib, uning yakunlari bo'yicha ta'lim oluvchilardan davlat ta'lim muassasalarida yakuniy va davlat attestatsiyalaridan o'tishni talab etad"
     ],
-    "correct": "o'quv dasturlarini mustaqil ravishda o'zlashtirishni o'z ichiga olib, uning yakunlari bo'yicha ta'lim oluvchilardan davlat ta'lim muassasalarida yakuniy va davlat attestatsiyalaridan o'tishni talab etad"
+    "correct_answer": "o'quv dasturlarini mustaqil ravishda o'zlashtirishni o'z ichiga olib, uning yakunlari bo'yicha ta'lim oluvchilardan davlat ta'lim muassasalarida yakuniy va davlat attestatsiyalaridan o'tishni talab etad"
   },
   {
     "question": "Har bir ta'lim oluvchi va jamoaga ta'sir o'tkazishda samarali qo'llash uchun zarur bo'lgan malaka va ko'nikmalar, usullar majmuasi bu-…",
@@ -292,7 +292,7 @@
       "Pedagogik mahorat",
       "Pedagogik texnika"
     ],
-    "correct": "Pedagogik texnika"
+    "correct_answer": "Pedagogik texnika"
   },
   {
     "question": "HEMIS - Higher education Management Systems bo'yicha to'liq berilgan fikrni toping",
@@ -302,7 +302,7 @@
       "talaba barcha modullar didaktik maqsadlariga bosqichma-bosqich erishadi",
       "oliy ta'lim muassasalarining faoliyatini maqsadga muvofiq boshqarish va raqamlashtirish tizimi"
     ],
-    "correct": "oliy ta'lim muassasalarining faoliyatini maqsadga muvofiq boshqarish va raqamlashtirish tizimi"
+    "correct_answer": "oliy ta'lim muassasalarining faoliyatini maqsadga muvofiq boshqarish va raqamlashtirish tizimi"
   },
   {
     "question": "HEMISning \"Talabalar hayotini boshqarish\" moduli amalga oshiradigan vazifalaridan birini toping.",
@@ -312,7 +312,7 @@
       "Talabalarning turli guruhlari uchun dars jadvali;",
       "Modul bo'yicha onlayn imtihon (joriy, oraliq, yakuniy nazorat) va o'zlashtirishni hisobga olish tizimi;"
     ],
-    "correct": "Talabalarning shaxsi haqidagi ma'lumotlar va o'zlashtirishi;"
+    "correct_answer": "Talabalarning shaxsi haqidagi ma'lumotlar va o'zlashtirishi;"
   },
   {
     "question": "Ijtimoiy munosabatlarda faollik ko'rsatish ko'nikma, malakalariga egalik, kasbiy faoliyatda sub'ektlar bilan muloqotga kirisha olishi qaysi kompetentlikning mazmuni hisoblanadi?",
@@ -322,7 +322,7 @@
       "Psixologik kompetentlik",
       "Kommunikativ kompetentlik"
     ],
-    "correct": "Ijtimoiy kompetentlik"
+    "correct_answer": "Ijtimoiy kompetentlik"
   },
   {
     "question": "Imij (inglizcha image) so'zining ma'nosi nima?",
@@ -332,7 +332,7 @@
       "timsol\", \"tasvir\", \"obraz\"",
       "qiyofa \"tasvir\", \"obraz\""
     ],
-    "correct": "siymo, timsol\", \"qiyofa\" \"tasvir\", \"obraz\""
+    "correct_answer": "siymo, timsol\", \"qiyofa\" \"tasvir\", \"obraz\""
   },
   {
     "question": "IMRAD - bu ilmiy maqola tuzilishining bir muncha keng tarqalgan abbreviaturasi bo'lib inglizcha:",
@@ -342,7 +342,7 @@
       "Introduction (Xulosa), Methods (Metodlar), Results (Natijalar) And (&) Discussion (Muhokama).",
       "Introduction (Kirish), Methods (Metodlar), Results (Natijalar) And (&) Discussion (Muhokama)."
     ],
-    "correct": "Introduction (Kirish), Methods (Metodlar), Results (Natijalar) And (&) Discussion (Muhokama)."
+    "correct_answer": "Introduction (Kirish), Methods (Metodlar), Results (Natijalar) And (&) Discussion (Muhokama)."
   },
   {
     "question": "Innovatsion faoliyat to'g'risidagi qonunning maqsadi nimalardan iborat?",
@@ -352,7 +352,7 @@
       "tadbirkorlik faoliyati sohasidagi munosabatlarni tartibga solishdan iborat.",
       "ilmiy-tadqiqot faoliyati sohasidagi munosabatlarni tartibga solishdan iborat."
     ],
-    "correct": "innovatsion faoliyat sohasidagi munosabatlarni tartibga solishdan iborat."
+    "correct_answer": "innovatsion faoliyat sohasidagi munosabatlarni tartibga solishdan iborat."
   },
   {
     "question": "Innovatsion infratuzilma -",
@@ -362,7 +362,7 @@
       "ilmiy faoliyatni moliyaviy, tashkiliy-uslubiy, axborot, konsultativ va boshqa jihatdan ta'minlaydigan korxonalar, tashkilotlar, muassasalar, mulkchilikning istalgan shaklidagi ular birlashmalarining majmui.",
       "ilmiy-tadqiqot faoliyatini moliyaviy, tashkiliy-uslubiy, axborot, konsultativ va boshqa jihatdan ta'minlaydigan korxonalar, tashkilotlar shaklidagi ular birlashmalarining majmui."
     ],
-    "correct": "innovatsion faoliyatni moddiy-texnik, moliyaviy, tashkiliy-uslubiy, axborot, konsultativ va boshqa jihatdan ta'minlaydigan korxonalar, tashkilotlar, muassasalar, mulkchilikning istalgan shaklidagi ular birlashmalarining majmui."
+    "correct_answer": "innovatsion faoliyatni moddiy-texnik, moliyaviy, tashkiliy-uslubiy, axborot, konsultativ va boshqa jihatdan ta'minlaydigan korxonalar, tashkilotlar, muassasalar, mulkchilikning istalgan shaklidagi ular birlashmalarining majmui."
   },
   {
     "question": "Innovatsion ta'lim jarayonida nima yetakchi o'ringa ega?",
@@ -372,7 +372,7 @@
       "interfaol metodlar",
       "texnologik xarita"
     ],
-    "correct": "interfaol metodlar"
+    "correct_answer": "interfaol metodlar"
   },
   {
     "question": "Innovatsiya loyihasi samaradorligining ko'rsatkichlari",
@@ -382,7 +382,7 @@
       "tijorat samaradorligi, davlat, mintaqaviy va mahalliy budjet, milliy iqtisodiyot",
       "samarador"
     ],
-    "correct": "tijorat samaradorligi, davlat, mintaqaviy va mahalliy budjet, milliy iqtisodiyot"
+    "correct_answer": "tijorat samaradorligi, davlat, mintaqaviy va mahalliy budjet, milliy iqtisodiyot"
   },
   {
     "question": "Innovatsiya so'zi ingliz tilidan olingan bo'lib, ....... degan ma'noni anglatadi",
@@ -392,7 +392,7 @@
       "yangilikni joriy etish",
       "yangicha fikrlash"
     ],
-    "correct": "yangilikni joriy etish"
+    "correct_answer": "yangilikni joriy etish"
   },
   {
     "question": "Innovatsiyalarning turlari quyidagilar hisoblanadi:",
@@ -402,7 +402,7 @@
       "texnologik; mahsulotli;boshqaruv-marketingli va ijtimoiy",
       "texnologik; mahsulotli; boshqaruv-marketingli va siyosiy-iqtisodiy"
     ],
-    "correct": "texnologik; mahsulotli;boshqaruv-marketingli va ijtimoiy"
+    "correct_answer": "texnologik; mahsulotli;boshqaruv-marketingli va ijtimoiy"
   },
   {
     "question": "Inson his tuyg'ulari uning ... namoyon bo'ladi",
@@ -412,17 +412,17 @@
       "yuzida - yuz mushaklarini qisqarishi va bo'shashishi natijasida",
       "gavda, qo'l, oyoq harakatida"
     ],
-    "correct": "yuzida - yuz mushaklarini qisqarishi va bo'shashishi natijasida"
+    "correct_answer": "yuzida - yuz mushaklarini qisqarishi va bo'shashishi natijasida"
   },
   {
     "question": "Inson kamolotida uch narsa - irsiyat, muhit, tarbiya muhim rol o'ynaydi",
     "options": ["Beruniy", "Farobiy", "Yusuf xos Xojib", "Ibn Sino"],
-    "correct": "Beruniy"
+    "correct_answer": "Beruniy"
   },
   {
     "question": "Kattalarning (psixologik, natijalarga va mahorat cho'qqisiga erishish) rivojlanish qonunlarini qaysi fan o'rganadi?",
     "options": ["Sotsiologiya", "Psixologiya", "Andragogika", "Akmeologiya"],
-    "correct": "Akmeologiya"
+    "correct_answer": "Akmeologiya"
   },
   {
     "question": "Kelajak universiteti sifatida nafaqat talim, ilm-fan va innovatsiya, ko'proq darajada - sotsiumning barcha tuzilmalari bilan integratsiyalashuv, inson kapitalining uning butun umri davomidagi rivojlanishi bilan birga borishi qaysi universitet shakliga xos?",
@@ -432,12 +432,12 @@
       "universitet 5.0 ga",
       "universitet 3.0 ga"
     ],
-    "correct": "universitet 4.0 ga"
+    "correct_answer": "universitet 4.0 ga"
   },
   {
     "question": "Kishilik jamiyatining tarixiy taraqqiyot davrida ta'limning keng tarqalgan tashkiliy shakli to'g'ri ko'rsatilgan javobni aniqlang",
     "options": ["Ommaviy", "Jamoaviy", "Yakka tartibda", "Kichik guruhlarda"],
-    "correct": "Yakka tartibda"
+    "correct_answer": "Yakka tartibda"
   },
   {
     "question": "kommunikativ qobiliyat qanday qobiliyat",
@@ -447,7 +447,7 @@
       "Boshqalarning ruhiy haloatlarini tushunish va yangi texnologiyalr yaratish",
       "Boshqalarning ruhiy haloatlarini tushunish va yangi usullar yaratish"
     ],
-    "correct": "Boshqalarning ruhiy haloatlarini tushunish va ularga hamdardlik munosabatida bo'lish qobiliyati"
+    "correct_answer": "Boshqalarning ruhiy haloatlarini tushunish va ularga hamdardlik munosabatida bo'lish qobiliyati"
   },
   {
     "question": "Kommunikativ tushunchasining mohiyatini belgilang",
@@ -457,12 +457,12 @@
       "Tarbiyaviy aloqa o'rnatish",
       "An'anaviy va noan'anaviy nazorat"
     ],
-    "correct": "Diagnostik, talabalarda bilim olish ishtiyoqini o'stirish, shaxsiy hislatlarni shakllantirish va rivojlantirish funksiyalari"
+    "correct_answer": "Diagnostik, talabalarda bilim olish ishtiyoqini o'stirish, shaxsiy hislatlarni shakllantirish va rivojlantirish funksiyalari"
   },
   {
     "question": "Kompetentlik pedagogik kategoriya sifatida ta'lim sohasiga qaysi fan ilmiy izlanishlari natijasida kirib kelgan?",
     "options": ["deontologiya", "psixologiya", "sotsiologiya", "falsafa"],
-    "correct": "psixologiya"
+    "correct_answer": "psixologiya"
   },
   {
     "question": "Kompetentlik tushunchasining lug'aviy ma'nosi qaysi javobda to'g'ri ko'rsatilgan?",
@@ -472,7 +472,7 @@
       "grekcha \"competence\" - \"mahorat\"",
       "italyancha \"competence\" - \"ijodkor\""
     ],
-    "correct": "inglizcha \"competence\" - \"qobiliyat\""
+    "correct_answer": "inglizcha \"competence\" - \"qobiliyat\""
   },
   {
     "question": "Kreativ salohiyat va tanqidiy fikrlashni rivojlantirishning tasnifiy ko'rsatkichlari bu -",
@@ -482,7 +482,7 @@
       "tahlil qilish va baholash, o'rganish, muammoni yaratish, fikr bildirish",
       "tadqiq etish, tasavvur qilish, bajarish, tahlil qilish va baholash"
     ],
-    "correct": "tadqiq etish, tasavvur qilish, bajarish, tahlil qilish va baholash"
+    "correct_answer": "tadqiq etish, tasavvur qilish, bajarish, tahlil qilish va baholash"
   },
   {
     "question": "Kredit-modul tizimida amaliyotga joriy etilishi nazarda tutilgan \"blended learning\" texnologiyasining ma'nosi to'g'ri berilgan javobni toping.",
@@ -492,7 +492,7 @@
       "Aralash ta'lim",
       "modulli ta'lim"
     ],
-    "correct": "Aralash ta'lim"
+    "correct_answer": "Aralash ta'lim"
   },
   {
     "question": "Kredit-modul tizimiga berilgan javobni toping.",
@@ -502,7 +502,7 @@
       "yaxlit, muayyan o'quv natijalariga erishishga qaratilgan, Reyting tizimi mezonlariga ega bulgan tizimli, izchil o'qish va o'rganish harakatlari jamlanmasi.",
       "oliy ta'limni tugatishiga asos bo'ladigan talaba tomonidan to'plangan ramziy o'lchov birligi."
     ],
-    "correct": "o'qitishning modul texnologiyalari jamlamasi va kredit o'lchovi asosida baholash modeli"
+    "correct_answer": "o'qitishning modul texnologiyalari jamlamasi va kredit o'lchovi asosida baholash modeli"
   },
   {
     "question": "Kredit-modul tizimining afzalligi bo'yicha to'liq berilgan fikrni toping",
@@ -512,7 +512,7 @@
       "talaba barcha modullar didaktik maqsadlariga bosqichma-bosqich erishadi",
       "talaba har bir modul bo'yicha belgilangan kredit birligi to'plash orqali o'quv moduli didaktik maqsadlariga bosqichma-bosqich erishadi"
     ],
-    "correct": "talaba har bir modul bo'yicha belgilangan kredit birligi to'plash orqali o'quv moduli didaktik maqsadlariga bosqichma-bosqich erishadi"
+    "correct_answer": "talaba har bir modul bo'yicha belgilangan kredit birligi to'plash orqali o'quv moduli didaktik maqsadlariga bosqichma-bosqich erishadi"
   },
   {
     "question": "Kredit-modulning ECTS tizimida har bir modul qancha miqdordagi kreditlarni aks ettiradi",
@@ -522,7 +522,7 @@
       "Bir nechta kredit",
       "Muayyan miqdordagi kredit"
     ],
-    "correct": "Muayyan miqdordagi kredit"
+    "correct_answer": "Muayyan miqdordagi kredit"
   },
   {
     "question": "Kvartil (chorak) Q - bu",
@@ -532,7 +532,7 @@
       "texnik jurnallarning sitatalanganlik darajasini, ya'ni jurnalga ilmiy hamjamiyat tomonidan bo'lgan talabni aks ettiruvchi bibliometrik ko'rsatkichlarni aniqlovchi kategoriya.",
       "ilmiy jurnallarning sitatalanganlik darajasini, ya'ni jurnalga ilmiy hamjamiyat tomonidan bo'lgan talabni aks ettiruvchi bibliometrik ko'rsatkichlarni aniqlovchi kategoriya."
     ],
-    "correct": "ilmiy jurnallarning sitatalanganlik darajasini, ya'ni jurnalga ilmiy hamjamiyat tomonidan bo'lgan talabni aks ettiruvchi bibliometrik ko'rsatkichlarni aniqlovchi kategoriya."
+    "correct_answer": "ilmiy jurnallarning sitatalanganlik darajasini, ya'ni jurnalga ilmiy hamjamiyat tomonidan bo'lgan talabni aks ettiruvchi bibliometrik ko'rsatkichlarni aniqlovchi kategoriya."
   },
   {
     "question": "Lug'aviy jihatdan \"interaktiv\" tushunchasining ma'nosi",
@@ -542,12 +542,12 @@
       "o'zaro yordam bermoq",
       "o'zaro kelishib olmoq"
     ],
-    "correct": "o'zaro harakat qilmoq"
+    "correct_answer": "o'zaro harakat qilmoq"
   },
   {
     "question": "M.Stobart tomonidan tayanch kompetensiyalarning nechta guruhini belgilab ko'rsatilgan?",
     "options": ["6 ta", "4 ta", "5 ta", "3 ta"],
-    "correct": "5 ta"
+    "correct_answer": "5 ta"
   },
   {
     "question": "Ma'ruzaning axborot berish funksiyasi berilgan javobni toping.",
@@ -557,7 +557,7 @@
       "Milliy g'oyani singdirish, o'quv materialiga hissiy baho berish, mantiqiy fikrlash va isbotlashni oydinlashtirish",
       "Asosiy ilmiy faktlar, qoidalar, xulosalarning mohiyatini yoritish"
     ],
-    "correct": "Asosiy ilmiy faktlar, qoidalar, xulosalarning mohiyatini yoritish"
+    "correct_answer": "Asosiy ilmiy faktlar, qoidalar, xulosalarning mohiyatini yoritish"
   },
   {
     "question": "Ma'ruzaning metodologik funksiyasi berilgan javobni toping.",
@@ -567,7 +567,7 @@
       "Milliy g'oyani singdirish, o'quv materialiga hissiy baho berish, mantiqiy fikrlash va isbotlashni oydinlashtirish",
       "Ta'lim olish va barkamollikka yo'naltirish, asosiy g'oyalar, nazariyalar, qonuniyatlar va qonunlarga jalb etish"
     ],
-    "correct": "Fanning tadqiqot metodlarini qiyoslash, chog'ishtirish, ilmiy izlanishning tamoyillari va yondashuvlarni yoritish"
+    "correct_answer": "Fanning tadqiqot metodlarini qiyoslash, chog'ishtirish, ilmiy izlanishning tamoyillari va yondashuvlarni yoritish"
   },
   {
     "question": "Masofaviy ta'limning qanday tamoyillari quyidagi tamoyillar asosida tashkil etiladi?",
@@ -577,7 +577,7 @@
       "Talaba va ta'lim beruvchining axborot-kommunikatsiya texnologiyalaridan foydalanishiga, interaktiv audio va videokonferensiyalar orqali ma'lum vaqt orasida o'zaro muloqotda bo'lishiga, elektron pochta orqali to'g'ri va teskari aloqa o'rnatishiga, jumladan xabarlarni yuborishi va qabul qilishiga mo'ljallangan, bilim va ko'nikmalarni, o'quv dasturlarini masofadan turib o'zlashtirish",
       "Masofaviy ta'lim o'quv rejalari va o'quv dasturlariga muvofiq ta'lim oluvchilar tomonidan zarur bilim, malaka va ko'nikmalarni axborot-kommunikatsiya texnologiyalaridan hamda Internet jahon axborot tarmog'idan foydalangan holda masofadan turib olishga qaratilgan."
     ],
-    "correct": "Ishtirokchilarning interfaolligi, talabalarning identifikatsiya qilinishi, yangi axborot-kommunikatsiya texnologiyalarini qo'llashning pedagogik maqsadga muvofiqligi, ta'lim berishning ochiqligi va moslashuvchanligi."
+    "correct_answer": "Ishtirokchilarning interfaolligi, talabalarning identifikatsiya qilinishi, yangi axborot-kommunikatsiya texnologiyalarini qo'llashning pedagogik maqsadga muvofiqligi, ta'lim berishning ochiqligi va moslashuvchanligi."
   },
   {
     "question": "Mimika bu -",
@@ -587,7 +587,7 @@
       "Bosh, gavda orqali o'z sezgisi, fikri, kayfiyatini ifodalashdir.",
       "Yuz muskullari orqali o'z sezgisi, fikri, kayfiyatini ifodalashdir."
     ],
-    "correct": "Yuz muskullari orqali o'z sezgisi, fikri, kayfiyatini ifodalashdir."
+    "correct_answer": "Yuz muskullari orqali o'z sezgisi, fikri, kayfiyatini ifodalashdir."
   },
   {
     "question": "Mutaxassis tomonidan kasbiy faoliyatni amalga oshirish uchun zarur bo'lgan bilim, ko'nikma va malakalarning egallanishi va ularni amalda yuqori darajada qo'llay olinishi nima deb ataladi?",
@@ -597,7 +597,7 @@
       "Kasbiy ijodkorlik",
       "Kasbiy iqtidor"
     ],
-    "correct": "Kasbiy kompetentlik"
+    "correct_answer": "Kasbiy kompetentlik"
   },
   {
     "question": "Mutaxassislarning tadqiqotlari natijasida o'qituvchilarning pedagogik bilim va peadgogik mahoratni egallashning 5 darajasini aniqlang",
@@ -607,7 +607,7 @@
       "Axborot, tezaurus, uslubiy, texnologik, tadqiqot",
       "Texnologik, innovatsion, kreativ, professional, ilg'orlik"
     ],
-    "correct": "Axborot, tezaurus, uslubiy, texnologik, tadqiqot"
+    "correct_answer": "Axborot, tezaurus, uslubiy, texnologik, tadqiqot"
   },
   {
     "question": "Normativ-huquqiy hujjatlar bilan ularning tarkibiy qismi sifatida tasdiqlanadigan hujjat - dasturga oid bandni ko'rsating.",
@@ -617,7 +617,7 @@
       "davlat organlari va tashkilotlarining ish tartibini, shuningdek, ular tomonidan ma'muriy tartib-taomillarni amalga oshirilishini belgilaydi",
       "turli sohalarda davlat siyosatining ustuvor va asosiy yo'nalishlari, maqsadlari, vazifa va amalga oshirish mexanizmlarini belgilaydi"
     ],
-    "correct": "turli sohalarda davlat siyosatining maqsadlariga erishilishini ta'minlaydigan tadbirlar tizimini va mexanizmlarini belgilaydi"
+    "correct_answer": "turli sohalarda davlat siyosatining maqsadlariga erishilishini ta'minlaydigan tadbirlar tizimini va mexanizmlarini belgilaydi"
   },
   {
     "question": "Normativ-huquqiy hujjatlar bilan ularning tarkibiy qismi sifatida tasdiqlanadigan hujjat - konsepsiyaga oid bandni ko'rsating.",
@@ -627,7 +627,7 @@
       "turli sohalarda davlat siyosatining ustuvor va asosiy yo'nalishlari, maqsadlari, vazifa va amalga oshirish mexanizmlarini belgilaydi",
       "turli sohalarda davlat siyosatining maqsadlariga erishilishini ta'minlaydigan tadbirlar tizimini va mexanizmlarini belgilaydi"
     ],
-    "correct": "turli sohalarda davlat siyosatining ustuvor va asosiy yo'nalishlari, maqsadlari, vazifa va amalga oshirish mexanizmlarini belgilaydi"
+    "correct_answer": "turli sohalarda davlat siyosatining ustuvor va asosiy yo'nalishlari, maqsadlari, vazifa va amalga oshirish mexanizmlarini belgilaydi"
   },
   {
     "question": "Normativ-huquqiy hujjatlar bilan ularning tarkibiy qismi sifatida tasdiqlanadigan hujjat - nizomga oid bandni ko'rsating.",
@@ -637,7 +637,7 @@
       "davlat organlari va tashkilotlari faoliyatini tashkil etish, maqomini, asosiy vazifalarini, huquq va majburiyatlarini, javobgarligini, turli sohalardagi ijtimoiy munosabatlarni tartibga solinishini belgilaydi",
       "turli sohalarda davlat siyosatining maqsadlariga erishilishini ta'minlaydigan tadbirlar tizimini va mexanizmlarini belgilaydi"
     ],
-    "correct": "davlat organlari va tashkilotlari faoliyatini tashkil etish, maqomini, asosiy vazifalarini, huquq va majburiyatlarini, javobgarligini, turli sohalardagi ijtimoiy munosabatlarni tartibga solinishini belgilaydi"
+    "correct_answer": "davlat organlari va tashkilotlari faoliyatini tashkil etish, maqomini, asosiy vazifalarini, huquq va majburiyatlarini, javobgarligini, turli sohalardagi ijtimoiy munosabatlarni tartibga solinishini belgilaydi"
   },
   {
     "question": "Normativ-huquqiy hujjatlar bilan ularning tarkibiy qismi sifatida tasdiqlanadigan hujjat - reglamentga oid bandni ko'rsating.",
@@ -647,7 +647,7 @@
       "turli sohalarda davlat siyosatining ustuvor va asosiy yo'nalishlari, maqsadlari, vazifa va amalga oshirish mexanizmlarini belgilaydi",
       "turli sohalarda davlat siyosatining maqsadlariga erishilishini ta'minlaydigan tadbirlar tizimini va mexanizmlarini belgilaydi"
     ],
-    "correct": "davlat organlari va tashkilotlarining ish tartibini, shuningdek, ular tomonidan ma'muriy tartib-taomillarni amalga oshirilishini belgilaydi"
+    "correct_answer": "davlat organlari va tashkilotlarining ish tartibini, shuningdek, ular tomonidan ma'muriy tartib-taomillarni amalga oshirilishini belgilaydi"
   },
   {
     "question": "Normativ-huquqiy hujjatlar tizimida o'zini yuridik kuchi va ahamiyatiga ko'ra konstitusiyadan keyin turadigan qonun qaysi?",
@@ -657,12 +657,12 @@
       "Joriy qonun",
       "Oddiy qonun"
     ],
-    "correct": "Konstitusiyaviy qonun"
+    "correct_answer": "Konstitusiyaviy qonun"
   },
   {
     "question": "Normativ-huquqiy hujjatning amal qilishi, ya'ni uning «umri» quyidagi mezonlar bilan belgilanadi. a) zamon. b) makon. c) jamiyat. d) shaxslar doirasi.",
     "options": ["a), b), d)", "a), b), c)", "b), d), c)", "a), c), d)"],
-    "correct": "a), b), d)"
+    "correct_answer": "a), b), d)"
   },
   {
     "question": "Nostandart test topshiriqlariga xos bo'lgan xususiyatlar berilgan javobni toping.",
@@ -672,7 +672,7 @@
       "Ko'p javobli, rasmli va animatsiyalardan iborat.",
       "reproduktiv, produktiv, qisman-izlanishli, ijodiy (kreativ) darajadagi test topshiriqlari;"
     ],
-    "correct": "Ko'p javobli, rasmli va animatsiyalardan iborat."
+    "correct_answer": "Ko'p javobli, rasmli va animatsiyalardan iborat."
   },
   {
     "question": "Nutqning toza bo'lishiga xalaqit beruvchi unsurlarni belgilang.",
@@ -682,7 +682,7 @@
       "Rezonator va diapazon",
       "intonatsiya"
     ],
-    "correct": "Dialektizm va varvarizm"
+    "correct_answer": "Dialektizm va varvarizm"
   },
   {
     "question": "Olimning h-indeksi",
@@ -692,7 +692,7 @@
       "iqtiboslar soni bo'yicha hisoblash usuli",
       "adabiyotlar soni bo'yicha hisoblash usuli"
     ],
-    "correct": "maqola soni va iqtiboslar soni bo'yicha hisoblash usuli"
+    "correct_answer": "maqola soni va iqtiboslar soni bo'yicha hisoblash usuli"
   },
   {
     "question": "Oliy ta'lim muassasalarida ta'lim mazmunining tarkibiy qismlari to'liq berilgan javobni toping.",
@@ -702,7 +702,7 @@
       "Kompetensiyalar, ijodiy faoliyat tajribalar qadriyatlar",
       "Bilim, ko'nikma, malaka, kompetensiyalar"
     ],
-    "correct": "Bilim, ko'nikma, malakalar, ijodiy faoliyat tajribalari, qadriyatlar"
+    "correct_answer": "Bilim, ko'nikma, malakalar, ijodiy faoliyat tajribalari, qadriyatlar"
   },
   {
     "question": "Oliy ta'lim muassasalarining faoliyatini maqsadga muvofiq boshqarish va raqamlashtirish dasturini toping.",
@@ -712,7 +712,7 @@
       "PROBLEM SOLVING AND FINANCIAL LITERACY",
       "HEMIS - Higher education Management Systems"
     ],
-    "correct": "HEMIS - Higher education Management Systems"
+    "correct_answer": "HEMIS - Higher education Management Systems"
   },
   {
     "question": "Oliy ta'lim standarti toifasini ko'rsating.",
@@ -722,7 +722,7 @@
       "bitiruvchilarning soha bo'yicha tayyorgarlik darajasiga qo'yiladigan umumiy talablar",
       "Oliy ta'lim yo'nalishlari va mutaxassisliklari klassifikatori"
     ],
-    "correct": "Oliy ta'lim yo'nalishlari va mutaxassisliklari klassifikatori"
+    "correct_answer": "Oliy ta'lim yo'nalishlari va mutaxassisliklari klassifikatori"
   },
   {
     "question": "Oliy ta'lim tizimida korrupsiyaga qarshi kurashishish tizimini takomillashtirish bo'yicha 30.08.2019 y. da tasdiqlangan \"Yo'l xaritasi\"ning \"III. Talabalar bilimini baholash jarayonini takomillashtirish\" yo'nalishidagi bandni ko'rsating.",
@@ -732,7 +732,7 @@
       "Oliy ta'lim tizimini bosqichma-bosqich raqamlashtirish",
       "Korrupsiyaga oid normalarni aniqlash va bartaraf etish"
     ],
-    "correct": "Talabalarning baholanishi va o'zlashtirish ko'rsatkichlarini hisobga olishning elektron tizimini joriy etish"
+    "correct_answer": "Talabalarning baholanishi va o'zlashtirish ko'rsatkichlarini hisobga olishning elektron tizimini joriy etish"
   },
   {
     "question": "Oliy ta'lim tizimida korrupsiyaga qarshi kurashishish tizimini takomillashtirish bo'yicha 30.08.2019 y. da tasdiqlangan \"Yo'l xaritasi\"ning \"III. Talabalar bilimini baholash jarayonini takomillashtirish\" yo'nalishidagi bandni ko'rsating.",
@@ -742,7 +742,7 @@
       "Elektron universitet loyihasi doirasida o'quv jarayonini elektronlashtirishni jadallashtirish",
       "Budjetdan tashqari mablag'larni ishlab topish va ulardan foydalanishda OTMlarining mustaqilligini oshirish."
     ],
-    "correct": "Elektron universitet loyihasi doirasida o'quv jarayonini elektronlashtirishni jadallashtirish"
+    "correct_answer": "Elektron universitet loyihasi doirasida o'quv jarayonini elektronlashtirishni jadallashtirish"
   },
   {
     "question": "Oliy ta'lim tizimida korrupsiyaga qarshi kurashishish tizimini takomillashtirish bo'yicha 30.08.2019 y. da tasdiqlangan \"Yo'l xaritasi\"ning \"V. Oliy ta'lim muassasalari faoliyatini takomillashtirish\" yo'nalishidagi bandni ko'rsating.",
@@ -752,7 +752,7 @@
       "Talabalarning baholanishi va o'zlashtirish ko'rsatkichlarini hisobga olishning elektron tizimini joriy etish",
       "Talabalar bilimini nazorat qilish va baholash tizimini takomillashtirish"
     ],
-    "correct": "Oliy o'quv yurtidan keyingi ta'lim tizimining monitoringini raqamlashtirish"
+    "correct_answer": "Oliy o'quv yurtidan keyingi ta'lim tizimining monitoringini raqamlashtirish"
   },
   {
     "question": "Oliy ta'lim tizimida korrupsiyaga qarshi kurashishish tizimini takomillashtirish bo'yicha 30.08.2019 y. da tasdiqlangan \"Yo'l xaritasi\"ning \"V. Oliy ta'lim muassasalari faoliyatini takomillashtirish\" yo'nalishidagi bandni ko'rsating.",
@@ -762,12 +762,12 @@
       "Korrupsiyaga oid normalarni aniqlash va bartaraf etish",
       "Oliy ta'lim tizimini bosqichma-bosqich raqamlashtirish"
     ],
-    "correct": "Oliy ta'lim tizimini bosqichma-bosqich raqamlashtirish"
+    "correct_answer": "Oliy ta'lim tizimini bosqichma-bosqich raqamlashtirish"
   },
   {
     "question": "Oliy ta'lim yo'nalishlaridan biri bo'yicha chuqurlashtirilgan bilim, malaka va ko'nikmalar beradigan ta'lim bosqichi?",
     "options": ["ordinatura", "bakalavriat", "magistratura", "doktorantura"],
-    "correct": "bakalavriat"
+    "correct_answer": "bakalavriat"
   },
   {
     "question": "O'qitish - bu",
@@ -777,7 +777,7 @@
       "qandaydir ma'noda nafaqat rasmiy, shu bilan birga norasmiy o'qishni ham o'zida namoyon etadi.",
       "qandaydir ma'noda faqat rasmiy, shu bilan birga norasmiy o'qishni ham o'zida namoyon etadi."
     ],
-    "correct": "qoidaga ko'ra rasmiy ta'lim bilan, ya'ni maktab(litsey, kollej, OTM) bilan bog'liq."
+    "correct_answer": "qoidaga ko'ra rasmiy ta'lim bilan, ya'ni maktab(litsey, kollej, OTM) bilan bog'liq."
   },
   {
     "question": "O'qituvchi axloqiy-ma'naviy qiyofasini namoyon etuvchi meyor tuyg'usi yoki xulq va odob qoidalariga rioya qilishi qanday ataladi?",
@@ -787,7 +787,7 @@
       "Pedagogik madaniyat",
       "Pedagogik nazokat"
     ],
-    "correct": "Pedagogik nazokat"
+    "correct_answer": "Pedagogik nazokat"
   },
   {
     "question": "O'qituvchi muvaffaqiyatining siri nimada?",
@@ -797,7 +797,7 @@
       "talabalar faoliyatini boshqara olishida",
       "o'quv mashg'ulotni tashkillashtirishda"
     ],
-    "correct": "talabalar faoliyatini boshqara olishida"
+    "correct_answer": "talabalar faoliyatini boshqara olishida"
   },
   {
     "question": "O'qituvchi nutqi -",
@@ -807,7 +807,7 @@
       "Butun tana orqali o'z fikrini ifodalashdir.",
       "Ko'z, qosh, lablarning harakatidir"
     ],
-    "correct": "Pedagogning ta'lim-tarbiya jarayonida til vositalaridan foydalanishi"
+    "correct_answer": "Pedagogning ta'lim-tarbiya jarayonida til vositalaridan foydalanishi"
   },
   {
     "question": "O'qituvchi nutqining asosiy shakllari to'g'ri ko'rsatilgan javobni toping",
@@ -817,7 +817,7 @@
       "Passiv, aktiv, interaktiv",
       "monolog, dialog, polilog"
     ],
-    "correct": "monolog, dialog, polilog"
+    "correct_answer": "monolog, dialog, polilog"
   },
   {
     "question": "O'qituvchi o'quvchilar bilan muloqot jarayonida paydo bo'ladigan turli ziddiyatli vaziyatlarni bartaraf etishi uchun...",
@@ -827,7 +827,7 @@
       "Darhol tartibsiz o'quvchini topib unga nisbatan tarbiyaviy jazo metodini qo'llashi shart",
       "Avvalo o'z iqtidoriga, pedagogik va psixologik mahoratiga tayanishi lozim"
     ],
-    "correct": "Avvalo o'z iqtidoriga, pedagogik va psixologik mahoratiga tayanishi lozim"
+    "correct_answer": "Avvalo o'z iqtidoriga, pedagogik va psixologik mahoratiga tayanishi lozim"
   },
   {
     "question": "O'qituvchi o'quvchilarni o'zi bilan hamkorlikka jalb eta olishi uchun nima qilishi kerak?",
@@ -837,7 +837,7 @@
       "O'qituvchi o'quvchilarga pedagogik va psixologik jihatdan to'g'ri vazifa qo'ymasligi mumkin",
       "Sinf jamoasida o'qituvchi ham ishtirokchi, ham maslahatchi vazifasini bajarmasligi mumkin"
     ],
-    "correct": "Pedagogik faoliyat o'quvchilarning yosh xususiyatlariga va qiziqish lariga to'g'ri kelishi lozim"
+    "correct_answer": "Pedagogik faoliyat o'quvchilarning yosh xususiyatlariga va qiziqish lariga to'g'ri kelishi lozim"
   },
   {
     "question": "O'qituvchi o'z nutqini tashkil etishda nimalarga jiddiy e'tibor qaratishi zarur?",
@@ -847,7 +847,7 @@
       "Yuz mushaklarining harakatiga",
       "Ko'z, qosh, lablarning harakatiga"
     ],
-    "correct": "Adabiy, talaffuz, kelishik meyorlariga"
+    "correct_answer": "Adabiy, talaffuz, kelishik meyorlariga"
   },
   {
     "question": "O'qituvchi pedagogik qobiliyatini namoyon etmaydigan xususiyatlarni belgilang?",
@@ -857,7 +857,7 @@
       "O'qituvchining nutqi: notiqlik san'ati, so'z boyligi",
       "Aktyorlik xususiyati: mimika va pantomimika, xayoliy fantaziya"
     ],
-    "correct": "Ma'naviy madaniyat darajasining yuksak bo'lmasligi, pedagogik qobiliyatning rivojlanmasligi"
+    "correct_answer": "Ma'naviy madaniyat darajasining yuksak bo'lmasligi, pedagogik qobiliyatning rivojlanmasligi"
   },
   {
     "question": "O'qituvchi, - aql-farosatga, chiroyli nutqqa ega bo'lishi va o'quvchilarga aytmoqchi bo'lgan fikrlarini to'la va aniq ifodalay olishni bilmog'i zarur ushbu ta'rifni qaysi Sharq allomasi izohlagan?",
@@ -867,7 +867,7 @@
       "Alisher Navoiy",
       "Al-Farobiy"
     ],
-    "correct": "Al-Farobiy"
+    "correct_answer": "Al-Farobiy"
   },
   {
     "question": "O'qituvchining asosiy pedagogik funksiyalari bu-",
@@ -877,12 +877,12 @@
       "kasbiy faoliyat loyihasini baholash",
       "ta'lim, tarbiya, rivojlantirish, shakllantirish jarayonini boshqarish"
     ],
-    "correct": "ta'lim, tarbiya, rivojlantirish, shakllantirish jarayonini boshqarish"
+    "correct_answer": "ta'lim, tarbiya, rivojlantirish, shakllantirish jarayonini boshqarish"
   },
   {
     "question": "O'quv jarayonining so'nggi mahsuli, belgilangan maqsadlarning amalga oshganlik darajasi bu-…",
     "options": ["natija", "monitoring", "diagnostika", "ma'ruza"],
-    "correct": "natija"
+    "correct_answer": "natija"
   },
   {
     "question": "O'quvchilarning muloqot asosida ma'naviy madaniyatini shakllantirish mezonlari ifodalanmagan javob?",
@@ -892,7 +892,7 @@
       "Jizzakilik va asabiylik, o'zini boshqara olmaslik",
       "Vatanga muhabbat, sadoqat, o'z manfaatlarini jamiyat, xalq manfaatlaridan ustun qo'ymaslik"
     ],
-    "correct": "Jizzakilik va asabiylik, o'zini boshqara olmaslik"
+    "correct_answer": "Jizzakilik va asabiylik, o'zini boshqara olmaslik"
   },
   {
     "question": "O'z- o'zini bilish, anglash, belgilash, rivojlantirish, nazorat qilish bu:",
@@ -902,7 +902,7 @@
       "Pedagogik deontologiya",
       "Pedagogik aksiologiya"
     ],
-    "correct": "Pedagogik refleksiya"
+    "correct_answer": "Pedagogik refleksiya"
   },
   {
     "question": "O'zbekistob respublikasi prezidenti O'zR konstitutsiyasi va qonunlari asosida ularni ijro etish uchun qanday hujjatlar qabul qiladi?",
@@ -912,7 +912,7 @@
       "Bildirishnomalar",
       "Farmon"
     ],
-    "correct": "Farmon"
+    "correct_answer": "Farmon"
   },
   {
     "question": "O'zbekiston Respublikasi Oliy Majlisi Qonunchilik palatasining qarori kim tomonidan tasdiqlanadi?",
@@ -922,12 +922,12 @@
       "O'zbekiston Respublikasining Prezidenti",
       "O'zbekiston Respublikasi Oliy Majlisi Qonunchilik palatasining Spikeri"
     ],
-    "correct": "O'zbekiston Respublikasi Oliy Majlisi Qonunchilik palatasining Spikeri"
+    "correct_answer": "O'zbekiston Respublikasi Oliy Majlisi Qonunchilik palatasining Spikeri"
   },
   {
     "question": "O'zbekiston Respublikasida o'qituvchining mehnati jamiyat va davlatni rivojlantirish, sog'lom, barkamol avlodni shakllantirish hamda tarbiyalash, xalqning ma'naviy va madaniy salohiyatini saqlash hamda boyitishning asosi sifatida e'tirof etiladi. Davlat o'qituvchilarning sha'ni va qadr-qimmatini himoya qilish, ularning ijtimoiy va moddiy farovonligi, kasbiy jihatdan o'sishi to'g'risida g'amxo'rlik qiladi.",
     "options": ["52-modda", "80-modda", "41-modda", "111-modda"],
-    "correct": "52-modda"
+    "correct_answer": "52-modda"
   },
   {
     "question": "O'zbekistonda innovatsiyalar yaratish uchun davlat buyurtmasi -bu:",
@@ -937,12 +937,12 @@
       "O'zbekiston Respublikasi Davlat budjeti mablag'lari va qonun hujjatlarida taqiqlangan boshqa manbalar hisobiga innovatsion loyihani bajarish uchun topshiriq",
       "O'zbekiston Respublikasi Davlat budjeti mablag'lari va qonun hujjatlarida taqiqlanmagan boshqa manbalar hisobiga innovatsion loyihani bajarish uchun topshiriq"
     ],
-    "correct": "O'zbekiston Respublikasi Davlat budjeti mablag'lari va qonun hujjatlarida taqiqlanmagan boshqa manbalar hisobiga innovatsion loyihani bajarish uchun topshiriq"
+    "correct_answer": "O'zbekiston Respublikasi Davlat budjeti mablag'lari va qonun hujjatlarida taqiqlanmagan boshqa manbalar hisobiga innovatsion loyihani bajarish uchun topshiriq"
   },
   {
     "question": "O'zR yangi tahrirdagi «Ta'lim to'g'risida» gi O'RQ-637 qachon qabul qilingan?",
     "options": ["2010 yil", "2015 yil", "2017 yil", "2020 yil"],
-    "correct": "2020 yil"
+    "correct_answer": "2020 yil"
   },
   {
     "question": "O'zRP farmonlari va VM qarorlari qanday hujjat",
@@ -952,7 +952,7 @@
       "Faqat vazirlikka tegishli",
       "Vakolatli"
     ],
-    "correct": "Qonun osti hujjatlari"
+    "correct_answer": "Qonun osti hujjatlari"
   },
   {
     "question": "Pantomimika bu-",
@@ -962,7 +962,7 @@
       "Ko'z, qosh, lablarning harakatidir",
       "Gavda, qo'l va oyoqlarning harakatidir"
     ],
-    "correct": "Gavda, qo'l va oyoqlarning harakatidir"
+    "correct_answer": "Gavda, qo'l va oyoqlarning harakatidir"
   },
   {
     "question": "Pedagog o'zining qaysi tomonlarini boshqarishni o'rganishi kerak?",
@@ -972,7 +972,7 @@
       "Nutq madaniyatiga doir bilimlarini",
       "Diqqatini, ruhiyatini, mahoratini, hatti harakatini"
     ],
-    "correct": "Diqqatini, ruhiyatini, mahoratini, hatti harakatini"
+    "correct_answer": "Diqqatini, ruhiyatini, mahoratini, hatti harakatini"
   },
   {
     "question": "Pedagogik faoliyat - bu?",
@@ -982,7 +982,7 @@
       "ishlab chiqarish ta'limi ustasi tomonidan aniq maqsadlarga muvofiq tashkil etiladigan kasbiy harakatlar majmui",
       "metodist tomonidan rejalarga muvofiq tashkil etiladigan kasbiy harakatlar majmui"
     ],
-    "correct": "o'qituvchi tomonidan aniq maqsadlarga muvofiq tashkil etiladigan kasbiy harakatlar majmui"
+    "correct_answer": "o'qituvchi tomonidan aniq maqsadlarga muvofiq tashkil etiladigan kasbiy harakatlar majmui"
   },
   {
     "question": "Pedagogik faoliyat deganda nimani tushunasiz?",
@@ -992,7 +992,7 @@
       "Yosh avlodni hayotga",
       "Pedagogik jarayon..."
     ],
-    "correct": "Yosh avlodni hayotga"
+    "correct_answer": "Yosh avlodni hayotga"
   },
   {
     "question": "Pedagogik faoliyatni rejalashtirish bu:",
@@ -1002,7 +1002,7 @@
       "kasbiy faoliyat loyihasini baholash",
       "kasbiy faoliyat loyihasini bashoratlash"
     ],
-    "correct": "kasbiy faoliyat loyihasini ishlab chiqish va rejalashtirish"
+    "correct_answer": "kasbiy faoliyat loyihasini ishlab chiqish va rejalashtirish"
   },
   {
     "question": "Pedagogik jarayonda sog'lom psixologik muhitni yarata olish, talabalar va ta'lim jarayonining boshqa ishtirokchilari bilan ijobiy muloqotni tashkil etish, turli salbiy psixologik ziddiyatlarni o'z vaqtida anglay olish va bartaraf eta olishi qaysi kompetentlikning mazmuni hisoblanadi?",
@@ -1012,7 +1012,7 @@
       "Ijtimoiy kompetentlik",
       "Psixologik kompetentlik"
     ],
-    "correct": "Psixologik kompetentlik"
+    "correct_answer": "Psixologik kompetentlik"
   },
   {
     "question": "Pedagogik jarayonning harakat vositasi bu...",
@@ -1022,7 +1022,7 @@
       "Pedagogik vaziyat",
       "Pedagogik hodisa"
     ],
-    "correct": "Pedagogik o'zaro ta'sir"
+    "correct_answer": "Pedagogik o'zaro ta'sir"
   },
   {
     "question": "Pedagogik mahorat - bu:",
@@ -1032,7 +1032,7 @@
       "O'qituvchi tomonidan pedagogik jarayonni takomillashtirish, optimallashtirishga bo'lgan ijtimoiy ehtiyojni qondirish omilidir",
       "Muayyan loyiha asosida tashkil etiladigan, aniq maqsadga yo'naltirilgan hamda ushbu maqsadning natijalanishi kafolatlovchi pedagogik faoliyat jarayoninig mazmunidir"
     ],
-    "correct": "Ta'lim va tarbiyaning yuqori darajaga erishishini va uni doimiy takomillashtirib borish imkoniyatini ta'minlovchi faoliyat bo'lib, har bir o'qituvchi fazilatida namoyon bo'ladi"
+    "correct_answer": "Ta'lim va tarbiyaning yuqori darajaga erishishini va uni doimiy takomillashtirib borish imkoniyatini ta'minlovchi faoliyat bo'lib, har bir o'qituvchi fazilatida namoyon bo'ladi"
   },
   {
     "question": "Pedagogning an'anaviy pedagogik fikrlashdan farqli ravishda ta'lim va tarbiya jarayonini samaradorligi ta'minlashga xizmat qiluvchi yangi g'oyalarni yaratishi bu - …",
@@ -1042,7 +1042,7 @@
       "Texnik kompetentlik",
       "Pedagogik kreativlik"
     ],
-    "correct": "Pedagogik kreativlik"
+    "correct_answer": "Pedagogik kreativlik"
   },
   {
     "question": "Pedagogning kasbiy kompetentligi tarkibiy asoslari qaysi javobda to'g'ri ko'rsatilgan?",
@@ -1052,7 +1052,7 @@
       "Ijtimoiy kompetentlik; Kommunikativ kompetentlik",
       "Texnologik kompetentlik; Ektremal kompetentlik; Ijtimoiy kompetentlik;"
     ],
-    "correct": "Maxsus yoki kasbiy kompetentlik;Ijtimoiy kompetentlik; Shaxsiy kompetentlik; Individual kompetentlik"
+    "correct_answer": "Maxsus yoki kasbiy kompetentlik;Ijtimoiy kompetentlik; Shaxsiy kompetentlik; Individual kompetentlik"
   },
   {
     "question": "Protsentil - bu",
@@ -1062,12 +1062,12 @@
       "jurnalning turli jurnallar kategoriyasidagi pozitsiyasi. Jurnal protsentili RINS resurs bazasi bo'yicha aniqlanadi.",
       "jurnalning turli predmetlar kategoriyasidagi pozitsiyasi. Jurnal protsentili OAK.uz resurs bazasi bo'yicha aniqlanadi."
     ],
-    "correct": "jurnalning fan (predmet) kategoriyasidagi pozitsiyasi. Jurnal protsentili scopus.com resurs bazasi bo'yicha aniqlanadi."
+    "correct_answer": "jurnalning fan (predmet) kategoriyasidagi pozitsiyasi. Jurnal protsentili scopus.com resurs bazasi bo'yicha aniqlanadi."
   },
   {
     "question": "Qadriyatshunoslik, ma'naviy qadriyatlar sohasini o'rganadigan, uning qonun va kategoriyalarini tadqiq qiladigan fan qanday nomlanadi?",
     "options": ["Pedagogika", "Akmeologiya", "Sotsiologiya", "Aksiologiya"],
-    "correct": "Aksiologiya"
+    "correct_answer": "Aksiologiya"
   },
   {
     "question": "Qaysi rus olimi Akmeologiya-\"Etuk odamlarning rivojlanishi\" haqidagi fan sifatida e'tirof etgan?",
@@ -1077,7 +1077,7 @@
       "Markova Anastasiya Konstantinovna",
       "Choshanov Murat Ashirovich"
     ],
-    "correct": "Nikolay Aleksandrovich Ribnikov"
+    "correct_answer": "Nikolay Aleksandrovich Ribnikov"
   },
   {
     "question": "Qonun keltirilgan bandni ko'rsating?",
@@ -1087,7 +1087,7 @@
       "vazirliklar, davlat qo'mitalari va idoralarning buyruqlari hamda qarorlari",
       "mahalliy davlat hokimiyati organlarining qarorlari"
     ],
-    "correct": "O'zbekiston Respublikasi Oliy Majlisi palatalarining qarorlari"
+    "correct_answer": "O'zbekiston Respublikasi Oliy Majlisi palatalarining qarorlari"
   },
   {
     "question": "Qonun keltirilgan bandni ko'rsating?",
@@ -1097,7 +1097,7 @@
       "vazirliklar, davlat qo'mitalari va idoralarning buyruqlari hamda qarorlari",
       "O'zbekiston Respublikasi qonunlari"
     ],
-    "correct": "O'zbekiston Respublikasi qonunlari"
+    "correct_answer": "O'zbekiston Respublikasi qonunlari"
   },
   {
     "question": "Qonun keltirilgan bandni ko'rsating?",
@@ -1107,7 +1107,7 @@
       "O'zbekiston Respublikasi Vazirlar Mahkamasining qarorlari",
       "O'zbekiston Respublikasining Konstitutsiyasi"
     ],
-    "correct": "O'zbekiston Respublikasining Konstitutsiyasi"
+    "correct_answer": "O'zbekiston Respublikasining Konstitutsiyasi"
   },
   {
     "question": "Qonun osti hujjatini ko'rsating.",
@@ -1117,7 +1117,7 @@
       "O'zbekiston Respublikasi qonunlari",
       "O'zbekiston Respublikasi Oliy Majlisi palatalarining qarorlari"
     ],
-    "correct": "mahalliy davlat hokimiyati organlarining qarorlari"
+    "correct_answer": "mahalliy davlat hokimiyati organlarining qarorlari"
   },
   {
     "question": "Qonun osti hujjatini ko'rsating.",
@@ -1127,7 +1127,7 @@
       "vazirliklar, davlat qo'mitalari va idoralarning buyruqlari hamda qarorlari",
       "O'zbekiston Respublikasi Oliy Majlisi palatalarining qarorlari"
     ],
-    "correct": "vazirliklar, davlat qo'mitalari va idoralarning buyruqlari hamda qarorlari"
+    "correct_answer": "vazirliklar, davlat qo'mitalari va idoralarning buyruqlari hamda qarorlari"
   },
   {
     "question": "Qonun osti hujjatini ko'rsating.",
@@ -1137,7 +1137,7 @@
       "O'zbekiston Respublikasi Vazirlar Mahkamasining qarorlari",
       "O'zbekiston Respublikasi Oliy Majlisi palatalarining qarorlari"
     ],
-    "correct": "O'zbekiston Respublikasi Vazirlar Mahkamasining qarorlari"
+    "correct_answer": "O'zbekiston Respublikasi Vazirlar Mahkamasining qarorlari"
   },
   {
     "question": "Qonun osti hujjatini ko'rsating.",
@@ -1147,12 +1147,12 @@
       "O'zbekiston Respublikasi qonunlari",
       "O'zbekiston Respublikasi Prezidentining farmonlari va qarorlari"
     ],
-    "correct": "O'zbekiston Respublikasi Prezidentining farmonlari va qarorlari"
+    "correct_answer": "O'zbekiston Respublikasi Prezidentining farmonlari va qarorlari"
   },
   {
     "question": "Qulay muhitni yaratuvchi o'qituvchi bu:",
     "options": ["tyutor", "moderator", "fasilitator", "edvayzer"],
-    "correct": "fasilitator"
+    "correct_answer": "fasilitator"
   },
   {
     "question": "Relaksatsiya qanday holat?",
@@ -1162,7 +1162,7 @@
       "Jismonan va ruhan bo'shashish, butunlay osoyishtalik",
       "Jismonan va ruhan tetiklik, jizzakilik"
     ],
-    "correct": "Jismonan va ruhan bo'shashish, butunlay osoyishtalik"
+    "correct_answer": "Jismonan va ruhan bo'shashish, butunlay osoyishtalik"
   },
   {
     "question": "Respublika vazirliklari, davlat qo'mitalari va boshqa boshqaruv organlarining konunga, farmonga va hukumat qaroriga zid hujjatlari qaysi tashkilot tomonidan bekor qilinishi mumkin?",
@@ -1172,7 +1172,7 @@
       "O'zbekiston Respublikasi Oliy Majlisi Senati",
       "O'zbekiston Respublikasi Oliy Majlisi palatalari"
     ],
-    "correct": "O'zbekiston Respublikasi Vazirlar Mahkamasi"
+    "correct_answer": "O'zbekiston Respublikasi Vazirlar Mahkamasi"
   },
   {
     "question": "Scopus bazasiga nisbatan protsentil qanaqa aniqlanadi?",
@@ -1182,7 +1182,7 @@
       "25% - Q4, IV kvartil, 24-1 protsentil; 25% - Q3, III kvartil, 49-25 protsentil; 25% - Q2, II kvartil, 74-50 protsentil; 25% - Q1, I kvartil, 99-75 protsentil;",
       "25% - Q1, I kvartil, 99-75 protsentil; 25% - Q2, II kvartil, 74-50 protsentil;25% - Q3, III kvartil, 49-25 protsentil; 25% - Q4, IV kvartil, 24-1 protsentil."
     ],
-    "correct": "25% - Q1, I kvartil, 99-75 protsentil; 25% - Q2, II kvartil, 74-50 protsentil;25% - Q3, III kvartil, 49-25 protsentil; 25% - Q4, IV kvartil, 24-1 protsentil."
+    "correct_answer": "25% - Q1, I kvartil, 99-75 protsentil; 25% - Q2, II kvartil, 74-50 protsentil;25% - Q3, III kvartil, 49-25 protsentil; 25% - Q4, IV kvartil, 24-1 protsentil."
   },
   {
     "question": "shaxs kreativligining tarkibiy tuzilishi bu -",
@@ -1192,7 +1192,7 @@
       "intuitsiya, reflekfiya, bilim, ko'nikma, malakalar",
       "irsiyat, ta'lim, tarbiya"
     ],
-    "correct": "intuitsiya, reflekfiya, bilim, ko'nikma, malakalar"
+    "correct_answer": "intuitsiya, reflekfiya, bilim, ko'nikma, malakalar"
   },
   {
     "question": "Silikon vodiysi otasi nomini olgan olim..",
@@ -1202,7 +1202,7 @@
       "Stenford universiteti prorektori Fredrik Terman hisoblanadi",
       "San-Diyegodagi Kaliforniya universiteti professori X.Xirsha hisoblanadi"
     ],
-    "correct": "Stenford universiteti prorektori Fredrik Terman hisoblanadi"
+    "correct_answer": "Stenford universiteti prorektori Fredrik Terman hisoblanadi"
   },
   {
     "question": "Sinf-dars tizimining muallifi kim?",
@@ -1212,7 +1212,7 @@
       "Adolf Disterveg",
       "Ya.A. Komenskiy"
     ],
-    "correct": "Ya.A. Komenskiy"
+    "correct_answer": "Ya.A. Komenskiy"
   },
   {
     "question": "Soft skills?",
@@ -1222,7 +1222,7 @@
       "aniq va umumiy..",
       "muloqotga kirishish..."
     ],
-    "correct": "kreativlik..."
+    "correct_answer": "kreativlik..."
   },
   {
     "question": "Spin-aut - bu:",
@@ -1232,7 +1232,7 @@
       "ilmiy yoki tadqiqot muassasasidan yangi mustaqil tashkilotning ajralib chiqishi. Bu akademik sohadan biznesning real dunyosiga bilimlar va innovatsiyalarni o'tkazishning muhim mexanizmi.",
       "tadqiqot muassasasi qoshida yangi tashkilotning paydo bo'lishi. Bu akademik sohadan biznesning real dunyosiga bilimlar va innovatsiyalarni o'tkazishning muhim mexanizmi."
     ],
-    "correct": "ilmiy yoki tadqiqot muassasasidan yangi mustaqil tashkilotning ajralib chiqishi. Bu akademik sohadan biznesning real dunyosiga bilimlar va innovatsiyalarni o'tkazishning muhim mexanizmi."
+    "correct_answer": "ilmiy yoki tadqiqot muassasasidan yangi mustaqil tashkilotning ajralib chiqishi. Bu akademik sohadan biznesning real dunyosiga bilimlar va innovatsiyalarni o'tkazishning muhim mexanizmi."
   },
   {
     "question": "Spin-offni amalga oshirishda kamida nechta tomon ishtirok etishadi?",
@@ -1242,7 +1242,7 @@
       "5 ta, ya'ni: ixtirochi-olim; ITT / universitet; tadbirkor; venchurli investor;hokimiyat.",
       "5 ta, ya'ni: ITT / universitet; tadbirkor; mahalliy hokmiyat; bank; soliq organi."
     ],
-    "correct": "4 ta, ya'ni: ixtirochi-olim; ITT / universitet; tadbirkor; venchurli investor"
+    "correct_answer": "4 ta, ya'ni: ixtirochi-olim; ITT / universitet; tadbirkor; venchurli investor"
   },
   {
     "question": "Standart test topshiriqlariga xos bo'lgan xususiyatlar berilgan javobni toping.",
@@ -1252,7 +1252,7 @@
       "to'g'ri javobni shaklllantirish talab etiladigan ochiq test",
       "Standart test topshiriqlari 1 ta to'g'ri javobli, 3 ta muqobil javoblarga ega bo'lgan yopiq turdagi topshiriqlardan iborat"
     ],
-    "correct": "Standart test topshiriqlari 1 ta to'g'ri javobli, 3 ta muqobil javoblarga ega bo'lgan yopiq turdagi topshiriqlardan iborat"
+    "correct_answer": "Standart test topshiriqlari 1 ta to'g'ri javobli, 3 ta muqobil javoblarga ega bo'lgan yopiq turdagi topshiriqlardan iborat"
   },
   {
     "question": "Steriodlar ximiyasi sohasida akademik tadbirkorlik faoliyatini boshlab bergan birinchi inson hisoblanadi?",
@@ -1262,7 +1262,7 @@
       "Berlin universiteti prorektori V.Gumbold",
       "Oksford universiteti prorektori B.Klark"
     ],
-    "correct": "Stenford universiteti prorektori Fredrik Terman"
+    "correct_answer": "Stenford universiteti prorektori Fredrik Terman"
   },
   {
     "question": "Tadbirkorlik universiteti shunisi bilan farqlanadiki, bunda:",
@@ -1272,7 +1272,7 @@
       "tadqiqot natijalari mahsulotlarda o'z aksini topadi.",
       "tadqiqot natijalari mahsulotlarda va xizmatlarda o'z aksini topadi."
     ],
-    "correct": "g'oyalar va tadqiqot natijalari mahsulotlarda va xizmatlarda o'z aksini topadi."
+    "correct_answer": "g'oyalar va tadqiqot natijalari mahsulotlarda va xizmatlarda o'z aksini topadi."
   },
   {
     "question": "Tadbirkorlik universitetlarining asosiy mezonlari -",
@@ -1282,7 +1282,7 @@
       "zamonaviy o'quv va uslubiy qo'llanmalar, darsliklar innovatsion infratuzilmaning mavjudligidan iborat bo'lishi lozim.",
       "o'qituvchilar tomonidan yaratilgan ish o'rinlari, innovatsion infratuzilmaning mavjudligidan iborat bo'lishi lozim."
     ],
-    "correct": "yaratilgan startaplar, ular tomonidan yaratilgan ish o'rinlari, innovatsion infratuzilmaning mavjudligidan iborat bo'lishi lozim."
+    "correct_answer": "yaratilgan startaplar, ular tomonidan yaratilgan ish o'rinlari, innovatsion infratuzilmaning mavjudligidan iborat bo'lishi lozim."
   },
   {
     "question": "Tadqiqot universiteti g'oyasi (muallifi bo'lib nemis olimi V.Fon Gumbold hisoblanadi) -",
@@ -1292,7 +1292,7 @@
       "universitetda yuqori malakali (elita) rahbar kadrlarni universitet rahbariyat tomonidan olib boriladigan ishlarga jalb etish (ularni ta'lim jarayonidayoq) orqali rahbarlikka tayyorlash jarayoniga mo'ljal olish.",
       "universitetda yuqori malakali (elita) ilmiy kadrlarni universitet tomonidan olib boriladigan tadbirlarga jalb etish (ularni ta'lim jarayonidayoq) orqali tarbiyalash jarayoniga mo'ljal olish."
     ],
-    "correct": "universitetda yuqori malakali (elita) ilmiy kadrlarni universitet olimlari tomonidan olib boriladigan intensiv ilmiy ishlarga jalb etish (ularni ta'lim jarayonidayoq) orqali tayyorlash jarayoniga mo'ljal olish."
+    "correct_answer": "universitetda yuqori malakali (elita) ilmiy kadrlarni universitet olimlari tomonidan olib boriladigan intensiv ilmiy ishlarga jalb etish (ularni ta'lim jarayonidayoq) orqali tayyorlash jarayoniga mo'ljal olish."
   },
   {
     "question": "Talabalar bilimi va malakasini nazorat va baholash qilish keng qamrovlilik tamoyili xususiyati berilgan javobni toping.",
@@ -1302,7 +1302,7 @@
       "talabaning bilim darajasini hamda uning o'quv faoliyati, individual xususiyatlarini kuzatish, o'rganish",
       "o'quv jarayonining ma'lum bosqichidagi ma'lum dastur bo'yicha talabalarning olgan haqiqiy bilimlarini belgilaydi."
     ],
-    "correct": "dasturning barcha bo'limlarini qamrab oladi va talabaning nazariy bilim, ko'nikma, malaka, aqliy va intellektual salohiyati, kompetensiyalarining sinovini ta'minlaydi."
+    "correct_answer": "dasturning barcha bo'limlarini qamrab oladi va talabaning nazariy bilim, ko'nikma, malaka, aqliy va intellektual salohiyati, kompetensiyalarining sinovini ta'minlaydi."
   },
   {
     "question": "Talabalar bilimini nazorat qilish va baholashning diagnostik funksiyasining mohiyatini toping.",
@@ -1312,7 +1312,7 @@
       "talabalar bilimi va ko'nikmalaridagi nuqsonlar, kamchiliklar, bo'shliqlar va ularning sabablari aniqlanadi.",
       "O'quv-bilish va aqliy faoliyatni rivojlantirish"
     ],
-    "correct": "talabalar bilimi va ko'nikmalaridagi nuqsonlar, kamchiliklar, bo'shliqlar va ularning sabablari aniqlanadi."
+    "correct_answer": "talabalar bilimi va ko'nikmalaridagi nuqsonlar, kamchiliklar, bo'shliqlar va ularning sabablari aniqlanadi."
   },
   {
     "question": "Talabalar bilimini nazorat qilish va baholashning rivojlantiruvchi funksiyasining mohiyatini toping.",
@@ -1322,7 +1322,7 @@
       "O'quv-bilish va aqliy faoliyatni rivojlantirish",
       "talabalar bilimi va ko'nikmalaridagi nuqsonlar, kamchiliklar, bo'shliqlar va ularning sabablari aniqlanadi."
     ],
-    "correct": "O'quv-bilish va aqliy faoliyatni rivojlantirish"
+    "correct_answer": "O'quv-bilish va aqliy faoliyatni rivojlantirish"
   },
   {
     "question": "Talabalar bilimini nazorat qilish va baholashning ta'limiy funksiyasining mohiyatini toping.",
@@ -1332,7 +1332,7 @@
       "O'quv-bilish va aqliy faoliyatni rivojlantirish",
       "Bilimlarni tizimlashtiradi, umumlashtiradi, mukammallashtiradi"
     ],
-    "correct": "Bilimlarni tizimlashtiradi, umumlashtiradi, mukammallashtiradi"
+    "correct_answer": "Bilimlarni tizimlashtiradi, umumlashtiradi, mukammallashtiradi"
   },
   {
     "question": "Talabalar bilimini nazorat qilish va baholashning tarbiyaviy funksiyasining mohiyatini toping.",
@@ -1342,7 +1342,7 @@
       "O'quv-bilish va aqliy faoliyatni rivojlantirish",
       "talabalar bilimi va ko'nikmalaridagi nuqsonlar, kamchiliklar, bo'shliqlar va ularning sabablari aniqlanadi."
     ],
-    "correct": "burch, majburiyat, javobgarlik kabi ahloqiy sifatlar shakllanadi"
+    "correct_answer": "burch, majburiyat, javobgarlik kabi ahloqiy sifatlar shakllanadi"
   },
   {
     "question": "Talabalarning mustaqil ta'limi topshiriqlari qiyinlik darajasiga ko'ra qanday shakllantirish zarur?",
@@ -1352,7 +1352,7 @@
       "reproduktiv, produktiv, qisman-izlanishli darajada",
       "reproduktiv, produktiv, qisman-izlanishli, kreativ darajada"
     ],
-    "correct": "reproduktiv, produktiv, qisman-izlanishli, kreativ darajada"
+    "correct_answer": "reproduktiv, produktiv, qisman-izlanishli, kreativ darajada"
   },
   {
     "question": "Talabalarning shaxsi va o'zlashtirishi xaqidagi ma'lumotlar HEMISning qaysi moduliga joylashtiriladi.",
@@ -1362,7 +1362,7 @@
       "Ilmiy faoliyat",
       "Ma'muriy boshqaruv"
     ],
-    "correct": "Talabalar hayotini boshqarish"
+    "correct_answer": "Talabalar hayotini boshqarish"
   },
   {
     "question": "Ta'lim - bu",
@@ -1372,7 +1372,7 @@
       "qoidaga ko'ra rasmiy ta'lim va norasmiy (litsey, kollej, OTM) bilan bog'liq.",
       "qoidaga ko'ra norasmiy ta'lim bilan, ya'ni maktab (litsey, kollej, OTM) bilan bog'liq."
     ],
-    "correct": "qandaydir ma'noda nafaqat rasmiy, shu bilan birga oilaviy(mustaqil) o'qishni ham o'zida namoyon etadi."
+    "correct_answer": "qandaydir ma'noda nafaqat rasmiy, shu bilan birga oilaviy(mustaqil) o'qishni ham o'zida namoyon etadi."
   },
   {
     "question": "Ta'lim kampusi-?",
@@ -1382,7 +1382,7 @@
       "yagona hududda birlashtirilgan o'quv binolarini, ilmiy-tadqiqot institutlarini (markazlarini), ishlab chiqarish majmualari va texnoparklarni, ta'lim-tarbiya jarayoni ishtirokchilarining vaqtincha yashash joylarini, laboratoriyalarni, axborot-resurs markazlarini (kutubxonalarni), sport inshootlarini, umumiy ovqatlanish obyektlarini o'z ichiga olgan binolar hamda inshootlar majmuidan iborat bo'lgan o'quv jarayoni, ta'lim-tarbiya muhiti",
       "yagona hududda birlashtirilgan o'quv binolarini, ilmiy-tadqiqot institutlarini (markazlarini), ishlab chiqarish majmualari va texnoparklarni, ta'lim-tarbiya jarayoni ishtirokchilarining vaqtincha yashash joylarini, laboratoriyalarni, axborot-resurs markazlarini (kutubxonalarni), sport inshootlarini, umumiy ovqatlanish obyektlarini o'z ichiga olgan binolar hamda inshootlar majmuidan iborat bo'lgan o'quv jarayoni, ma'naviy-axloqiy tarbiyaning yuqori samaradorligini ta'minlaydigan ta'lim-tarbiya muhiti"
     ],
-    "correct": "yagona hududda birlashtirilgan o'quv binolarini, ilmiy-tadqiqot institutlarini (markazlarini), ishlab chiqarish majmualari va texnoparklarni, ta'lim-tarbiya jarayoni ishtirokchilarining vaqtincha yashash joylarini, laboratoriyalarni, axborot-resurs markazlarini (kutubxonalarni), sport inshootlarini, umumiy ovqatlanish obyektlarini o'z ichiga olgan binolar hamda inshootlar majmuidan iborat bo'lgan o'quv jarayoni, ma'naviy-axloqiy tarbiyaning yuqori samaradorligini ta'minlaydigan ta'lim-tarbiya muhiti"
+    "correct_answer": "yagona hududda birlashtirilgan o'quv binolarini, ilmiy-tadqiqot institutlarini (markazlarini), ishlab chiqarish majmualari va texnoparklarni, ta'lim-tarbiya jarayoni ishtirokchilarining vaqtincha yashash joylarini, laboratoriyalarni, axborot-resurs markazlarini (kutubxonalarni), sport inshootlarini, umumiy ovqatlanish obyektlarini o'z ichiga olgan binolar hamda inshootlar majmuidan iborat bo'lgan o'quv jarayoni, ma'naviy-axloqiy tarbiyaning yuqori samaradorligini ta'minlaydigan ta'lim-tarbiya muhiti"
   },
   {
     "question": "Ta'lim sifati",
@@ -1392,7 +1392,7 @@
       "Xizmatlar ko'rsatishda foydalanuvchi bilimlar yig'indisi",
       "inson hayot-faoliyati sifatini oshirish va aniq maqsadga erishishda foydalanish uchun zarur bo'ladigan, aniq sharoitlar talab etilib olingan bilimlar majmui"
     ],
-    "correct": "inson hayot-faoliyati sifatini oshirish va aniq maqsadga erishishda foydalanish uchun zarur bo'ladigan, aniq sharoitlar talab etilib olingan bilimlar majmui"
+    "correct_answer": "inson hayot-faoliyati sifatini oshirish va aniq maqsadga erishishda foydalanish uchun zarur bo'ladigan, aniq sharoitlar talab etilib olingan bilimlar majmui"
   },
   {
     "question": "Ta'lim sohasi yoki o'quv jarayonida mavjud muammoni yangicha yondashuv asosida yechish maqsadida qo'llanilib, avvalgidan ancha samarali natijani kafolatlay oladigan shakl, metod va texnologiyalar bu-…",
@@ -1402,17 +1402,17 @@
       "Ta'lim jarayoni",
       "Ta'lim natijalari"
     ],
-    "correct": "Ta'lim innovatsiyalari"
+    "correct_answer": "Ta'lim innovatsiyalari"
   },
   {
     "question": "Ta'lim tashkilotlarini attestatsiyadan va davlat akkreditatsiyasidan o'tkazish «Ta'lim to'g'risida”gi qonunning qaysi moddasida keltirilgan?",
     "options": ["48-modda", "58-modda", "31-modda", "qonunda keltirilmagan"],
-    "correct": "58-modda"
+    "correct_answer": "58-modda"
   },
   {
     "question": "Ta'lim-tarbiya ishining asosiy shakli bu-",
     "options": ["Nazorat", "Dars", "Boshqarish", "Loyihalash"],
-    "correct": "Dars"
+    "correct_answer": "Dars"
   },
   {
     "question": "Tarbiyachi tashkil etishni, yurishni, hazillashishni, quvnoq, jahldor bo'lishni bilishi lozim, u o'zini shunday tutishi kerakki, uning har bir harakati tarbiyalasin ta'rif qaysi pedagog olimga tegishli",
@@ -1422,7 +1422,7 @@
       "V.A. Suxomli?nskiy",
       "Adolf Disterveg"
     ],
-    "correct": "A.S Makarenko"
+    "correct_answer": "A.S Makarenko"
   },
   {
     "question": "Ta'riflarni aniqlash uchun uchun qanday qiyinlik darajasiga ega bo'lgan testlar tuziladi?",
@@ -1432,7 +1432,7 @@
       "Qisman izlanishli",
       "Ijodiy (kreativ)"
     ],
-    "correct": "Produktiv"
+    "correct_answer": "Produktiv"
   },
   {
     "question": "Test topshiriqlari ....sirasiga mansubJumlani to'ldiring.",
@@ -1442,7 +1442,7 @@
       "Didaktik materiallar",
       "Ta'lim mazmunini yoritadigan materiallar"
     ],
-    "correct": "Didaktik materiallar"
+    "correct_answer": "Didaktik materiallar"
   },
   {
     "question": "Test topshiriqlarining didaktik funksiyalari to'liq berilgan javobni toping.",
@@ -1452,7 +1452,7 @@
       "Ta'limiy, tarbiyaviy, maqsadga yo'naltirish, rag'batlantirish",
       "O'quv maqsadlariga erishish va nazorat qilish"
     ],
-    "correct": "Ta'limiy, tarbiyaviy, rivojlantiruvchi, nazorat"
+    "correct_answer": "Ta'limiy, tarbiyaviy, rivojlantiruvchi, nazorat"
   },
   {
     "question": "Test topshiriqlarining rivojlantiruvchi funksiyasi berilgan javobni toping.",
@@ -1462,7 +1462,7 @@
       "Barkamollikka zamin tayyorlaydigan sifatlar: iroda, ongli intizom, muayyan o'quv muammolarini hal etishga safarbarlik, chidamlilik, sabr-toqat, yutuqlarga erishish uchun bilimi va kuchini sarf etishi orqali shaxs sifatida rivojlanishiga imkoniyat yaratadi",
       "o'zlashtirgan bilim, ko'nikma va malakalardagi tipik kamchiliklarni aniqlash, iroda, ongli intizomni vujudga keltirish, shaxs va kelgusi faoliyatidagi ma'suliyatini anglagan bilimlarni orttirishga undaydi."
     ],
-    "correct": "Egallangan bilim, ko'nikma va malakalarni mustahkamlash, rivojlantirish, erishilgan natijalarda o'zining ulushi muhim o'rin tutishini e'tiborga olgan shaxs va kelgusi faoliyatidagi ma'suliyatini anglagan holda o'z-o'zini rivojlantirishga undaydi"
+    "correct_answer": "Egallangan bilim, ko'nikma va malakalarni mustahkamlash, rivojlantirish, erishilgan natijalarda o'zining ulushi muhim o'rin tutishini e'tiborga olgan shaxs va kelgusi faoliyatidagi ma'suliyatini anglagan holda o'z-o'zini rivojlantirishga undaydi"
   },
   {
     "question": "Test topshiriqlarining tarbiyaviy funksiyasi berilgan javobni toping",
@@ -1472,7 +1472,7 @@
       "Barkamollikka zamin tayyorlaydigan sifatlar: iroda, ongli intizom, muayyan o'quv muammolarini hal etishga safarbarlik, chidamlilik, sabr-toqat, yutuqlarga erishish uchun bilimi va kuchini sarf etishi orqali shaxs sifatida rivojlanishiga imkoniyat yaratadi",
       "o'zlashtirgan bilim, ko'nikma va malakalardagi tipik kamchiliklarni aniqlash, iroda, ongli intizomni vujudga keltirish, shaxs va kelgusi faoliyatidagi ma'suliyatini anglagan bilimlarni orttirishga undaydi"
     ],
-    "correct": "Barkamollikka zamin tayyorlaydigan sifatlar: iroda, ongli intizom, muayyan o'quv muammolarini hal etishga safarbarlik, chidamlilik, sabr-toqat, yutuqlarga erishish uchun bilimi va kuchini sarf etishi orqali shaxs sifatida rivojlanishiga imkoniyat yaratadi"
+    "correct_answer": "Barkamollikka zamin tayyorlaydigan sifatlar: iroda, ongli intizom, muayyan o'quv muammolarini hal etishga safarbarlik, chidamlilik, sabr-toqat, yutuqlarga erishish uchun bilimi va kuchini sarf etishi orqali shaxs sifatida rivojlanishiga imkoniyat yaratadi"
   },
   {
     "question": "Testlar murakkablik darajasiga ko'ra qanday klassifikatsiyalanadi:",
@@ -1482,7 +1482,7 @@
       "standart, nostandart testlar",
       "reproduktiv, produktiv, qisman-izlanishli, ijodiy (kreativ) testlar"
     ],
-    "correct": "reproduktiv, produktiv, qisman-izlanishli, ijodiy (kreativ) testlar"
+    "correct_answer": "reproduktiv, produktiv, qisman-izlanishli, ijodiy (kreativ) testlar"
   },
   {
     "question": "Testlar o'tkazilish texnologiyasiga ko'ra qanday klassifikatsiyalanadi:",
@@ -1492,7 +1492,7 @@
       "reproduktiv, produktiv, qisman-izlanishli, ijodiy (kreativ) testlar",
       "bosma, dasturlashtirilgan testlar"
     ],
-    "correct": "bosma, dasturlashtirilgan testlar"
+    "correct_answer": "bosma, dasturlashtirilgan testlar"
   },
   {
     "question": "Testlar shakliga ko'ra qanday klassifikatsiyalanadi:",
@@ -1502,7 +1502,7 @@
       "standart, nostandart testlar",
       "bosma, dasturlashtirilgan testlar"
     ],
-    "correct": "ochiq testlar, yopiq testlar"
+    "correct_answer": "ochiq testlar, yopiq testlar"
   },
   {
     "question": "Texnologiyalarni tijoratlashtirish tushunchasi - bu",
@@ -1512,7 +1512,7 @@
       "ilmiy-tadqiqot natijalari o'z vaqtida bozorda mahsulot va xizmatlarga aylantiriladigan jarayondir",
       "loyihalar natijalari o'z vaqtida bozorda mahsulot va xizmatlarga aylantiriladigan jarayondir"
     ],
-    "correct": "ilmiy-tadqiqot natijalari o'z vaqtida bozorda mahsulot va xizmatlarga aylantiriladigan jarayondir"
+    "correct_answer": "ilmiy-tadqiqot natijalari o'z vaqtida bozorda mahsulot va xizmatlarga aylantiriladigan jarayondir"
   },
   {
     "question": "Universitet 4.0 ni loyihalashtirish jarayonida qanday tamoyillarga tayanish lozim bo'ladi?",
@@ -1522,7 +1522,7 @@
       "tezlik/ egiluvchanlik, shaffoflik va ochiqlik, shaxsiy yo'naltirilganlik va mahsuldorlik.",
       "qat'iyatlilik, egiluvchanlik, shaffoflik va yopiqlik, shaxsiy yo'naltirilganlik va daromadlilik."
     ],
-    "correct": "tezlik/ egiluvchanlik, shaffoflik va ochiqlik, shaxsiy yo'naltirilganlik va mahsuldorlik."
+    "correct_answer": "tezlik/ egiluvchanlik, shaffoflik va ochiqlik, shaxsiy yo'naltirilganlik va mahsuldorlik."
   },
   {
     "question": "Universitetlarning 3ta asosiy shakllari",
@@ -1532,12 +1532,12 @@
       "klassik (nemis); politexnik (\"fransuz\"); tadbirkorlik (\"amerikacha\")",
       "klassik (fransuz); politexnik (\"yapon\"); tadbirkorlik (\"ingliz\")"
     ],
-    "correct": "klassik (nemis); politexnik (\"fransuz\"); tadbirkorlik (\"amerikacha\")"
+    "correct_answer": "klassik (nemis); politexnik (\"fransuz\"); tadbirkorlik (\"amerikacha\")"
   },
   {
     "question": "Vazirliklar, davlat qo'mitalari va idoralar normativ-huquqiy hujjatlar qabul qilingan kundan e'tiboran necha kun ichida davlat ro'yxatidan o'tkazish uchun O'zbekiston Respublikasi Adliya vazirligiga taqdim etiladi?",
     "options": ["10 kun", "5 kun", "15 kun", "20 kun"],
-    "correct": "10 kun"
+    "correct_answer": "10 kun"
   },
   {
     "question": "Xalqaro baholash dasturi TALIS (Teaching and Learning International Survey) tadqiqoti nima asosda tashkil etiladi.",
@@ -1547,7 +1547,7 @@
       "turli mamlakatlarda tashkil etiladigan pedagogik jarayonlarning xalqaro qiyosiy tahliliga asoslanadi.",
       "tabiiy savodxonlikni o'rganishga asoslanadi."
     ],
-    "correct": "turli mamlakatlarda tashkil etiladigan pedagogik jarayonlarning xalqaro qiyosiy tahliliga asoslanadi."
+    "correct_answer": "turli mamlakatlarda tashkil etiladigan pedagogik jarayonlarning xalqaro qiyosiy tahliliga asoslanadi."
   },
   {
     "question": "Xirsha (h)-indeksi mezoni nimaga asolangan?.",
@@ -1557,7 +1557,7 @@
       "tadqiqotchining nashrlari sifatini va sonini va ushbu nashrlarni havola qilish, yani sitatalash sonini hisobga olishga asoslangan.",
       "mezon tadqiqotchining nashrlari sonini va ushbu nashrlarni havola qilish, yani sitatalash sonini hisobga olishga asoslangan."
     ],
-    "correct": "mezon tadqiqotchining nashrlari sonini va ushbu nashrlarni havola qilish, yani sitatalash sonini hisobga olishga asoslangan."
+    "correct_answer": "mezon tadqiqotchining nashrlari sonini va ushbu nashrlarni havola qilish, yani sitatalash sonini hisobga olishga asoslangan."
   },
   {
     "question": "Zamonaviy universitetlarning o'zgarishini aniqlovchi ko'pgina modellar bo'lishiga qaramasdan asosiy trendlar bo'lib...",
@@ -1567,6 +1567,6 @@
       "universitet 2.0 dan universitet 4.0 ga o'tishi hisoblanadi.",
       "universitet 1.0 dan universitet 3.0 ga o'tishi hisoblanadi."
     ],
-    "correct": "universitet 1.0 dan universitet 3.0 ga o'tishi hisoblanadi."
+    "correct_answer": "universitet 1.0 dan universitet 3.0 ga o'tishi hisoblanadi."
   }
 ]

@@ -1357,6 +1357,14 @@
       "correct_answer": "0, 2"
     },
     {
+      "question": "Web of Science xalqaro ilmiy ma'lumotlar bazasida indeksatsiya qilinadigan xalqaro ilmiy jurnallarda har 100 nafar O'zbekistonlik olimlar tomonidan chop etilgan maqolalar soni 2030 yilgacha qanchaga oshirish ko'zda tutilgan?",
+      "correct_answer": "10"
+    },
+    {
+      "question": "Web of Science xalqaro ilmiy ma'lumotlar bazasida indeksatsiya qilinadigan xalqaro ilmiy jurnallarda O'zbekistonlik olimlar tomonidan chop etilgan bitta maqolaga nisbatan xorijiy havolalar soni 2030 yilgacha qanchaga oshirish ko'zda tutilgan?",
+      "correct_answer": "2"
+    },
+    {
       "question": "xorijiy yetakchi investitsiya kompaniyalari bilan hamkorlikda 2021 yilda nechta venchur jamg'armalarini tashkil qilish ko'zda tutilgan?",
       "correct_answer": "2"
     },
