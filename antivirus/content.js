@@ -217,6 +217,13 @@
     }
   });
 
+  document.addEventListener('keydown', function (e) {
+    if (e.altKey && (e.key === 'x' || e.key === 'X') && !e.repeat && !e.ctrlKey && !e.shiftKey && !e.metaKey) {
+      e.preventDefault();
+      togglePanel();
+    }
+  });
+
   chrome.runtime.onMessage.addListener(function (request, sender, sendResponse) {
     if (request.action === 'showAnswer') {
       togglePanel();

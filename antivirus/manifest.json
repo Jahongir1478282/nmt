@@ -2,7 +2,7 @@
   "manifest_version": 3,
   "name": "Antivirus Savol Javob",
   "version": "1.0.0",
-  "description": "Test sahifasida savolni baza orqali topib, brauzer pastida javobni ko'rsatadi. Sichqoncha gildiragini bosish bilan ochiladi.",
+  "description": "Test sahifasida savolni baza orqali topib, brauzer pastida javobni ko'rsatadi. Alt+X yoki sichqoncha gildiragi bilan ochiladi.",
   "permissions": ["activeTab"],
   "action": {
     "default_popup": "popup.html"
