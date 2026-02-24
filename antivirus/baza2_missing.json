@@ -1,0 +1,20 @@
+{
+  "questions": [
+    {
+      "question": "Oliy ta'lim tizimida korrupsiyaga qarshi kurashishish tizimini takomillashtirish bo'yicha 30.08.2019 y. da tasdiqlangan \"Yo'l xaritasi\"ning \"V. Oliy ta'lim muassasalari faoliyatini takomillashtirish\" yo'nalishidagi bandni ko'rsating.",
+      "correct_answer": "Oliy o'quv yurtidan keyingi ta'lim tizimining monitoringini raqamlashtirish"
+    },
+    {
+      "question": "Oliy ta'lim tizimida korrupsiyaga qarshi kurashishish tizimini takomillashtirish bo'yicha 30.08.2019 y. da tasdiqlangan \"Yo'l xaritasi\"ning \"V. Oliy ta'lim muassasalari faoliyatini takomillashtirish\" yo'nalishidagi bandni ko'rsating.",
+      "correct_answer": "Oliy ta'lim tizimini bosqichma-bosqich raqamlashtirish"
+    },
+    {
+      "question": "O'zR OO'MTV ning 09.08.2018 y. dagi 19-2018-sonli buyrug'iga ilova qilingan \"Oliy ta'lim muassasalarida talabalar bilimini nazorat qilish baholash tizimi to'g'risidagi nizom\" ilovasiga ko'ra fanni necha foizga o'zlashtirgan talabaga \"qoniqarli\" baho qo'yiladi?",
+      "correct_answer": "60...69,9 %"
+    },
+    {
+      "question": "O'zR OO'MTV ning 09.08.2018 y. dagi 19-2018-sonli buyrug'iga ilova qilingan \"Oliy ta'lim muassasalarida talabalar bilimini nazorat qilish baholash tizimi to'g'risidagi nizom\" ilovasiga ko'ra fanni necha foizga o'zlashtirgan talabaga \"yaxshi\" baho qo'yiladi?",
+      "correct_answer": "70...89,9 %"
+    }
+  ]
+}
