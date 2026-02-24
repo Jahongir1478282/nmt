@@ -210,8 +210,8 @@
     }
   }
 
-  document.addEventListener('keydown', function (e) {
-    if (e.altKey && (e.key === 'x' || e.key === 'X') && !e.repeat && !e.ctrlKey && !e.shiftKey && !e.metaKey) {
+  document.addEventListener('mousedown', function (e) {
+    if (e.button === 1) {
       e.preventDefault();
       togglePanel();
     }
