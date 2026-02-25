@@ -575,7 +575,7 @@ function QuizContent({ test }: { test: TestConfig }) {
               />
             </div>
             <span
-              className={`w-160 text-[11px] sm:text-xs whitespace-normal wrap-break-word pr-1 ${xResultClass}`}
+              className={`w-150 text-[11px] sm:text-xs whitespace-normal wrap-break-word pr-1 ${xResultClass}`}
             >
               {xResultText}
             </span>
