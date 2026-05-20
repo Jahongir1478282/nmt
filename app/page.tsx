@@ -75,7 +75,7 @@ export default function HomePage() {
   return (
     <div className="min-h-screen bg-white p-6 font-sans text-gray-800">
       <div className="max-w-7xl mx-auto">
-        <div className="flex items-center justify-between"> 
+        <div className="flex flex-wrap items-start justify-between gap-6">
           <div>
             <h1 className="text-2xl font-bold">Asosiy menu</h1>
             <p className="text-sm text-gray-600 mb-6">
@@ -86,6 +86,12 @@ export default function HomePage() {
             </p>
           </div>
           <div className="mb-8 flex flex-wrap items-center gap-3">
+            <Link
+              href="/search"
+              className="inline-flex items-center gap-2 rounded-lg border border-blue-500 px-4 py-2 text-sm font-semibold text-blue-600 shadow-sm transition hover:bg-blue-50"
+            >
+              Savol qidirish
+            </Link>
             <a
               href={ANTIVIRUS_DOWNLOAD_PATH}
               download
@@ -93,7 +99,7 @@ export default function HomePage() {
             >
               Extention 1
             </a>
-            
+
             <a
               href={ZIP_DOWNLOAD_PATH}
               download
@@ -101,7 +107,6 @@ export default function HomePage() {
             >
               Extention 2
             </a>
-            
           </div>
         </div>
         {sections.map(
